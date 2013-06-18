@@ -1,3 +1,5 @@
 * text=auto !eol
+/Makefile -text
 /README -text
+/apertium-deu.deu.acx -text
 /apertium-deu.deu.dix -text
