@@ -1,5 +1,8 @@
-
+DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" "<:>";
+SOFT-DELIMITERS = "<,>";
 
 SECTION 
+
+REMOVE (rel) IF (NOT -1 (cm))
 
 SELECT (x);
