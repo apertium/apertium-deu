@@ -1,8 +1,23 @@
 DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" "<:>";
 SOFT-DELIMITERS = "<,>";
 
+SETS
+
+LIST BOS = (>>>) (sent);
+LIST EOS = (<<<) (sent);
+
 SECTION 
 
 REMOVE (rel) IF (NOT -1 (cm))
+
+REMOVE (vblex) IF (0 (n)) (-1 (det))
+
+REMOVE ("hast"i n) IF (1 (prn pers p2))
+
+SELECT (prn pers p3 sg) IF (1 (vblex p3 sg))
+SELECT (vblex p3 sg) IF (-1 (prn pers p3 sg))
+
+REMOVE (det def) IF (1 EOS)
+REMOVE (det ind) IF (1 EOS)
 
 SELECT (x);
