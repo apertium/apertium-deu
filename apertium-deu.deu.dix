@@ -372,6 +372,7 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="/Aas__n_m">
   <e>       <p><l>Aasen</l>     <r>Aas<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -387,6 +388,7 @@
   <e>       <p><l>Äser</l>      <r>Aas<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
   <e>       <p><l>Äser</l>      <r>Aas<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
   <e>       <p><l>Äser</l>      <r>Aas<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>Aas</l>       <r>Aas<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Abbau__n_m">
   <e>       <p><l>e</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
@@ -399,6 +401,7 @@
   <e>       <p><l>ten</l>       <r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>ten</l>       <r><s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
   <e>       <p><l>ten</l>       <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Abbild__n_nt">
   <e>       <p><l>ern</l>       <r><s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -411,6 +414,7 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Abbr/uch__n_m">
   <e>       <p><l>üchen</l>     <r>uch<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -423,6 +427,7 @@
   <e>       <p><l>uch</l>       <r>uch<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>uch</l>       <r>uch<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>uchs</l>      <r>uch<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>uch</l>       <r>uch<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Abc__n_nt">
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -451,6 +456,7 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Abenteuer__n_nt">
   <e>       <p><l>n</l>         <r><s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -461,6 +467,7 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Abenteurer__n_m">
   <e>       <p><l>n</l>         <r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -480,6 +487,7 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Abf/all__n_m">
   <e>       <p><l>ällen</l>     <r>all<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -492,31 +500,32 @@
   <e>       <p><l>all</l>       <r>all<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>all</l>       <r>all<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>alls</l>      <r>all<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>all</l>       <r>all<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
-<pardef n="Abfl/uss__n_m">
+<pardef n="Abfl/uss__n_m"><!-- FIXME -->
   <e>       <p><l>üssen</l>     <r>uss<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>üsse</l>      <r>uss<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
   <e>       <p><l>üsse</l>      <r>uss<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
   <e>       <p><l>üsse</l>      <r>uss<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
 </pardef>
-<pardef n="Abfl/uß__n_m">
+<pardef n="Abfl/uß__n_m"><!-- FIXME -->
   <e>       <p><l>üssen</l>     <r>uß<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>üsse</l>      <r>uß<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
   <e>       <p><l>üsse</l>      <r>uß<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
   <e>       <p><l>üsse</l>      <r>uß<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
 </pardef>
-<pardef n="Abfluss__n_m">
+<pardef n="Abfluss__n_m"><!-- FIXME -->
   <e>       <p><l>e</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>es</l>        <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
 </pardef>
-<pardef n="Abflu/ß__n_m">
+<pardef n="Abflu/ß__n_m"><!-- FIXME -->
   <e>       <p><l>sse</l>       <r>ß<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>sses</l>      <r>ß<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
 </pardef>
-<pardef n="Abfluß__n_m">
+<pardef n="Abfluß__n_m"><!-- FIXME -->
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
@@ -530,6 +539,7 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="f"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Abfuhr__n_f">
   <e>       <p><l>en</l>        <r><s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -540,6 +550,7 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="f"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Ahnung__n_f">
   <e>       <p><l>en</l>        <r><s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
@@ -574,6 +585,7 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Abgr/und__n_m">
   <e>       <p><l>ünden</l>     <r>und<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -602,12 +614,14 @@
   <e>       <p><l>s</l>         <r><s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Abitur__n_nt">
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Abiturient__n_m">
   <e>       <p><l>en</l>        <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -618,6 +632,7 @@
   <e>       <p><l>en</l>        <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>en</l>        <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>en</l>        <r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Abkommen__n_nt">
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -640,6 +655,7 @@
   <e>       <p><l>auf</l>       <r>auf<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>auf</l>       <r>auf<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>aufs</l>      <r>auf<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>auf</l>       <r>auf<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Abl/uft__n_f">
   <e>       <p><l>üften</l>     <r>uft<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -650,6 +666,7 @@
   <e>       <p><l>uft</l>       <r>uft<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>uft</l>       <r>uft<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>uft</l>       <r>uft<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>uft</l>       <r>uft<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Abriss__n_m">
   <e>       <p><l>en</l>        <r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -661,6 +678,7 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Abri/ß__n_m">
   <e>       <p><l>ssen</l>      <r>ß<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -680,6 +698,7 @@
   <e>       <p><l>atz</l>       <r>atz<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>atz</l>       <r>atz<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>atz</l>       <r>atz<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>atz</l>       <r>atz<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Absch/uss__n_m">
   <e>       <p><l>üssen</l>     <r>uss<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -691,6 +710,7 @@
   <e>       <p><l>uss</l>       <r>uss<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>uss</l>       <r>uss<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>uss</l>       <r>uss<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>uss</l>       <r>uss<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Abspr/ung__n_m">
   <e>       <p><l>üngen</l>     <r>ung<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -703,6 +723,7 @@
   <e>       <p><l>ung</l>       <r>ung<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>ung</l>       <r>ung<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ungs</l>      <r>ung<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>ung</l>       <r>ung<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Abst/and__n_m">
   <e>       <p><l>änden</l>     <r>and<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -747,6 +768,7 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Abw/asser__n_nt">
   <e>       <p><l>ässern</l>    <r>asser<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -757,6 +779,7 @@
   <e>       <p><l>asser</l>     <r>asser<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>asser</l>     <r>asser<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>assers</l>    <r>asser<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>asser</l>     <r>asser<s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Abw/urf__n_m">
   <e>       <p><l>ürfen</l>     <r>urf<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -791,6 +814,7 @@
   <e>       <p><l>Acker</l>     <r>Acker<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>Acker</l>     <r>Acker<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>Ackers</l>    <r>Acker<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>Acker</l>     <r>Acker<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Aderl/ass__n_m">
   <e>       <p><l>ässen</l>     <r>ass<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -813,6 +837,7 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Admir/al__n_m">
   <e>       <p><l>älen</l>      <r>al<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -845,6 +870,7 @@
   <e>       <p><l>n</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>n</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>n</l>         <r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Affront__n_m">
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -887,6 +913,7 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Aggressor__n_m">
   <e>       <p><l>en</l>        <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -910,6 +937,7 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Albtr/aum__n_m">
   <e>       <p><l>äumen</l>     <r>aum<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -922,6 +950,7 @@
   <e>       <p><l>aum</l>       <r>aum<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>aum</l>       <r>aum<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>aums</l>      <r>aum<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>aum</l>       <r>aum<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Alb/um__n_nt">
   <e>       <p><l>en</l>        <r>um<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -973,6 +1002,7 @@
   <e>       <p><l>ar</l>        <r>ar<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>ar</l>        <r>ar<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ars</l>       <r>ar<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>ar</l>        <r>ar<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Altert/um__n_nt">
   <e>       <p><l>ümern</l>     <r>um<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -985,6 +1015,7 @@
   <e>       <p><l>um</l>        <r>um<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>um</l>        <r>um<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ums</l>       <r>um<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>ums</l>       <r>um<s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Amm/ann__n_m">
   <e>       <p><l>ännern</l>    <r>ann<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -1009,6 +1040,7 @@
   <e>       <p><l>Amt</l>       <r>Amt<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>Amt</l>       <r>Amt<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>Amts</l>      <r>Amt<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>Amts</l>      <r>Amt<s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Anan/as__n_f">
   <e>       <p><l>ässen</l>     <r>as<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -1084,6 +1116,7 @@
   <e>       <p><l>alt</l>       <r>alt<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>alt</l>       <r>alt<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>alts</l>      <r>alt<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>alts</l>      <r>alt<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="/Apfel__n_m">
   <e>       <p><l>Äpfeln</l>    <r>Apfel<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -1094,6 +1127,7 @@
   <e>       <p><l>Apfel</l>     <r>Apfel<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>Apfel</l>     <r>Apfel<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>Apfels</l>    <r>Apfel<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>Apfel</l>     <r>Apfel<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Är/a__n_f">
   <e>       <p><l>en</l>        <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -1110,6 +1144,7 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Arbeits/amt__n_nt">
   <e>       <p><l>ämtern</l>    <r>amt<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -1132,6 +1167,7 @@
   <e>       <p><l>aft</l>       <r>aft<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>aft</l>       <r>aft<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>aft</l>       <r>aft<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>aft</l>       <r>aft<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Arbeitsm/arkt__n_m">
   <e>       <p><l>ärkten</l>    <r>arkt<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -1144,6 +1180,7 @@
   <e>       <p><l>arkt</l>      <r>arkt<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>arkt</l>      <r>arkt<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>arkts</l>     <r>arkt<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>arkt</l>      <r>arkt<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Ärgernis__n_nt">
   <e>       <p><l>sen</l>       <r><s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -1177,6 +1214,7 @@
   <e>       <p><l>Arsch</l>     <r>Arsch<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>Arsch</l>     <r>Arsch<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>Arschs</l>    <r>Arsch<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>Arsch</l>     <r>Arsch<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="/Arzt__n_m">
   <e>       <p><l>Ärzten</l>    <r>Arzt<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -1189,6 +1227,7 @@
   <e>       <p><l>Arzt</l>      <r>Arzt<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>Arzt</l>      <r>Arzt<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>Arzts</l>     <r>Arzt<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>Arzt</l>      <r>Arzt<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Ärztin__n_f">
   <e>       <p><l>nen</l>       <r><s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -1211,6 +1250,7 @@
   <e>       <p><l>Ast</l>       <r>Ast<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>Ast</l>       <r>Ast<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>Asts</l>      <r>Ast<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>Ast</l>       <r>Ast<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Atla/s__n_m">
   <e>       <p><l>nten</l>      <r>s<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -1239,6 +1279,7 @@
   <e>       <p><l>arsch</l>     <r>arsch<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>arsch</l>     <r>arsch<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>arschs</l>    <r>arsch<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>arsch</l>     <r>arsch<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Aufsichtsr/at__n_m">
   <e>       <p><l>äten</l>      <r>at<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -1272,7 +1313,7 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
 </pardef>
-<pardef n="Ausdr/uck__n_m">
+<pardef n="Ausdr/uck__n_m"><!-- FIXME -->
   <e>       <p><l>ucken</l>     <r>uck<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
   <e r="LR"><p><l>ücken</l>     <r>uck<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>ucke</l>      <r>uck<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -1370,6 +1411,7 @@
   <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Bambini__n_nt">
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -1397,7 +1439,7 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
 </pardef>
-<pardef n="B/ank__n_f">
+<pardef n="B/ank__n_f"><!-- FIXME -->
   <e>       <p><l>anken</l>     <r>ank<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
   <e>       <p><l>anken</l>     <r>ank<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
   <e r="LR"><p><l>änken</l>     <r>ank<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -1432,6 +1474,8 @@
   <e>       <p><l>is</l>        <r>is<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>is</l>        <r>is<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>is</l>        <r>is<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>en</l>        <r>is<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="cmp-L"/></e>
+  <e>       <p><l>is</l>        <r>is<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Bass/o__n_m">
   <e>       <p><l>i</l>         <r>o<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -1454,6 +1498,7 @@
   <e>       <p><l>auch</l>      <r>auch<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>auch</l>      <r>auch<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e r="LR"><p><l>auchs</l>     <r>auch<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>auch</l>      <r>auch<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Baumbl/att__n_m">
   <e>       <p><l>ättern</l>    <r>att<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -1488,6 +1533,7 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="f"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Bel__n_nt">
   <e>       <p><l>n</l>         <r><s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -1523,6 +1569,7 @@
   <e>       <p><l>of</l>        <r>of<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>of</l>        <r>of<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ofs</l>       <r>of<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>ofs</l>       <r>of<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Bl/att__n_nt">
   <e>       <p><l>ättern</l>    <r>att<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -1535,6 +1582,7 @@
   <e>       <p><l>att</l>       <r>att<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>att</l>       <r>att<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>atts</l>      <r>att<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>att</l>       <r>att<s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Bl/och__n_m">
   <e>       <p><l>öchern</l>    <r>och<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -1559,6 +1607,7 @@
   <e>       <p><l>ock</l>       <r>ock<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>ock</l>       <r>ock<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ocks</l>      <r>ock<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>ock</l>       <r>ock<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="B/oden__n_m">
   <e>       <p><l>öden</l>      <r>oden<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -1569,6 +1618,7 @@
   <e>       <p><l>oden</l>      <r>oden<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>oden</l>      <r>oden<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>odens</l>     <r>oden<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>oden</l>      <r>oden<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="B/ogen__n_m">
   <e>       <p><l>ögen</l>      <r>ogen<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -1579,6 +1629,7 @@
   <e>       <p><l>ogen</l>      <r>ogen<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>ogen</l>      <r>ogen<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ogens</l>     <r>ogen<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>ogen</l>      <r>ogen<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Böller__n_m">
   <e>       <p><l>n</l>         <r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -1601,6 +1652,7 @@
   <e>       <p><l>aut</l>       <r>aut<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>aut</l>       <r>aut<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>aut</l>       <r>aut<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>aut</l>       <r>aut<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Bronchiti/s__n_f">
   <e>       <p><l>den</l>       <r>s<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -1621,6 +1673,7 @@
   <e>       <p><l>uder</l>      <r>uder<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>uder</l>      <r>uder<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>uders</l>     <r>uder<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>uder</l>      <r>uder<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Br/unst__n_f">
   <e>       <p><l>ünsten</l>    <r>unst<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -1631,6 +1684,7 @@
   <e>       <p><l>unst</l>      <r>unst<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>unst</l>      <r>unst<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>unst</l>      <r>unst<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>unst</l>      <r>unst<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Br/ust__n_f">
   <e>       <p><l>üsten</l>     <r>ust<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -1641,6 +1695,7 @@
   <e>       <p><l>ust</l>       <r>ust<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>ust</l>       <r>ust<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>ust</l>       <r>ust<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>ust</l>       <r>ust<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="B/uch__n_nt">
   <e>       <p><l>üchern</l>    <r>uch<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -1653,6 +1708,8 @@
   <e>       <p><l>uch</l>       <r>uch<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>uch</l>       <r>uch<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>uchs</l>      <r>uch<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>uch</l>       <r>uch<s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
+  <e>       <p><l>ücher</l>     <r>uch<s n="n"/><s n="nt"/><s n="pl"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Buchstabe__n_m">
   <e>       <p><l>n</l>         <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -1663,6 +1720,7 @@
   <e>       <p><l>n</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>ns</l>        <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>n</l>         <r><s n="n"/><s n="m"/><s n="pl"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="B/ug__n_m">
   <e>       <p><l>ugen</l>      <r>ug<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -1720,7 +1778,7 @@
   <e>       <p><l>usch</l>      <r>usch<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>uschs</l>     <r>usch<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
 </pardef>
-<pardef n="Busine/ß__n_nt">
+<pardef n="Busine/ß__n_nt"><!-- FIXME -->
   <e>       <p><l>ssen</l>      <r>ß<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>sse</l>       <r>ß<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
   <e>       <p><l>sse</l>       <r>ß<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
@@ -1730,14 +1788,14 @@
   <e>       <p><l>sses</l>      <r>ß<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
   <e r="LR"><p><l>ßes</l>       <r>ß<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
 </pardef>
-<pardef n="Business__n_nt">
+<pardef n="Business__n_nt"><!-- FIXME -->
   <e>       <p><l>e</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>es</l>        <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
 </pardef>
-<pardef n="Busineß__n_nt">
+<pardef n="Busineß__n_nt"><!-- FIXME -->
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
@@ -1752,6 +1810,7 @@
   <e>       <p><l>ass</l>       <r>ass<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>ass</l>       <r>ass<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>ass</l>       <r>ass<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>ass</l>       <r>ass<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Camp/us__n_m">
   <e>       <p><l>i</l>         <r>us<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -1763,6 +1822,7 @@
   <e>       <p><l>us</l>        <r>us<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>us</l>        <r>us<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>us</l>        <r>us<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>us</l>        <r>us<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Causa__n_f">
   <e>       <p><l>en</l>        <r><s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -1783,6 +1843,7 @@
   <e>       <p><l>o</l>         <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>o</l>         <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>os</l>        <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>o</l>         <r>o<s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Cembal/o__n_nt">
   <e>       <p><l>i</l>         <r>o<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -1793,6 +1854,7 @@
   <e>       <p><l>o</l>         <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>o</l>         <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>o</l>         <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>o</l>         <r>o<s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Center__n_nt">
   <e>       <p><l>n</l>         <r><s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -1848,6 +1910,7 @@
   <e>       <p><l>or</l>        <r>or<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>or</l>        <r>or<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ors</l>       <r>or<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>or</l>        <r>or<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Chromosom__n_nt">
   <e>       <p><l>en</l>        <r><s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -1874,6 +1937,7 @@
   <e>       <p><l>ices</l>      <r>ex<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>ices</l>      <r>ex<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
   <e>       <p><l>ices</l>      <r>ex<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>ex</l>        <r>ex<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Comic__n_m">
   <e>       <p><l>e</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
@@ -1886,6 +1950,7 @@
   <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Cont/e__n_m">
   <e>       <p><l>i</l>         <r>e<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -1908,6 +1973,7 @@
   <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Cordh/ut__n_m">
   <e>       <p><l>üten</l>      <r>ut<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -1920,6 +1986,7 @@
   <e>       <p><l>ut</l>        <r>ut<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>ut</l>        <r>ut<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>uts</l>       <r>ut<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>ut</l>        <r>ut<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Corp/us__n_nt">
   <e>       <p><l>ora</l>       <r>us<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -1930,6 +1997,7 @@
   <e>       <p><l>us</l>        <r>us<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>us</l>        <r>us<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>us</l>        <r>us<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>us</l>        <r>us<s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Coupe__n_f">
   <e>       <p><l>n</l>         <r><s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -1944,6 +2012,7 @@
   <e>       <p><l>s</l>         <r><s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
 </pardef>
 <pardef n="Coupe__n_m">
   <e>       <p><l>n</l>         <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -1981,6 +2050,7 @@
   <e>       <p><l>ach</l>       <r>ach<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>ach</l>       <r>ach<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>achs</l>      <r>ach<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>ach</l>       <r>ach<s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="D/amm__n_m">
   <e>       <p><l>ämmen</l>     <r>amm<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -1993,6 +2063,7 @@
   <e>       <p><l>amm</l>       <r>amm<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>amm</l>       <r>amm<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>amms</l>      <r>amm<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>amm</l>       <r>amm<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="D/ampf__n_m">
   <e>       <p><l>ämpfen</l>    <r>ampf<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -2005,6 +2076,7 @@
   <e>       <p><l>ampf</l>      <r>ampf<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>ampf</l>      <r>ampf<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ampfs</l>     <r>ampf<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>ampf</l>      <r>ampf<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="D/arm__n_m">
   <e>       <p><l>ärmen</l>     <r>arm<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -2017,6 +2089,7 @@
   <e>       <p><l>arm</l>       <r>arm<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>arm</l>       <r>arm<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>arms</l>      <r>arm<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>arm</l>       <r>arm<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Deka__n_nt">
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -2050,6 +2123,7 @@
   <e>       <p><l>al</l>        <r>al<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>al</l>        <r>al<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>als</l>       <r>al<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>al</l>        <r>al<s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Deutsch__n_nt">
   <e>       <p><l>en</l>        <r><s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -2071,6 +2145,7 @@
   <e>       <p><l>ahl</l>       <r>ahl<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>ahl</l>       <r>ahl<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ahls</l>      <r>ahl<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>ahl</l>       <r>ahl<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Ding__n_m">
   <e>       <p><l>en</l>        <r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -2145,6 +2220,7 @@
   <e>       <p><l>orf</l>       <r>orf<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>orf</l>       <r>orf<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>orfs</l>      <r>orf<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>orf</l>       <r>orf<s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Dr/aht__n_m">
   <e>       <p><l>ähten</l>     <r>aht<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -2157,6 +2233,7 @@
   <e>       <p><l>aht</l>       <r>aht<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>aht</l>       <r>aht<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ahts</l>      <r>aht<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>aht</l>       <r>aht<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Dritten__n_m">
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -2175,6 +2252,7 @@
   <e>       <p><l>uft</l>       <r>uft<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>uft</l>       <r>uft<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ufts</l>      <r>uft<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>uft</l>       <r>uft<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="D/unst__n_m">
   <e>       <p><l>ünsten</l>    <r>unst<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -2187,6 +2265,7 @@
   <e>       <p><l>unst</l>      <r>unst<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>unst</l>      <r>unst<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>unsts</l>     <r>unst<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>unst</l>      <r>unst<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Ecu__n_m">
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -2251,7 +2330,7 @@
   <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
 </pardef>
-<pardef n="Entschl/uss__n_m">
+<pardef n="Entschl/uss__n_m"><!-- FIXME -->
   <e>       <p><l>üssen</l>     <r>uss<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>üßen</l>      <r>uss<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>üsse</l>      <r>uss<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -2262,7 +2341,7 @@
   <e>       <p><l>üße</l>       <r>uss<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>usse</l>      <r>uss<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
 </pardef>
-<pardef n="Entschlu/ss__n_m">
+<pardef n="Entschlu/ss__n_m"><!-- FIXME -->
   <e>       <p><l>ße</l>        <r>ss<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>sses</l>      <r>ss<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>ßes</l>       <r>ss<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
@@ -2318,6 +2397,7 @@
   <e>       <p><l>os</l>        <r>o<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
   <e>       <p><l>os</l>        <r>o<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>os</l>        <r>o<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>o</l>         <r>o<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Etwas__n_nt">
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -2358,6 +2438,7 @@
   <e>       <p><l>aden</l>      <r>aden<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>aden</l>      <r>aden<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>adens</l>     <r>aden<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>aden</l>      <r>aden<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="F/ass__n_nt">
   <e>       <p><l>ässern</l>    <r>ass<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -2416,6 +2497,7 @@
   <e>       <p><l>oh</l>        <r>oh<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>oh</l>        <r>oh<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ohs</l>       <r>oh<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>oh</l>        <r>oh<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Fl/oß__n_nt">
   <e>       <p><l>ößen</l>      <r>oß<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -2437,6 +2519,7 @@
   <e>       <p><l>afen</l>      <r>afen<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>afen</l>      <r>afen<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>afens</l>     <r>afen<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>afen</l>      <r>afen<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Forint__n_m">
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -2503,6 +2586,7 @@
   <e>       <p><l>ucht</l>      <r>ucht<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>ucht</l>      <r>ucht<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>ucht</l>      <r>ucht<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>ucht</l>      <r>ucht<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Fußb/all__n_m">
   <e>       <p><l>ällen</l>     <r>all<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -2513,6 +2597,7 @@
   <e>       <p><l>all</l>       <r>all<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>all</l>       <r>all<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>alls</l>      <r>all<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>all</l>       <r>all<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="F/uß__n_m">
   <e>       <p><l>üßen</l>      <r>uß<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -2524,6 +2609,7 @@
   <e>       <p><l>uß</l>        <r>uß<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>uß</l>        <r>uß<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>uß</l>        <r>uß<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>uß</l>        <r>uß<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="G/ang__n_m">
   <e>       <p><l>ängen</l>     <r>ang<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -2558,6 +2644,7 @@
   <e>       <p><l>arten</l>     <r>arten<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>arten</l>     <r>arten<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>artens</l>    <r>arten<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>arten</l>     <r>arten<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Garteng/ott__n_m">
   <e>       <p><l>öttern</l>    <r>ott<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -2783,6 +2870,7 @@
   <e>       <p><l>ater</l>      <r>ater<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>ater</l>      <r>ater<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>aters</l>     <r>ater<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>ater</l>      <r>ater<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="G/ut__n_nt">
   <e>       <p><l>ütern</l>     <r>ut<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -2812,6 +2900,7 @@
   <e>       <p><l>als</l>       <r>als<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>als</l>       <r>als<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>als</l>       <r>als<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>als</l>       <r>als<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="H/ammer__n_m">
   <e>       <p><l>ämmern</l>    <r>ammer<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -2822,6 +2911,7 @@
   <e>       <p><l>ammer</l>     <r>ammer<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>ammer</l>     <r>ammer<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ammers</l>    <r>ammer<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>ammer</l>     <r>ammer<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="H/andel__n_m">
   <e>       <p><l>ändeln</l>    <r>andel<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -2832,6 +2922,7 @@
   <e>       <p><l>andel</l>     <r>andel<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>andel</l>     <r>andel<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>andels</l>    <r>andel<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>andels</l>    <r>andel<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="H/and__n_f">
   <e>       <p><l>änden</l>     <r>and<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -2842,6 +2933,7 @@
   <e>       <p><l>and</l>       <r>and<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>and</l>       <r>and<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>and</l>       <r>and<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>and</l>       <r>and<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Hand/ling__n_nt">
   <e>       <p><l>ing</l>       <r>ling<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -2877,6 +2969,7 @@
   <e>       <p><l>adt</l>       <r>adt<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>adt</l>       <r>adt<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>adt</l>       <r>adt<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>adt</l>       <r>adt<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="H/aus__n_nt">
   <e>       <p><l>äusern</l>    <r>aus<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -2931,6 +3024,7 @@
   <e>       <p><l>olz</l>       <r>olz<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>olz</l>       <r>olz<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>olz</l>       <r>olz<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>olz</l>       <r>olz<s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Hörs/aal__n_m">
   <e>       <p><l>aale</l>      <r>aal<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
@@ -2943,6 +3037,7 @@
   <e>       <p><l>äle</l>       <r>aal<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>äle</l>       <r>aal<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
   <e>       <p><l>äle</l>       <r>aal<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>aal</l>       <r>aal<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Hospit/al__n_nt">
   <e>       <p><l>alen</l>      <r>al<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -2983,6 +3078,7 @@
   <e>       <p><l>uhn</l>       <r>uhn<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>uhn</l>       <r>uhn<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>uhns</l>      <r>uhn<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>ühner</l>     <r>uhn<s n="n"/><s n="nt"/><s n="pl"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Indiz__n_nt">
   <e>       <p><l>e</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
@@ -3504,6 +3600,7 @@
   <e>       <p><l>och</l>       <r>och<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>och</l>       <r>och<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ochs</l>      <r>och<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>och</l>       <r>och<s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Logo/s__n_m">
   <e>       <p><l>i</l>         <r>s<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -3526,6 +3623,7 @@
   <e>       <p><l>ohn</l>       <r>ohn<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>ohn</l>       <r>ohn<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ohns</l>      <r>ohn<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>ohn</l>       <r>ohn<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="M/acht__n_f">
   <e>       <p><l>ächten</l>    <r>acht<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -3536,6 +3634,8 @@
   <e>       <p><l>acht</l>      <r>acht<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>acht</l>      <r>acht<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>acht</l>      <r>acht<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>acht</l>      <r>acht<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="cmp-L"/></e>
+  <e>       <p><l>ächte</l>     <r>acht<s n="n"/><s n="f"/><s n="pl"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Machtw/ort__n_nt">
   <e>       <p><l>orten</l>     <r>ort<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -3601,6 +3701,7 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="M/angel__n_f">
   <e>       <p><l>angeln</l>    <r>angel<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -3615,6 +3716,7 @@
   <e>       <p><l>angel</l>     <r>angel<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>angel</l>     <r>angel<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>angel</l>     <r>angel<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>angel</l>     <r>angel<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="cml-L"/></e>
 </pardef>
 <pardef n="M/antel__n_m">
   <e>       <p><l>änteln</l>    <r>antel<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -3625,8 +3727,9 @@
   <e>       <p><l>antel</l>     <r>antel<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>antel</l>     <r>antel<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>antels</l>    <r>antel<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>antel</l>     <r>antel<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
-<pardef n="Mark__n_f">
+<pardef n="Mark__n_f"><!-- FIXME -->
   <e>       <p><l>en</l>        <r><s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
   <e>       <p><l>en</l>        <r><s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>en</l>        <r><s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
@@ -3718,6 +3821,7 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Missst/and__n_m">
   <e>       <p><l>änden</l>     <r>and<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -3776,6 +3880,7 @@
   <e>       <p><l>und</l>       <r>und<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>und</l>       <r>und<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>unds</l>      <r>und<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>und</l>       <r>und<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Muni__n_m">
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -3800,6 +3905,7 @@
   <e>       <p><l>utter</l>     <r>utter<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>utter</l>     <r>utter<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>utter</l>     <r>utter<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>utter</l>     <r>utter<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Myth/os__n_m">
   <e>       <p><l>en</l>        <r>os<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -3825,6 +3931,7 @@
   <e>       <p><l>agel</l>      <r>agel<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>agel</l>      <r>agel<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>agels</l>     <r>agel<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>agel</l>      <r>agel<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="N/aht__n_f">
   <e>       <p><l>ähten</l>     <r>aht<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -3835,6 +3942,7 @@
   <e>       <p><l>aht</l>       <r>aht<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>aht</l>       <r>aht<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>aht</l>       <r>aht<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>aht</l>       <r>aht<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="N/ot__n_f">
   <e>       <p><l>öten</l>      <r>ot<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -3845,14 +3953,15 @@
   <e>       <p><l>ot</l>        <r>ot<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>ot</l>        <r>ot<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>ot</l>        <r>ot<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>ot</l>        <r>ot<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
-<pardef n="N/uss__n_f">
+<pardef n="N/uss__n_f"><!-- FIXME -->
   <e>       <p><l>üssen</l>     <r>uss<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>üsse</l>      <r>uss<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
   <e>       <p><l>üsse</l>      <r>uss<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
   <e>       <p><l>üsse</l>      <r>uss<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
 </pardef>
-<pardef n="N/uß__n_f">
+<pardef n="N/uß__n_f"><!-- FIXME -->
   <e>       <p><l>üssen</l>     <r>uß<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>üsse</l>      <r>uß<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
   <e>       <p><l>üsse</l>      <r>uß<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
@@ -3889,6 +3998,7 @@
   <e>       <p><l>apst</l>      <r>apst<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>apst</l>      <r>apst<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>apsts</l>     <r>apst<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>apst</l>      <r>apst<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Paradigm/a__n_nt">
   <e>       <p><l>a</l>         <r>a<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -3903,6 +4013,7 @@
   <e>       <p><l>en</l>        <r>a<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>en</l>        <r>a<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
   <e>       <p><l>en</l>        <r>a<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>en</l>        <r>a<s n="n"/><s n="nt"/><s n="pl"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Partikel__n_nt">
   <e>       <p><l>n</l>         <r><s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -3918,6 +4029,7 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Passw/ort__n_nt">
   <e>       <p><l>örtern</l>    <r>ort<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -3930,6 +4042,7 @@
   <e>       <p><l>ort</l>       <r>ort<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>ort</l>       <r>ort<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>orts</l>      <r>ort<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>ort</l>       <r>ort<s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Pat/er__n_m">
   <e>       <p><l>ere</l>       <r>er<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
@@ -3943,7 +4056,7 @@
   <e>       <p><l>res</l>       <r>er<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
   <e>       <p><l>res</l>       <r>er<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
 </pardef>
-<pardef n="Pen/ny__n_nt">
+<pardef n="Pen/ny__n_nt"><!-- FIXME -->
   <e>       <p><l>ce</l>        <r>ny<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
   <e>       <p><l>ce</l>        <r>ny<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>ce</l>        <r>ny<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
@@ -3999,6 +4112,7 @@
   <e>       <p><l>an</l>        <r>an<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>an</l>        <r>an<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ans</l>       <r>an<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>an</l>        <r>an<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Plas/tik__n_nt">
   <e>       <p><l>stik</l>      <r>tik<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -4045,13 +4159,13 @@
   <e>       <p><l>ides</l>      <r>es<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
   <e>       <p><l>ides</l>      <r>es<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
 </pardef>
-<pardef n="R/ank__n_m">
+<pardef n="R/ank__n_m"><!-- FIXME -->
   <e>       <p><l>änken</l>     <r>ank<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>änke</l>      <r>ank<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
   <e>       <p><l>änke</l>      <r>ank<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
   <e>       <p><l>änke</l>      <r>ank<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
 </pardef>
-<pardef n="R/aum__n_m">
+<pardef n="R/aum__n_m"><!-- FIXME -->
   <e>       <p><l>äumen</l>     <r>aum<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>äume</l>      <r>aum<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
   <e>       <p><l>äume</l>      <r>aum<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
@@ -4083,6 +4197,7 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Ren__n_nt">
   <e>       <p><l>e</l>         <r><s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -4132,7 +4247,7 @@
   <e>       <p><l>x</l>         <r>x<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>x</l>         <r>x<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
 </pardef>
-<pardef n="Ris/iko__n_nt">
+<pardef n="Ris/iko__n_nt"><!-- FIXME -->
   <e>       <p><l>iken</l>      <r>iko<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
   <e>       <p><l>iken</l>      <r>iko<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>iken</l>      <r>iko<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
@@ -4165,6 +4280,7 @@
   <e>       <p><l>ocks</l>      <r>ock<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
   <e>       <p><l>ocks</l>      <r>ock<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>ocks</l>      <r>ock<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>ock</l>       <r>ock<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Rollst/uhl__n_m">
   <e>       <p><l>ühlen</l>     <r>uhl<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -4175,6 +4291,7 @@
   <e>       <p><l>uhl</l>       <r>uhl<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>uhl</l>       <r>uhl<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>uhls</l>      <r>uhl<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>uhl</l>       <r>uhl<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Rowd/y__n_m">
   <e>       <p><l>ies</l>       <r>y<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -4209,6 +4326,7 @@
   <e>       <p><l>ack</l>       <r>ack<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>ack</l>       <r>ack<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>acks</l>      <r>ack<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>ack</l>       <r>ack<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="R/umpf__n_m">
   <e>       <p><l>ümpfen</l>    <r>umpf<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -4221,6 +4339,7 @@
   <e>       <p><l>umpf</l>      <r>umpf<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>umpf</l>      <r>umpf<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>umpfs</l>     <r>umpf<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>umpf</l>      <r>umpf<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="S/aft__n_m">
   <e>       <p><l>äften</l>     <r>aft<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -4233,6 +4352,7 @@
   <e>       <p><l>aft</l>       <r>aft<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>aft</l>       <r>aft<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>afts</l>      <r>aft<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>aft</l>       <r>aft<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Sald/o__n_m">
   <e>       <p><l>en</l>        <r>o<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -4275,6 +4395,7 @@
   <e>       <p><l>and</l>       <r>and<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>and</l>       <r>and<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ands</l>      <r>and<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>and</l>       <r>and<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Sandwich__n_nt">
   <e>       <p><l>e</l>         <r><s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -4292,6 +4413,7 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="S/arg__n_m">
   <e>       <p><l>ärgen</l>     <r>arg<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -4304,6 +4426,7 @@
   <e>       <p><l>arg</l>       <r>arg<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>arg</l>       <r>arg<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>args</l>      <r>arg<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>arg</l>       <r>arg<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="S/attel__n_m">
   <e>       <p><l>ätteln</l>    <r>attel<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -4314,6 +4437,7 @@
   <e>       <p><l>attel</l>     <r>attel<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>attel</l>     <r>attel<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>attels</l>    <r>attel<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>attel</l>     <r>attel<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="S/au__n_f">
   <e>       <p><l>äuen</l>      <r>au<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -4324,6 +4448,7 @@
   <e>       <p><l>au</l>        <r>au<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>au</l>        <r>au<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>au</l>        <r>au<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>au</l>        <r>au<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Sch/acht__n_m">
   <e>       <p><l>ächten</l>    <r>acht<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -4336,6 +4461,7 @@
   <e>       <p><l>acht</l>      <r>acht<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>acht</l>      <r>acht<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>achts</l>     <r>acht<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>acht</l>      <r>acht<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Schema__n_nt">
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -4357,14 +4483,15 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
-<pardef n="Schl/oss__n_nt">
+<pardef n="Schl/oss__n_nt"><!-- FIXME -->
   <e>       <p><l>össern</l>    <r>oss<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>össer</l>     <r>oss<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
   <e>       <p><l>össer</l>     <r>oss<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
   <e>       <p><l>össer</l>     <r>oss<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
 </pardef>
-<pardef n="Schl/oß__n_nt">
+<pardef n="Schl/oß__n_nt"><!-- FIXME -->
   <e>       <p><l>össern</l>    <r>oß<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>össer</l>     <r>oß<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
   <e>       <p><l>össer</l>     <r>oß<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
@@ -4385,6 +4512,7 @@
   <e>       <p><l>ot</l>        <r>ot<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>ot</l>        <r>ot<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ots</l>       <r>ot<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>ot</l>        <r>ot<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Schn/abel__n_m">
   <e>       <p><l>äbeln</l>     <r>abel<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -4395,6 +4523,7 @@
   <e>       <p><l>abel</l>      <r>abel<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>abel</l>      <r>abel<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>abels</l>     <r>abel<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>abel</l>      <r>abel<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Schn/aps__n_m">
   <e>       <p><l>äpsen</l>     <r>aps<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -4406,6 +4535,7 @@
   <e>       <p><l>aps</l>       <r>aps<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>aps</l>       <r>aps<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>aps</l>       <r>aps<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>aps</l>       <r>aps<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Schn/auz__n_m">
   <e>       <p><l>äuzen</l>     <r>auz<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -4427,6 +4557,7 @@
   <e>       <p><l>art</l>       <r>art<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>art</l>       <r>art<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>arts</l>      <r>art<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>art</l>       <r>art<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Schn/ur__n_f">
   <e>       <p><l>üren</l>      <r>ur<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -4438,20 +4569,20 @@
   <e>       <p><l>ur</l>        <r>ur<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>ur</l>        <r>ur<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
 </pardef>
-<pardef n="Sch/oß__n_m">
+<pardef n="Sch/oß__n_m"><!-- FIXME -->
   <e>       <p><l>ößen</l>      <r>oß<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>öße</l>       <r>oß<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
   <e>       <p><l>öße</l>       <r>oß<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
   <e>       <p><l>öße</l>       <r>oß<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
 </pardef>
-<pardef n="Sch/oss__n_m">
+<pardef n="Sch/oss__n_m"><!-- FIXME -->
   <e>       <p><l>össern</l>    <r>oss<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>össer</l>     <r>oss<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
   <e>       <p><l>össer</l>     <r>oss<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
   <e>       <p><l>össer</l>     <r>oss<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>osse</l>      <r>oss<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
 </pardef>
-<pardef n="Schoss__n_m">
+<pardef n="Schoss__n_m"><!-- FIXME -->
   <e>       <p><l>es</l>        <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
@@ -4520,6 +4651,7 @@
   <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Ski__n_m">
   <e>       <p><l>er</l>        <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -4532,6 +4664,7 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Sp/aß__n_m">
   <e>       <p><l>äßen</l>      <r>aß<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -4543,6 +4676,7 @@
   <e>       <p><l>aß</l>        <r>aß<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>aß</l>        <r>aß<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>aß</l>        <r>aß<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>aß</l>        <r>aß<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Spektr/um__n_nt">
   <e>       <p><l>a</l>         <r>um<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -4567,6 +4701,7 @@
   <e>       <p><l>on</l>        <r>on<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>on</l>        <r>on<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ons</l>       <r>on<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>on</l>        <r>on<s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Städteatla/s__n_m">
   <e>       <p><l>nten</l>      <r>s<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -4599,7 +4734,7 @@
   <e>       <p><l>ahl</l>       <r>ahl<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ahls</l>      <r>ahl<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
 </pardef>
-<pardef n="Stewarde/ß__n_f">
+<pardef n="Stewarde/ß__n_f"><!-- FIXME -->
   <e>       <p><l>ssen</l>      <r>ß<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
   <e>       <p><l>ssen</l>      <r>ß<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>ssen</l>      <r>ß<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
@@ -4628,6 +4763,7 @@
   <e>       <p><l>auch</l>      <r>auch<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>auch</l>      <r>auch<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>auchs</l>     <r>auch<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>auch</l>      <r>auch<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Str/auß__n_m">
   <e>       <p><l>außen</l>     <r>auß<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -4665,6 +4801,7 @@
   <e>       <p><l>om</l>        <r>om<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>om</l>        <r>om<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>oms</l>       <r>om<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>om</l>        <r>om<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="St/uhl__n_m">
   <e>       <p><l>ühlen</l>     <r>uhl<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -4677,14 +4814,15 @@
   <e>       <p><l>uhl</l>       <r>uhl<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>uhl</l>       <r>uhl<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>uhls</l>      <r>uhl<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>uhl</l>       <r>uhl<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
-<pardef n="St/umpf__n_m">
+<pardef n="St/umpf__n_m"><!-- FIXME -->
   <e>       <p><l>ümpfen</l>    <r>umpf<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>ümpfe</l>     <r>umpf<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
   <e>       <p><l>ümpfe</l>     <r>umpf<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
   <e>       <p><l>ümpfe</l>     <r>umpf<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
 </pardef>
-<pardef n="St/utz__n_m">
+<pardef n="St/utz__n_m"><!-- FIXME -->
   <e>       <p><l>ützen</l>     <r>utz<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>ütze</l>      <r>utz<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
   <e>       <p><l>ütze</l>      <r>utz<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
@@ -4703,6 +4841,7 @@
   <e>       <p><l>ucht</l>      <r>ucht<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>ucht</l>      <r>ucht<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>ucht</l>      <r>ucht<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>ucht</l>      <r>ucht<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Ten/or__n_m">
   <e>       <p><l>ören</l>      <r>or<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -4713,6 +4852,7 @@
   <e>       <p><l>or</l>        <r>or<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>or</l>        <r>or<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ors</l>       <r>or<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>or</l>        <r>or<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="T/ochter__n_f">
   <e>       <p><l>öchtern</l>   <r>ochter<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -4723,6 +4863,7 @@
   <e>       <p><l>ochter</l>    <r>ochter<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>ochter</l>    <r>ochter<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>ochter</l>    <r>ochter<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>ochter</l>    <r>ochter<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="T/on__n_m">
   <e>       <p><l>önen</l>      <r>on<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -4735,6 +4876,7 @@
   <e>       <p><l>on</l>        <r>on<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>on</l>        <r>on<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ons</l>       <r>on<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>on</l>        <r>on<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Tr/am__n_m">
   <e>       <p><l>amen</l>      <r>am<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -4748,7 +4890,7 @@
   <e>       <p><l>ame</l>       <r>am<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>ames</l>      <r>am<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
 </pardef>
-<pardef n="Tr/opf__n_m">
+<pardef n="Tr/opf__n_m"><!-- FIXME -->
   <e>       <p><l>opfen</l>     <r>opf<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
   <e>       <p><l>opfen</l>     <r>opf<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
   <e r="LR"><p><l>öpfen</l>     <r>opf<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -4766,6 +4908,7 @@
   <e>       <p><l>opf</l>       <r>opf<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>opf</l>       <r>opf<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>opfs</l>      <r>opf<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>opf</l>       <r>opf<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Tr/umm__n_nt">
   <e>       <p><l>ümmern</l>    <r>umm<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -4800,6 +4943,7 @@
   <e>       <p><l>S</l>         <r><s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
   <e>       <p><l>S</l>         <r><s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>S</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Unix__n_nt">
   <e>       <p><l>e</l>         <r><s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -4810,6 +4954,7 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Vir/us__n_nt">
   <e>       <p><l>en</l>        <r>us<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -4830,6 +4975,7 @@
   <e>       <p><l>ogel</l>      <r>ogel<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>ogel</l>      <r>ogel<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ogels</l>     <r>ogel<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>ogel</l>      <r>ogel<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="V/ogt__n_m">
   <e>       <p><l>ögten</l>     <r>ogt<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -4854,6 +5000,8 @@
   <e>       <p><l>olk</l>       <r>olk<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>olk</l>       <r>olk<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>olks</l>      <r>olk<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>olks</l>      <r>olk<s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
+  <e>       <p><l>ölker</l>     <r>olk<s n="n"/><s n="nt"/><s n="pl"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Volum/en__n_nt">
   <e>       <p><l>en</l>        <r>en<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -4864,6 +5012,7 @@
   <e>       <p><l>ina</l>       <r>en<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>ina</l>       <r>en<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
   <e>       <p><l>ina</l>       <r>en<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>en</l>        <r>en<s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Vorsch/ub__n_m">
   <e>       <p><l>üben</l>      <r>ub<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -4886,8 +5035,9 @@
   <e>       <p><l>ann</l>       <r>ann<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>ann</l>       <r>ann<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>anns</l>      <r>ann<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>ann</l>       <r>ann<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
-<pardef n="W/agen__n_m">
+<pardef n="W/agen__n_m"><!-- FIXME -->
   <e>       <p><l>ägen</l>      <r>agen<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
   <e>       <p><l>ägen</l>      <r>agen<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>ägen</l>      <r>agen<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
@@ -4904,6 +5054,7 @@
   <e>       <p><l>ald</l>       <r>ald<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>ald</l>       <r>ald<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>alds</l>      <r>ald<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>ald</l>       <r>ald<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Werkst/att__n_f">
   <e>       <p><l>ätten</l>     <r>att<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -4914,6 +5065,7 @@
   <e>       <p><l>att</l>       <r>att<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>att</l>       <r>att<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>att</l>       <r>att<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>att</l>       <r>att<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="W/olf__n_m">
   <e>       <p><l>ölfen</l>     <r>olf<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -4926,6 +5078,7 @@
   <e>       <p><l>olf</l>       <r>olf<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>olf</l>       <r>olf<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>olfs</l>      <r>olf<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>olfs</l>      <r>olf<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="W/unsch__n_m">
   <e>       <p><l>ünschen</l>   <r>unsch<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -4938,6 +5091,7 @@
   <e>       <p><l>unsch</l>     <r>unsch<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>unsch</l>     <r>unsch<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>unschs</l>    <r>unsch<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>unsch</l>     <r>unsch<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="W/urm__n_m">
   <e>       <p><l>ürmern</l>    <r>urm<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -4950,6 +5104,7 @@
   <e>       <p><l>urm</l>       <r>urm<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>urm</l>       <r>urm<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>urms</l>      <r>urm<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>urm</l>       <r>urm<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="W/urst__n_f">
   <e>       <p><l>ürsten</l>    <r>urst<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -4960,6 +5115,7 @@
   <e>       <p><l>urst</l>      <r>urst<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>urst</l>      <r>urst<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>urst</l>      <r>urst<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>urst</l>      <r>urst<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Zahn/arzt__n_m">
   <e>       <p><l>ärzten</l>    <r>arzt<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -4972,6 +5128,7 @@
   <e>       <p><l>arzt</l>      <r>arzt<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>arzt</l>      <r>arzt<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>arzts</l>     <r>arzt<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>arzt</l>      <r>arzt<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Zank/apfel__n_m">
   <e>       <p><l>äpfeln</l>    <r>apfel<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -4982,6 +5139,7 @@
   <e>       <p><l>apfel</l>     <r>apfel<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>apfel</l>     <r>apfel<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>apfels</l>    <r>apfel<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>apfel</l>     <r>apfel<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Z/apf__n_m">
   <e>       <p><l>äpfen</l>     <r>apf<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -5006,6 +5164,7 @@
   <e>       <p><l>aun</l>       <r>aun<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>aun</l>       <r>aun<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>auns</l>      <r>aun<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>aun</l>       <r>aun<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Z/oll__n_m">
   <e>       <p><l>öllen</l>     <r>oll<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -5018,6 +5177,7 @@
   <e>       <p><l>oll</l>       <r>oll<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>oll</l>       <r>oll<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>olls</l>      <r>oll<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>oll</l>       <r>oll<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Zuw/achs__n_m">
   <e>       <p><l>ächsen</l>    <r>achs<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -5029,6 +5189,7 @@
   <e>       <p><l>achs</l>      <r>achs<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>achs</l>      <r>achs<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
   <e>       <p><l>achs</l>      <r>achs<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>achs</l>      <r>achs<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 
 
