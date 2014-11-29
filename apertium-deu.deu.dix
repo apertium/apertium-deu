@@ -5420,6 +5420,66 @@
   <e>       <p><l>habt</l>      <r>haben<s n="vbhaver"/><s n="imp"/><s n="pl"/></r></p></e>
 </pardef>
 
+<pardef n="/mögen__vbmod">
+  <e>       <p><l>gemocht</l>   <r>mögen<s n="vbmod"/><s n="pp"/></r></p></e>
+  <e>       <p><l>mag</l>       <r>mögen<s n="vbmod"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+  <e>       <p><l>mag</l>       <r>mögen<s n="vbmod"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>magst</l>     <r>mögen<s n="vbmod"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+  <e>       <p><l>mochten</l>   <r>mögen<s n="vbmod"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
+  <e>       <p><l>mochten</l>   <r>mögen<s n="vbmod"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+  <e>       <p><l>möchten</l>   <r>mögen<s n="vbmod"/><s n="pis"/><s n="p1"/><s n="pl"/></r></p></e>
+  <e>       <p><l>möchten</l>   <r>mögen<s n="vbmod"/><s n="pis"/><s n="p3"/><s n="pl"/></r></p></e>
+  <e>       <p><l>mochte</l>    <r>mögen<s n="vbmod"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
+  <e>       <p><l>mochte</l>    <r>mögen<s n="vbmod"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>möchte</l>    <r>mögen<s n="vbmod"/><s n="pis"/><s n="p1"/><s n="sg"/></r></p></e>
+  <e>       <p><l>möchte</l>    <r>mögen<s n="vbmod"/><s n="pis"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>mochtest</l>  <r>mögen<s n="vbmod"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
+  <e>       <p><l>möchtest</l>  <r>mögen<s n="vbmod"/><s n="pis"/><s n="p2"/><s n="sg"/></r></p></e>
+  <e>       <p><l>mochtet</l>   <r>mögen<s n="vbmod"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
+  <e>       <p><l>möchtet</l>   <r>mögen<s n="vbmod"/><s n="pis"/><s n="p2"/><s n="pl"/></r></p></e>
+  <e>       <p><l>mocht</l>     <r>mögen<s n="vbmod"/><s n="pp"/></r></p></e>
+  <e>       <p><l>mögend</l>    <r>mögen<s n="vbmod"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>mögen</l>     <r>mögen<s n="vbmod"/><s n="inf"/></r></p></e>
+  <e>       <p><l>mögen</l>     <r>mögen<s n="vbmod"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+  <e>       <p><l>mögen</l>     <r>mögen<s n="vbmod"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+  <e>       <p><l>mögen</l>     <r>mögen<s n="vbmod"/><s n="prs"/><s n="p1"/><s n="pl"/></r></p></e>
+  <e>       <p><l>mögen</l>     <r>mögen<s n="vbmod"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e>
+  <e>       <p><l>möge</l>      <r>mögen<s n="vbmod"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
+  <e>       <p><l>möge</l>      <r>mögen<s n="vbmod"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>mögest</l>    <r>mögen<s n="vbmod"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
+  <e>       <p><l>möget</l>     <r>mögen<s n="vbmod"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
+  <e>       <p><l>mögt</l>      <r>mögen<s n="vbmod"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+</pardef>
+<pardef n="/sollen__vbmod">
+  <e>       <p><l>gesollt</l>   <r>sollen<s n="vbmod"/><s n="pp"/></r></p></e>
+  <e>       <p><l>sollend</l>   <r>sollen<s n="vbmod"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>sollen</l>    <r>sollen<s n="vbmod"/><s n="inf"/></r></p></e>
+  <e>       <p><l>sollen</l>    <r>sollen<s n="vbmod"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+  <e>       <p><l>sollen</l>    <r>sollen<s n="vbmod"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+  <e>       <p><l>sollen</l>    <r>sollen<s n="vbmod"/><s n="prs"/><s n="p1"/><s n="pl"/></r></p></e>
+  <e>       <p><l>sollen</l>    <r>sollen<s n="vbmod"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e>
+  <e>       <p><l>solle</l>     <r>sollen<s n="vbmod"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
+  <e>       <p><l>solle</l>     <r>sollen<s n="vbmod"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>sollest</l>   <r>sollen<s n="vbmod"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
+  <e>       <p><l>sollet</l>    <r>sollen<s n="vbmod"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
+  <e>       <p><l>soll</l>      <r>sollen<s n="vbmod"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+  <e>       <p><l>soll</l>      <r>sollen<s n="vbmod"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>sollst</l>    <r>sollen<s n="vbmod"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+  <e>       <p><l>sollten</l>   <r>sollen<s n="vbmod"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
+  <e>       <p><l>sollten</l>   <r>sollen<s n="vbmod"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+  <e>       <p><l>sollten</l>   <r>sollen<s n="vbmod"/><s n="pis"/><s n="p1"/><s n="pl"/></r></p></e>
+  <e>       <p><l>sollten</l>   <r>sollen<s n="vbmod"/><s n="pis"/><s n="p3"/><s n="pl"/></r></p></e>
+  <e>       <p><l>sollte</l>    <r>sollen<s n="vbmod"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
+  <e>       <p><l>sollte</l>    <r>sollen<s n="vbmod"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>sollte</l>    <r>sollen<s n="vbmod"/><s n="pis"/><s n="p1"/><s n="sg"/></r></p></e>
+  <e>       <p><l>sollte</l>    <r>sollen<s n="vbmod"/><s n="pis"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>solltest</l>  <r>sollen<s n="vbmod"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
+  <e>       <p><l>solltest</l>  <r>sollen<s n="vbmod"/><s n="pis"/><s n="p2"/><s n="sg"/></r></p></e>
+  <e>       <p><l>solltet</l>   <r>sollen<s n="vbmod"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
+  <e>       <p><l>solltet</l>   <r>sollen<s n="vbmod"/><s n="pis"/><s n="p2"/><s n="pl"/></r></p></e>
+  <e>       <p><l>sollt</l>     <r>sollen<s n="vbmod"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+</pardef>
+
 
 <!-- SECTION: Verbs -->
 
@@ -13825,12 +13885,77 @@
 </pardef>
 
 
+<!-- SECTION: Adverbs -->
+
+<pardef n="abends__adv">
+  <e>       <p><l></l>          <r><s n="adv"/></r></p></e>
+</pardef>
+<pardef n="allzusehr__preadv">
+  <e>       <p><l></l>          <r><s n="preadv"/></r></p></e>
+</pardef>
+
+
+<!-- SECTION: Prepositions -->
+
 <pardef n="ab__pr">
   <e>       <p><l></l>          <r><s n="pr"/><s n="dat"/></r></p></e>
 </pardef>
 <pardef n="als__pr">
   <e>       <p><l></l>          <r><s n="pr"/><s n="nom"/></r></p></e>
 </pardef>
+<pardef n="abseits__pr">
+  <e>       <p><l></l>          <r><s n="pr"/><s n="gen"/></r></p></e>
+</pardef>
+<pardef n="ad__pr">
+  <e>       <p><l></l>          <r><s n="pr"/><s n="acc"/></r></p></e>
+</pardef>
+<pardef n="alledem__pprep">
+  <e>       <p><l></l>          <r><s n="pprep"/><s n="dat"/></r></p></e>
+</pardef>
+<pardef n="an__pr">
+  <e>       <p><l></l>          <r><s n="pr"/><s n="acc"/></r></p></e>
+    <!-- Below is content of a subsequent definition of an__pr -->
+  <e>       <p><l></l>          <r><s n="pr"/><s n="dat"/></r></p></e>
+</pardef>
+<pardef n="entlang__pprep">
+  <e>       <p><l></l>          <r><s n="pprep"/><s n="acc"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="pprep"/><s n="dat"/></r></p></e>
+</pardef>
+<pardef n="exklusive__pprep">
+  <e>       <p><l></l>          <r><s n="pprep"/><s n="acc"/></r></p></e>
+</pardef>
+<pardef n="halber__pprep">
+  <e>       <p><l></l>          <r><s n="pprep"/><s n="gen"/></r></p></e>
+</pardef>
+<pardef n="trotz__pr">
+  <e>       <p><l></l>          <r><s n="pr"/><s n="dat"/></r></p></e>
+    <!-- Below is content of a subsequent definition of trotz__pr -->
+  <e>       <p><l></l>          <r><s n="pr"/><s n="gen"/></r></p></e>
+</pardef>
+
+
+<!-- SECTION: Interjections -->
+
+<pardef n="ach__ij">
+  <e>       <p><l></l>          <r><s n="ij"/></r></p></e>
+</pardef>
+
+
+<!-- SECTION: Conjunctions -->
+
+<pardef n="als__cnjadv">
+  <e>       <p><l></l>          <r><s n="cnjadv"/></r></p></e>
+</pardef>
+<pardef n="anstatt__cnjsub">
+  <e>       <p><l></l>          <r><s n="cnjsub"/></r></p></e>
+</pardef>
+<pardef n="beziehungsweise__cnjcoo">
+  <e>       <p><l></l>          <r><s n="cnjcoo"/></r></p></e>
+</pardef>
+
+
+<!-- SECTION: Adjectives -->
+
 <pardef n="abendfüllend__adj">
   <e>       <p><l>em</l>        <r><s n="adj"/><s n="m"/><s n="sg"/><s n="dat"/><s n="st"/></r></p></e>
   <e>       <p><l>em</l>        <r><s n="adj"/><s n="nt"/><s n="sg"/><s n="dat"/><s n="st"/></r></p></e>
@@ -13860,9 +13985,6 @@
   <e>       <p><l>es</l>        <r><s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="mix"/></r></p></e>
   <e>       <p><l></l>          <r><s n="adj"/><s n="attr"/></r></p></e>
   <e>       <p><l></l>          <r><s n="adj"/><s n="pred"/></r></p></e>
-</pardef>
-<pardef n="abends__adv">
-  <e>       <p><l></l>          <r><s n="adv"/></r></p></e>
 </pardef>
 <pardef n="abenteuerlich__adj">
   <e>       <p><l>em</l>        <r><s n="adj"/><s n="m"/><s n="sg"/><s n="dat"/><s n="st"/></r></p></e>
@@ -14154,15 +14276,6 @@
   <e>       <p><l>ste</l>       <r><s n="adj"/><s n="sup"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="sw"/></r></p></e>
   <e>       <p><l>st</l>        <r><s n="adj"/><s n="sup"/><s n="pred"/></r></p></e>
 </pardef>
-<pardef n="abseits__pr">
-  <e>       <p><l></l>          <r><s n="pr"/><s n="gen"/></r></p></e>
-</pardef>
-<pardef n="ach__ij">
-  <e>       <p><l></l>          <r><s n="ij"/></r></p></e>
-</pardef>
-<pardef n="ad__pr">
-  <e>       <p><l></l>          <r><s n="pr"/><s n="acc"/></r></p></e>
-</pardef>
 <pardef n="akzeptab/el__adj">
   <e>       <p><l>el</l>        <r>el<s n="adj"/><s n="attr"/></r></p></e>
   <e>       <p><l>el</l>        <r>el<s n="adj"/><s n="pred"/></r></p></e>
@@ -14250,9 +14363,6 @@
   <e>       <p><l>les</l>       <r>el<s n="adj"/><s n="nt"/><s n="sg"/><s n="acc"/><s n="mix"/></r></p></e>
   <e>       <p><l>les</l>       <r>el<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="mix"/></r></p></e>
 </pardef>
-<pardef n="alledem__pprep">
-  <e>       <p><l></l>          <r><s n="pprep"/><s n="dat"/></r></p></e>
-</pardef>
 <pardef n="allerbest__adj">
   <e>       <p><l>stem</l>      <r><s n="adj"/><s n="sup"/><s n="m"/><s n="sg"/><s n="dat"/><s n="st"/></r></p></e>
   <e>       <p><l>stem</l>      <r><s n="adj"/><s n="sup"/><s n="nt"/><s n="sg"/><s n="dat"/><s n="st"/></r></p></e>
@@ -14286,14 +14396,6 @@
 </pardef>
 <pardef n="allerhand__adj">
   <e>       <p><l></l>          <r><s n="adj"/><s n="pred"/></r></p></e>
-</pardef>
-<pardef n="allzusehr__preadv">
-  <e>       <p><l></l>          <r><s n="preadv"/></r></p></e>
-
-</pardef>
-<pardef n="als__cnjadv">
-  <e>       <p><l></l>          <r><s n="cnjadv"/></r></p></e>
-
 </pardef>
 <pardef n="alt__adj">
   <e>       <p><l>em</l>        <r><s n="adj"/><s n="m"/><s n="sg"/><s n="dat"/><s n="st"/></r></p></e>
@@ -14383,14 +14485,6 @@
   <e>       <p><l>ältest</l>    <r>alt<s n="adj"/><s n="sup"/><s n="pred"/></r></p></e>
   <e>       <p><l>alt</l>       <r>alt<s n="adj"/><s n="attr"/></r></p></e>
   <e>       <p><l>alt</l>       <r>alt<s n="adj"/><s n="pred"/></r></p></e>
-</pardef>
-<pardef n="an__pr">
-  <e>       <p><l></l>          <r><s n="pr"/><s n="acc"/></r></p></e>
-    <!-- Below is content of a subsequent definition of an__pr -->
-  <e>       <p><l></l>          <r><s n="pr"/><s n="dat"/></r></p></e>
-</pardef>
-<pardef n="anstatt__cnjsub">
-  <e>       <p><l></l>          <r><s n="cnjsub"/></r></p></e>
 </pardef>
 <pardef n="/arg__adj">
   <e>       <p><l>argem</l>     <r>arg<s n="adj"/><s n="m"/><s n="sg"/><s n="dat"/><s n="st"/></r></p></e>
@@ -14655,9 +14749,6 @@
   <e>       <p><l>ß</l>         <r>ß<s n="adj"/><s n="attr"/></r></p></e>
   <e>       <p><l>ß</l>         <r>ß<s n="adj"/><s n="pred"/></r></p></e>
 </pardef>
-<pardef n="beziehungsweise__cnjcoo">
-  <e>       <p><l></l>          <r><s n="cnjcoo"/></r></p></e>
-</pardef>
 <pardef n="dröge__adj">
   <e>       <p><l>m</l>         <r><s n="adj"/><s n="m"/><s n="sg"/><s n="dat"/><s n="st"/></r></p></e>
   <e>       <p><l>m</l>         <r><s n="adj"/><s n="nt"/><s n="sg"/><s n="dat"/><s n="st"/></r></p></e>
@@ -14921,10 +15012,6 @@
   <e>       <p><l>les</l>       <r>el<s n="adj"/><s n="nt"/><s n="sg"/><s n="acc"/><s n="mix"/></r></p></e>
   <e>       <p><l>les</l>       <r>el<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="mix"/></r></p></e>
 </pardef>
-<pardef n="entlang__pprep">
-  <e>       <p><l></l>          <r><s n="pprep"/><s n="acc"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="pprep"/><s n="dat"/></r></p></e>
-</pardef>
 <pardef n="/europäisch__adj">
   <e>       <p><l>europäischem</l><r>europäisch<s n="adj"/><s n="m"/><s n="sg"/><s n="dat"/><s n="st"/></r></p></e>
   <e>       <p><l>europäischem</l><r>europäisch<s n="adj"/><s n="nt"/><s n="sg"/><s n="dat"/><s n="st"/></r></p></e>
@@ -15011,9 +15098,6 @@
   <e>       <p><l>europäischste</l><r>europäisch<s n="adj"/><s n="sup"/><s n="nt"/><s n="sg"/><s n="acc"/><s n="sw"/></r></p></e>
   <e>       <p><l>europäischste</l><r>europäisch<s n="adj"/><s n="sup"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="sw"/></r></p></e>
   <e>       <p><l>europäischst</l><r>europäisch<s n="adj"/><s n="sup"/><s n="pred"/></r></p></e>
-</pardef>
-<pardef n="exklusive__pprep">
-  <e>       <p><l></l>          <r><s n="pprep"/><s n="acc"/></r></p></e>
 </pardef>
 <pardef n="fr/omm__adj">
   <e>       <p><l>ommem</l>     <r>omm<s n="adj"/><s n="m"/><s n="sg"/><s n="dat"/><s n="st"/></r></p></e>
@@ -15421,9 +15505,6 @@
   <e>       <p><l>beste</l>     <r>gut<s n="adj"/><s n="sup"/><s n="nt"/><s n="sg"/><s n="acc"/><s n="sw"/></r></p></e>
   <e>       <p><l>beste</l>     <r>gut<s n="adj"/><s n="sup"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="sw"/></r></p></e>
   <e>       <p><l>best</l>      <r>gut<s n="adj"/><s n="sup"/><s n="pred"/></r></p></e>
-</pardef>
-<pardef n="halber__pprep">
-  <e>       <p><l></l>          <r><s n="pprep"/><s n="gen"/></r></p></e>
 </pardef>
 <pardef n="h/art__adj">
   <e>       <p><l>artem</l>     <r>art<s n="adj"/><s n="m"/><s n="sg"/><s n="dat"/><s n="st"/></r></p></e>
@@ -16238,36 +16319,6 @@
   <e>       <p><l>lste</l>      <r>el<s n="adj"/><s n="sup"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="sw"/></r></p></e>
   <e>       <p><l>lst</l>       <r>el<s n="adj"/><s n="sup"/><s n="pred"/></r></p></e>
 </pardef>
-<pardef n="/mögen__vbmod">
-  <e>       <p><l>gemocht</l>   <r>mögen<s n="vbmod"/><s n="pp"/></r></p></e>
-  <e>       <p><l>mag</l>       <r>mögen<s n="vbmod"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
-  <e>       <p><l>mag</l>       <r>mögen<s n="vbmod"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>magst</l>     <r>mögen<s n="vbmod"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
-  <e>       <p><l>mochten</l>   <r>mögen<s n="vbmod"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
-  <e>       <p><l>mochten</l>   <r>mögen<s n="vbmod"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
-  <e>       <p><l>möchten</l>   <r>mögen<s n="vbmod"/><s n="pis"/><s n="p1"/><s n="pl"/></r></p></e>
-  <e>       <p><l>möchten</l>   <r>mögen<s n="vbmod"/><s n="pis"/><s n="p3"/><s n="pl"/></r></p></e>
-  <e>       <p><l>mochte</l>    <r>mögen<s n="vbmod"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
-  <e>       <p><l>mochte</l>    <r>mögen<s n="vbmod"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>möchte</l>    <r>mögen<s n="vbmod"/><s n="pis"/><s n="p1"/><s n="sg"/></r></p></e>
-  <e>       <p><l>möchte</l>    <r>mögen<s n="vbmod"/><s n="pis"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>mochtest</l>  <r>mögen<s n="vbmod"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
-  <e>       <p><l>möchtest</l>  <r>mögen<s n="vbmod"/><s n="pis"/><s n="p2"/><s n="sg"/></r></p></e>
-  <e>       <p><l>mochtet</l>   <r>mögen<s n="vbmod"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
-  <e>       <p><l>möchtet</l>   <r>mögen<s n="vbmod"/><s n="pis"/><s n="p2"/><s n="pl"/></r></p></e>
-  <e>       <p><l>mocht</l>     <r>mögen<s n="vbmod"/><s n="pp"/></r></p></e>
-  <e>       <p><l>mögend</l>    <r>mögen<s n="vbmod"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>mögen</l>     <r>mögen<s n="vbmod"/><s n="inf"/></r></p></e>
-  <e>       <p><l>mögen</l>     <r>mögen<s n="vbmod"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
-  <e>       <p><l>mögen</l>     <r>mögen<s n="vbmod"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
-  <e>       <p><l>mögen</l>     <r>mögen<s n="vbmod"/><s n="prs"/><s n="p1"/><s n="pl"/></r></p></e>
-  <e>       <p><l>mögen</l>     <r>mögen<s n="vbmod"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e>
-  <e>       <p><l>möge</l>      <r>mögen<s n="vbmod"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
-  <e>       <p><l>möge</l>      <r>mögen<s n="vbmod"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>mögest</l>    <r>mögen<s n="vbmod"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
-  <e>       <p><l>möget</l>     <r>mögen<s n="vbmod"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
-  <e>       <p><l>mögt</l>      <r>mögen<s n="vbmod"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
-</pardef>
 <pardef n="n/ah__adj">
   <e>       <p><l>ächstem</l>   <r>ah<s n="adj"/><s n="sup"/><s n="m"/><s n="sg"/><s n="dat"/><s n="st"/></r></p></e>
   <e>       <p><l>ächstem</l>   <r>ah<s n="adj"/><s n="sup"/><s n="nt"/><s n="sg"/><s n="dat"/><s n="st"/></r></p></e>
@@ -16934,35 +16985,6 @@
   <e>       <p><l>ärzte</l>     <r>arz<s n="adj"/><s n="sup"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="sw"/></r></p></e>
   <e>       <p><l>ärzt</l>      <r>arz<s n="adj"/><s n="sup"/><s n="pred"/></r></p></e>
 </pardef>
-<pardef n="/sollen__vbmod">
-  <e>       <p><l>gesollt</l>   <r>sollen<s n="vbmod"/><s n="pp"/></r></p></e>
-  <e>       <p><l>sollend</l>   <r>sollen<s n="vbmod"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>sollen</l>    <r>sollen<s n="vbmod"/><s n="inf"/></r></p></e>
-  <e>       <p><l>sollen</l>    <r>sollen<s n="vbmod"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
-  <e>       <p><l>sollen</l>    <r>sollen<s n="vbmod"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
-  <e>       <p><l>sollen</l>    <r>sollen<s n="vbmod"/><s n="prs"/><s n="p1"/><s n="pl"/></r></p></e>
-  <e>       <p><l>sollen</l>    <r>sollen<s n="vbmod"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e>
-  <e>       <p><l>solle</l>     <r>sollen<s n="vbmod"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
-  <e>       <p><l>solle</l>     <r>sollen<s n="vbmod"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>sollest</l>   <r>sollen<s n="vbmod"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
-  <e>       <p><l>sollet</l>    <r>sollen<s n="vbmod"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
-  <e>       <p><l>soll</l>      <r>sollen<s n="vbmod"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
-  <e>       <p><l>soll</l>      <r>sollen<s n="vbmod"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>sollst</l>    <r>sollen<s n="vbmod"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
-  <e>       <p><l>sollten</l>   <r>sollen<s n="vbmod"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
-  <e>       <p><l>sollten</l>   <r>sollen<s n="vbmod"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
-  <e>       <p><l>sollten</l>   <r>sollen<s n="vbmod"/><s n="pis"/><s n="p1"/><s n="pl"/></r></p></e>
-  <e>       <p><l>sollten</l>   <r>sollen<s n="vbmod"/><s n="pis"/><s n="p3"/><s n="pl"/></r></p></e>
-  <e>       <p><l>sollte</l>    <r>sollen<s n="vbmod"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
-  <e>       <p><l>sollte</l>    <r>sollen<s n="vbmod"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>sollte</l>    <r>sollen<s n="vbmod"/><s n="pis"/><s n="p1"/><s n="sg"/></r></p></e>
-  <e>       <p><l>sollte</l>    <r>sollen<s n="vbmod"/><s n="pis"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>solltest</l>  <r>sollen<s n="vbmod"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
-  <e>       <p><l>solltest</l>  <r>sollen<s n="vbmod"/><s n="pis"/><s n="p2"/><s n="sg"/></r></p></e>
-  <e>       <p><l>solltet</l>   <r>sollen<s n="vbmod"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
-  <e>       <p><l>solltet</l>   <r>sollen<s n="vbmod"/><s n="pis"/><s n="p2"/><s n="pl"/></r></p></e>
-  <e>       <p><l>sollt</l>     <r>sollen<s n="vbmod"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
-</pardef>
 <pardef n="st/ark__adj">
   <e>       <p><l>arkem</l>     <r>ark<s n="adj"/><s n="m"/><s n="sg"/><s n="dat"/><s n="st"/></r></p></e>
   <e>       <p><l>arkem</l>     <r>ark<s n="adj"/><s n="nt"/><s n="sg"/><s n="dat"/><s n="st"/></r></p></e>
@@ -17206,11 +17228,6 @@
   <e>       <p><l>res</l>       <r>er<s n="adj"/><s n="nt"/><s n="sg"/><s n="acc"/><s n="mix"/></r></p></e>
   <e>       <p><l>res</l>       <r>er<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="mix"/></r></p></e>
 </pardef>
-<pardef n="trotz__pr">
-  <e>       <p><l></l>          <r><s n="pr"/><s n="dat"/></r></p></e>
-    <!-- Below is content of a subsequent definition of trotz__pr -->
-  <e>       <p><l></l>          <r><s n="pr"/><s n="gen"/></r></p></e>
-</pardef>
 <pardef n="/viel__adj">
   <e>       <p><l>meher</l>     <r>viel<s n="adj"/><s n="comp"/><s n="attr"/></r></p></e>
   <e>       <p><l>meher</l>     <r>viel<s n="adj"/><s n="comp"/><s n="pred"/></r></p></e>
@@ -17358,17 +17375,7 @@
   <e>       <p><l>ärmst</l>     <r>arm<s n="adj"/><s n="sup"/><s n="pred"/></r></p></e>
 </pardef>
 
-<!-- SECTION: Numerals -->
 
-<pardef n="ein__num">     <!-- FIXME -->
-  <e>       <p><l></l>          <r><s n="num"/><s n="sg"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="num"/><s n="sg"/></r></p></e>
-</pardef>
-
-<pardef n="zwei__num">
-  <e>       <p><l></l>          <r><s n="num"/><s n="sp"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="num"/><s n="sp"/></r></p></e>
-</pardef>
 
 <pardef n="nipt__adj">    <!-- TODO: check correctness -->
   <e>       <p><l></l>          <r><s n="adj"/><s n="attr"/></r></p></e>
@@ -17399,6 +17406,19 @@
   <e>       <p><l>er</l>        <r><s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="mix"/></r></p></e>
   <e>       <p><l>es</l>        <r><s n="adj"/><s n="nt"/><s n="sg"/><s n="acc"/><s n="mix"/></r></p></e>
   <e>       <p><l>es</l>        <r><s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="mix"/></r></p></e>
+</pardef>
+
+
+<!-- SECTION: Numerals -->
+
+<pardef n="ein__num">     <!-- FIXME -->
+  <e>       <p><l></l>          <r><s n="num"/><s n="sg"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="num"/><s n="sg"/></r></p></e>
+</pardef>
+
+<pardef n="zwei__num">
+  <e>       <p><l></l>          <r><s n="num"/><s n="sp"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="num"/><s n="sp"/></r></p></e>
 </pardef>
   </pardefs>
 
