@@ -390,45 +390,6 @@
   <e>       <p><l>Äser</l>      <r>Aas<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>Aas</l>       <r>Aas<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
-<pardef n="Abbau__n_m">
-  <e>       <p><l>e</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>es</l>        <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>ten</l>       <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>ten</l>       <r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>ten</l>       <r><s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>ten</l>       <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
-</pardef>
-<pardef n="Abbild__n_nt">
-  <e>       <p><l>ern</l>       <r><s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>er</l>        <r><s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>er</l>        <r><s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>er</l>        <r><s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>e</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>es</l>        <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>s</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
-</pardef>
-<pardef n="Abbr/uch__n_m">
-  <e>       <p><l>üchen</l>     <r>uch<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>üche</l>      <r>uch<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>üche</l>      <r>uch<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>üche</l>      <r>uch<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>uche</l>      <r>uch<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>uches</l>     <r>uch<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>uch</l>       <r>uch<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>uch</l>       <r>uch<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>uch</l>       <r>uch<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>uchs</l>      <r>uch<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>uch</l>       <r>uch<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
-</pardef>
 <pardef n="Abc__n_nt">
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
@@ -526,13 +487,6 @@
   <e>       <p><l>uß</l>        <r>uß<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>uß</l>        <r>uß<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
-<pardef n="Abfluss__n_m"><!-- FIXME change name -->
-  <e>       <p><l>e</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>es</l>        <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
-</pardef>
 <pardef n="Abfolge__n_f">
   <e>       <p><l>n</l>         <r><s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>n</l>         <r><s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
@@ -565,18 +519,6 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="f"/><s n="sg"/></r></p><par n="cmp-L"/></e>
-</pardef>
-<pardef n="Abg/ang__n_m">
-  <e>       <p><l>ängen</l>     <r>ang<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>änge</l>      <r>ang<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>änge</l>      <r>ang<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>änge</l>      <r>ang<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>ange</l>      <r>ang<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>anges</l>     <r>ang<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>ang</l>       <r>ang<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>ang</l>       <r>ang<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>ang</l>       <r>ang<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>angs</l>      <r>ang<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
 </pardef>
 <pardef n="Abgas__n_nt">
   <e>       <p><l>en</l>        <r><s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
@@ -707,18 +649,6 @@
   <e>       <p><l>atz</l>       <r>atz<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>atz</l>       <r>atz<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>atz</l>       <r>atz<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
-</pardef>
-<pardef n="Absch/uss__n_m">
-  <e>       <p><l>üssen</l>     <r>uss<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>üsse</l>      <r>uss<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>üsse</l>      <r>uss<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>üsse</l>      <r>uss<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>usse</l>      <r>uss<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>usses</l>     <r>uss<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>uss</l>       <r>uss<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>uss</l>       <r>uss<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>uss</l>       <r>uss<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>uss</l>       <r>uss<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Abspr/ung__n_m">
   <e>       <p><l>üngen</l>     <r>ung<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
@@ -959,19 +889,6 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
-<pardef n="Albtr/aum__n_m">
-  <e>       <p><l>äumen</l>     <r>aum<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>äume</l>      <r>aum<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>äume</l>      <r>aum<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>äume</l>      <r>aum<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>aume</l>      <r>aum<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>aumes</l>     <r>aum<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>aum</l>       <r>aum<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>aum</l>       <r>aum<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>aum</l>       <r>aum<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>aums</l>      <r>aum<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>aum</l>       <r>aum<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
-</pardef>
 <pardef n="Alb/um__n_nt">
   <e>       <p><l>en</l>        <r>um<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>en</l>        <r>um<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
@@ -1179,30 +1096,6 @@
   <e>       <p><l>amt</l>       <r>amt<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>amts</l>      <r>amt<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
 </pardef>
-<pardef n="Arbeitskr/aft__n_f">
-  <e>       <p><l>äften</l>     <r>aft<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>äfte</l>      <r>aft<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>äfte</l>      <r>aft<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>äfte</l>      <r>aft<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>aft</l>       <r>aft<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>aft</l>       <r>aft<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>aft</l>       <r>aft<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>aft</l>       <r>aft<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>aft</l>       <r>aft<s n="n"/><s n="f"/><s n="sg"/></r></p><par n="cmp-L"/></e>
-</pardef>
-<pardef n="Arbeitsm/arkt__n_m">
-  <e>       <p><l>ärkten</l>    <r>arkt<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>ärkte</l>     <r>arkt<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>ärkte</l>     <r>arkt<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>ärkte</l>     <r>arkt<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>arkte</l>     <r>arkt<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>arktes</l>    <r>arkt<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>arkt</l>      <r>arkt<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>arkt</l>      <r>arkt<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>arkt</l>      <r>arkt<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>arkts</l>     <r>arkt<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>arkt</l>      <r>arkt<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
-</pardef>
 <pardef n="Ärgernis__n_nt">
   <e>       <p><l>sen</l>       <r><s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>se</l>        <r><s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
@@ -1289,19 +1182,6 @@
   <e>       <p><l>s</l>         <r>s<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>s</l>         <r>s<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>s</l>         <r>s<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
-</pardef>
-<pardef n="Aufm/arsch__n_m">
-  <e>       <p><l>ärschen</l>   <r>arsch<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>ärsche</l>    <r>arsch<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>ärsche</l>    <r>arsch<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>ärsche</l>    <r>arsch<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>arsche</l>    <r>arsch<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>arsches</l>   <r>arsch<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>arsch</l>     <r>arsch<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>arsch</l>     <r>arsch<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>arsch</l>     <r>arsch<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>arschs</l>    <r>arsch<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>arsch</l>     <r>arsch<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Aufsichtsr/at__n_m">
   <e>       <p><l>äten</l>      <r>at<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
@@ -1504,6 +1384,19 @@
   <e>       <p><l>o</l>         <r>o<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>o</l>         <r>o<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
 </pardef>
+<pardef n="Bau__n_m">
+  <e>       <p><l>e</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>es</l>        <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>ten</l>       <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>ten</l>       <r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>ten</l>       <r><s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>ten</l>       <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
+</pardef>
 <pardef n="B/auch__n_m">
   <e>       <p><l>äuchen</l>    <r>auch<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>äuche</l>     <r>auch<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
@@ -1517,7 +1410,7 @@
   <e r="LR"><p><l>auchs</l>     <r>auch<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>auch</l>      <r>auch<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
-<pardef n="Baumbl/att__n_m">
+<pardef n="Baumbl/att__n_m"><!-- FIXME -->
   <e>       <p><l>ättern</l>    <r>att<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>ätter</l>     <r>att<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>ätter</l>     <r>att<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p><par n="cmp-R"/></e>
@@ -1564,6 +1457,13 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
 </pardef>
+<pardef n="Besitz__n_m">
+  <e>       <p><l>e</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>es</l>        <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
+</pardef>
 <pardef n="Bett__n_nt">
   <e>       <p><l>en</l>        <r><s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>en</l>        <r><s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
@@ -1576,6 +1476,19 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>en</l>        <r><s n="n"/><s n="nt"/><s n="pl"/></r></p><par n="cmp-L"/></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
+</pardef>
+<pardef n="Bild__n_nt">
+  <e>       <p><l>ern</l>       <r><s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>er</l>        <r><s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>er</l>        <r><s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>er</l>        <r><s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>e</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>es</l>        <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>s</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Bisch/of__n_m">
@@ -1693,6 +1606,19 @@
   <e>       <p><l>s</l>         <r>s<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>s</l>         <r>s<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
 </pardef>
+<pardef n="Br/uch__n_m">
+  <e>       <p><l>üchen</l>     <r>uch<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>üche</l>      <r>uch<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>üche</l>      <r>uch<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>üche</l>      <r>uch<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>uche</l>      <r>uch<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>uches</l>     <r>uch<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>uch</l>       <r>uch<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>uch</l>       <r>uch<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>uch</l>       <r>uch<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>uchs</l>      <r>uch<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>uch</l>       <r>uch<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
+</pardef>
 <pardef n="Br/uder__n_m">
   <e>       <p><l>üdern</l>     <r>uder<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>üder</l>      <r>uder<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
@@ -1809,18 +1735,6 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
-</pardef>
-<pardef n="Byp/ass__n_m">
-  <e>       <p><l>ässen</l>     <r>ass<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>ässe</l>      <r>ass<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>ässe</l>      <r>ass<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>ässe</l>      <r>ass<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>asse</l>      <r>ass<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>asses</l>     <r>ass<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>ass</l>       <r>ass<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>ass</l>       <r>ass<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>ass</l>       <r>ass<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>ass</l>       <r>ass<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Camp/us__n_m">
   <e>       <p><l>i</l>         <r>us<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
@@ -1970,6 +1884,10 @@
   <e>       <p><l>i</l>         <r>e<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>i</l>         <r>e<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>i</l>         <r>e<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>e</l>         <r>e<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>e</l>         <r>e<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>e</l>         <r>e<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>e</l>         <r>e<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
 </pardef>
 <pardef n="Contest__n_m">
   <e>       <p><l>en</l>        <r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
@@ -2636,12 +2554,17 @@
   <e>       <p><l>uß</l>        <r>uß<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>uß</l>        <r>uß<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
-<pardef n="Gang__n_m">
-  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
+<pardef n="G/ang__n_m">
+  <e>       <p><l>ängen</l>     <r>ang<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>änge</l>      <r>ang<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>änge</l>      <r>ang<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>änge</l>      <r>ang<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>ange</l>      <r>ang<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>anges</l>     <r>ang<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>ang</l>       <r>ang<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>ang</l>       <r>ang<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>ang</l>       <r>ang<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>angs</l>      <r>ang<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
 </pardef>
 <pardef n="G/ans__n_f">
   <e>       <p><l>änsen</l>     <r>ans<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
@@ -3289,6 +3212,13 @@
   <e>       <p><l>mann</l>      <r>mann<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>manns</l>     <r>mann<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
 </pardef>
+<pardef n="Klee__n_m">
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
+</pardef>
 <pardef n="Kleinod__n_nt">
   <e>       <p><l>en</l>        <r><s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>e</l>         <r><s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
@@ -3546,17 +3476,6 @@
   <e>       <p><l>us</l>        <r>us<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>us</l>        <r>us<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>us</l>        <r>us<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
-</pardef>
-<pardef n="L/aden__n_m">
-  <e>       <p><l>äden</l>      <r>aden<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>äden</l>      <r>aden<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>äden</l>      <r>aden<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>äden</l>      <r>aden<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>aden</l>      <r>aden<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>aden</l>      <r>aden<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>aden</l>      <r>aden<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>adens</l>     <r>aden<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>aden</l>      <r>aden<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Lad/y__n_f">
   <e>       <p><l>ies</l>       <r>y<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
@@ -3831,6 +3750,19 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
+</pardef>
+<pardef n="M/arkt__n_m">
+  <e>       <p><l>ärkten</l>    <r>arkt<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>ärkte</l>     <r>arkt<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>ärkte</l>     <r>arkt<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>ärkte</l>     <r>arkt<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>arkte</l>     <r>arkt<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>arktes</l>    <r>arkt<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>arkt</l>      <r>arkt<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>arkt</l>      <r>arkt<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>arkt</l>      <r>arkt<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>arkts</l>     <r>arkt<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>arkt</l>      <r>arkt<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="M/arsch__n_m">
   <e>       <p><l>ärschen</l>   <r>arsch<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
@@ -5023,6 +4955,11 @@
   <e r="LR"><p><l>äme</l>       <r>am<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>ame</l>       <r>am<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>ames</l>      <r>am<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>am</l>        <r>am<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>am</l>        <r>am<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>am</l>        <r>am<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>ams</l>       <r>am<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>am</l>        <r>am<s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Tr/opf__n_m"><!-- FIXME -->
   <e>       <p><l>opfen</l>     <r>opf<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
@@ -21739,9 +21676,9 @@
 
 <e lm="Aal">             <i>Aal</i><par n="Aal__n_m"/></e>
 <e lm="Aas">             <i></i><par n="/Aas__n_m"/></e>
-<e lm="Abbau">           <i>Abbau</i><par n="Abbau__n_m"/></e>
-<e lm="Abbild">          <i>Abbild</i><par n="Abbild__n_nt"/></e>
-<e lm="Abbruch">         <i>Abbr</i><par n="Abbr/uch__n_m"/></e>
+<e lm="Abbau">           <i>Abbau</i><par n="Bau__n_m"/></e>
+<e lm="Abbild">          <i>Abbild</i><par n="Bild__n_nt"/></e>
+<e lm="Abbruch">         <i>Abbr</i><par n="Br/uch__n_m"/></e>
 <e lm="Abc">             <i>Abc</i><par n="Abc__n_nt"/></e>
 <e lm="Abdruck">         <i>Abdr</i><par n="Abdr/uck__n_m"/></e>
 <e lm="Abend">           <i>Abend</i><par n="Abend__n_m"/></e>
@@ -21754,9 +21691,9 @@
 <e lm="Abfolge">         <i>Abfolge</i><par n="Abfolge__n_f"/></e>
 <e lm="Abfrage">         <i>Abfrage</i><par n="Abfolge__n_f"/></e>
 <e lm="Abfuhr">          <i>Abfuhr</i><par n="Abfuhr__n_f"/></e>
-<e lm="Abgang">          <i>Abg</i><par n="Abg/ang__n_m"/></e>
+<e lm="Abgang">          <i>Abg</i><par n="G/ang__n_m"/></e>
 <e lm="Abgas">           <i>Abgas</i><par n="Abgas__n_nt"/></e>
-<e lm="Abgesang">        <i>Abges</i><par n="Abg/ang__n_m"/></e>
+<e lm="Abgesang">        <i>Abges</i><par n="G/ang__n_m"/></e>
 <e lm="Abgrund">         <i>Abgr</i><par n="Abgr/und__n_m"/></e>
 <e lm="Abgänger">        <i>Abgänger</i><par n="Abenteurer__n_m"/></e>
 <e lm="Abhilfe">         <i>Abhilfe</i><par n="Abhilfe__n_f"/></e>
@@ -21785,7 +21722,7 @@
 <e lm="Abschluss">       <i>Abschl</i><par n="Abfl/uss__n_m"/></e>
 <e lm="Abschluß">        <i>Abschl</i><par n="Abfl/uß__n_m"/></e>
 <e lm="Abschnitt">       <i>Abschnitt</i><par n="Aal__n_m"/></e>
-<e lm="Abschuss">        <i>Absch</i><par n="Absch/uss__n_m"/></e>
+<e lm="Abschuss">        <i>Absch</i><par n="Abfl/uss__n_m"/></e>
 <e lm="Abschwung">       <i>Abschwung</i><par n="Aberglauben__n_m"/></e>
 <e lm="Abseits">         <i>Abseits</i><par n="Abc__n_nt"/></e>
 <e lm="Absicht">         <i>Absicht</i><par n="Abfuhr__n_f"/></e>
@@ -21899,7 +21836,7 @@
 <e lm="Alarm">           <i>Alarm</i><par n="Abend__n_m"/></e>
 <e lm="Albaner">         <i>Albaner</i><par n="Abenteurer__n_m"/></e>
 <e lm="Albe">            <i>Albe</i><par n="Abfolge__n_f"/></e>
-<e lm="Albtraum">        <i>Albtr</i><par n="Albtr/aum__n_m"/></e>
+<e lm="Albtraum">        <i>Albtr</i><par n="R/aum__n_m"/></e>
 <e lm="Album">           <i>Alb</i><par n="Alb/um__n_nt"/></e>
 <e lm="Ale">             <i>Ale</i><par n="Abi__n_nt"/></e>
 <e lm="Alfa">            <i>Alfa</i><par n="Abi__n_nt"/></e>
@@ -21966,7 +21903,7 @@
 <e lm="Anarchie">        <i>Anarchie</i><par n="Abhilfe__n_f"/></e>
 <e lm="Anarchist">       <i>Anarchist</i><par n="Abiturient__n_m"/></e>
 <e lm="Anatomie">        <i>Anatomie</i><par n="Abhilfe__n_f"/></e>
-<e lm="Anbau">           <i>Anbau</i><par n="Abbau__n_m"/></e>
+<e lm="Anbau">           <i>Anbau</i><par n="Bau__n_m"/></e>
 <e lm="Anbeginn">        <i>Anbeginn</i><par n="Aal__n_m"/></e>
 <e lm="Anbetracht">      <i>Anbetracht</i><par n="Anbetracht__n_m"/></e>
 <e lm="Anbieter">        <i>Anbieter</i><par n="Abenteurer__n_m"/></e>
@@ -21980,7 +21917,7 @@
 <e lm="Anekdote">        <i>Anekdote</i><par n="Abfolge__n_f"/></e>
 <e lm="Anerkennung">     <i>Anerkennung</i><par n="Ahnung__n_f"/></e>
 <e lm="Anfall">          <i>Anf</i><par n="Abf/all__n_m"/></e>
-<e lm="Anfang">          <i>Anf</i><par n="Abg/ang__n_m"/></e>
+<e lm="Anfang">          <i>Anf</i><par n="G/ang__n_m"/></e>
 <e lm="Anflug">          <i>Anfl</i><par n="Abz/ug__n_m"/></e>
 <e lm="Anforderung">     <i>Anforderung</i><par n="Ahnung__n_f"/></e>
 <e lm="Anfrage">         <i>Anfrage</i><par n="Abfolge__n_f"/></e>
@@ -21990,12 +21927,12 @@
 <e lm="Angel">           <i>Angel</i><par n="Abfolge__n_f"/></e>
 <e lm="Angelegenheit">   <i>Angelegenheit</i><par n="Abfuhr__n_f"/></e>
 <e lm="Anger">           <i>Anger</i><par n="Abenteurer__n_m"/></e>
-<e lm="Angesicht">       <i>Angesicht</i><par n="Abbild__n_nt"/></e>
+<e lm="Angesicht">       <i>Angesicht</i><par n="Bild__n_nt"/></e>
 <e lm="Angestellte">     <i>Angestellte</i><par n="Affe__n_m"/></e>
 <e lm="Angriff">         <i>Angriff</i><par n="Aal__n_m"/></e>
 <e lm="Angst">           <i></i><par n="/Angst__n_f"/></e>
 <e lm="Anhalt">          <i>Anhalt</i><par n="Aal__n_m"/></e>
-<e lm="Anhang">          <i>Anh</i><par n="Abg/ang__n_m"/></e>
+<e lm="Anhang">          <i>Anh</i><par n="G/ang__n_m"/></e>
 <e lm="Anhieb">          <i>Anhieb</i><par n="Abend__n_m"/></e>
 <e lm="Anhänger">        <i>Anhänger</i><par n="Abenteurer__n_m"/></e>
 <e lm="Anhängsel">       <i>Anhängsel</i><par n="Abenteuer__n_nt"/></e>
@@ -22005,7 +21942,7 @@
 <e lm="Ankauf">          <i>Ank</i><par n="Abl/auf__n_m"/></e>
 <e lm="Anker">           <i>Anker</i><par n="Abenteurer__n_m"/></e>
 <e lm="Anklage">         <i>Anklage</i><par n="Abfolge__n_f"/></e>
-<e lm="Anklang">         <i>Ankl</i><par n="Abg/ang__n_m"/></e>
+<e lm="Anklang">         <i>Ankl</i><par n="G/ang__n_m"/></e>
 <e lm="Ankunft">         <i>Ankunft</i><par n="Abhilfe__n_f"/></e>
 <e lm="Anlage">          <i>Anlage</i><par n="Abfolge__n_f"/></e>
 <e lm="Anlass">          <i>Anl</i><par n="Aderl/ass__n_m"/></e>
@@ -22046,7 +21983,7 @@
 <e lm="Anspielung">      <i>Anspielung</i><par n="Ahnung__n_f"/></e>
 <e lm="Ansporn">         <i>Ansporn</i><par n="Aal__n_m"/></e>
 <e lm="Ansprache">       <i>Ansprache</i><par n="Abfolge__n_f"/></e>
-<e lm="Anspruch">        <i>Anspr</i><par n="Abbr/uch__n_m"/></e>
+<e lm="Anspruch">        <i>Anspr</i><par n="Br/uch__n_m"/></e>
 <e lm="Anstalt">         <i>Anstalt</i><par n="Abfuhr__n_f"/></e>
 <e lm="Anstand">         <i>Anstand</i><par n="Aberglauben__n_m"/></e>
 <e lm="Anstieg">         <i>Anstieg</i><par n="Aberglauben__n_m"/></e>
@@ -22070,7 +22007,7 @@
 <e lm="Antrieb">         <i>Antrieb</i><par n="Aal__n_m"/></e>
 <e lm="Antritt">         <i>Antritt</i><par n="Aal__n_m"/></e>
 <e lm="Antwort">         <i>Antwort</i><par n="Abfuhr__n_f"/></e>
-<e lm="Anwachs">         <i>Anwachs</i><par n="Abfluss__n_m"/></e>
+<e lm="Anwachs">         <i>Anwachs</i><par n="Besitz__n_m"/></e>
 <e lm="Anwalt">          <i>Anw</i><par n="Anw/alt__n_m"/></e>
 <e lm="Anwesen">         <i>Anwesen</i><par n="Abkommen__n_nt"/></e>
 <e lm="Anwesenheit">     <i>Anwesenheit</i><par n="Abhilfe__n_f"/></e>
@@ -22109,10 +22046,10 @@
 <e lm="Arbeitnehmer">    <i>Arbeitnehmer</i><par n="Abenteurer__n_m"/></e>
 <e lm="Arbeitsamt">      <i>Arbeits</i><par n="Arbeits/amt__n_nt"/></e>
 <e lm="Arbeitsgruppe">   <i>Arbeitsgruppe</i><par n="Abfolge__n_f"/></e>
-<e lm="Arbeitskraft">    <i>Arbeitskr</i><par n="Arbeitskr/aft__n_f"/></e>
+<e lm="Arbeitskraft">    <i>Arbeitskr</i><par n="Kr/aft__n_f"/></e>
 <e lm="Arbeitslose">     <i>Arbeitslose</i><par n="Affe__n_m"/></e>
 <e lm="Arbeitslosigkeit"><i>Arbeitslosigkeit</i><par n="Abhilfe__n_f"/></e>
-<e lm="Arbeitsmarkt">    <i>Arbeitsm</i><par n="Arbeitsm/arkt__n_m"/></e>
+<e lm="Arbeitsmarkt">    <i>Arbeitsm</i><par n="M/arkt__n_m"/></e>
 <e lm="Arbeitsplatz">    <i>Arbeitspl</i><par n="Abs/atz__n_m"/></e>
 <e lm="Arche">           <i>Arche</i><par n="Abfolge__n_f"/></e>
 <e lm="Archipel">        <i>Archipel</i><par n="Abend__n_m"/></e>
@@ -22203,8 +22140,8 @@
 <e lm="Audit">           <i>Audit</i><par n="Affront__n_m"/></e>
 <e lm="Auditorium">      <i>Auditori</i><par n="Alb/um__n_nt"/></e>
 <e lm="Aue">             <i>Aue</i><par n="Abfolge__n_f"/></e>
-<e lm="Aufbau">          <i>Aufbau</i><par n="Abbau__n_m"/></e>
-<e lm="Aufbruch">        <i>Aufbr</i><par n="Abbr/uch__n_m"/></e>
+<e lm="Aufbau">          <i>Aufbau</i><par n="Bau__n_m"/></e>
+<e lm="Aufbruch">        <i>Aufbr</i><par n="Br/uch__n_m"/></e>
 <e lm="Aufdruck">        <i>Aufdruck</i><par n="Aal__n_m"/></e>
 <e lm="Aufenthalt">      <i>Aufenthalt</i><par n="Aberglauben__n_m"/></e>
 <e lm="Auffahrt">        <i>Auffahrt</i><par n="Abfuhr__n_f"/></e>
@@ -22219,7 +22156,7 @@
 <e lm="Auflage">         <i>Auflage</i><par n="Abfolge__n_f"/></e>
 <e lm="Auflösung">       <i>Auflösung</i><par n="Ahnung__n_f"/></e>
 <e lm="Aufmachung">      <i>Aufmachung</i><par n="Ahnung__n_f"/></e>
-<e lm="Aufmarsch">       <i>Aufm</i><par n="Aufm/arsch__n_m"/></e>
+<e lm="Aufmarsch">       <i>Aufm</i><par n="M/arsch__n_m"/></e>
 <e lm="Aufmerksamkeit">  <i>Aufmerksamkeit</i><par n="Abfuhr__n_f"/></e>
 <e lm="Aufnahme">        <i>Aufnahme</i><par n="Abfolge__n_f"/></e>
 <e lm="Aufprall">        <i>Aufprall</i><par n="Aal__n_m"/></e>
@@ -22255,10 +22192,10 @@
 <e lm="Aula">            <i>Aul</i><par n="Agend/a__n_f"/></e>
 <e lm="Aura">            <i>Aur</i><par n="Agend/a__n_f"/></e>
 <e lm="Aus">             <i>Aus</i><par n="Aus__n_nt"/></e>
-<e lm="Ausbau">          <i>Ausbau</i><par n="Abbau__n_m"/></e>
+<e lm="Ausbau">          <i>Ausbau</i><par n="Bau__n_m"/></e>
 <e lm="Ausbildung">      <i>Ausbildung</i><par n="Ahnung__n_f"/></e>
 <e lm="Ausblick">        <i>Ausblick</i><par n="Aal__n_m"/></e>
-<e lm="Ausbruch">        <i>Ausbr</i><par n="Abbr/uch__n_m"/></e>
+<e lm="Ausbruch">        <i>Ausbr</i><par n="Br/uch__n_m"/></e>
 <e lm="Ausdauer">        <i>Ausdauer</i><par n="Abhilfe__n_f"/></e>
 <e lm="Ausdruck">        <i>Ausdr</i><par n="Ausdr/uck__n_m"/></e>
 <e lm="Ausfahrt">        <i>Ausfahrt</i><par n="Abfuhr__n_f"/></e>
@@ -22267,9 +22204,9 @@
 <e lm="Ausfuhr">         <i>Ausfuhr</i><par n="Abfuhr__n_f"/></e>
 <e lm="Ausführung">      <i>Ausführung</i><par n="Ahnung__n_f"/></e>
 <e lm="Ausgabe">         <i>Ausgabe</i><par n="Abfolge__n_f"/></e>
-<e lm="Ausgang">         <i>Ausg</i><par n="Abg/ang__n_m"/></e>
+<e lm="Ausgang">         <i>Ausg</i><par n="G/ang__n_m"/></e>
 <e lm="Ausgleich">       <i>Ausgleich</i><par n="Abend__n_m"/></e>
-<e lm="Aushang">         <i>Aush</i><par n="Abg/ang__n_m"/></e>
+<e lm="Aushang">         <i>Aush</i><par n="G/ang__n_m"/></e>
 <e lm="Aushilfe">        <i>Aushilfe</i><par n="Abfolge__n_f"/></e>
 <e lm="Auskommen">       <i>Auskommen</i><par n="Abkommen__n_nt"/></e>
 <e lm="Auskunft">        <i>Ausk</i><par n="Ausk/unft__n_f"/></e>
@@ -22289,13 +22226,13 @@
 <e lm="Aussage">         <i>Aussage</i><par n="Abfolge__n_f"/></e>
 <e lm="Ausschau">        <i>Ausschau</i><par n="Abhilfe__n_f"/></e>
 <e lm="Ausschlag">       <i>Ausschl</i><par n="Anschl/ag__n_m"/></e>
-<e lm="Ausschluss">      <i>Ausschl</i><par n="Absch/uss__n_m"/></e>
+<e lm="Ausschluss">      <i>Ausschl</i><par n="Abfl/uss__n_m"/></e>
 <e lm="Ausschuss">       <i>Aussch</i><par n="Abfl/uss__n_m"/></e>
 <e lm="Ausschuß">        <i>Aussch</i><par n="Abfl/uß__n_m"/></e>
 <e lm="Aussehen">        <i>Aussehen</i><par n="Abitur__n_nt"/></e>
 <e lm="Aussicht">        <i>Aussicht</i><par n="Abfuhr__n_f"/></e>
 <e lm="Aussprache">      <i>Aussprache</i><par n="Abfolge__n_f"/></e>
-<e lm="Ausspruch">       <i>Ausspr</i><par n="Abbr/uch__n_m"/></e>
+<e lm="Ausspruch">       <i>Ausspr</i><par n="Br/uch__n_m"/></e>
 <e lm="Ausstattung">     <i>Ausstattung</i><par n="Ahnung__n_f"/></e>
 <e lm="Ausstellung">     <i>Ausstellung</i><par n="Ahnung__n_f"/></e>
 <e lm="Ausstieg">        <i>Ausstieg</i><par n="Aal__n_m"/></e>
@@ -22371,7 +22308,7 @@
 <e lm="Ballon">          <i>Ballon</i><par n="Ballon__n_m"/></e>
 <e lm="Ballspiel">       <i>Ballspiel</i><par n="Aggregat__n_nt"/></e>
 <e lm="Ballung">         <i>Ballung</i><par n="Ahnung__n_f"/></e>
-<e lm="Ballungsraum">    <i>Ballungsr</i><par n="Albtr/aum__n_m"/></e>
+<e lm="Ballungsraum">    <i>Ballungsr</i><par n="R/aum__n_m"/></e>
 <e lm="Balsam">          <i>Balsam</i><par n="Aal__n_m"/></e>
 <e lm="Balte">           <i>Balte</i><par n="Affe__n_m"/></e>
 <e lm="Bamberger">       <i>Bamberger</i><par n="Abenteurer__n_m"/></e>
@@ -22426,11 +22363,11 @@
 <e lm="Bataillon">       <i>Bataillon</i><par n="Abteil__n_nt"/></e>
 <e lm="Batterie">        <i>Batterie</i><par n="Abfolge__n_f"/></e>
 <e lm="Batzen">          <i>Batzen</i><par n="Abkommen__n_nt"/></e>
-<e lm="Bau">             <i>Bau</i><par n="Abbau__n_m"/></e>
+<e lm="Bau">             <i>Bau</i><par n="Bau__n_m"/></e>
 <e lm="Bauch">           <i>B</i><par n="B/auch__n_m"/></e>
 <e lm="Bauchmensch">     <i>Bauchmensch</i><par n="Abiturient__n_m"/></e>
 <e lm="Bauer">           <i>Bauer</i><par n="Affe__n_m"/></e>
-<e lm="Baum">            <i>B</i><par n="Albtr/aum__n_m"/></e>
+<e lm="Baum">            <i>B</i><par n="R/aum__n_m"/></e>
 <e lm="Baumblatt">       <i>Baumbl</i><par n="Baumbl/att__n_m"/></e>
 <e lm="Bausch">          <i>B</i><par n="B/ausch__n_m"/></e>
 <e lm="Bazar">           <i>Bazar</i><par n="Abend__n_m"/></e>
@@ -22530,7 +22467,7 @@
 <e lm="Beschwerde">      <i>Beschwerde</i><par n="Abfolge__n_f"/></e>
 <e lm="Beschäftigte">    <i>Beschäftigte</i><par n="Affe__n_m"/></e>
 <e lm="Besen">           <i>Besen</i><par n="Abkommen__n_nt"/></e>
-<e lm="Besitz">          <i>Besitz</i><par n="Abfluss__n_m"/></e>
+<e lm="Besitz">          <i>Besitz</i><par n="Besitz__n_m"/></e>
 <e lm="Besoldung">       <i>Besoldung</i><par n="Ahnung__n_f"/></e>
 <e lm="Besorgnis">       <i>Besorgnis</i><par n="Bedrängnis__n_f"/></e>
 <e lm="Besserung">       <i>Besserung</i><par n="Ahnung__n_f"/></e>
@@ -22570,14 +22507,14 @@
 <e lm="Bien">            <i>Bien</i><par n="Aberglauben__n_m"/></e>
 <e lm="Biene">           <i>Biene</i><par n="Abfolge__n_f"/></e>
 <e lm="Bier">            <i>Bier</i><par n="Aggregat__n_nt"/></e>
-<e lm="Biest">           <i>Biest</i><par n="Abbild__n_nt"/></e>
+<e lm="Biest">           <i>Biest</i><par n="Bild__n_nt"/></e>
 <e lm="Biet">            <i>Biet</i><par n="Aggregat__n_nt"/></e>
 <e lm="Bigband">         <i>Bigband</i><par n="Ag__n_f"/></e>
 <e lm="Bike">            <i>Bike</i><par n="Abi__n_nt"/></e>
 <e lm="Biker">           <i>Biker</i><par n="Abenteurer__n_m"/></e>
 <e lm="Bikini">          <i>Bikini</i><par n="Affront__n_m"/></e>
 <e lm="Bilanz">          <i>Bilanz</i><par n="Abfuhr__n_f"/></e>
-<e lm="Bild">            <i>Bild</i><par n="Abbild__n_nt"/></e>
+<e lm="Bild">            <i>Bild</i><par n="Bild__n_nt"/></e>
 <e lm="Bildner">         <i>Bildner</i><par n="Abenteurer__n_m"/></e>
 <e lm="Bildnis">         <i>Bildnis</i><par n="Ärgernis__n_nt"/></e>
 <e lm="Bildung">         <i>Bildung</i><par n="Ahnung__n_f"/></e>
@@ -22596,7 +22533,7 @@
 <e lm="Biologie">        <i>Biologie</i><par n="Abhilfe__n_f"/></e>
 <e lm="Biotop">          <i>Biotop</i><par n="Aal__n_m"/></e>
 <e lm="Birke">           <i>Birke</i><par n="Abfolge__n_f"/></e>
-<e lm="Birnbaum">        <i>Birnb</i><par n="Albtr/aum__n_m"/></e>
+<e lm="Birnbaum">        <i>Birnb</i><par n="R/aum__n_m"/></e>
 <e lm="Birne">           <i>Birne</i><par n="Abfolge__n_f"/></e>
 <e lm="Birthday">        <i>Birthday</i><par n="Anbetracht__n_m"/></e>
 <e lm="Bischof">         <i>Bisch</i><par n="Bisch/of__n_m"/></e>
@@ -22688,7 +22625,7 @@
 <e lm="Brauch">          <i>Br</i><par n="B/auch__n_m"/></e>
 <e lm="Braue">           <i>Braue</i><par n="Abfolge__n_f"/></e>
 <e lm="Brauerei">        <i>Brauerei</i><par n="Abfuhr__n_f"/></e>
-<e lm="Braus">           <i>Braus</i><par n="Abfluss__n_m"/></e>
+<e lm="Braus">           <i>Braus</i><par n="Besitz__n_m"/></e>
 <e lm="Brause">          <i>Brause</i><par n="Abfolge__n_f"/></e>
 <e lm="Braut">           <i>Br</i><par n="Br/aut__n_f"/></e>
 <e lm="Bravo">           <i>Bravo</i><par n="Abi__n_nt"/></e>
@@ -22705,7 +22642,7 @@
 <e lm="Brennstoff">      <i>Brennstoff</i><par n="Aal__n_m"/></e>
 <e lm="Bresche">         <i>Bresche</i><par n="Abfolge__n_f"/></e>
 <e lm="Bretone">         <i>Bretone</i><par n="Affe__n_m"/></e>
-<e lm="Brett">           <i>Brett</i><par n="Abbild__n_nt"/></e>
+<e lm="Brett">           <i>Brett</i><par n="Bild__n_nt"/></e>
 <e lm="Brezel">          <i>Brezel</i><par n="Abfolge__n_f"/></e>
 <e lm="Bridge">          <i>Bridge</i><par n="Ag__n_f"/></e>
 <e lm="Brie">            <i>Brie</i><par n="Affront__n_m"/></e>
@@ -22724,7 +22661,7 @@
 <e lm="Broschüre">       <i>Broschüre</i><par n="Abfolge__n_f"/></e>
 <e lm="Brot">            <i>Brot</i><par n="Aggregat__n_nt"/></e>
 <e lm="Browser">         <i>Browser</i><par n="Abenteurer__n_m"/></e>
-<e lm="Bruch">           <i>Br</i><par n="Abbr/uch__n_m"/></e>
+<e lm="Bruch">           <i>Br</i><par n="Br/uch__n_m"/></e>
 <e lm="Bruder">          <i>Br</i><par n="Br/uder__n_m"/></e>
 <e lm="Brunch">          <i>Brunch</i><par n="Aal__n_m"/></e>
 <e lm="Brunn">           <i>Brunn</i><par n="Abiturient__n_m"/></e>
@@ -22747,7 +22684,7 @@
 <e lm="Buchstabe">       <i>Buchstabe</i><par n="Buchstabe__n_m"/></e>
 <e lm="Bucht">           <i>Bucht</i><par n="Abfuhr__n_f"/></e>
 <e lm="Buckel">          <i>Buckel</i><par n="Abenteurer__n_m"/></e>
-<e lm="Buddhismus">      <i>Buddhismus</i><par n="Abfluss__n_m"/></e>
+<e lm="Buddhismus">      <i>Buddhismus</i><par n="Besitz__n_m"/></e>
 <e lm="Buddhist">        <i>Buddhist</i><par n="Abiturient__n_m"/></e>
 <e lm="Bude">            <i>Bude</i><par n="Abfolge__n_f"/></e>
 <e lm="Budget">          <i>Budget</i><par n="Abi__n_nt"/></e>
@@ -22790,8 +22727,8 @@
 <e lm="Butterfly">       <i>Butterfly</i><par n="Affront__n_m"/></e>
 <e lm="Button">          <i>Button</i><par n="Affront__n_m"/></e>
 <e lm="Butz">            <i>Butz</i><par n="Abiturient__n_m"/></e>
-<e lm="Bußgeld">         <i>Bußgeld</i><par n="Abbild__n_nt"/></e>
-<e lm="Bypass">          <i>Byp</i><par n="Byp/ass__n_m"/></e>
+<e lm="Bußgeld">         <i>Bußgeld</i><par n="Bild__n_nt"/></e>
+<e lm="Bypass">          <i>Byp</i><par n="Aderl/ass__n_m"/></e>
 <e lm="Byte">            <i>Byte</i><par n="Abi__n_nt"/></e>
 <e lm="Bär">             <i>Bär</i><par n="Abiturient__n_m"/></e>
 <e lm="Bäuerin">         <i>Bäuerin</i><par n="Ärztin__n_f"/></e>
@@ -22854,7 +22791,7 @@
 <e lm="Cent">            <i>Cent</i><par n="Affront__n_m"/></e>
 <e lm="Center">          <i>Center</i><par n="Center__n_nt"/></e>
 <e lm="Chairman">        <i>Chairm</i><par n="Chairm/an__n_m"/></e>
-<e lm="Chairman">        <i>Chairman</i><par n="Abitur__n_nt"/></e>
+<e lm="Chairman">        <i>Chairman</i><par n="Abitur__n_nt"/></e><!-- FIXME nt? -->
 <e lm="Champagner">      <i>Champagner</i><par n="Aberglauben__n_m"/></e>
 <e lm="Champagnermarke"> <i>Champagnermarke</i><par n="Abfolge__n_f"/></e>
 <e lm="Champion">        <i>Champion</i><par n="Champion__n_m"/></e>
@@ -22889,7 +22826,7 @@
 <e lm="Chief">           <i>Chief</i><par n="Affront__n_m"/></e>
 <e lm="Chiffre">         <i>Chiffre</i><par n="Abfolge__n_f"/></e>
 <e lm="Chilene">         <i>Chilene</i><par n="Affe__n_m"/></e>
-<e lm="Chili">           <i>Chili</i><par n="Abfluss__n_m"/></e>
+<e lm="Chili">           <i>Chili</i><par n="Besitz__n_m"/></e>
 <e lm="Chinese">         <i>Chinese</i><par n="Affe__n_m"/></e>
 <e lm="Chinesisch">      <i>Chinesisch</i><par n="Chinesisch__n_nt"/></e>
 <e lm="Chip">            <i>Chip</i><par n="Affront__n_m"/></e>
@@ -22943,7 +22880,6 @@
 <e lm="Container">       <i>Container</i><par n="Abenteurer__n_m"/></e>
 <e lm="Conte">           <i>Cont</i><par n="Cont/e__n_m"/></e>
 <e lm="Conte">           <i>Conte</i><par n="Ag__n_f"/></e>
-<e lm="Conte">           <i>Conte</i><par n="Anbetracht__n_m"/></e>
 <e lm="Contest">         <i>Contest</i><par n="Contest__n_m"/></e>
 <e lm="Contra">          <i>Contra</i><par n="Abi__n_nt"/></e>
 <e lm="Controller">      <i>Controller</i><par n="Abenteurer__n_m"/></e>
@@ -22990,7 +22926,7 @@
 <e lm="Daheim">          <i>Daheim</i><par n="Abitur__n_nt"/></e>
 <e lm="Dame">            <i>Dame</i><par n="Abfolge__n_f"/></e>
 <e lm="Damm">            <i>D</i><par n="D/amm__n_m"/></e>
-<e lm="Damoklesschwert"> <i>Damoklesschwert</i><par n="Abbild__n_nt"/></e>
+<e lm="Damoklesschwert"> <i>Damoklesschwert</i><par n="Bild__n_nt"/></e>
 <e lm="Dampf">           <i>D</i><par n="D/ampf__n_m"/></e>
 <e lm="Dampfer">         <i>Dampfer</i><par n="Abenteurer__n_m"/></e>
 <e lm="Dancefloor">      <i>Dancefloor</i><par n="Affront__n_m"/></e>
@@ -23234,7 +23170,7 @@
 <e lm="Duett">           <i>Duett</i><par n="Abteil__n_nt"/></e>
 <e lm="Duft">            <i>D</i><par n="D/uft__n_m"/></e>
 <e lm="Duke">            <i>Duke</i><par n="Affront__n_m"/></e>
-<e lm="Duktus">          <i>Duktus</i><par n="Abfluss__n_m"/></e>
+<e lm="Duktus">          <i>Duktus</i><par n="Besitz__n_m"/></e>
 <e lm="Dumping">         <i>Dumping</i><par n="Abitur__n_nt"/></e>
 <e lm="Dunkel">          <i>Dunkel</i><par n="Abitur__n_nt"/></e>
 <e lm="Dunst">           <i>D</i><par n="D/unst__n_m"/></e>
@@ -23244,7 +23180,7 @@
 <e lm="Durchblutung">    <i>Durchblutung</i><par n="Ahnung__n_f"/></e>
 <e lm="Durcheinander">   <i>Durcheinander</i><par n="Abenteuer__n_nt"/></e>
 <e lm="Durchfall">       <i>Durchf</i><par n="Abf/all__n_m"/></e>
-<e lm="Durchgang">       <i>Durchg</i><par n="Abg/ang__n_m"/></e>
+<e lm="Durchgang">       <i>Durchg</i><par n="G/ang__n_m"/></e>
 <e lm="Durchmesser">     <i>Durchmesser</i><par n="Abenteurer__n_m"/></e>
 <e lm="Durchrostung">    <i>Durchrostung</i><par n="Abhilfe__n_f"/></e>
 <e lm="Durchschnitt">    <i>Durchschnitt</i><par n="Aal__n_m"/></e>
@@ -23302,9 +23238,9 @@
 <e lm="Eiland">          <i>Eiland</i><par n="Aggregat__n_nt"/></e>
 <e lm="Eile">            <i>Eile</i><par n="Abhilfe__n_f"/></e>
 <e lm="Eimer">           <i>Eimer</i><par n="Abenteurer__n_m"/></e>
-<e lm="Einbau">          <i>Einbau</i><par n="Abbau__n_m"/></e>
+<e lm="Einbau">          <i>Einbau</i><par n="Bau__n_m"/></e>
 <e lm="Einblick">        <i>Einblick</i><par n="Aal__n_m"/></e>
-<e lm="Einbruch">        <i>Einbr</i><par n="Abbr/uch__n_m"/></e>
+<e lm="Einbruch">        <i>Einbr</i><par n="Br/uch__n_m"/></e>
 <e lm="Einbuße">         <i>Einbuße</i><par n="Abfolge__n_f"/></e>
 <e lm="Eindruck">        <i>Eindr</i><par n="Abdr/uck__n_m"/></e>
 <e lm="Einfall">         <i>Einf</i><par n="Abf/all__n_m"/></e>
@@ -23312,7 +23248,7 @@
 <e lm="Einflussnahme">   <i>Einflussnahme</i><par n="Abfolge__n_f"/></e>
 <e lm="Einfluß">         <i>Einfl</i><par n="Abfl/uß__n_m"/></e>
 <e lm="Einfuhr">         <i>Einfuhr</i><par n="Abfuhr__n_f"/></e>
-<e lm="Eingang">         <i>Eing</i><par n="Abg/ang__n_m"/></e>
+<e lm="Eingang">         <i>Eing</i><par n="G/ang__n_m"/></e>
 <e lm="Eingeständnis">   <i>Eingeständnis</i><par n="Ärgernis__n_nt"/></e>
 <e lm="Eingriff">        <i>Eingriff</i><par n="Aal__n_m"/></e>
 <e lm="Einhalt">         <i>Einhalt</i><par n="Aal__n_m"/></e>
@@ -23320,7 +23256,7 @@
 <e lm="Einigkeit">       <i>Einigkeit</i><par n="Abhilfe__n_f"/></e>
 <e lm="Einkauf">         <i>Eink</i><par n="Abl/auf__n_m"/></e>
 <e lm="Einkehr">         <i>Einkehr</i><par n="Abhilfe__n_f"/></e>
-<e lm="Einklang">        <i>Einkl</i><par n="Abg/ang__n_m"/></e>
+<e lm="Einklang">        <i>Einkl</i><par n="G/ang__n_m"/></e>
 <e lm="Einkommen">       <i>Einkommen</i><par n="Abkommen__n_nt"/></e>
 <e lm="Einkünfte">       <i>Einkünfte</i><par n="Annalen__n_f"/></e>
 <e lm="Einladung">       <i>Einladung</i><par n="Ahnung__n_f"/></e>
@@ -23329,7 +23265,7 @@
 <e lm="Einlaß">          <i>Einl</i><par n="Aderl/aß__n_m"/></e>
 <e lm="Einleitung">      <i>Einleitung</i><par n="Ahnung__n_f"/></e>
 <e lm="Einmaleins">      <i>Einmaleins</i><par n="Abc__n_nt"/></e>
-<e lm="Einmarsch">       <i>Einm</i><par n="Aufm/arsch__n_m"/></e>
+<e lm="Einmarsch">       <i>Einm</i><par n="M/arsch__n_m"/></e>
 <e lm="Einnahme">        <i>Einnahme</i><par n="Abfolge__n_f"/></e>
 <e lm="Einordnung">      <i>Einordnung</i><par n="Ahnung__n_f"/></e>
 <e lm="Einreise">        <i>Einreise</i><par n="Abfolge__n_f"/></e>
@@ -23338,10 +23274,10 @@
 <e lm="Einschluß">       <i>Einschl</i><par n="Abfl/uß__n_m"/></e>
 <e lm="Einschnitt">      <i>Einschnitt</i><par n="Aal__n_m"/></e>
 <e lm="Einschränkung">   <i>Einschränkung</i><par n="Ahnung__n_f"/></e>
-<e lm="Einsendeschluss"> <i>Einsendeschl</i><par n="Absch/uss__n_m"/></e>
+<e lm="Einsendeschluss"> <i>Einsendeschl</i><par n="Abfl/uss__n_m"/></e>
 <e lm="Einsicht">        <i>Einsicht</i><par n="Abfuhr__n_f"/></e>
 <e lm="Einsprache">      <i>Einsprache</i><par n="Abfolge__n_f"/></e>
-<e lm="Einspruch">       <i>Einspr</i><par n="Abbr/uch__n_m"/></e>
+<e lm="Einspruch">       <i>Einspr</i><par n="Br/uch__n_m"/></e>
 <e lm="Einstand">        <i>Einst</i><par n="Abst/and__n_m"/></e>
 <e lm="Einstellung">     <i>Einstellung</i><par n="Ahnung__n_f"/></e>
 <e lm="Einstieg">        <i>Einstieg</i><par n="Aal__n_m"/></e>
@@ -23406,7 +23342,7 @@
 <e lm="Emittent">        <i>Emittent</i><par n="Abiturient__n_m"/></e>
 <e lm="Emotion">         <i>Emotion</i><par n="Abfuhr__n_f"/></e>
 <e lm="Emotionalität">   <i>Emotionalität</i><par n="Abhilfe__n_f"/></e>
-<e lm="Empfang">         <i>Empf</i><par n="Abg/ang__n_m"/></e>
+<e lm="Empfang">         <i>Empf</i><par n="G/ang__n_m"/></e>
 <e lm="Empire">          <i>Empire</i><par n="Abi__n_nt"/></e>
 <e lm="Empore">          <i>Empore</i><par n="Abfolge__n_f"/></e>
 <e lm="Endanwender">     <i>Endanwender</i><par n="Abenteurer__n_m"/></e>
@@ -23421,7 +23357,7 @@
 <e lm="Englisch">        <i>Englisch</i><par n="Deutsch__n_nt"/></e>
 <e lm="Engländer">       <i>Engländer</i><par n="Abenteurer__n_m"/></e>
 <e lm="Enkel">           <i>Enkel</i><par n="Abenteurer__n_m"/></e>
-<e lm="Enkelkind">       <i>Enkelkind</i><par n="Abbild__n_nt"/></e>
+<e lm="Enkelkind">       <i>Enkelkind</i><par n="Bild__n_nt"/></e>
 <e lm="Enkeltochter">    <i>Enkelt</i><par n="T/ochter__n_f"/></e>
 <e lm="Enklave">         <i>Enklave</i><par n="Abfolge__n_f"/></e>
 <e lm="Enquete">         <i>Enquete</i><par n="Abfolge__n_f"/></e>
@@ -23433,7 +23369,7 @@
 <e lm="Entfernung">      <i>Entfernung</i><par n="Ahnung__n_f"/></e>
 <e lm="Entgegenkommen">  <i>Entgegenkommen</i><par n="Abitur__n_nt"/></e>
 <e lm="Entgelt">         <i>Entgelt</i><par n="Aggregat__n_nt"/></e>
-<e lm="Enthusiasmus">    <i>Enthusiasmus</i><par n="Abfluss__n_m"/></e>
+<e lm="Enthusiasmus">    <i>Enthusiasmus</i><par n="Besitz__n_m"/></e>
 <e lm="Enthusiast">      <i>Enthusiast</i><par n="Abiturient__n_m"/></e>
 <e lm="Entlassung">      <i>Entlassung</i><par n="Ahnung__n_f"/></e>
 <e lm="Entlastung">      <i>Entlastung</i><par n="Ahnung__n_f"/></e>
@@ -23496,7 +23432,7 @@
 <e lm="Eros">            <i>Eros</i><par n="Champion__n_m"/></e>
 <e lm="Erosion">         <i>Erosion</i><par n="Abfuhr__n_f"/></e>
 <e lm="Erotik">          <i>Erotik</i><par n="Abfuhr__n_f"/></e>
-<e lm="Ersatz">          <i>Ersatz</i><par n="Abfluss__n_m"/></e>
+<e lm="Ersatz">          <i>Ersatz</i><par n="Besitz__n_m"/></e>
 <e lm="Erschöpfung">     <i>Erschöpfung</i><par n="Ahnung__n_f"/></e>
 <e lm="Ersparnis">       <i>Ersparnis</i><par n="Ärgernis__n_nt"/></e>
 <e lm="Erstarrung">      <i>Erstarrung</i><par n="Ahnung__n_f"/></e>
@@ -23628,7 +23564,7 @@
 <e lm="Fanatiker">       <i>Fanatiker</i><par n="Abenteurer__n_m"/></e>
 <e lm="Fanatismus">      <i>Fanatismus</i><par n="Anbetracht__n_m"/></e>
 <e lm="Fanfare">         <i>Fanfare</i><par n="Abfolge__n_f"/></e>
-<e lm="Fang">            <i>F</i><par n="Abg/ang__n_m"/></e>
+<e lm="Fang">            <i>F</i><par n="G/ang__n_m"/></e>
 <e lm="Fantasie">        <i>Fantasie</i><par n="Abfolge__n_f"/></e>
 <e lm="Farbe">           <i>Farbe</i><par n="Abfolge__n_f"/></e>
 <e lm="Farce">           <i>Farce</i><par n="Abfolge__n_f"/></e>
@@ -23665,7 +23601,7 @@
 <e lm="Feierabend">      <i>Feierabend</i><par n="Abend__n_m"/></e>
 <e lm="Feige">           <i>Feige</i><par n="Abfolge__n_f"/></e>
 <e lm="Feind">           <i>Feind</i><par n="Aal__n_m"/></e>
-<e lm="Feld">            <i>Feld</i><par n="Abbild__n_nt"/></e>
+<e lm="Feld">            <i>Feld</i><par n="Bild__n_nt"/></e>
 <e lm="Feldbluse">       <i>Feldbluse</i><par n="Abfolge__n_f"/></e>
 <e lm="Felge">           <i>Felge</i><par n="Abfolge__n_f"/></e>
 <e lm="Fell">            <i>Fell</i><par n="Aggregat__n_nt"/></e>
@@ -23737,7 +23673,7 @@
 <e lm="Fitness">         <i>Fitness</i><par n="Abhilfe__n_f"/></e>
 <e lm="Fitneß">          <i>Fitneß</i><par n="Abhilfe__n_f"/></e>
 <e lm="Fittich">         <i>Fittich</i><par n="Aal__n_m"/></e>
-<e lm="Fitz">            <i>Fitz</i><par n="Abfluss__n_m"/></e>
+<e lm="Fitz">            <i>Fitz</i><par n="Besitz__n_m"/></e>
 <e lm="Fixing">          <i>Fixing</i><par n="Abi__n_nt"/></e>
 <e lm="Fjord">           <i>Fjord</i><par n="Aal__n_m"/></e>
 <e lm="Flagge">          <i>Flagge</i><par n="Abfolge__n_f"/></e>
@@ -23756,7 +23692,7 @@
 <e lm="Fledermaus">      <i>Flederm</i><par n="Flederm/aus__n_f"/></e>
 <e lm="Fleisch">         <i>Fleisch</i><par n="Aggregat__n_nt"/></e>
 <e lm="Fleischer">       <i>Fleischer</i><par n="Abenteurer__n_m"/></e>
-<e lm="Fleiß">           <i>Fleiß</i><par n="Abfluss__n_m"/></e>
+<e lm="Fleiß">           <i>Fleiß</i><par n="Besitz__n_m"/></e>
 <e lm="Flexibilität">    <i>Flexibilität</i><par n="Abhilfe__n_f"/></e>
 <e lm="Fliege">          <i>Fliege</i><par n="Abfolge__n_f"/></e>
 <e lm="Fliese">          <i>Fliese</i><par n="Abfolge__n_f"/></e>
@@ -23772,7 +23708,7 @@
 <e lm="Floskel">         <i>Floskel</i><par n="Abfolge__n_f"/></e>
 <e lm="Flotte">          <i>Flotte</i><par n="Abfolge__n_f"/></e>
 <e lm="Floß">            <i>Fl</i><par n="Fl/oß__n_nt"/></e>
-<e lm="Fluch">           <i>Fl</i><par n="Abbr/uch__n_m"/></e>
+<e lm="Fluch">           <i>Fl</i><par n="Br/uch__n_m"/></e>
 <e lm="Flucht">          <i>Flucht</i><par n="Abhilfe__n_f"/></e>
 <e lm="Flug">            <i>Fl</i><par n="Abz/ug__n_m"/></e>
 <e lm="Flughafen">       <i>Flugh</i><par n="Flugh/afen__n_m"/></e>
@@ -23780,7 +23716,7 @@
 <e lm="Fluktuation">     <i>Fluktuation</i><par n="Abfuhr__n_f"/></e>
 <e lm="Flur">            <i>Flur</i><par n="Abend__n_m"/></e>
 <e lm="Flur">            <i>Flur</i><par n="Abfuhr__n_f"/></e>
-<e lm="Fluss">           <i>Fl</i><par n="Absch/uss__n_m"/></e>
+<e lm="Fluss">           <i>Fl</i><par n="Abfl/uss__n_m"/></e>
 <e lm="Flut">            <i>Flut</i><par n="Abfuhr__n_f"/></e>
 <e lm="Flyer">           <i>Flyer</i><par n="Abenteurer__n_m"/></e>
 <e lm="Fläche">          <i>Fläche</i><par n="Abfolge__n_f"/></e>
@@ -23817,7 +23753,7 @@
 <e lm="Fort">            <i>Fort</i><par n="Abi__n_nt"/></e>
 <e lm="Fortbestand">     <i>Fortbestand</i><par n="Aberglauben__n_m"/></e>
 <e lm="Forte">           <i>Forte</i><par n="Abitur__n_nt"/></e>
-<e lm="Fortgang">        <i>Fortg</i><par n="Abg/ang__n_m"/></e>
+<e lm="Fortgang">        <i>Fortg</i><par n="G/ang__n_m"/></e>
 <e lm="Fortschritt">     <i>Fortschritt</i><par n="Aal__n_m"/></e>
 <e lm="Fortune">         <i>Fortune</i><par n="Abhilfe__n_f"/></e>
 <e lm="Forum">           <i>For</i><par n="Alb/um__n_nt"/></e>
@@ -23858,7 +23794,7 @@
 <e lm="Freiherr">        <i>Freiherr</i><par n="Abiturient__n_m"/></e>
 <e lm="Freikarte">       <i>Freikarte</i><par n="Abfolge__n_f"/></e>
 <e lm="Freischärler">    <i>Freischärler</i><par n="Abenteurer__n_m"/></e>
-<e lm="Freispruch">      <i>Freispr</i><par n="Abbr/uch__n_m"/></e>
+<e lm="Freispruch">      <i>Freispr</i><par n="Br/uch__n_m"/></e>
 <e lm="Freistaat">       <i>Freistaat</i><par n="Aggressor__n_m"/></e>
 <e lm="Freitag">         <i>Freitag</i><par n="Abend__n_m"/></e>
 <e lm="Freitod">         <i>Freitod</i><par n="Aal__n_m"/></e>
@@ -23923,7 +23859,7 @@
 <e lm="Fächer">          <i>Fächer</i><par n="Abenteurer__n_m"/></e>
 <e lm="Fähre">           <i>Fähre</i><par n="Abfolge__n_f"/></e>
 <e lm="Fährte">          <i>Fährte</i><par n="Abfolge__n_f"/></e>
-<e lm="Föderalismus">    <i>Föderalismus</i><par n="Abfluss__n_m"/></e>
+<e lm="Föderalismus">    <i>Föderalismus</i><par n="Besitz__n_m"/></e>
 <e lm="Föderation">      <i>Föderation</i><par n="Abfuhr__n_f"/></e>
 <e lm="Föhn">            <i>Föhn</i><par n="Aal__n_m"/></e>
 <e lm="Fön">             <i>Fön</i><par n="Aal__n_m"/></e>
@@ -23957,7 +23893,7 @@
 <e lm="Galopp">          <i>Galopp</i><par n="Abend__n_m"/></e>
 <e lm="Gamma">           <i>Gamma</i><par n="Abi__n_nt"/></e>
 <e lm="Gams">            <i>Gams</i><par n="Champion__n_m"/></e>
-<e lm="Gang">            <i>G</i><par n="Abg/ang__n_m"/></e>
+<e lm="Gang">            <i>G</i><par n="G/ang__n_m"/></e>
 <e lm="Gang">            <i>Gang</i><par n="Ag__n_f"/></e>
 <e lm="Gangart">         <i>Gangart</i><par n="Abfuhr__n_f"/></e>
 <e lm="Gangster">        <i>Gangster</i><par n="Abenteurer__n_m"/></e>
@@ -23966,7 +23902,7 @@
 <e lm="Garage">          <i>Garage</i><par n="Abfolge__n_f"/></e>
 <e lm="Garant">          <i>Garant</i><par n="Abiturient__n_m"/></e>
 <e lm="Garantie">        <i>Garantie</i><par n="Abfolge__n_f"/></e>
-<e lm="Garaus">          <i>Garaus</i><par n="Abfluss__n_m"/></e>
+<e lm="Garaus">          <i>Garaus</i><par n="Besitz__n_m"/></e>
 <e lm="Garde">           <i>Garde</i><par n="Abfolge__n_f"/></e>
 <e lm="Garderobe">       <i>Garderobe</i><par n="Abfolge__n_f"/></e>
 <e lm="Gardine">         <i>Gardine</i><par n="Abfolge__n_f"/></e>
@@ -24064,11 +24000,11 @@
 <e lm="Geisel">          <i>Geisel</i><par n="Abfolge__n_f"/></e>
 <e lm="Geiselnahme">     <i>Geiselnahme</i><par n="Abhilfe__n_f"/></e>
 <e lm="Geist">           <i>Geist</i><par n="Geist__n_m"/></e>
-<e lm="Geiz">            <i>Geiz</i><par n="Abfluss__n_m"/></e>
+<e lm="Geiz">            <i>Geiz</i><par n="Besitz__n_m"/></e>
 <e lm="Geiß">            <i>Geiß</i><par n="Abfuhr__n_f"/></e>
 <e lm="Gel">             <i>Gel</i><par n="Abi__n_nt"/></e>
 <e lm="Gelb">            <i>Gelb</i><par n="Aggregat__n_nt"/></e>
-<e lm="Geld">            <i>Geld</i><par n="Abbild__n_nt"/></e>
+<e lm="Geld">            <i>Geld</i><par n="Bild__n_nt"/></e>
 <e lm="Geldbuße">        <i>Geldbuße</i><par n="Abfolge__n_f"/></e>
 <e lm="Gelegenheit">     <i>Gelegenheit</i><par n="Abfuhr__n_f"/></e>
 <e lm="Gelehrte">        <i>Gelehrte</i><par n="Affe__n_m"/></e>
@@ -24094,7 +24030,7 @@
 <e lm="Gemälde">         <i>Gemälde</i><par n="Abenteuer__n_nt"/></e>
 <e lm="Gemäuer">         <i>Gemäuer</i><par n="Abenteuer__n_nt"/></e>
 <e lm="Gemüse">          <i>Gemüse</i><par n="Abitur__n_nt"/></e>
-<e lm="Gemüt">           <i>Gemüt</i><par n="Abbild__n_nt"/></e>
+<e lm="Gemüt">           <i>Gemüt</i><par n="Bild__n_nt"/></e>
 <e lm="Gen">             <i>Gen</i><par n="Gen__n_nt"/></e>
 <e lm="Gendarm">         <i>Gendarm</i><par n="Abiturient__n_m"/></e>
 <e lm="Gendarmerie">     <i>Gendarmerie</i><par n="Abfolge__n_f"/></e>
@@ -24137,21 +24073,21 @@
 <e lm="Germanist">       <i>Germanist</i><par n="Abiturient__n_m"/></e>
 <e lm="Germanistik">     <i>Germanistik</i><par n="Abhilfe__n_f"/></e>
 <e lm="Gerste">          <i>Gerste</i><par n="Abfolge__n_f"/></e>
-<e lm="Geruch">          <i>Ger</i><par n="Abbr/uch__n_m"/></e>
+<e lm="Geruch">          <i>Ger</i><par n="Br/uch__n_m"/></e>
 <e lm="Gerät">           <i>Gerät</i><par n="Aggregat__n_nt"/></e>
 <e lm="Geräusch">        <i>Geräusch</i><par n="Aal__n_m"/></e>
 <e lm="Geräusch">        <i>Geräusch</i><par n="Aggregat__n_nt"/></e>
 <e lm="Geröll">          <i>Geröll</i><par n="Abteil__n_nt"/></e>
 <e lm="Gerücht">         <i>Gerücht</i><par n="Abteil__n_nt"/></e>
 <e lm="Gerüst">          <i>Gerüst</i><par n="Aggregat__n_nt"/></e>
-<e lm="Gesang">          <i>Ges</i><par n="Abg/ang__n_m"/></e>
+<e lm="Gesang">          <i>Ges</i><par n="G/ang__n_m"/></e>
 <e lm="Geschehen">       <i>Geschehen</i><par n="Abkommen__n_nt"/></e>
 <e lm="Geschehnis">      <i>Geschehnis</i><par n="Ärgernis__n_nt"/></e>
 <e lm="Geschenk">        <i>Geschenk</i><par n="Abteil__n_nt"/></e>
 <e lm="Geschichte">      <i>Geschichte</i><par n="Abfolge__n_f"/></e>
 <e lm="Geschick">        <i>Geschick</i><par n="Aggregat__n_nt"/></e>
 <e lm="Geschirr">        <i>Geschirr</i><par n="Abteil__n_nt"/></e>
-<e lm="Geschlecht">      <i>Geschlecht</i><par n="Abbild__n_nt"/></e>
+<e lm="Geschlecht">      <i>Geschlecht</i><par n="Bild__n_nt"/></e>
 <e lm="Geschlossenheit"> <i>Geschlossenheit</i><par n="Abhilfe__n_f"/></e>
 <e lm="Geschmack">       <i>Geschm</i><par n="Geschm/ack__n_m"/></e>
 <e lm="Geschoss">        <i>Geschoss</i><par n="Abgas__n_nt"/></e>
@@ -24171,10 +24107,10 @@
 <e lm="Gesetz">          <i>Gesetz</i><par n="Abgas__n_nt"/></e>
 <e lm="Gesetzbuch">      <i>Gesetzb</i><par n="B/uch__n_nt"/></e>
 <e lm="Gesetzgebung">    <i>Gesetzgebung</i><par n="Ahnung__n_f"/></e>
-<e lm="Gesicht">         <i>Gesicht</i><par n="Abbild__n_nt"/></e>
+<e lm="Gesicht">         <i>Gesicht</i><par n="Bild__n_nt"/></e>
 <e lm="Gesinnung">       <i>Gesinnung</i><par n="Ahnung__n_f"/></e>
 <e lm="Gespann">         <i>Gespann</i><par n="Abteil__n_nt"/></e>
-<e lm="Gespenst">        <i>Gespenst</i><par n="Abbild__n_nt"/></e>
+<e lm="Gespenst">        <i>Gespenst</i><par n="Bild__n_nt"/></e>
 <e lm="Gespräch">        <i>Gespräch</i><par n="Aggregat__n_nt"/></e>
 <e lm="Gespür">          <i>Gespür</i><par n="Aggregat__n_nt"/></e>
 <e lm="Gest">            <i>Gest</i><par n="Abhilfe__n_f"/></e>
@@ -24242,7 +24178,7 @@
 <e lm="Gitter">          <i>Gitter</i><par n="Abenteuer__n_nt"/></e>
 <e lm="Gladiator">       <i>Gladiator</i><par n="Abiturient__n_m"/></e>
 <e lm="Glamour">         <i>Glamour</i><par n="Aberglauben__n_m"/></e>
-<e lm="Glanz">           <i>Glanz</i><par n="Abfluss__n_m"/></e>
+<e lm="Glanz">           <i>Glanz</i><par n="Besitz__n_m"/></e>
 <e lm="Glarner">         <i>Glarner</i><par n="Abenteurer__n_m"/></e>
 <e lm="Glas">            <i>Gl</i><par n="Gl/as__n_nt"/></e>
 <e lm="Glaser">          <i>Glaser</i><par n="Abenteurer__n_m"/></e>
@@ -24255,7 +24191,7 @@
 <e lm="Gleichung">       <i>Gleichung</i><par n="Ahnung__n_f"/></e>
 <e lm="Gleis">           <i>Gleis</i><par n="Abgas__n_nt"/></e>
 <e lm="Gletscher">       <i>Gletscher</i><par n="Abenteurer__n_m"/></e>
-<e lm="Glied">           <i>Glied</i><par n="Abbild__n_nt"/></e>
+<e lm="Glied">           <i>Glied</i><par n="Bild__n_nt"/></e>
 <e lm="Gliederung">      <i>Gliederung</i><par n="Ahnung__n_f"/></e>
 <e lm="Gliedmaße">       <i>Gliedmaße</i><par n="Abfolge__n_f"/></e>
 <e lm="Globalisierung">  <i>Globalisierung</i><par n="Abhilfe__n_f"/></e>
@@ -24308,7 +24244,7 @@
 <e lm="Gratulant">       <i>Gratulant</i><par n="Abiturient__n_m"/></e>
 <e lm="Gratulation">     <i>Gratulation</i><par n="Abfuhr__n_f"/></e>
 <e lm="Grauen">          <i>Grauen</i><par n="Abitur__n_nt"/></e>
-<e lm="Graus">           <i>Graus</i><par n="Abfluss__n_m"/></e>
+<e lm="Graus">           <i>Graus</i><par n="Besitz__n_m"/></e>
 <e lm="Grazie">          <i>Grazie</i><par n="Abfolge__n_f"/></e>
 <e lm="Greif">           <i>Greif</i><par n="Aal__n_m"/></e>
 <e lm="Greifswalder">    <i>Greifswalder</i><par n="Abenteurer__n_m"/></e>
@@ -24360,8 +24296,8 @@
 <e lm="Gurke">           <i>Gurke</i><par n="Abfolge__n_f"/></e>
 <e lm="Gurt">            <i>Gurt</i><par n="Aal__n_m"/></e>
 <e lm="Guru">            <i>Guru</i><par n="Affront__n_m"/></e>
-<e lm="Guss">            <i>G</i><par n="Absch/uss__n_m"/></e>
-<e lm="Gusto">           <i>Gusto</i><par n="Abfluss__n_m"/></e>
+<e lm="Guss">            <i>G</i><par n="Abfl/uss__n_m"/></e>
+<e lm="Gusto">           <i>Gusto</i><par n="Besitz__n_m"/></e>
 <e lm="Gut">             <i>G</i><par n="G/ut__n_nt"/></e>
 <e lm="Gutachten">       <i>Gutachten</i><par n="Abkommen__n_nt"/></e>
 <e lm="Gutachter">       <i>Gutachter</i><par n="Abenteurer__n_m"/></e>
@@ -24425,7 +24361,7 @@
 <e lm="Handvoll">        <i>Handvoll</i><par n="Abhilfe__n_f"/></e>
 <e lm="Handy">           <i>Handy</i><par n="Abi__n_nt"/></e>
 <e lm="Hanf">            <i>Hanf</i><par n="Aberglauben__n_m"/></e>
-<e lm="Hang">            <i>H</i><par n="Abg/ang__n_m"/></e>
+<e lm="Hang">            <i>H</i><par n="G/ang__n_m"/></e>
 <e lm="Hangar">          <i>Hangar</i><par n="Affront__n_m"/></e>
 <e lm="Hanke">           <i>Hanke</i><par n="Abfolge__n_f"/></e>
 <e lm="Hannoveraner">    <i>Hannoveraner</i><par n="Abenteurer__n_m"/></e>
@@ -24527,7 +24463,7 @@
 <e lm="Herberge">        <i>Herberge</i><par n="Abfolge__n_f"/></e>
 <e lm="Herbst">          <i>Herbst</i><par n="Aal__n_m"/></e>
 <e lm="Herd">            <i>Herd</i><par n="Aal__n_m"/></e>
-<e lm="Hergang">         <i>Herg</i><par n="Abg/ang__n_m"/></e>
+<e lm="Hergang">         <i>Herg</i><par n="G/ang__n_m"/></e>
 <e lm="Hering">          <i>Hering</i><par n="Abend__n_m"/></e>
 <e lm="Herkunft">        <i>Herkunft</i><par n="Abhilfe__n_f"/></e>
 <e lm="Heroin">          <i>Heroin</i><par n="Abitur__n_nt"/></e>
@@ -24559,7 +24495,7 @@
 <e lm="Hilfsaktion">     <i>Hilfsaktion</i><par n="Abfuhr__n_f"/></e>
 <e lm="Hilfsarbeiter">   <i>Hilfsarbeiter</i><par n="Abenteurer__n_m"/></e>
 <e lm="Hilfsdienst">     <i>Hilfsdienst</i><par n="Aal__n_m"/></e>
-<e lm="Hilfskraft">      <i>Hilfskr</i><par n="Arbeitskr/aft__n_f"/></e>
+<e lm="Hilfskraft">      <i>Hilfskr</i><par n="Kr/aft__n_f"/></e>
 <e lm="Hilfsmittel">     <i>Hilfsmittel</i><par n="Abenteuer__n_nt"/></e>
 <e lm="Hilfswerk">       <i>Hilfswerk</i><par n="Aggregat__n_nt"/></e>
 <e lm="Himmel">          <i>Himmel</i><par n="Abenteurer__n_m"/></e>
@@ -24880,7 +24816,7 @@
 <e lm="Jaguar">          <i>Jaguar</i><par n="Abend__n_m"/></e>
 <e lm="Jahr">            <i>Jahr</i><par n="Aggregat__n_nt"/></e>
 <e lm="Jahreszeit">      <i>Jahreszeit</i><par n="Abfuhr__n_f"/></e>
-<e lm="Jahrgang">        <i>Jahrg</i><par n="Abg/ang__n_m"/></e>
+<e lm="Jahrgang">        <i>Jahrg</i><par n="G/ang__n_m"/></e>
 <e lm="Jahrhundert">     <i>Jahrhundert</i><par n="Abteil__n_nt"/></e>
 <e lm="Jahrtausend">     <i>Jahrtausend</i><par n="Abteil__n_nt"/></e>
 <e lm="Jahrzehnt">       <i>Jahrzehnt</i><par n="Abteil__n_nt"/></e>
@@ -24910,7 +24846,7 @@
 <e lm="Jongleur">        <i>Jongleur</i><par n="Abend__n_m"/></e>
 <e lm="Jordanier">       <i>Jordanier</i><par n="Abenteurer__n_m"/></e>
 <e lm="Journal">         <i>Journal</i><par n="Abteil__n_nt"/></e>
-<e lm="Journalismus">    <i>Journalismus</i><par n="Abfluss__n_m"/></e>
+<e lm="Journalismus">    <i>Journalismus</i><par n="Besitz__n_m"/></e>
 <e lm="Journalist">      <i>Journalist</i><par n="Abiturient__n_m"/></e>
 <e lm="Jubel">           <i>Jubel</i><par n="Abenteurer__n_m"/></e>
 <e lm="Jubilar">         <i>Jubilar</i><par n="Abend__n_m"/></e>
@@ -25130,7 +25066,7 @@
 <e lm="Killer">          <i>Killer</i><par n="Abenteurer__n_m"/></e>
 <e lm="Kilo">            <i>Kilo</i><par n="Abi__n_nt"/></e>
 <e lm="Kilometer">       <i>Kilometer</i><par n="Abenteurer__n_m"/></e>
-<e lm="Kind">            <i>Kind</i><par n="Abbild__n_nt"/></e>
+<e lm="Kind">            <i>Kind</i><par n="Bild__n_nt"/></e>
 <e lm="Kindergarten">    <i>Kinderg</i><par n="G/arten__n_m"/></e>
 <e lm="Kindheit">        <i>Kindheit</i><par n="Abfuhr__n_f"/></e>
 <e lm="Kindl">           <i>Kindl</i><par n="Abenteuer__n_nt"/></e>
@@ -25157,7 +25093,7 @@
 <e lm="Klammeraffe">     <i>Klammeraffe</i><par n="Affe__n_m"/></e>
 <e lm="Klamotte">        <i>Klamotte</i><par n="Abfolge__n_f"/></e>
 <e lm="Klan">            <i>Klan</i><par n="Abend__n_m"/></e>
-<e lm="Klang">           <i>Kl</i><par n="Abg/ang__n_m"/></e>
+<e lm="Klang">           <i>Kl</i><par n="G/ang__n_m"/></e>
 <e lm="Klappe">          <i>Klappe</i><par n="Abfolge__n_f"/></e>
 <e lm="Klar">            <i>Klar</i><par n="Abenteuer__n_nt"/></e>
 <e lm="Klarinette">      <i>Klarinette</i><par n="Abfolge__n_f"/></e>
@@ -25174,10 +25110,10 @@
 <e lm="Klavier">         <i>Klavier</i><par n="Abteil__n_nt"/></e>
 <e lm="Klebe">           <i>Klebe</i><par n="Abhilfe__n_f"/></e>
 <e lm="Kleber">          <i>Kleber</i><par n="Abenteurer__n_m"/></e>
-<e lm="Klee">            <i>Klee</i><par n="Gang__n_m"/></e>
-<e lm="Klei">            <i>Klei</i><par n="Abfluss__n_m"/></e>
+<e lm="Klee">            <i>Klee</i><par n="Klee__n_m"/></e>
+<e lm="Klei">            <i>Klei</i><par n="Besitz__n_m"/></e>
 <e lm="Kleiber">         <i>Kleiber</i><par n="Abenteurer__n_m"/></e>
-<e lm="Kleid">           <i>Kleid</i><par n="Abbild__n_nt"/></e>
+<e lm="Kleid">           <i>Kleid</i><par n="Bild__n_nt"/></e>
 <e lm="Kleidung">        <i>Kleidung</i><par n="Ahnung__n_f"/></e>
 <e lm="Klein">           <i>Klein</i><par n="Abitur__n_nt"/></e>
 <e lm="Kleingartenwettbewerb"><i>Kleingartenwettbewerb</i><par n="Abend__n_m"/></e>
@@ -25279,10 +25215,10 @@
 <e lm="Kommando">        <i>Kommando</i><par n="Abi__n_nt"/></e>
 <e lm="Kommentar">       <i>Kommentar</i><par n="Abend__n_m"/></e>
 <e lm="Kommentator">     <i>Kommentator</i><par n="Administrator__n_m"/></e>
-<e lm="Kommerz">         <i>Kommerz</i><par n="Abfluss__n_m"/></e>
+<e lm="Kommerz">         <i>Kommerz</i><par n="Besitz__n_m"/></e>
 <e lm="Kommerzialisierung"><i>Kommerzialisierung</i><par n="Ahnung__n_f"/></e>
 <e lm="Kommilitone">     <i>Kommilitone</i><par n="Affe__n_m"/></e>
-<e lm="Kommiss">         <i>Kommiss</i><par n="Abfluss__n_m"/></e>
+<e lm="Kommiss">         <i>Kommiss</i><par n="Besitz__n_m"/></e>
 <e lm="Kommissar">       <i>Kommissar</i><par n="Abend__n_m"/></e>
 <e lm="Kommissariat">    <i>Kommissariat</i><par n="Aggregat__n_nt"/></e>
 <e lm="Kommission">      <i>Kommission</i><par n="Abfuhr__n_f"/></e>
@@ -25363,7 +25299,7 @@
 <e lm="Kontinuität">     <i>Kontinuität</i><par n="Abfuhr__n_f"/></e>
 <e lm="Konto">           <i>Kont</i><par n="Kont/o__n_nt"/></e>
 <e lm="Kontra">          <i>Kontra</i><par n="Abi__n_nt"/></e>
-<e lm="Kontrabass">      <i>Kontrab</i><par n="Byp/ass__n_m"/></e>
+<e lm="Kontrabass">      <i>Kontrab</i><par n="Aderl/ass__n_m"/></e>
 <e lm="Kontrahent">      <i>Kontrahent</i><par n="Abiturient__n_m"/></e>
 <e lm="Kontrakt">        <i>Kontrakt</i><par n="Aal__n_m"/></e>
 <e lm="Kontrapunkt">     <i>Kontrapunkt</i><par n="Aal__n_m"/></e>
@@ -25529,7 +25465,7 @@
 <e lm="Kursus">          <i>Kurs</i><par n="Kurs/us__n_m"/></e>
 <e lm="Kurve">           <i>Kurve</i><par n="Abfolge__n_f"/></e>
 <e lm="Kurze">           <i>Kurze</i><par n="Affe__n_m"/></e>
-<e lm="Kurzschluss">     <i>Kurzschl</i><par n="Absch/uss__n_m"/></e>
+<e lm="Kurzschluss">     <i>Kurzschl</i><par n="Abfl/uss__n_m"/></e>
 <e lm="Kurzweil">        <i>Kurzweil</i><par n="Abhilfe__n_f"/></e>
 <e lm="Kuss">            <i>K</i><par n="Abfl/uss__n_m"/></e>
 <e lm="Kutsche">         <i>Kutsche</i><par n="Abfolge__n_f"/></e>
@@ -25544,7 +25480,7 @@
 <e lm="Känguru">         <i>Känguru</i><par n="Abi__n_nt"/></e>
 <e lm="Känguruh">        <i>Känguruh</i><par n="Abi__n_nt"/></e>
 <e lm="Kärntner">        <i>Kärntner</i><par n="Abenteurer__n_m"/></e>
-<e lm="Käse">            <i>Käse</i><par n="Gang__n_m"/></e>
+<e lm="Käse">            <i>Käse</i><par n="Klee__n_m"/></e>
 <e lm="Käser">           <i>Käser</i><par n="Abenteurer__n_m"/></e>
 <e lm="Köder">           <i>Köder</i><par n="Abenteurer__n_m"/></e>
 <e lm="Kölsch">          <i>Kölsch</i><par n="Abitur__n_nt"/></e>
@@ -25575,7 +25511,7 @@
 <e lm="Lachs">           <i>Lachs</i><par n="Abriss__n_m"/></e>
 <e lm="Lack">            <i>Lack</i><par n="Abend__n_m"/></e>
 <e lm="Lade">            <i>Lade</i><par n="Abfolge__n_f"/></e>
-<e lm="Laden">           <i>L</i><par n="L/aden__n_m"/></e>
+<e lm="Laden">           <i>L</i><par n="F/aden__n_m"/></e>
 <e lm="Ladung">          <i>Ladung</i><par n="Ahnung__n_f"/></e>
 <e lm="Lady">            <i>Lad</i><par n="Lad/y__n_f"/></e>
 <e lm="Lage">            <i>Lage</i><par n="Abfolge__n_f"/></e>
@@ -25689,7 +25625,7 @@
 <e lm="Lenkung">         <i>Lenkung</i><par n="Ahnung__n_f"/></e>
 <e lm="Lenz">            <i>Lenz</i><par n="Abriss__n_m"/></e>
 <e lm="Lenzing">         <i>Lenzing</i><par n="Abend__n_m"/></e>
-<e lm="Leo">             <i>Leo</i><par n="Abfluss__n_m"/></e>
+<e lm="Leo">             <i>Leo</i><par n="Besitz__n_m"/></e>
 <e lm="Leopard">         <i>Leopard</i><par n="Abiturient__n_m"/></e>
 <e lm="Lesart">          <i>Lesart</i><par n="Abfuhr__n_f"/></e>
 <e lm="Lesbe">           <i>Lesbe</i><par n="Abfolge__n_f"/></e>
@@ -25714,13 +25650,13 @@
 <e lm="Liberalität">     <i>Liberalität</i><par n="Abfuhr__n_f"/></e>
 <e lm="Libero">          <i>Libero</i><par n="Affront__n_m"/></e>
 <e lm="Libretto">        <i>Libretto</i><par n="Abi__n_nt"/></e>
-<e lm="Licht">           <i>Licht</i><par n="Abbild__n_nt"/></e>
-<e lm="Lid">             <i>Lid</i><par n="Abbild__n_nt"/></e>
+<e lm="Licht">           <i>Licht</i><par n="Bild__n_nt"/></e>
+<e lm="Lid">             <i>Lid</i><par n="Bild__n_nt"/></e>
 <e lm="Lieb">            <i>Lieb</i><par n="Abitur__n_nt"/></e>
 <e lm="Liebe">           <i>Liebe</i><par n="Abfolge__n_f"/></e>
 <e lm="Liebhaber">       <i>Liebhaber</i><par n="Abenteurer__n_m"/></e>
 <e lm="Liebling">        <i>Liebling</i><par n="Abend__n_m"/></e>
-<e lm="Lied">            <i>Lied</i><par n="Abbild__n_nt"/></e>
+<e lm="Lied">            <i>Lied</i><par n="Bild__n_nt"/></e>
 <e lm="Lieferant">       <i>Lieferant</i><par n="Abiturient__n_m"/></e>
 <e lm="Liege">           <i>Liege</i><par n="Abfolge__n_f"/></e>
 <e lm="Liegenschaft">    <i>Liegenschaft</i><par n="Abfuhr__n_f"/></e>
@@ -25811,7 +25747,7 @@
 <e lm="Lupe">            <i>Lupe</i><par n="Abfolge__n_f"/></e>
 <e lm="Lust">            <i>L</i><par n="Br/ust__n_f"/></e>
 <e lm="Lux">             <i>Lux</i><par n="Aus__n_nt"/></e>
-<e lm="Luxus">           <i>Luxus</i><par n="Abfluss__n_m"/></e>
+<e lm="Luxus">           <i>Luxus</i><par n="Besitz__n_m"/></e>
 <e lm="Luzerner">        <i>Luzerner</i><par n="Abenteurer__n_m"/></e>
 <e lm="Lyrik">           <i>Lyrik</i><par n="Abhilfe__n_f"/></e>
 <e lm="Lyriker">         <i>Lyriker</i><par n="Abenteurer__n_m"/></e>
@@ -25820,7 +25756,7 @@
 <e lm="Länge">           <i>Länge</i><par n="Abfolge__n_f"/></e>
 <e lm="Lärm">            <i>Lärm</i><par n="Aberglauben__n_m"/></e>
 <e lm="Löffel">          <i>Löffel</i><par n="Abenteurer__n_m"/></e>
-<e lm="Lösegeld">        <i>Lösegeld</i><par n="Abbild__n_nt"/></e>
+<e lm="Lösegeld">        <i>Lösegeld</i><par n="Bild__n_nt"/></e>
 <e lm="Lösung">          <i>Lösung</i><par n="Ahnung__n_f"/></e>
 <e lm="Löwe">            <i>Löwe</i><par n="Affe__n_m"/></e>
 <e lm="Lücke">           <i>Lücke</i><par n="Abfolge__n_f"/></e>
@@ -25850,7 +25786,7 @@
 <e lm="Magistrat">       <i>Magistrat</i><par n="Aal__n_m"/></e>
 <e lm="Magnesium">       <i>Magnesium</i><par n="Abitur__n_nt"/></e>
 <e lm="Magnet">          <i>Magnet</i><par n="Magnet__n_m"/></e>
-<e lm="Magnetfeld">      <i>Magnetfeld</i><par n="Abbild__n_nt"/></e>
+<e lm="Magnetfeld">      <i>Magnetfeld</i><par n="Bild__n_nt"/></e>
 <e lm="Magnum">          <i>Magnum</i><par n="Abi__n_nt"/></e>
 <e lm="Mahl">            <i>Mahl</i><par n="Aggregat__n_nt"/></e>
 <e lm="Mahnung">         <i>Mahnung</i><par n="Ahnung__n_f"/></e>
@@ -25858,7 +25794,7 @@
 <e lm="Mailbox">         <i>Mailbox</i><par n="Abfuhr__n_f"/></e>
 <e lm="Mainstream">      <i>Mainstream</i><par n="Affront__n_m"/></e>
 <e lm="Mainzer">         <i>Mainzer</i><par n="Abenteurer__n_m"/></e>
-<e lm="Mais">            <i>Mais</i><par n="Abfluss__n_m"/></e>
+<e lm="Mais">            <i>Mais</i><par n="Besitz__n_m"/></e>
 <e lm="Majestät">        <i>Majestät</i><par n="Abfuhr__n_f"/></e>
 <e lm="Major">           <i>Major</i><par n="Abend__n_m"/></e>
 <e lm="Makel">           <i>Makel</i><par n="Abenteurer__n_m"/></e>
@@ -25912,7 +25848,7 @@
 <e lm="Marke">           <i>Marke</i><par n="Abfolge__n_f"/></e>
 <e lm="Marketing">       <i>Marketing</i><par n="Abitur__n_nt"/></e>
 <e lm="Markierung">      <i>Markierung</i><par n="Ahnung__n_f"/></e>
-<e lm="Markt">           <i>M</i><par n="Arbeitsm/arkt__n_m"/></e>
+<e lm="Markt">           <i>M</i><par n="M/arkt__n_m"/></e>
 <e lm="Marmelade">       <i>Marmelade</i><par n="Abfolge__n_f"/></e>
 <e lm="Marmor">          <i>Marmor</i><par n="Abend__n_m"/></e>
 <e lm="Marokkaner">      <i>Marokkaner</i><par n="Abenteurer__n_m"/></e>
@@ -26108,7 +26044,7 @@
 <e lm="Mitarbeiterin">   <i>Mitarbeiterin</i><par n="Ärztin__n_f"/></e>
 <e lm="Mitbringsel">     <i>Mitbringsel</i><par n="Abenteuer__n_nt"/></e>
 <e lm="Mitbürger">       <i>Mitbürger</i><par n="Abenteurer__n_m"/></e>
-<e lm="Mitglied">        <i>Mitglied</i><par n="Abbild__n_nt"/></e>
+<e lm="Mitglied">        <i>Mitglied</i><par n="Bild__n_nt"/></e>
 <e lm="Mithilfe">        <i>Mithilfe</i><par n="Abhilfe__n_f"/></e>
 <e lm="Mitleid">         <i>Mitleid</i><par n="Abitur__n_nt"/></e>
 <e lm="Mitleidenschaft"> <i>Mitleidenschaft</i><par n="Abhilfe__n_f"/></e>
@@ -26303,7 +26239,7 @@
 <e lm="Nachtisch">       <i>Nachtisch</i><par n="Aal__n_m"/></e>
 <e lm="Nachtrag">        <i>Nachtr</i><par n="Anschl/ag__n_m"/></e>
 <e lm="Nachweis">        <i>Nachweis</i><par n="Abriss__n_m"/></e>
-<e lm="Nachwuchs">       <i>Nachwuchs</i><par n="Abfluss__n_m"/></e>
+<e lm="Nachwuchs">       <i>Nachwuchs</i><par n="Besitz__n_m"/></e>
 <e lm="Nachzug">         <i>Nachz</i><par n="Abz/ug__n_m"/></e>
 <e lm="Nacken">          <i>Nacken</i><par n="Abkommen__n_nt"/></e>
 <e lm="Nadel">           <i>Nadel</i><par n="Abfolge__n_f"/></e>
@@ -26348,7 +26284,7 @@
 <e lm="Neonazi">         <i>Neonazi</i><par n="Affront__n_m"/></e>
 <e lm="Nerv">            <i>Nerv</i><par n="Aggressor__n_m"/></e>
 <e lm="Nervosität">      <i>Nervosität</i><par n="Abhilfe__n_f"/></e>
-<e lm="Nest">            <i>Nest</i><par n="Abbild__n_nt"/></e>
+<e lm="Nest">            <i>Nest</i><par n="Bild__n_nt"/></e>
 <e lm="Nestor">          <i>Nestor</i><par n="Administrator__n_m"/></e>
 <e lm="Net">             <i>Net</i><par n="Abi__n_nt"/></e>
 <e lm="Netto">           <i>Netto</i><par n="Abitur__n_nt"/></e>
@@ -26367,7 +26303,7 @@
 <e lm="Nichte">          <i>Nichte</i><par n="Abfolge__n_f"/></e>
 <e lm="Nichtstun">       <i>Nichtstun</i><par n="Abitur__n_nt"/></e>
 <e lm="Nickel">          <i>Nickel</i><par n="Abenteurer__n_m"/></e>
-<e lm="Niedergang">      <i>Niederg</i><par n="Abg/ang__n_m"/></e>
+<e lm="Niedergang">      <i>Niederg</i><par n="G/ang__n_m"/></e>
 <e lm="Niederlage">      <i>Niederlage</i><par n="Abfolge__n_f"/></e>
 <e lm="Niederländer">    <i>Niederländer</i><par n="Abenteurer__n_m"/></e>
 <e lm="Niederschlag">    <i>Niederschl</i><par n="Anschl/ag__n_m"/></e>
@@ -26395,7 +26331,7 @@
 <e lm="Nord">            <i>Nord</i><par n="Aal__n_m"/></e>
 <e lm="Norden">          <i>Norden</i><par n="Aberglauben__n_m"/></e>
 <e lm="Nordkoreaner">    <i>Nordkoreaner</i><par n="Abenteurer__n_m"/></e>
-<e lm="Nordlicht">       <i>Nordlicht</i><par n="Abbild__n_nt"/></e>
+<e lm="Nordlicht">       <i>Nordlicht</i><par n="Bild__n_nt"/></e>
 <e lm="Norm">            <i>Norm</i><par n="Abfuhr__n_f"/></e>
 <e lm="Normalität">      <i>Normalität</i><par n="Abhilfe__n_f"/></e>
 <e lm="Norweger">        <i>Norweger</i><par n="Abenteurer__n_m"/></e>
@@ -26664,7 +26600,7 @@
 <e lm="Pause">           <i>Pause</i><par n="Abfolge__n_f"/></e>
 <e lm="Pavillon">        <i>Pavillon</i><par n="Affront__n_m"/></e>
 <e lm="Pax">             <i>Pax</i><par n="Abhilfe__n_f"/></e>
-<e lm="Pazifismus">      <i>Pazifismus</i><par n="Abfluss__n_m"/></e>
+<e lm="Pazifismus">      <i>Pazifismus</i><par n="Besitz__n_m"/></e>
 <e lm="Pazifist">        <i>Pazifist</i><par n="Abiturient__n_m"/></e>
 <e lm="Paß">             <i>P</i><par n="Aderl/aß__n_m"/></e>
 <e lm="Pech">            <i>Pech</i><par n="Aggregat__n_nt"/></e>
@@ -27174,7 +27110,7 @@
 <e lm="Ranch">           <i>Ranch</i><par n="Ag__n_f"/></e>
 <e lm="Rand">            <i>R</i><par n="Innenr/and__n_m"/></e>
 <e lm="Randale">         <i>Randale</i><par n="Abhilfe__n_f"/></e>
-<e lm="Rang">            <i>R</i><par n="Abg/ang__n_m"/></e>
+<e lm="Rang">            <i>R</i><par n="G/ang__n_m"/></e>
 <e lm="Range">           <i>Range</i><par n="Abfolge__n_f"/></e>
 <e lm="Range">           <i>Range</i><par n="Affe__n_m"/></e>
 <e lm="Ranger">          <i>Ranger</i><par n="Abenteurer__n_m"/></e>
@@ -27277,7 +27213,7 @@
 <e lm="Regierung">       <i>Regierung</i><par n="Ahnung__n_f"/></e>
 <e lm="Regierungschef">  <i>Regierungschef</i><par n="Affront__n_m"/></e>
 <e lm="Regime">          <i>Regime</i><par n="Abi__n_nt"/></e>
-<e lm="Regiment">        <i>Regiment</i><par n="Abbild__n_nt"/></e>
+<e lm="Regiment">        <i>Regiment</i><par n="Bild__n_nt"/></e>
 <e lm="Region">          <i>Region</i><par n="Abfuhr__n_f"/></e>
 <e lm="Regionalisierung"><i>Regionalisierung</i><par n="Ahnung__n_f"/></e>
 <e lm="Regisseur">       <i>Regisseur</i><par n="Abend__n_m"/></e>
@@ -27426,7 +27362,7 @@
 <e lm="Riese">           <i>Riese</i><par n="Affe__n_m"/></e>
 <e lm="Rieß">            <i>Rieß</i><par n="Aus__n_nt"/></e>
 <e lm="Riff">            <i>Riff</i><par n="Aggregat__n_nt"/></e>
-<e lm="Rind">            <i>Rind</i><par n="Abbild__n_nt"/></e>
+<e lm="Rind">            <i>Rind</i><par n="Bild__n_nt"/></e>
 <e lm="Rinde">           <i>Rinde</i><par n="Abfolge__n_f"/></e>
 <e lm="Ring">            <i>Ring</i><par n="Aal__n_m"/></e>
 <e lm="Rinne">           <i>Rinne</i><par n="Abfolge__n_f"/></e>
@@ -27484,7 +27420,7 @@
 <e lm="Rubel">           <i>Rubel</i><par n="Abenteurer__n_m"/></e>
 <e lm="Rubin">           <i>Rubin</i><par n="Aal__n_m"/></e>
 <e lm="Rubrik">          <i>Rubrik</i><par n="Abfuhr__n_f"/></e>
-<e lm="Ruch">            <i>R</i><par n="Abbr/uch__n_m"/></e>
+<e lm="Ruch">            <i>R</i><par n="Br/uch__n_m"/></e>
 <e lm="Ruck">            <i>Ruck</i><par n="Aal__n_m"/></e>
 <e lm="Rucksack">        <i>Rucks</i><par n="Rucks/ack__n_m"/></e>
 <e lm="Rudel">           <i>Rudel</i><par n="Abenteuer__n_nt"/></e>
@@ -27596,7 +27532,7 @@
 <e lm="Sandale">         <i>Sandale</i><par n="Abfolge__n_f"/></e>
 <e lm="Sandler">         <i>Sandler</i><par n="Abenteurer__n_m"/></e>
 <e lm="Sandwich">        <i>Sandwich</i><par n="Sandwich__n_nt"/></e>
-<e lm="Sang">            <i>S</i><par n="Abg/ang__n_m"/></e>
+<e lm="Sang">            <i>S</i><par n="G/ang__n_m"/></e>
 <e lm="Sanierung">       <i>Sanierung</i><par n="Ahnung__n_f"/></e>
 <e lm="Sanitäter">       <i>Sanitäter</i><par n="Abenteurer__n_m"/></e>
 <e lm="Sanktion">        <i>Sanktion</i><par n="Abfuhr__n_f"/></e>
@@ -27632,7 +27568,7 @@
 <e lm="Schacht">         <i>Sch</i><par n="Sch/acht__n_m"/></e>
 <e lm="Schachtel">       <i>Schachtel</i><par n="Abfolge__n_f"/></e>
 <e lm="Schade">          <i>Schade</i><par n="Buchstabe__n_m"/></e>
-<e lm="Schaden">         <i>Sch</i><par n="L/aden__n_m"/></e>
+<e lm="Schaden">         <i>Sch</i><par n="F/aden__n_m"/></e>
 <e lm="Schaf">           <i>Schaf</i><par n="Aggregat__n_nt"/></e>
 <e lm="Schaff">          <i>Schaff</i><par n="Aggregat__n_nt"/></e>
 <e lm="Schaffen">        <i>Schaffen</i><par n="Abitur__n_nt"/></e>
@@ -27660,7 +27596,7 @@
 <e lm="Schauer">         <i>Schauer</i><par n="Abenteurer__n_m"/></e>
 <e lm="Schaufel">        <i>Schaufel</i><par n="Abfolge__n_f"/></e>
 <e lm="Schaukel">        <i>Schaukel</i><par n="Abfolge__n_f"/></e>
-<e lm="Schaum">          <i>Sch</i><par n="Albtr/aum__n_m"/></e>
+<e lm="Schaum">          <i>Sch</i><par n="R/aum__n_m"/></e>
 <e lm="Schauspieler">    <i>Schauspieler</i><par n="Abenteurer__n_m"/></e>
 <e lm="Scheck">          <i>Scheck</i><par n="Affront__n_m"/></e>
 <e lm="Scheibe">         <i>Scheibe</i><par n="Abfolge__n_f"/></e>
@@ -27702,7 +27638,7 @@
 <e lm="Schikane">        <i>Schikane</i><par n="Abfolge__n_f"/></e>
 <e lm="Schilcher">       <i>Schilcher</i><par n="Abenteurer__n_m"/></e>
 <e lm="Schild">          <i>Schild</i><par n="Aal__n_m"/></e>
-<e lm="Schild">          <i>Schild</i><par n="Abbild__n_nt"/></e>
+<e lm="Schild">          <i>Schild</i><par n="Bild__n_nt"/></e>
 <e lm="Schildkröte">     <i>Schildkröte</i><par n="Abfolge__n_f"/></e>
 <e lm="Schilf">          <i>Schilf</i><par n="Aggregat__n_nt"/></e>
 <e lm="Schilling">       <i>Schilling</i><par n="Abend__n_m"/></e>
@@ -27759,7 +27695,7 @@
 <e lm="Schmankerl">      <i>Schmankerl</i><par n="Abenteuer__n_nt"/></e>
 <e lm="Schmelz">         <i>Schmelz</i><par n="Abriss__n_m"/></e>
 <e lm="Schmerz">         <i>Schmerz</i><par n="Fratz__n_m"/></e>
-<e lm="Schmerzensgeld">  <i>Schmerzensgeld</i><par n="Abbild__n_nt"/></e>
+<e lm="Schmerzensgeld">  <i>Schmerzensgeld</i><par n="Bild__n_nt"/></e>
 <e lm="Schmetterling">   <i>Schmetterling</i><par n="Abend__n_m"/></e>
 <e lm="Schmied">         <i>Schmied</i><par n="Aal__n_m"/></e>
 <e lm="Schmiede">        <i>Schmiede</i><par n="Abfolge__n_f"/></e>
@@ -27768,7 +27704,7 @@
 <e lm="Schmitz">         <i>Schmitz</i><par n="Abriss__n_m"/></e>
 <e lm="Schmuck">         <i>Schmuck</i><par n="Aal__n_m"/></e>
 <e lm="Schmuggel">       <i>Schmuggel</i><par n="Aberglauben__n_m"/></e>
-<e lm="Schmutz">         <i>Schmutz</i><par n="Abfluss__n_m"/></e>
+<e lm="Schmutz">         <i>Schmutz</i><par n="Besitz__n_m"/></e>
 <e lm="Schnabel">        <i>Schn</i><par n="Schn/abel__n_m"/></e>
 <e lm="Schnack">         <i>Schnack</i><par n="Aal__n_m"/></e>
 <e lm="Schnaps">         <i>Schn</i><par n="Schn/aps__n_m"/></e>
@@ -27776,7 +27712,7 @@
 <e lm="Schnauze">        <i>Schnauze</i><par n="Abfolge__n_f"/></e>
 <e lm="Schneck">         <i>Schneck</i><par n="Administrator__n_m"/></e>
 <e lm="Schnecke">        <i>Schnecke</i><par n="Abfolge__n_f"/></e>
-<e lm="Schnee">          <i>Schnee</i><par n="Gang__n_m"/></e>
+<e lm="Schnee">          <i>Schnee</i><par n="Klee__n_m"/></e>
 <e lm="Schneid">         <i>Schneid</i><par n="Aberglauben__n_m"/></e>
 <e lm="Schneide">        <i>Schneide</i><par n="Abfolge__n_f"/></e>
 <e lm="Schneider">       <i>Schneider</i><par n="Abenteurer__n_m"/></e>
@@ -27832,7 +27768,7 @@
 <e lm="Schule">          <i>Schule</i><par n="Abfolge__n_f"/></e>
 <e lm="Schulrat">        <i>Schulr</i><par n="Aufsichtsr/at__n_m"/></e>
 <e lm="Schulter">        <i>Schulter</i><par n="Abfolge__n_f"/></e>
-<e lm="Schulterschluss"> <i>Schulterschl</i><par n="Absch/uss__n_m"/></e>
+<e lm="Schulterschluss"> <i>Schulterschl</i><par n="Abfl/uss__n_m"/></e>
 <e lm="Schultheiß">      <i>Schultheiß</i><par n="Abiturient__n_m"/></e>
 <e lm="Schulze">         <i>Schulze</i><par n="Affe__n_m"/></e>
 <e lm="Schupp">          <i>Schupp</i><par n="Aal__n_m"/></e>
@@ -27840,10 +27776,10 @@
 <e lm="Schuppen">        <i>Schuppen</i><par n="Abkommen__n_nt"/></e>
 <e lm="Schur">           <i>Schur</i><par n="Abfuhr__n_f"/></e>
 <e lm="Schurke">         <i>Schurke</i><par n="Affe__n_m"/></e>
-<e lm="Schuss">          <i>Sch</i><par n="Absch/uss__n_m"/></e>
+<e lm="Schuss">          <i>Sch</i><par n="Abfl/uss__n_m"/></e>
 <e lm="Schuster">        <i>Schuster</i><par n="Abenteurer__n_m"/></e>
 <e lm="Schutt">          <i>Schutt</i><par n="Aberglauben__n_m"/></e>
-<e lm="Schutz">          <i>Schutz</i><par n="Abfluss__n_m"/></e>
+<e lm="Schutz">          <i>Schutz</i><par n="Besitz__n_m"/></e>
 <e lm="Schutzwand">      <i>Schutzw</i><par n="H/and__n_f"/></e>
 <e lm="Schwabe">         <i>Schwabe</i><par n="Affe__n_m"/></e>
 <e lm="Schwadron">       <i>Schwadron</i><par n="Abfuhr__n_f"/></e>
@@ -27866,7 +27802,7 @@
 <e lm="Schwelle">        <i>Schwelle</i><par n="Abfolge__n_f"/></e>
 <e lm="Schwerkraft">     <i>Schwerkraft</i><par n="Abhilfe__n_f"/></e>
 <e lm="Schwermut">       <i>Schwermut</i><par n="Abhilfe__n_f"/></e>
-<e lm="Schwert">         <i>Schwert</i><par n="Abbild__n_nt"/></e>
+<e lm="Schwert">         <i>Schwert</i><par n="Bild__n_nt"/></e>
 <e lm="Schwester">       <i>Schwester</i><par n="Abfolge__n_f"/></e>
 <e lm="Schwindel">       <i>Schwindel</i><par n="Abenteurer__n_m"/></e>
 <e lm="Schwinge">        <i>Schwinge</i><par n="Abfolge__n_f"/></e>
@@ -27964,7 +27900,7 @@
 <e lm="Setzung">         <i>Setzung</i><par n="Ahnung__n_f"/></e>
 <e lm="Seuche">          <i>Seuche</i><par n="Abfolge__n_f"/></e>
 <e lm="Seufzer">         <i>Seufzer</i><par n="Abenteurer__n_m"/></e>
-<e lm="Sex">             <i>Sex</i><par n="Abfluss__n_m"/></e>
+<e lm="Sex">             <i>Sex</i><par n="Besitz__n_m"/></e>
 <e lm="Sextett">         <i>Sextett</i><par n="Abteil__n_nt"/></e>
 <e lm="Sexualität">      <i>Sexualität</i><par n="Abhilfe__n_f"/></e>
 <e lm="Shareholder">     <i>Shareholder</i><par n="Abenteurer__n_m"/></e>
@@ -28077,7 +28013,7 @@
 <e lm="Song">            <i>Song</i><par n="Affront__n_m"/></e>
 <e lm="Songwriter">      <i>Songwriter</i><par n="Abenteurer__n_m"/></e>
 <e lm="Sonne">           <i>Sonne</i><par n="Abfolge__n_f"/></e>
-<e lm="Sonnenaufgang">   <i>Sonnenaufg</i><par n="Abg/ang__n_m"/></e>
+<e lm="Sonnenaufgang">   <i>Sonnenaufg</i><par n="G/ang__n_m"/></e>
 <e lm="Sopran">          <i>Sopran</i><par n="Aal__n_m"/></e>
 <e lm="Sopranistin">     <i>Sopranistin</i><par n="Ärztin__n_f"/></e>
 <e lm="Sorge">           <i>Sorge</i><par n="Abfolge__n_f"/></e>
@@ -28116,7 +28052,7 @@
 <e lm="Sparte">          <i>Sparte</i><par n="Abfolge__n_f"/></e>
 <e lm="Spaten">          <i>Spaten</i><par n="Abkommen__n_nt"/></e>
 <e lm="Spatz">           <i>Spatz</i><par n="Fratz__n_m"/></e>
-<e lm="Spaziergang">     <i>Spazierg</i><par n="Abg/ang__n_m"/></e>
+<e lm="Spaziergang">     <i>Spazierg</i><par n="G/ang__n_m"/></e>
 <e lm="Spaziergänger">   <i>Spaziergänger</i><par n="Abenteurer__n_m"/></e>
 <e lm="Spaß">            <i>Sp</i><par n="Sp/aß__n_m"/></e>
 <e lm="Specht">          <i>Specht</i><par n="Aal__n_m"/></e>
@@ -28197,7 +28133,7 @@
 <e lm="Spritzer">        <i>Spritzer</i><par n="Abenteurer__n_m"/></e>
 <e lm="Spross">          <i>Spross</i><par n="Abriss__n_m"/></e>
 <e lm="Sprosse">         <i>Sprosse</i><par n="Abfolge__n_f"/></e>
-<e lm="Spruch">          <i>Spr</i><par n="Abbr/uch__n_m"/></e>
+<e lm="Spruch">          <i>Spr</i><par n="Br/uch__n_m"/></e>
 <e lm="Sprung">          <i>Spr</i><par n="Abspr/ung__n_m"/></e>
 <e lm="Spuk">            <i>Spuk</i><par n="Aal__n_m"/></e>
 <e lm="Spur">            <i>Spur</i><par n="Abfuhr__n_f"/></e>
@@ -28220,7 +28156,7 @@
 <e lm="Stall">           <i>St</i><par n="Abf/all__n_m"/></e>
 <e lm="Stallung">        <i>Stallung</i><par n="Ahnung__n_f"/></e>
 <e lm="Stamm">           <i>St</i><par n="D/amm__n_m"/></e>
-<e lm="Stammbaum">       <i>Stammb</i><par n="Albtr/aum__n_m"/></e>
+<e lm="Stammbaum">       <i>Stammb</i><par n="R/aum__n_m"/></e>
 <e lm="Stand">           <i>St</i><par n="Abst/and__n_m"/></e>
 <e lm="Standard">        <i>Standard</i><par n="Affront__n_m"/></e>
 <e lm="Standort">        <i>Standort</i><par n="Aal__n_m"/></e>
@@ -28306,7 +28242,7 @@
 <e lm="Stockholmer">     <i>Stockholmer</i><par n="Abenteurer__n_m"/></e>
 <e lm="Stoff">           <i>Stoff</i><par n="Aal__n_m"/></e>
 <e lm="Stolle">          <i>Stolle</i><par n="Abfolge__n_f"/></e>
-<e lm="Stolz">           <i>Stolz</i><par n="Abfluss__n_m"/></e>
+<e lm="Stolz">           <i>Stolz</i><par n="Besitz__n_m"/></e>
 <e lm="Stop">            <i>Stop</i><par n="Affront__n_m"/></e>
 <e lm="Stopp">           <i>Stopp</i><par n="Affront__n_m"/></e>
 <e lm="Storch">          <i>St</i><par n="St/orch__n_m"/></e>
@@ -28319,7 +28255,7 @@
 <e lm="Strahl">          <i>Strahl</i><par n="Aggressor__n_m"/></e>
 <e lm="Strahlung">       <i>Strahlung</i><par n="Ahnung__n_f"/></e>
 <e lm="Strand">          <i>Str</i><par n="Abst/and__n_m"/></e>
-<e lm="Strang">          <i>Str</i><par n="Abg/ang__n_m"/></e>
+<e lm="Strang">          <i>Str</i><par n="G/ang__n_m"/></e>
 <e lm="Strapaze">        <i>Strapaze</i><par n="Abfolge__n_f"/></e>
 <e lm="Stratege">        <i>Stratege</i><par n="Affe__n_m"/></e>
 <e lm="Strategie">       <i>Strategie</i><par n="Abfolge__n_f"/></e>
@@ -28339,13 +28275,13 @@
 <e lm="Streit">          <i>Streit</i><par n="Aal__n_m"/></e>
 <e lm="Streithahn">      <i>Streith</i><par n="Streith/ahn__n_m"/></e>
 <e lm="Strenge">         <i>Strenge</i><par n="Abhilfe__n_f"/></e>
-<e lm="Stress">          <i>Stress</i><par n="Abfluss__n_m"/></e>
+<e lm="Stress">          <i>Stress</i><par n="Besitz__n_m"/></e>
 <e lm="Streu">           <i>Streu</i><par n="Abfuhr__n_f"/></e>
 <e lm="Streuung">        <i>Streuung</i><par n="Ahnung__n_f"/></e>
-<e lm="Streß">           <i>Streß</i><par n="Abfluss__n_m"/></e>
+<e lm="Streß">           <i>Streß</i><par n="Besitz__n_m"/></e>
 <e lm="Strich">          <i>Strich</i><par n="Aal__n_m"/></e>
 <e lm="Strip">           <i>Strip</i><par n="Champion__n_m"/></e>
-<e lm="Striptease">      <i>Striptease</i><par n="Gang__n_m"/></e>
+<e lm="Striptease">      <i>Striptease</i><par n="Klee__n_m"/></e>
 <e lm="Stroh">           <i>Stroh</i><par n="Abitur__n_nt"/></e>
 <e lm="Strom">           <i>Str</i><par n="Str/om__n_m"/></e>
 <e lm="Stromer">         <i>Stromer</i><par n="Abenteurer__n_m"/></e>
@@ -28667,7 +28603,6 @@
 <e lm="Tram">            <i>Tr</i><par n="Tr/am__n_m"/></e>
 <e lm="Tram">            <i>Tram</i><par n="Abi__n_nt"/></e>
 <e lm="Tram">            <i>Tram</i><par n="Ag__n_f"/></e>
-<e lm="Tram">            <i>Tram</i><par n="Gang__n_m"/></e>
 <e lm="Trampolin">       <i>Trampolin</i><par n="Abteil__n_nt"/></e>
 <e lm="Tran">            <i>Tran</i><par n="Aal__n_m"/></e>
 <e lm="Trance">          <i>Trance</i><par n="Abfolge__n_f"/></e>
@@ -28692,7 +28627,7 @@
 <e lm="Tratsch">         <i>Tratsch</i><par n="Aal__n_m"/></e>
 <e lm="Traube">          <i>Traube</i><par n="Abfolge__n_f"/></e>
 <e lm="Trauer">          <i>Trauer</i><par n="Abhilfe__n_f"/></e>
-<e lm="Traum">           <i>Tr</i><par n="Albtr/aum__n_m"/></e>
+<e lm="Traum">           <i>Tr</i><par n="R/aum__n_m"/></e>
 <e lm="Trauma">          <i>Traum</i><par n="Paradigm/a__n_nt"/></e>
 <e lm="Treff">           <i>Treff</i><par n="Affront__n_m"/></e>
 <e lm="Treiber">         <i>Treiber</i><par n="Abenteurer__n_m"/></e>
@@ -28735,10 +28670,10 @@
 <e lm="Trost">           <i>Trost</i><par n="Aberglauben__n_m"/></e>
 <e lm="Trottel">         <i>Trottel</i><par n="Abenteurer__n_m"/></e>
 <e lm="Trottoir">        <i>Trottoir</i><par n="Abteil__n_nt"/></e>
-<e lm="Trotz">           <i>Trotz</i><par n="Abfluss__n_m"/></e>
+<e lm="Trotz">           <i>Trotz</i><par n="Besitz__n_m"/></e>
 <e lm="Trubel">          <i>Trubel</i><par n="Abenteurer__n_m"/></e>
 <e lm="Truck">           <i>Truck</i><par n="Affront__n_m"/></e>
-<e lm="Trugschluss">     <i>Trugschl</i><par n="Absch/uss__n_m"/></e>
+<e lm="Trugschluss">     <i>Trugschl</i><par n="Abfl/uss__n_m"/></e>
 <e lm="Truhe">           <i>Truhe</i><par n="Abfolge__n_f"/></e>
 <e lm="Trum">            <i>Tr</i><par n="Altert/um__n_nt"/></e>
 <e lm="Trumm">           <i>Tr</i><par n="Tr/umm__n_nt"/></e>
@@ -28801,13 +28736,13 @@
 <e lm="Ultra">           <i>Ultra</i><par n="Affront__n_m"/></e>
 <e lm="Ultraschall">     <i>Ultraschall</i><par n="Aberglauben__n_m"/></e>
 <e lm="Umbildung">       <i>Umbildung</i><par n="Ahnung__n_f"/></e>
-<e lm="Umbruch">         <i>Umbr</i><par n="Abbr/uch__n_m"/></e>
-<e lm="Umfang">          <i>Umf</i><par n="Abg/ang__n_m"/></e>
-<e lm="Umfeld">          <i>Umfeld</i><par n="Abbild__n_nt"/></e>
+<e lm="Umbruch">         <i>Umbr</i><par n="Br/uch__n_m"/></e>
+<e lm="Umfang">          <i>Umf</i><par n="G/ang__n_m"/></e>
+<e lm="Umfeld">          <i>Umfeld</i><par n="Bild__n_nt"/></e>
 <e lm="Umfrage">         <i>Umfrage</i><par n="Abfolge__n_f"/></e>
 <e lm="Umgang">          <i>Umgang</i><par n="Aberglauben__n_m"/></e>
 <e lm="Umgebung">        <i>Umgebung</i><par n="Ahnung__n_f"/></e>
-<e lm="Umhang">          <i>Umh</i><par n="Abg/ang__n_m"/></e>
+<e lm="Umhang">          <i>Umh</i><par n="G/ang__n_m"/></e>
 <e lm="Umkehr">          <i>Umkehr</i><par n="Abhilfe__n_f"/></e>
 <e lm="Umkleide">        <i>Umkleide</i><par n="Abfolge__n_f"/></e>
 <e lm="Umkreis">         <i>Umkreis</i><par n="Abriss__n_m"/></e>
@@ -28826,7 +28761,7 @@
 <e lm="Umweg">           <i>Umweg</i><par n="Aal__n_m"/></e>
 <e lm="Umwelt">          <i>Umwelt</i><par n="Abhilfe__n_f"/></e>
 <e lm="Umweltbelastung"> <i>Umweltbelastung</i><par n="Ahnung__n_f"/></e>
-<e lm="Umweltschutz">    <i>Umweltschutz</i><par n="Abfluss__n_m"/></e>
+<e lm="Umweltschutz">    <i>Umweltschutz</i><par n="Besitz__n_m"/></e>
 <e lm="Umzug">           <i>Umz</i><par n="Abz/ug__n_m"/></e>
 <e lm="Unabhängigkeit">  <i>Unabhängigkeit</i><par n="Abfuhr__n_f"/></e>
 <e lm="Unbehagen">       <i>Unbehagen</i><par n="Abitur__n_nt"/></e>
@@ -28860,7 +28795,7 @@
 <e lm="Unschuld">        <i>Unschuld</i><par n="Abhilfe__n_f"/></e>
 <e lm="Unsinn">          <i>Unsinn</i><par n="Aal__n_m"/></e>
 <e lm="Unterfangen">     <i>Unterfangen</i><par n="Abkommen__n_nt"/></e>
-<e lm="Untergang">       <i>Unterg</i><par n="Abg/ang__n_m"/></e>
+<e lm="Untergang">       <i>Unterg</i><par n="G/ang__n_m"/></e>
 <e lm="Untergrund">      <i>Untergr</i><par n="Abgr/und__n_m"/></e>
 <e lm="Unterhalt">       <i>Unterhalt</i><par n="Aal__n_m"/></e>
 <e lm="Unterhändler">    <i>Unterhändler</i><par n="Abenteurer__n_m"/></e>
@@ -28945,8 +28880,8 @@
 <e lm="Verderben">       <i>Verderben</i><par n="Abc__n_nt"/></e>
 <e lm="Verdienst">       <i>Verdienst</i><par n="Aggregat__n_nt"/></e>
 <e lm="Verdikt">         <i>Verdikt</i><par n="Aggregat__n_nt"/></e>
-<e lm="Verdruss">        <i>Verdruss</i><par n="Abfluss__n_m"/></e>
-<e lm="Verdruß">         <i>Verdruß</i><par n="Abfluss__n_m"/></e>
+<e lm="Verdruss">        <i>Verdruss</i><par n="Besitz__n_m"/></e>
+<e lm="Verdruß">         <i>Verdruß</i><par n="Besitz__n_m"/></e>
 <e lm="Verehrer">        <i>Verehrer</i><par n="Abenteurer__n_m"/></e>
 <e lm="Verein">          <i>Verein</i><par n="Abend__n_m"/></e>
 <e lm="Vereinbarung">    <i>Vereinbarung</i><par n="Ahnung__n_f"/></e>
@@ -28977,9 +28912,9 @@
 <e lm="Verklärung">      <i>Verklärung</i><par n="Ahnung__n_f"/></e>
 <e lm="Verlag">          <i>Verlag</i><par n="Aal__n_m"/></e>
 <e lm="Verlangen">       <i>Verlangen</i><par n="Abitur__n_nt"/></e>
-<e lm="Verlass">         <i>Verlass</i><par n="Abfluss__n_m"/></e>
+<e lm="Verlass">         <i>Verlass</i><par n="Besitz__n_m"/></e>
 <e lm="Verlauf">         <i>Verl</i><par n="Abl/auf__n_m"/></e>
-<e lm="Verlaß">          <i>Verlaß</i><par n="Abfluss__n_m"/></e>
+<e lm="Verlaß">          <i>Verlaß</i><par n="Besitz__n_m"/></e>
 <e lm="Verleih">         <i>Verleih</i><par n="Abend__n_m"/></e>
 <e lm="Verleumdung">     <i>Verleumdung</i><par n="Ahnung__n_f"/></e>
 <e lm="Verlust">         <i>Verlust</i><par n="Aal__n_m"/></e>
@@ -29003,7 +28938,7 @@
 <e lm="Versand">         <i>Versand</i><par n="Aberglauben__n_m"/></e>
 <e lm="Versatzstück">    <i>Versatzstück</i><par n="Aggregat__n_nt"/></e>
 <e lm="Verschleiß">      <i>Verschleiß</i><par n="Abriss__n_m"/></e>
-<e lm="Verschluss">      <i>Verschl</i><par n="Absch/uss__n_m"/></e>
+<e lm="Verschluss">      <i>Verschl</i><par n="Abfl/uss__n_m"/></e>
 <e lm="Verschulden">     <i>Verschulden</i><par n="Abitur__n_nt"/></e>
 <e lm="Verschwörung">    <i>Verschwörung</i><par n="Ahnung__n_f"/></e>
 <e lm="Versehen">        <i>Versehen</i><par n="Abkommen__n_nt"/></e>
@@ -29053,7 +28988,7 @@
 <e lm="Vetter">          <i>Vetter</i><par n="Bummel__n_m"/></e>
 <e lm="Vibration">       <i>Vibration</i><par n="Abfuhr__n_f"/></e>
 <e lm="Video">           <i>Video</i><par n="Abi__n_nt"/></e>
-<e lm="Viech">           <i>Viech</i><par n="Abbild__n_nt"/></e>
+<e lm="Viech">           <i>Viech</i><par n="Bild__n_nt"/></e>
 <e lm="Vieh">            <i>Vieh</i><par n="Abitur__n_nt"/></e>
 <e lm="Vielfalt">        <i>Vielfalt</i><par n="Abhilfe__n_f"/></e>
 <e lm="Vierer">          <i>Vierer</i><par n="Abenteurer__n_m"/></e>
@@ -29098,23 +29033,23 @@
 <e lm="Voodoo">          <i>Voodoo</i><par n="Anbetracht__n_m"/></e>
 <e lm="Voranschlag">     <i>Voranschl</i><par n="Anschl/ag__n_m"/></e>
 <e lm="Vorarlberger">    <i>Vorarlberger</i><par n="Abenteurer__n_m"/></e>
-<e lm="Voraus">          <i>Voraus</i><par n="Abfluss__n_m"/></e>
+<e lm="Voraus">          <i>Voraus</i><par n="Besitz__n_m"/></e>
 <e lm="Voraussage">      <i>Voraussage</i><par n="Abfolge__n_f"/></e>
 <e lm="Vorbehalt">       <i>Vorbehalt</i><par n="Aal__n_m"/></e>
-<e lm="Vorbild">         <i>Vorbild</i><par n="Abbild__n_nt"/></e>
+<e lm="Vorbild">         <i>Vorbild</i><par n="Bild__n_nt"/></e>
 <e lm="Vorfahr">         <i>Vorfahr</i><par n="Mohr__n_m"/></e>
 <e lm="Vorfall">         <i>Vorf</i><par n="Abf/all__n_m"/></e>
-<e lm="Vorfeld">         <i>Vorfeld</i><par n="Abbild__n_nt"/></e>
+<e lm="Vorfeld">         <i>Vorfeld</i><par n="Bild__n_nt"/></e>
 <e lm="Vorfreude">       <i>Vorfreude</i><par n="Abfolge__n_f"/></e>
 <e lm="Vorführung">      <i>Vorführung</i><par n="Ahnung__n_f"/></e>
 <e lm="Vorgabe">         <i>Vorgabe</i><par n="Abfolge__n_f"/></e>
-<e lm="Vorgang">         <i>Vorg</i><par n="Abg/ang__n_m"/></e>
+<e lm="Vorgang">         <i>Vorg</i><par n="G/ang__n_m"/></e>
 <e lm="Vorgarten">       <i>Vorg</i><par n="G/arten__n_m"/></e>
 <e lm="Vorgriff">        <i>Vorgriff</i><par n="Aal__n_m"/></e>
 <e lm="Vorgänger">       <i>Vorgänger</i><par n="Abenteurer__n_m"/></e>
 <e lm="Vorhaben">        <i>Vorhaben</i><par n="Abkommen__n_nt"/></e>
 <e lm="Vorhandensein">   <i>Vorhandensein</i><par n="Abitur__n_nt"/></e>
-<e lm="Vorhang">         <i>Vorh</i><par n="Abg/ang__n_m"/></e>
+<e lm="Vorhang">         <i>Vorh</i><par n="G/ang__n_m"/></e>
 <e lm="Vorherrschaft">   <i>Vorherrschaft</i><par n="Abfuhr__n_f"/></e>
 <e lm="Vorhersage">      <i>Vorhersage</i><par n="Abfolge__n_f"/></e>
 <e lm="Vorhut">          <i>Vorhut</i><par n="Abfuhr__n_f"/></e>
@@ -29163,7 +29098,7 @@
 <e lm="Vorzeit">         <i>Vorzeit</i><par n="Abhilfe__n_f"/></e>
 <e lm="Vorzug">          <i>Vorz</i><par n="Abz/ug__n_m"/></e>
 <e lm="Votum">           <i>Vot</i><par n="Alb/um__n_nt"/></e>
-<e lm="Voyeurismus">     <i>Voyeurismus</i><par n="Abfluss__n_m"/></e>
+<e lm="Voyeurismus">     <i>Voyeurismus</i><par n="Besitz__n_m"/></e>
 <e lm="Vulkan">          <i>Vulkan</i><par n="Abend__n_m"/></e>
 <e lm="Waadtländer">     <i>Waadtländer</i><par n="Abenteurer__n_m"/></e>
 <e lm="Waage">           <i>Waage</i><par n="Abfolge__n_f"/></e>
@@ -29232,7 +29167,7 @@
 <e lm="Wehr">            <i>Wehr</i><par n="Aggregat__n_nt"/></e>
 <e lm="Wehr">            <i>Wehr</i><par n="Causa__n_f"/></e>
 <e lm="Wehrmacht">       <i>Wehrmacht</i><par n="Abhilfe__n_f"/></e>
-<e lm="Weib">            <i>Weib</i><par n="Abbild__n_nt"/></e>
+<e lm="Weib">            <i>Weib</i><par n="Bild__n_nt"/></e>
 <e lm="Weibel">          <i>Weibel</i><par n="Abenteurer__n_m"/></e>
 <e lm="Weiche">          <i>Weiche</i><par n="Abfolge__n_f"/></e>
 <e lm="Weide">           <i>Weide</i><par n="Abfolge__n_f"/></e>
@@ -29270,7 +29205,7 @@
 <e lm="Werbetrommel">    <i>Werbetrommel</i><par n="Abfolge__n_f"/></e>
 <e lm="Werbeträger">     <i>Werbeträger</i><par n="Abenteurer__n_m"/></e>
 <e lm="Werbung">         <i>Werbung</i><par n="Ahnung__n_f"/></e>
-<e lm="Werdegang">       <i>Werdeg</i><par n="Abg/ang__n_m"/></e>
+<e lm="Werdegang">       <i>Werdeg</i><par n="G/ang__n_m"/></e>
 <e lm="Werfer">          <i>Werfer</i><par n="Abenteurer__n_m"/></e>
 <e lm="Werk">            <i>Werk</i><par n="Aggregat__n_nt"/></e>
 <e lm="Werkstatt">       <i>Werkst</i><par n="Werkst/att__n_f"/></e>
@@ -29365,7 +29300,7 @@
 <e lm="Workstation">     <i>Workstation</i><par n="Ag__n_f"/></e>
 <e lm="Wort">            <i>W</i><par n="Machtw/ort__n_nt"/></e>
 <e lm="Wrack">           <i>Wrack</i><par n="Gen__n_nt"/></e>
-<e lm="Wuchs">           <i>Wuchs</i><par n="Abfluss__n_m"/></e>
+<e lm="Wuchs">           <i>Wuchs</i><par n="Besitz__n_m"/></e>
 <e lm="Wucht">           <i>Wucht</i><par n="Abhilfe__n_f"/></e>
 <e lm="Wunde">           <i>Wunde</i><par n="Abfolge__n_f"/></e>
 <e lm="Wunder">          <i>Wunder</i><par n="Abenteuer__n_nt"/></e>
@@ -29410,7 +29345,7 @@
 <e lm="Zapfen">          <i>Zapfen</i><par n="Abkommen__n_nt"/></e>
 <e lm="Zar">             <i>Zar</i><par n="Abiturient__n_m"/></e>
 <e lm="Zauber">          <i>Zauber</i><par n="Aberglauben__n_m"/></e>
-<e lm="Zaum">            <i>Z</i><par n="Albtr/aum__n_m"/></e>
+<e lm="Zaum">            <i>Z</i><par n="R/aum__n_m"/></e>
 <e lm="Zaun">            <i>Z</i><par n="Z/aun__n_m"/></e>
 <e lm="Zebra">           <i>Zebra</i><par n="Abi__n_nt"/></e>
 <e lm="Zeche">           <i>Zeche</i><par n="Abfolge__n_f"/></e>
@@ -29426,7 +29361,7 @@
 <e lm="Zeile">           <i>Zeile</i><par n="Abfolge__n_f"/></e>
 <e lm="Zeit">            <i>Zeit</i><par n="Abfuhr__n_f"/></e>
 <e lm="Zeitalter">       <i>Zeitalter</i><par n="Abenteuer__n_nt"/></e>
-<e lm="Zeitraum">        <i>Zeitr</i><par n="Albtr/aum__n_m"/></e>
+<e lm="Zeitraum">        <i>Zeitr</i><par n="R/aum__n_m"/></e>
 <e lm="Zeitschrift">     <i>Zeitschrift</i><par n="Abfuhr__n_f"/></e>
 <e lm="Zeitung">         <i>Zeitung</i><par n="Ahnung__n_f"/></e>
 <e lm="Zelle">           <i>Zelle</i><par n="Abfolge__n_f"/></e>
@@ -29490,7 +29425,7 @@
 <e lm="Zoom">            <i>Zoom</i><par n="Affront__n_m"/></e>
 <e lm="Zopf">            <i>Z</i><par n="Kn/opf__n_m"/></e>
 <e lm="Zorn">            <i>Zorn</i><par n="Aberglauben__n_m"/></e>
-<e lm="Zubau">           <i>Zubau</i><par n="Abbau__n_m"/></e>
+<e lm="Zubau">           <i>Zubau</i><par n="Bau__n_m"/></e>
 <e lm="Zubehör">         <i>Zubehör</i><par n="Abteil__n_nt"/></e>
 <e lm="Zuber">           <i>Zuber</i><par n="Abenteurer__n_m"/></e>
 <e lm="Zubrot">          <i>Zubrot</i><par n="Abteil__n_nt"/></e>
@@ -29499,10 +29434,10 @@
 <e lm="Zuckerl">         <i>Zuckerl</i><par n="Abkommen__n_nt"/></e>
 <e lm="Zufall">          <i>Zuf</i><par n="Abf/all__n_m"/></e>
 <e lm="Zuflucht">        <i>Zuflucht</i><par n="Abhilfe__n_f"/></e>
-<e lm="Zufluss">         <i>Zufl</i><par n="Absch/uss__n_m"/></e>
+<e lm="Zufluss">         <i>Zufl</i><par n="Abfl/uss__n_m"/></e>
 <e lm="Zug">             <i>Z</i><par n="Abz/ug__n_m"/></e>
 <e lm="Zugabe">          <i>Zugabe</i><par n="Abfolge__n_f"/></e>
-<e lm="Zugang">          <i>Zug</i><par n="Abg/ang__n_m"/></e>
+<e lm="Zugang">          <i>Zug</i><par n="G/ang__n_m"/></e>
 <e lm="Zuger">           <i>Zuger</i><par n="Abenteurer__n_m"/></e>
 <e lm="Zugeständnis">    <i>Zugeständnis</i><par n="Ärgernis__n_nt"/></e>
 <e lm="Zugewinn">        <i>Zugewinn</i><par n="Aal__n_m"/></e>
@@ -29522,7 +29457,7 @@
 <e lm="Zuruf">           <i>Zuruf</i><par n="Aal__n_m"/></e>
 <e lm="Zusage">          <i>Zusage</i><par n="Abfolge__n_f"/></e>
 <e lm="Zusammenarbeit">  <i>Zusammenarbeit</i><par n="Abhilfe__n_f"/></e>
-<e lm="Zusammenhang">    <i>Zusammenh</i><par n="Abg/ang__n_m"/></e>
+<e lm="Zusammenhang">    <i>Zusammenh</i><par n="G/ang__n_m"/></e>
 <e lm="Zusammenkunft">   <i>Zusammenk</i><par n="Ausk/unft__n_f"/></e>
 <e lm="Zusatz">          <i>Zus</i><par n="Abs/atz__n_m"/></e>
 <e lm="Zuschlag">        <i>Zuschl</i><par n="Anschl/ag__n_m"/></e>
@@ -29540,7 +29475,7 @@
 <e lm="Zuversicht">      <i>Zuversicht</i><par n="Abhilfe__n_f"/></e>
 <e lm="Zuwachs">         <i>Zuw</i><par n="Zuw/achs__n_m"/></e>
 <e lm="Zuwendung">       <i>Zuwendung</i><par n="Ahnung__n_f"/></e>
-<e lm="Zwang">           <i>Zw</i><par n="Abg/ang__n_m"/></e>
+<e lm="Zwang">           <i>Zw</i><par n="G/ang__n_m"/></e>
 <e lm="Zweck">           <i>Zweck</i><par n="Aal__n_m"/></e>
 <e lm="Zwecke">          <i>Zwecke</i><par n="Abfolge__n_f"/></e>
 <e lm="Zweifel">         <i>Zweifel</i><par n="Abenteurer__n_m"/></e>
@@ -29548,7 +29483,7 @@
 <e lm="Zwerg">           <i>Zwerg</i><par n="Aal__n_m"/></e>
 <e lm="Zwickel">         <i>Zwickel</i><par n="Abenteurer__n_m"/></e>
 <e lm="Zwiebel">         <i>Zwiebel</i><par n="Abfolge__n_f"/></e>
-<e lm="Zwielicht">       <i>Zwielicht</i><par n="Abbild__n_nt"/></e>
+<e lm="Zwielicht">       <i>Zwielicht</i><par n="Bild__n_nt"/></e>
 <e lm="Zwiespalt">       <i>Zwiespalt</i><par n="Aberglauben__n_m"/></e>
 <e lm="Zwille">          <i>Zwille</i><par n="Abfolge__n_f"/></e>
 <e lm="Zwilling">        <i>Zwilling</i><par n="Abend__n_m"/></e>
@@ -29571,7 +29506,7 @@
 <e lm="Züricher">        <i>Züricher</i><par n="Abenteurer__n_m"/></e>
 <e lm="Ägide">           <i>Ägide</i><par n="Abhilfe__n_f"/></e>
 <e lm="Ägypter">         <i>Ägypter</i><par n="Abenteurer__n_m"/></e>
-<e lm="Ährenfeld">       <i>Ährenfeld</i><par n="Abbild__n_nt"/></e>
+<e lm="Ährenfeld">       <i>Ährenfeld</i><par n="Bild__n_nt"/></e>
 <e lm="Älteste">         <i>Älteste</i><par n="Affe__n_m"/></e>
 <e lm="Änderung">        <i>Änderung</i><par n="Ahnung__n_f"/></e>
 <e lm="Äquivalent">      <i>Äquivalent</i><par n="Aggregat__n_nt"/></e>
@@ -29600,11 +29535,11 @@
 <e lm="Übel">            <i>Übel</i><par n="Abenteuer__n_nt"/></e>
 <e lm="Überbleibsel">    <i>Überbleibsel</i><par n="Abenteuer__n_nt"/></e>
 <e lm="Überblick">       <i>Überblick</i><par n="Abend__n_m"/></e>
-<e lm="Überdruss">       <i>Überdruss</i><par n="Abfluss__n_m"/></e>
-<e lm="Überdruß">        <i>Überdruß</i><par n="Abfluss__n_m"/></e>
+<e lm="Überdruss">       <i>Überdruss</i><par n="Besitz__n_m"/></e>
+<e lm="Überdruß">        <i>Überdruß</i><par n="Besitz__n_m"/></e>
 <e lm="Überfall">        <i>Überf</i><par n="Abf/all__n_m"/></e>
-<e lm="Überfluss">       <i>Überfluss</i><par n="Abfluss__n_m"/></e>
-<e lm="Überfluß">        <i>Überfluß</i><par n="Abfluss__n_m"/></e>
+<e lm="Überfluss">       <i>Überfluss</i><par n="Besitz__n_m"/></e>
+<e lm="Überfluß">        <i>Überfluß</i><par n="Besitz__n_m"/></e>
 <e lm="Übergabe">        <i>Übergabe</i><par n="Abhilfe__n_f"/></e>
 <e lm="Übergang">        <i>Überg</i><par n="Rückg/ang__n_m"/></e>
 <e lm="Übergriff">       <i>Übergriff</i><par n="Aal__n_m"/></e>
@@ -29614,7 +29549,7 @@
 <e lm="Überrest">        <i>Überrest</i><par n="Dritten__n_m"/></e>
 <e lm="Überschuss">      <i>Übersch</i><par n="Abfl/uss__n_m"/></e>
 <e lm="Überschuß">       <i>Übersch</i><par n="Abfl/uß__n_m"/></e>
-<e lm="Überschwang">     <i>Überschw</i><par n="Abg/ang__n_m"/></e>
+<e lm="Überschwang">     <i>Überschw</i><par n="G/ang__n_m"/></e>
 <e lm="Übersetzer">      <i>Übersetzer</i><par n="Abenteurer__n_m"/></e>
 <e lm="Übersicht">       <i>Übersicht</i><par n="Abhilfe__n_f"/></e>
 <e lm="Übertritt">       <i>Übertritt</i><par n="Aal__n_m"/></e>
