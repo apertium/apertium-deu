@@ -14337,7 +14337,7 @@
 <pardef n="h/art__adj">
   <e>       <i>art</i><par n="abendfüllend__adj-positive"/></e>
   <e>       <p><l>ärt</l>       <r>art</r></p><par n="abenteuerlich__adj-comp"/></e>
-  <e>       <p><l>ärt</l>       <r>art</r></p><par n="abenteuerlich__adj-sup"/></e><!--FIXME härtst -->
+  <e>       <p><l>ärt</l>       <r>art</r></p><par n="abgebrannt__adj-sup"/></e>
 </pardef>
 <pardef n="j/ung__adj">
   <e>       <i>ung</i><par n="abendfüllend__adj-positive"/></e>
@@ -14452,7 +14452,7 @@
 <pardef n="/oft__adj">
   <e>       <i>oft</i><par n="abendfüllend__adj-positive"/></e>
   <e>       <p><l>öft</l>       <r>oft</r></p><par n="abenteuerlich__adj-comp"/></e>
-  <e>       <p><l>öft</l>       <r>oft</r></p><par n="abenteuerlich__adj-sup"/></e><!-- FIXME öftst -->
+  <e>       <p><l>öft</l>       <r>oft</r></p><par n="abgebrannt__adj-sup"/></e>
 </pardef>
 <pardef n="sch/arf__adj">
   <e>       <i>arf</i><par n="abendfüllend__adj-positive"/></e>
@@ -14461,8 +14461,10 @@
 </pardef>
 <pardef n="schm/al__adj">
   <e>       <i>al</i><par n="abendfüllend__adj-positive"/></e>
-  <e>       <p><l>äl</l>        <r>al</r></p><par n="abenteuerlich__adj-comp"/></e><!-- FIXME schmäler -->
-  <e>       <p><l>äl</l>        <r>al</r></p><par n="abenteuerlich__adj-sup"/></e><!-- FIXME schmälst -->
+  <e>       <i>al</i><par n="abenteuerlich__adj-comp"/></e>
+  <e>       <p><l>äl</l>        <r>al</r></p><par n="abenteuerlich__adj-comp"/></e>
+  <e>       <i>al</i><par n="abenteuerlich__adj-sup"/></e>
+  <e>       <p><l>äl</l>        <r>al</r></p><par n="abenteuerlich__adj-sup"/></e>
 </pardef>
 <pardef n="schw/ach__adj">
   <e>       <i>ach</i><par n="abendfüllend__adj-positive"/></e>
