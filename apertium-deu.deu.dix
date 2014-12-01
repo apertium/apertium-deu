@@ -14141,43 +14141,8 @@
 <pardef n="allerhand__adj">
   <e>       <par n="allerhand__adj-positive"/></e>
 </pardef>
-<pardef n="alt__adj-positive">
-  <e>       <p><l>em</l>        <r><s n="adj"/><s n="m"/><s n="sg"/><s n="dat"/><s n="st"/></r></p></e>
-  <e>       <p><l>em</l>        <r><s n="adj"/><s n="nt"/><s n="sg"/><s n="dat"/><s n="st"/></r></p></e>
-  <e>       <p><l>en</l>        <r><s n="adj"/><s n="f"/><s n="sg"/><s n="dat"/><s n="mix"/></r></p></e>
-  <e>       <p><l>en</l>        <r><s n="adj"/><s n="f"/><s n="sg"/><s n="gen"/><s n="mix"/></r></p></e>
-  <e>       <p><l>en</l>        <r><s n="adj"/><s n="mf"/><s n="pl"/><s n="acc"/><s n="mix"/></r></p></e>
-  <e>       <p><l>en</l>        <r><s n="adj"/><s n="mf"/><s n="pl"/><s n="dat"/></r></p></e>
-  <e>       <p><l>en</l>        <r><s n="adj"/><s n="mf"/><s n="pl"/><s n="gen"/><s n="mix"/></r></p></e>
-  <e>       <p><l>en</l>        <r><s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="mix"/></r></p></e>
-  <e>       <p><l>en</l>        <r><s n="adj"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
-  <e>       <p><l>en</l>        <r><s n="adj"/><s n="m"/><s n="sg"/><s n="dat"/><s n="mix"/></r></p></e>
-  <e>       <p><l>en</l>        <r><s n="adj"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
-  <e>       <p><l>en</l>        <r><s n="adj"/><s n="nt"/><s n="sg"/><s n="dat"/><s n="mix"/></r></p></e>
-  <e>       <p><l>en</l>        <r><s n="adj"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
-  <e>       <p><l>es</l>        <r><s n="adj"/><s n="nt"/><s n="sg"/><s n="acc"/><s n="mix"/></r></p></e>
-  <e>       <p><l>es</l>        <r><s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="mix"/></r></p></e>
-</pardef>
-<pardef n="alt__adj">
-  <e>       <par n="alt__adj-positive"/></e>
-</pardef>
-<pardef n="/alt__adj-positive">
-  <e>       <p><l>alte</l>      <r>alt<s n="adj"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
-  <e>       <p><l>alte</l>      <r>alt<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
-  <e>       <p><l>alte</l>      <r>alt<s n="adj"/><s n="mf"/><s n="pl"/><s n="acc"/><s n="st"/></r></p></e>
-  <e>       <p><l>alte</l>      <r>alt<s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="st"/></r></p></e>
-  <e>       <p><l>alte</l>      <r>alt<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="sw"/></r></p></e>
-  <e>       <p><l>alte</l>      <r>alt<s n="adj"/><s n="nt"/><s n="sg"/><s n="acc"/><s n="sw"/></r></p></e>
-  <e>       <p><l>alte</l>      <r>alt<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="sw"/></r></p></e>
-  <e>       <p><l>alter</l>     <r>alt<s n="adj"/><s n="f"/><s n="sg"/><s n="dat"/><s n="st"/></r></p></e>
-  <e>       <p><l>alter</l>     <r>alt<s n="adj"/><s n="f"/><s n="sg"/><s n="gen"/><s n="st"/></r></p></e>
-  <e>       <p><l>alter</l>     <r>alt<s n="adj"/><s n="mf"/><s n="pl"/><s n="gen"/><s n="st"/></r></p></e>
-  <e>       <p><l>alter</l>     <r>alt<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="mix"/></r></p></e>
-  <e>       <p><l>alt</l>       <r>alt<s n="adj"/><s n="attr"/></r></p></e>
-  <e>       <p><l>alt</l>       <r>alt<s n="adj"/><s n="pred"/></r></p></e>
-</pardef>
 <pardef n="/alt__adj">
-  <e>       <par n="/alt__adj-positive"/></e>
+  <e>       <i>alt</i><par n="abendfüllend__adj-positive"/></e>
   <e>       <p><l>ält</l>       <r>alt</r></p><par n="abenteuerlich__adj-comp"/></e>
   <e>       <p><l>ält</l>       <r>alt</r></p><par n="abgebrannt__adj-sup"/></e>
 </pardef>
@@ -14303,36 +14268,8 @@
 <pardef n="dunkel__adj">
   <e>       <par n="dunkel__adj-positive"/></e>
 </pardef>
-<pardef n="dunk/el__adj-positive">
-  <e>       <p><l>lem</l>       <r>el<s n="adj"/><s n="m"/><s n="sg"/><s n="dat"/><s n="st"/></r></p></e>
-  <e>       <p><l>lem</l>       <r>el<s n="adj"/><s n="nt"/><s n="sg"/><s n="dat"/><s n="st"/></r></p></e>
-  <e>       <p><l>len</l>       <r>el<s n="adj"/><s n="f"/><s n="sg"/><s n="dat"/><s n="mix"/></r></p></e>
-  <e>       <p><l>len</l>       <r>el<s n="adj"/><s n="f"/><s n="sg"/><s n="gen"/><s n="mix"/></r></p></e>
-  <e>       <p><l>len</l>       <r>el<s n="adj"/><s n="mf"/><s n="pl"/><s n="acc"/><s n="mix"/></r></p></e>
-  <e>       <p><l>len</l>       <r>el<s n="adj"/><s n="mf"/><s n="pl"/><s n="dat"/></r></p></e>
-  <e>       <p><l>len</l>       <r>el<s n="adj"/><s n="mf"/><s n="pl"/><s n="gen"/><s n="mix"/></r></p></e>
-  <e>       <p><l>len</l>       <r>el<s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="mix"/></r></p></e>
-  <e>       <p><l>len</l>       <r>el<s n="adj"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
-  <e>       <p><l>len</l>       <r>el<s n="adj"/><s n="m"/><s n="sg"/><s n="dat"/><s n="mix"/></r></p></e>
-  <e>       <p><l>len</l>       <r>el<s n="adj"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
-  <e>       <p><l>len</l>       <r>el<s n="adj"/><s n="nt"/><s n="sg"/><s n="dat"/><s n="mix"/></r></p></e>
-  <e>       <p><l>len</l>       <r>el<s n="adj"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
-  <e>       <p><l>le</l>        <r>el<s n="adj"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
-  <e>       <p><l>le</l>        <r>el<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
-  <e>       <p><l>le</l>        <r>el<s n="adj"/><s n="mf"/><s n="pl"/><s n="acc"/><s n="st"/></r></p></e>
-  <e>       <p><l>le</l>        <r>el<s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="st"/></r></p></e>
-  <e>       <p><l>le</l>        <r>el<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="sw"/></r></p></e>
-  <e>       <p><l>le</l>        <r>el<s n="adj"/><s n="nt"/><s n="sg"/><s n="acc"/><s n="sw"/></r></p></e>
-  <e>       <p><l>le</l>        <r>el<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="sw"/></r></p></e>
-  <e>       <p><l>ler</l>       <r>el<s n="adj"/><s n="f"/><s n="sg"/><s n="dat"/><s n="st"/></r></p></e>
-  <e>       <p><l>ler</l>       <r>el<s n="adj"/><s n="f"/><s n="sg"/><s n="gen"/><s n="st"/></r></p></e>
-  <e>       <p><l>ler</l>       <r>el<s n="adj"/><s n="mf"/><s n="pl"/><s n="gen"/><s n="st"/></r></p></e>
-  <e>       <p><l>ler</l>       <r>el<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="mix"/></r></p></e>
-  <e>       <p><l>les</l>       <r>el<s n="adj"/><s n="nt"/><s n="sg"/><s n="acc"/><s n="mix"/></r></p></e>
-  <e>       <p><l>les</l>       <r>el<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="mix"/></r></p></e>
-</pardef>
 <pardef n="dunk/el__adj">
-  <e>       <par n="dunk/el__adj-positive"/></e>
+  <e>       <par n="akzeptab/el__adj-positive"/></e>
   <e>       <p><l>l</l>         <r>el</r></p><par n="abenteuerlich__adj-comp"/></e>
   <e>       <i>el</i><par n="abenteuerlich__adj-sup"/></e>
 </pardef>
@@ -14393,6 +14330,7 @@
   <e>       <p><l>öß</l>        <r>oß</r></p><par n="gewiss__adj-sup"/></e>
 </pardef>
 <pardef n="/gut__adj">
+  <e>       <i>gut</i><par n="abendfüllend__adj-positive"/></e>
   <e>       <p><l>bess</l>      <r>gut</r></p><par n="abenteuerlich__adj-comp"/></e>
   <e>       <p><l>be</l>        <r>gut</r></p><par n="abenteuerlich__adj-sup"/></e>
 </pardef>
@@ -14405,11 +14343,6 @@
   <e>       <i>ung</i><par n="abendfüllend__adj-positive"/></e>
   <e>       <p><l>üng</l>       <r>ung</r></p><par n="abenteuerlich__adj-comp"/></e>
   <e>       <p><l>üng</l>       <r>ung</r></p><par n="abenteuerlich__adj-sup"/></e>
-</pardef>
-<pardef n="k/alt__adj">
-  <e>       <i>alt</i><par n="abendfüllend__adj-positive"/></e>
-  <e>       <p><l>ält</l>       <r>alt</r></p><par n="abenteuerlich__adj-comp"/></e>
-  <e>       <p><l>ält</l>       <r>alt</r></p><par n="abgebrannt__adj-sup"/></e>
 </pardef>
 <pardef n="kl/ug__adj">
   <e>       <i>ug</i><par n="abendfüllend__adj-positive"/></e>
@@ -14507,10 +14440,12 @@
   <e>       <par n="nämlich__adj-positive"/></e>
 </pardef>
 <pardef n="n/ass__adj">
+  <e>       <i>ass</i><par n="abendfüllend__adj-positive"/></e>
   <e>       <p><l>äss</l>       <r>ass</r></p><par n="abenteuerlich__adj-comp"/></e>
   <e>       <p><l>äss</l>       <r>ass</r></p><par n="gewiss__adj-sup"/></e>
 </pardef>
 <pardef n="n/aß__adj">
+  <e>       <i>aß</i><par n="abendfüllend__adj-positive"/></e>
   <e>       <p><l>äß</l>        <r>aß</r></p><par n="abenteuerlich__adj-comp"/></e>
   <e>       <p><l>äß</l>        <r>aß</r></p><par n="gewiss__adj-sup"/></e>
 </pardef>
@@ -14535,7 +14470,7 @@
   <e>       <p><l>äch</l>       <r>ach</r></p><par n="abenteuerlich__adj-sup"/></e>
 </pardef>
 <pardef n="schw/arz__adj">
-  <e>       <i>arz</i><par n="nämlich__adj-positive"/></e>
+  <e>       <i>arz</i><par n="abendfüllend__adj-positive"/></e>
   <e>       <p><l>ärz</l>       <r>arz</r></p><par n="abenteuerlich__adj-comp"/></e>
   <e>       <p><l>ärz</l>       <r>arz</r></p><par n="gewiss__adj-sup"/></e>
 </pardef>
@@ -14580,6 +14515,7 @@
   <e>       <i>er</i><par n="abenteuerlich__adj-sup"/></e>
 </pardef>
 <pardef n="/viel__adj">
+  <e>       <i>viel</i><par n="abendfüllend__adj-positive"/></e>
   <e>       <p><l>mehr</l>      <r>viel</r></p><par n="abenteuerlich__adj-comp"/></e>
   <e>       <p><l>mei</l>       <r>viel</r></p><par n="abenteuerlich__adj-sup"/></e>
 </pardef>
@@ -15743,13 +15679,11 @@
 <e lm="allumfassend">    <i>allumfassend</i><par n="abenteuerlich__adj"/></e>
 <e lm="alphabetisch">    <i>alphabetisch</i><par n="abendfüllend__adj"/></e>
 <e lm="alpin">           <i>alpin</i><par n="abendfüllend__adj"/></e>
-<e lm="alt">             <i>alt</i><par n="alt__adj"/></e>
+<e lm="alt">             <i></i><par n="/alt__adj"/></e>
 <e lm="altbacken">       <i>altbacken</i><par n="abendfüllend__adj"/></e>
-<e lm="alte">            <i></i><par n="/alt__adj"/></e>
 <e lm="alternativ">      <i>alternativ</i><par n="abendfüllend__adj"/></e>
 <e lm="altersbedingt">   <i>altersbedingt</i><par n="abendfüllend__adj"/></e>
 <e lm="altertümlich">    <i>altertümlich</i><par n="abendfüllend__adj"/></e>
-<e lm="altes">           <i>alt</i><par n="alt__adj"/></e>
 <e lm="altgedient">      <i>altgedient</i><par n="abendfüllend__adj"/></e>
 <e lm="althergebracht">  <i>althergebracht</i><par n="abendfüllend__adj"/></e>
 <e lm="altmodisch">      <i>altmodisch</i><par n="abenteuerlich__adj"/></e>
@@ -15969,7 +15903,6 @@
 <e lm="besetzt">         <i>besetzt</i><par n="abenteuerlich__adj"/></e>
 <e lm="besonder">        <i>besonder</i><par n="abgebrannt__adj"/></e>
 <e lm="besorgt">         <i>besorgt</i><par n="abgebrannt__adj"/></e>
-<e lm="besser">          <i></i><par n="/gut__adj"/></e><!-- FIXME -->
 <e lm="bestialisch">     <i>bestialisch</i><par n="abhold__adj"/></e>
 <e lm="bestimmt">        <i>bestimmt</i><par n="abgebrannt__adj"/></e>
 <e lm="bestmöglich">     <i>bestmöglich</i><par n="abendfüllend__adj"/></e>
@@ -16157,8 +16090,7 @@
 <e lm="dufte">           <i>dufte</i><par n="abendfüllend__adj"/></e>
 <e lm="dumm">            <i>d</i><par n="d/umm__adj"/></e>
 <e lm="dumpf">           <i>dumpf</i><par n="abgebrannt__adj"/></e>
-<e lm="dunkel">          <i>dunkel</i><par n="dunkel__adj"/></e><!-- FIXME -->
-<e lm="dunkelst">        <i>dunk</i><par n="dunk/el__adj"/></e><!-- FIXME -->
+<e lm="dunkel">          <i>dunk</i><par n="dunk/el__adj"/></e>
 <e lm="durchlässig">     <i>durchlässig</i><par n="abenteuerlich__adj"/></e>
 <e lm="durchschaubar">   <i>durchschaubar</i><par n="abenteuerlich__adj"/></e>
 <e lm="durchschnittlich"><i>durchschnittlich</i><par n="abenteuerlich__adj"/></e>
@@ -16483,7 +16415,6 @@
 <e lm="gelaunt">         <i>gelaunt</i><par n="abendfüllend__adj"/></e>
 <e lm="gelb">            <i>gelb</i><par n="abhold__adj"/></e>
 <e lm="gelblich">        <i>gelblich</i><par n="abhold__adj"/></e>
-<e lm="gelbst">          <i>gelb</i><par n="abhold__adj"/></e><!-- FIXME -->
 <e lm="gelegentlich">    <i>gelegentlich</i><par n="abendfüllend__adj"/></e>
 <e lm="gelind">          <i>gelinde</i><par n="dröge__adj"/></e>
 <e lm="gelt">            <i>gelt</i><par n="abendfüllend__adj"/></e>
@@ -16625,8 +16556,7 @@
 <e lm="grün">            <i>grün</i><par n="abenteuerlich__adj"/></e>
 <e lm="gründlich">       <i>gründlich</i><par n="abenteuerlich__adj"/></e>
 <e lm="grünlich">        <i>grünlich</i><par n="abenteuerlich__adj"/></e>
-<e lm="grünst">          <i>grün</i><par n="abenteuerlich__adj"/></e><!-- FIXME -->
-<e lm="gut">             <i>gut</i><par n="abendfüllend__adj"/></e>
+<e lm="gut">             <i></i><par n="/gut__adj"/></e>
 <e lm="gymnasial">       <i>gymnasial</i><par n="abendfüllend__adj"/></e>
 <e lm="gängig">          <i>gängig</i><par n="abenteuerlich__adj"/></e>
 <e lm="gänzlich">        <i>gänzlich</i><par n="abendfüllend__adj"/></e>
@@ -16865,7 +16795,7 @@
 <e lm="kahl">            <i>kahl</i><par n="abenteuerlich__adj"/></e>
 <e lm="kaiserlich">      <i>kaiserlich</i><par n="abendfüllend__adj"/></e>
 <e lm="kalifornisch">    <i>kalifornisch</i><par n="abenteuerlich__adj"/></e>
-<e lm="kalt">            <i>k</i><par n="k/alt__adj"/></e>
+<e lm="kalt">            <i>k</i><par n="/alt__adj"/></e>
 <e lm="kaltblütig">      <i>kaltblütig</i><par n="abenteuerlich__adj"/></e>
 <e lm="kambodschanisch"> <i>kambodschanisch</i><par n="abenteuerlich__adj"/></e>
 <e lm="kanadisch">       <i>kanadisch</i><par n="abenteuerlich__adj"/></e>
@@ -16875,7 +16805,6 @@
 <e lm="kantonal">        <i>kantonal</i><par n="abendfüllend__adj"/></e>
 <e lm="kapital">         <i>kapital</i><par n="abenteuerlich__adj"/></e>
 <e lm="kapitalistisch">  <i>kapitalistisch</i><par n="abenteuerlich__adj"/></e>
-<e lm="kapitalst">       <i>kapital</i><par n="abenteuerlich__adj"/></e><!-- FIXME -->
 <e lm="kaputt">          <i>kaputt</i><par n="abenteuerlich__adj"/></e>
 <e lm="karg">            <i>karg</i><par n="abgebrannt__adj"/></e>
 <e lm="kariert">         <i>kariert</i><par n="abgebrannt__adj"/></e>
@@ -16909,7 +16838,6 @@
 <e lm="klein">           <i>klein</i><par n="abhold__adj"/></e>
 <e lm="kleinlaut">       <i>kleinlaut</i><par n="abgebrannt__adj"/></e>
 <e lm="kleinlich">       <i>kleinlich</i><par n="abenteuerlich__adj"/></e>
-<e lm="kleinst">         <i>klein</i><par n="abhold__adj"/></e><!-- FIXME -->
 <e lm="klimatisch">      <i>klimatisch</i><par n="abenteuerlich__adj"/></e>
 <e lm="klinisch">        <i>klinisch</i><par n="abenteuerlich__adj"/></e>
 <e lm="klitzeklein">     <i>klitzeklein</i><par n="abenteuerlich__adj"/></e>
@@ -17087,7 +17015,6 @@
 <e lm="lieb">            <i>lieb</i><par n="abhold__adj"/></e>
 <e lm="lieblich">        <i>lieblich</i><par n="abhold__adj"/></e>
 <e lm="lieblos">         <i>lieblos</i><par n="abgebrannt__adj"/></e>
-<e lm="liebst">          <i>lieb</i><par n="abhold__adj"/></e><!-- FIXME -->
 <e lm="liechtensteinisch"><i>liechtensteinisch</i><par n="abenteuerlich__adj"/></e>
 <e lm="lind">            <i>lind</i><par n="abgebrannt__adj"/></e>
 <e lm="linear">          <i>linear</i><par n="abendfüllend__adj"/></e>
@@ -17166,9 +17093,7 @@
 <e lm="meditativ">       <i>meditativ</i><par n="abendfüllend__adj"/></e>
 <e lm="mediterran">      <i>mediterran</i><par n="abendfüllend__adj"/></e>
 <e lm="medizinisch">     <i>medizinisch</i><par n="abenteuerlich__adj"/></e>
-<e lm="mehrer">          <i></i><par n="/viel__adj"/></e><!-- FIXME -->
 <e lm="mehrfach">        <i>mehrfach</i><par n="abendfüllend__adj"/></e>
-<e lm="meist">           <i></i><par n="/viel__adj"/></e><!-- FIXME -->
 <e lm="meisterhaft">     <i>meisterhaft</i><par n="abgebrannt__adj"/></e>
 <e lm="meisterlich">     <i>meisterlich</i><par n="abhold__adj"/></e>
 <e lm="melancholisch">   <i>melancholisch</i><par n="abhold__adj"/></e>
@@ -17279,6 +17204,7 @@
 <e lm="nachträglich">    <i>nachträglich</i><par n="abenteuerlich__adj"/></e>
 <e lm="nackt">           <i>nackt</i><par n="abgebrannt__adj"/></e>
 <e lm="nagelneu">        <i>nagelneu</i><par n="abendfüllend__adj"/></e>
+<e lm="nah">             <i>n</i><par n="n/ah__adj"/></e>
 <e lm="nahegelegen">     <i>nahegelegen</i><par n="abenteuerlich__adj"/></e>
 <e lm="naheliegend">     <i>naheliegend</i><par n="abhold__adj"/></e>
 <e lm="nahestehend">     <i>nahestehend</i><par n="abhold__adj"/></e>
@@ -17289,13 +17215,13 @@
 <e lm="napoleonisch">    <i>napoleonisch</i><par n="abenteuerlich__adj"/></e>
 <e lm="narrativ">        <i>narrativ</i><par n="abendfüllend__adj"/></e>
 <e lm="narzisstisch">    <i>narzisstisch</i><par n="abenteuerlich__adj"/></e>
-<e lm="nass">            <i>nass</i><par n="abendfüllend__adj"/></e>
+<e lm="nass">            <i>n</i><par n="n/ass__adj"/></e>
 <e lm="nassauisch">      <i>nassauisch</i><par n="abenteuerlich__adj"/></e>
 <e lm="national">        <i>national</i><par n="abendfüllend__adj"/></e>
 <e lm="natural">         <i>natural</i><par n="abendfüllend__adj"/></e>
 <e lm="naturalistisch">  <i>naturalistisch</i><par n="abenteuerlich__adj"/></e>
 <e lm="natürlich">       <i>natürlich</i><par n="abhold__adj"/></e>
-<e lm="naß">             <i>naß</i><par n="abendfüllend__adj"/></e>
+<e lm="naß">             <i>n</i><par n="n/aß__adj"/></e>
 <e lm="nebulös">         <i>nebulös</i><par n="abgebrannt__adj"/></e>
 <e lm="neckisch">        <i>neckisch</i><par n="abhold__adj"/></e>
 <e lm="negativ">         <i>negativ</i><par n="abenteuerlich__adj"/></e>
@@ -17344,12 +17270,9 @@
 <e lm="nuklear">         <i>nuklear</i><par n="abendfüllend__adj"/></e>
 <e lm="numerisch">       <i>numerisch</i><par n="abendfüllend__adj"/></e>
 <e lm="nunmehrig">       <i>nunmehrig</i><par n="abendfüllend__adj"/></e>
-<e lm="nächst">          <i>n</i><par n="n/ah__adj"/></e><!-- FIXME -->
 <e lm="nächtlich">       <i>nächtlich</i><par n="abendfüllend__adj"/></e>
 <e lm="nämlich">         <i>nämlich</i><par n="nämlich__adj"/></e>
 <e lm="närrisch">        <i>närrisch</i><par n="abenteuerlich__adj"/></e>
-<e lm="nässer">          <i>n</i><par n="n/ass__adj"/></e><!-- FIXME -->
-<e lm="näßer">           <i>n</i><par n="n/aß__adj"/></e><!-- FIXME -->
 <e lm="nördlich">        <i>nördlich</i><par n="abhold__adj"/></e>
 <e lm="nötig">           <i>nötig</i><par n="abenteuerlich__adj"/></e>
 <e lm="nützlich">        <i>nützlich</i><par n="abhold__adj"/></e>
@@ -17571,7 +17494,6 @@
 <e lm="reaktionär">      <i>reaktionär</i><par n="abenteuerlich__adj"/></e>
 <e lm="real">            <i>real</i><par n="abenteuerlich__adj"/></e>
 <e lm="realistisch">     <i>realistisch</i><par n="abenteuerlich__adj"/></e>
-<e lm="realst">          <i>real</i><par n="abenteuerlich__adj"/></e><!-- FIXME -->
 <e lm="rebellisch">      <i>rebellisch</i><par n="abenteuerlich__adj"/></e>
 <e lm="rechnerisch">     <i>rechnerisch</i><par n="abendfüllend__adj"/></e>
 <e lm="recht">           <i>recht</i><par n="abendfüllend__adj"/></e>
@@ -17596,7 +17518,6 @@
 <e lm="reich">           <i>reich</i><par n="abenteuerlich__adj"/></e>
 <e lm="reichhaltig">     <i>reichhaltig</i><par n="abhold__adj"/></e>
 <e lm="reichlich">       <i>reichlich</i><par n="abenteuerlich__adj"/></e>
-<e lm="reichst">         <i>reich</i><par n="abenteuerlich__adj"/></e><!-- FIXME -->
 <e lm="reif">            <i>reif</i><par n="abhold__adj"/></e>
 <e lm="rein">            <i>rein</i><par n="abenteuerlich__adj"/></e>
 <e lm="reizend">         <i>reizend</i><par n="abenteuerlich__adj"/></e>
@@ -17759,8 +17680,7 @@
 <e lm="schwank">         <i>schwank</i><par n="abgebrannt__adj"/></e>
 <e lm="schwankend">      <i>schwankend</i><par n="abenteuerlich__adj"/></e>
 <e lm="schwankes">       <i>schwank</i><par n="abgebrannt__adj"/></e>
-<e lm="schwarz">         <i>schw</i><par n="schw/arz__adj"/></e><!-- TODO check -->
-<e lm="schwarz">         <i>schwarz</i><par n="dunkel__adj"/></e><!-- TODO check -->
+<e lm="schwarz">         <i>schw</i><par n="schw/arz__adj"/></e>
 <e lm="schweigsam">      <i>schweigsam</i><par n="abenteuerlich__adj"/></e>
 <e lm="schweizerisch">   <i>schweizerisch</i><par n="abenteuerlich__adj"/></e>
 <e lm="schwer">          <i>schwer</i><par n="abhold__adj"/></e>
@@ -17775,7 +17695,6 @@
 <e lm="schwul">          <i>schwul</i><par n="abendfüllend__adj"/></e>
 <e lm="schwäbisch">      <i>schwäbisch</i><par n="abenteuerlich__adj"/></e>
 <e lm="schwärmerisch">   <i>schwärmerisch</i><par n="abenteuerlich__adj"/></e>
-<e lm="schwärzt">        <i>schw</i><par n="schw/arz__adj"/></e>
 <e lm="schwül">          <i>schwül</i><par n="abhold__adj"/></e>
 <e lm="schäbig">         <i>schäbig</i><par n="abenteuerlich__adj"/></e>
 <e lm="schädlich">       <i>schädlich</i><par n="abhold__adj"/></e>
@@ -18054,7 +17973,6 @@
 <e lm="tiefgefroren">    <i>tiefgefroren</i><par n="abendfüllend__adj"/></e>
 <e lm="tiefgreifend">    <i>tiefgreifend</i><par n="abenteuerlich__adj"/></e>
 <e lm="tiefgründig">     <i>tiefgründig</i><par n="abenteuerlich__adj"/></e>
-<e lm="tiefst">          <i>tief</i><par n="abhold__adj"/></e><!-- FIXME -->
 <e lm="tierisch">        <i>tierisch</i><par n="abenteuerlich__adj"/></e>
 <e lm="tolerant">        <i>tolerant</i><par n="abgebrannt__adj"/></e>
 <e lm="toll">            <i>toll</i><par n="abenteuerlich__adj"/></e>
@@ -18492,7 +18410,7 @@
 <e lm="verächtlich">     <i>verächtlich</i><par n="abenteuerlich__adj"/></e>
 <e lm="verängstigt">     <i>verängstigt</i><par n="abhold__adj"/></e>
 <e lm="verärgert">       <i>verärgert</i><par n="abendfüllend__adj"/></e>
-<e lm="viel">            <i>viel</i><par n="abendfüllend__adj"/></e>
+<e lm="viel">            <i></i><par n="/viel__adj"/></e>
 <e lm="vieldeutig">      <i>vieldeutig</i><par n="abendfüllend__adj"/></e>
 <e lm="vielfach">        <i>vielfach</i><par n="abendfüllend__adj"/></e>
 <e lm="vielfältig">      <i>vielfältig</i><par n="abenteuerlich__adj"/></e>
@@ -18502,7 +18420,6 @@
 <e lm="vielstimmig">     <i>vielstimmig</i><par n="abendfüllend__adj"/></e>
 <e lm="vielversprechend"><i>vielversprechend</i><par n="abenteuerlich__adj"/></e>
 <e lm="vietnamesisch">   <i>vietnamesisch</i><par n="abenteuerlich__adj"/></e>
-<e lm="vietnamesischst"> <i>vietnamesisch</i><par n="abenteuerlich__adj"/></e><!-- FIXME -->
 <e lm="viktorianisch">   <i>viktorianisch</i><par n="abenteuerlich__adj"/></e>
 <e lm="violett">         <i>violett</i><par n="abendfüllend__adj"/></e>
 <e lm="virtuell">        <i>virtuell</i><par n="abenteuerlich__adj"/></e>
@@ -18592,7 +18509,6 @@
 <e lm="wehrhaft">        <i>wehrhaft</i><par n="abgebrannt__adj"/></e>
 <e lm="wehrlos">         <i>wehrlos</i><par n="abgebrannt__adj"/></e>
 <e lm="wehrpflichtig">   <i>wehrpflichtig</i><par n="abendfüllend__adj"/></e>
-<e lm="wehst">           <i>weh</i><par n="abenteuerlich__adj"/></e><!-- FIXME -->
 <e lm="weiblich">        <i>weiblich</i><par n="abenteuerlich__adj"/></e>
 <e lm="weich">           <i>weich</i><par n="abenteuerlich__adj"/></e>
 <e lm="weihnachtlich">   <i>weihnachtlich</i><par n="abendfüllend__adj"/></e>
@@ -18746,7 +18662,6 @@
 <e lm="zivil">           <i>zivil</i><par n="abenteuerlich__adj"/></e>
 <e lm="zivilisatorisch"> <i>zivilisatorisch</i><par n="abenteuerlich__adj"/></e>
 <e lm="zivilisiert">     <i>zivilisiert</i><par n="abenteuerlich__adj"/></e>
-<e lm="zivilst">         <i>zivil</i><par n="abenteuerlich__adj"/></e><!-- FIXME -->
 <e lm="zollfrei">        <i>zollfrei</i><par n="abendfüllend__adj"/></e>
 <e lm="zoologisch">      <i>zoologisch</i><par n="abendfüllend__adj"/></e>
 <e lm="zornig">          <i>zornig</i><par n="abenteuerlich__adj"/></e>
@@ -18795,11 +18710,8 @@
 <e lm="zügig">           <i>zügig</i><par n="abenteuerlich__adj"/></e>
 <e lm="zünftig">         <i>zünftig</i><par n="abenteuerlich__adj"/></e>
 <e lm="ähnlich">         <i>ähnlich</i><par n="abenteuerlich__adj"/></e>
-<e lm="ältest">          <i></i><par n="/alt__adj"/></e><!-- FIXME -->
 <e lm="ängstlich">       <i>ängstlich</i><par n="abenteuerlich__adj"/></e>
-<e lm="ärgst">           <i></i><par n="/arg__adj"/></e><!-- FIXME -->
 <e lm="ärmlich">         <i>ärmlich</i><par n="abenteuerlich__adj"/></e>
-<e lm="ärmst">           <i></i><par n="/arm__adj"/></e><!-- FIXME -->
 <e lm="ärztlich">        <i>ärztlich</i><par n="abendfüllend__adj"/></e>
 <e lm="ästhetisch">      <i>ästhetisch</i><par n="abenteuerlich__adj"/></e>
 <e lm="ätherisch">       <i>ätherisch</i><par n="abenteuerlich__adj"/></e>
@@ -18813,8 +18725,7 @@
 <e lm="österlich">       <i>österlich</i><par n="abendfüllend__adj"/></e>
 <e lm="österreichisch">  <i>österreichisch</i><par n="abenteuerlich__adj"/></e>
 <e lm="östlich">         <i>östlich</i><par n="abenteuerlich__adj"/></e>
-<e lm="übel">            <i>übel</i><par n="dunkel__adj"/></e>
-<e lm="übelst">          <i>üb</i><par n="dunk/el__adj"/></e><!-- FIXME -->
+<e lm="übel">            <i>üb</i><par n="dunk/el__adj"/></e>
 <e lm="überaltert">      <i>überaltert</i><par n="abendfüllend__adj"/></e>
 <e lm="überdrüssig">     <i>überdrüssig</i><par n="abhold__adj"/></e>
 <e lm="überflüssig">     <i>überflüssig</i><par n="abendfüllend__adj"/></e>
