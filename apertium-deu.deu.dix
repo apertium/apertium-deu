@@ -105,6 +105,13 @@
   <e>       <re>[0-9]+(([., ][0-9]+)+)?</re><p><l></l><r><s n="num"/></r></p></e>
 </pardef>
 
+<pardef n="ordinals">
+  <e>       <re>[0-9]+</re><p><l>.</l><r>.<s n="num"/><s n="ord"/></r></p></e>
+</pardef>
+
+
+<!-- SECTION: Pronouns -->
+
 <pardef n="/ich__prn">
   <e>       <p><l>ich</l>       <r>ich<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>meiner</l>    <r>ich<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="gen"/></r></p></e>
@@ -578,7 +585,7 @@
   <e>       <p><l>en</l>        <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>en</l>        <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>en</l>        <r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
+  <e>       <p><l>en</l>        <r><s n="n"/><s n="m"/><s n="pl"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Abkommen__n_nt">
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
@@ -2721,6 +2728,17 @@
   <e>       <p><l>ank</l>       <r>ank<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>ank</l>       <r>ank<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>anks</l>      <r>ank<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
+</pardef>
+<pardef n="Gewissen__n_nt">
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>s</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>s</l>         <r><s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Giftz/ahn__n_nt">
   <e>       <p><l>ähnen</l>     <r>ahn<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p><par n="cmp-R"/></e>
@@ -19743,6 +19761,7 @@
 <e lm="Bungalow">        <i>Bungalow</i><par n="Affront__n_m"/></e>
 <e lm="Bungee">          <i>Bungee</i><par n="Abi__n_nt"/></e>
 <e lm="Bunker">          <i>Bunker</i><par n="Abenteurer__n_m"/></e>
+<e lm="Bur">             <i>Bur</i><par n="Abiturient__n_m"/></e>
 <e lm="Bureau">          <i>Bureau</i><par n="Abi__n_nt"/></e>
 <e lm="Burg">            <i>Burg</i><par n="Abfuhr__n_f"/></e>
 <e lm="Burger">          <i>Burger</i><par n="Affront__n_m"/></e>
@@ -21176,7 +21195,7 @@
 <e lm="Gewicht">         <i>Gewicht</i><par n="Aggregat__n_nt"/></e>
 <e lm="Gewinn">          <i>Gewinn</i><par n="Aal__n_m"/></e>
 <e lm="Gewirr">          <i>Gewirr</i><par n="Abteil__n_nt"/></e>
-<e lm="Gewissen">        <i>Gewissen</i><par n="Abkommen__n_nt"/></e>
+<e lm="Gewissen">        <i>Gewissen</i><par n="Gewissen__n_nt"/></e>
 <e lm="Gewissheit">      <i>Gewissheit</i><par n="Abhilfe__n_f"/></e>
 <e lm="Gewitter">        <i>Gewitter</i><par n="Abenteuer__n_nt"/></e>
 <e lm="Gewohnheit">      <i>Gewohnheit</i><par n="Abfuhr__n_f"/></e>
@@ -25904,7 +25923,7 @@
 <e lm="Verbot">          <i>Verbot</i><par n="Aggregat__n_nt"/></e>
 <e lm="Verbrauch">       <i>Verbrauch</i><par n="Aberglauben__n_m"/></e>
 <e lm="Verbraucher">     <i>Verbraucher</i><par n="Abenteurer__n_m"/></e>
-<e lm="Verbrechen">      <i>Verbrechen</i><par n="Abkommen__n_nt"/></e>
+<e lm="Verbrechen">      <i>Verbrechen</i><par n="Gewissen__n_nt"/></e>
 <e lm="Verbund">         <i>Verbund</i><par n="Aal__n_m"/></e>
 <e lm="Verdacht">        <i>Verdacht</i><par n="Aberglauben__n_m"/></e>
 <e lm="Verderben">       <i>Verderben</i><par n="Abc__n_nt"/></e>
@@ -30645,7 +30664,7 @@
 <e>                      <par n="separa"/></e>
 <e>                      <par n="numeros"/></e>
 <e>                      <par n="cometa"/></e>
-<!--<e>                      <par n="ordinals"/></e>-->
+<e>                      <par n="ordinals"/></e>
 <e>                      <par n="coma"/></e>
 <e>                      <par n="guionet"/></e>
 <e>                      <par n="paresq"/></e>

@@ -5,83 +5,51 @@ SETS
 
 LIST BOS = (>>>) (sent);
 LIST EOS = (<<<) (sent);
+LIST Det = (det);
+LIST DetDef = (det def);
+LIST DetInd = (det ind);
+LIST N = (n);
+LIST Rel = (rel);
+LIST Vblex = (vblex);
+LIST PrnDem = (prn dem);
+
+LIST Sg = (sg);
+LIST Pl = (pl);
+LIST M = (m);
+LIST F = (f);
+LIST Nt = (nt);
+LIST Mfn = (mfn);
+LIST Imp = (imp);
+
+SET GENDER = M | F | Nt;
+SET NUMBER = Sg | Pl;
+SET CASE = (nom) | (gen) | (dat) | (acc);
+
 
 SECTION 
 
-REMOVE (rel) IF (NOT -1 (cm))
+REMOVE Rel IF (NOT -1 (cm))
 
-REMOVE (vblex) IF (0 (n)) (-1 (det))
+REMOVE Vblex IF (0 N) (-1 Det)
 
 REMOVE ("hast"i n) IF (1 (prn pers p2))
 
 SELECT (prn pers p3 sg) IF (1 (vblex p3 sg))
 SELECT (vblex p3 sg) IF (-1 (prn pers p3 sg))
 
-REMOVE (det def) IF (1 EOS)
-REMOVE (det ind) IF (1 EOS)
+REMOVE DetDef IF (1 EOS)
+REMOVE DetInd IF (1 EOS)
 
-REMOVE (prn dem) IF (0 (det def)) (1 (n))
+REMOVE PrnDem IF (0 DetDef) (1 N)
 
 REMOVE ("während"i vblex pp) IF (NOT 1 EOS)
 
-# remove implausible gender case compinations
+# remove implausible gender case combinations
 
-REMOVE (det m sg nom) IF (1 (n)) (NOT 1 (n m sg nom))
-REMOVE (det m sg gen) IF (1 (n)) (NOT 1 (n m sg gen))
-REMOVE (det m sg dat) IF (1 (n)) (NOT 1 (n m sg dat))
-REMOVE (det m sg acc) IF (1 (n)) (NOT 1 (n m sg acc))
-
-REMOVE (det f sg nom) IF (1 (n)) (NOT 1 (n f sg nom))
-REMOVE (det f sg gen) IF (1 (n)) (NOT 1 (n f sg gen))
-REMOVE (det f sg dat) IF (1 (n)) (NOT 1 (n f sg dat))
-REMOVE (det f sg acc) IF (1 (n)) (NOT 1 (n f sg acc))
-
-REMOVE (det nt sg nom) IF (1 (n)) (NOT 1 (n nt sg nom))
-REMOVE (det nt sg gen) IF (1 (n)) (NOT 1 (n nt sg gen))
-REMOVE (det nt sg dat) IF (1 (n)) (NOT 1 (n nt sg dat))
-REMOVE (det nt sg acc) IF (1 (n)) (NOT 1 (n nt sg acc))
-
-REMOVE (det mfn pl nom) IF (1 (n)) (NOT 1 (n m sg nom))
-REMOVE (det mfn pl gen) IF (1 (n)) (NOT 1 (n m sg gen))
-REMOVE (det mfn pl dat) IF (1 (n)) (NOT 1 (n m sg dat))
-REMOVE (det mfn pl acc) IF (1 (n)) (NOT 1 (n m sg acc))
-REMOVE (det mfn pl nom) IF (1 (n)) (NOT 1 (n f sg nom))
-REMOVE (det mfn pl gen) IF (1 (n)) (NOT 1 (n f sg gen))
-REMOVE (det mfn pl dat) IF (1 (n)) (NOT 1 (n f sg dat))
-REMOVE (det mfn pl acc) IF (1 (n)) (NOT 1 (n f sg acc))
-REMOVE (det mfn pl nom) IF (1 (n)) (NOT 1 (n nt sg nom))
-REMOVE (det mfn pl gen) IF (1 (n)) (NOT 1 (n nt sg gen))
-REMOVE (det mfn pl dat) IF (1 (n)) (NOT 1 (n nt sg dat))
-REMOVE (det mfn pl acc) IF (1 (n)) (NOT 1 (n nt sg acc))
-
-
-REMOVE (n m sg nom) IF (-1 (det)) (NOT -1 (det m sg nom))
-REMOVE (n m sg gen) IF (-1 (det)) (NOT -1 (det m sg gen))
-REMOVE (n m sg dat) IF (-1 (det)) (NOT -1 (det m sg dat))
-REMOVE (n m sg acc) IF (-1 (det)) (NOT -1 (det m sg acc))
-
-REMOVE (n f sg nom) IF (-1 (det)) (NOT -1 (det f sg nom))
-REMOVE (n f sg gen) IF (-1 (det)) (NOT -1 (det f sg gen))
-REMOVE (n f sg dat) IF (-1 (det)) (NOT -1 (det f sg dat))
-REMOVE (n f sg acc) IF (-1 (det)) (NOT -1 (det f sg acc))
-
-REMOVE (n nt sg nom) IF (-1 (det)) (NOT -1 (det nt sg nom))
-REMOVE (n nt sg gen) IF (-1 (det)) (NOT -1 (det nt sg gen))
-REMOVE (n nt sg dat) IF (-1 (det)) (NOT -1 (det nt sg dat))
-REMOVE (n nt sg acc) IF (-1 (det)) (NOT -1 (det nt sg acc))
-
-REMOVE (n m pl nom) IF (-1 (det)) (NOT -1 (det m pl nom))
-REMOVE (n m pl gen) IF (-1 (det)) (NOT -1 (det m pl gen))
-REMOVE (n m pl dat) IF (-1 (det)) (NOT -1 (det m pl dat))
-REMOVE (n m pl acc) IF (-1 (det)) (NOT -1 (det m pl acc))
-REMOVE (n f pl nom) IF (-1 (det)) (NOT -1 (det f pl nom))
-REMOVE (n f pl gen) IF (-1 (det)) (NOT -1 (det f pl gen))
-REMOVE (n f pl dat) IF (-1 (det)) (NOT -1 (det f pl dat))
-REMOVE (n f pl acc) IF (-1 (det)) (NOT -1 (det f pl acc))
-REMOVE (n nt pl nom) IF (-1 (det)) (NOT -1 (det nt pl nom))
-REMOVE (n nt pl gen) IF (-1 (det)) (NOT -1 (det nt pl gen))
-REMOVE (n nt pl dat) IF (-1 (det)) (NOT -1 (det nt pl dat))
-REMOVE (n nt pl acc) IF (-1 (det)) (NOT -1 (det nt pl acc))
+REMOVE Det + $$GENDER + Sg + $$CASE IF (1 N) (NOT 1 N + $$GENDER + Sg + $$CASE)
+REMOVE Det + Mfn + Pl + $$CASE IF (1 N) (NOT 1 N + GENDER + Pl + $$CASE)
+REMOVE N + $$GENDER + Sg + $$CASE IF (-1 Det) (NOT -1 Det + $$GENDER + Sg + $$CASE)
+REMOVE N + GENDER + Pl + $$CASE IF (-1 Det) (NOT -1 Det + Mfn + Pl + $$CASE)
 
 
 SELECT (x);
@@ -91,4 +59,4 @@ SELECT (x);
 SECTION
 
 # remove all imperative readings not selected in previous section
-REMOVE (imp)
+REMOVE Imp
