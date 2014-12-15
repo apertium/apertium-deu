@@ -6,3 +6,5 @@
 /apertium-deu.deu.rlx -text
 /apertium-deu.post-deu.dix -text
 /deu.prob -text svneol=unset#unset
+texts/tennis1.ana.cg -text
+texts/tennis1.raw.txt -text
