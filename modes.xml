@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modes>
+
+  <mode name="deu-morph">
+    <pipeline>
+      <program name="lt-proc -w -e">
+        <file name="deu.automorf.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="deu-gener">
+    <pipeline>
+      <program name="lt-proc -g">
+        <file name="deu.autogen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="deu-tagger">
+    <pipeline>
+      <program name="lt-proc -w -e">
+        <file name="deu.automorf.bin"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="deu.rlx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="deu-disam">
+    <pipeline>
+      <program name="lt-proc -w -e">
+        <file name="deu.automorf.bin"/>
+      </program>
+      <program name="cg-conv -a -r" />
+      <program name="vislcg3 --trace -g">
+        <file name="apertium-deu.deu.rlx"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
+</modes>

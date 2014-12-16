@@ -1,0 +1,9 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+libdir=@libdir@
+dir=@libdir@/apertium/apertium-deu
+srcdir=@datarootdir@/apertium/apertium-deu
+
+Name: apertium-deu
+Description: Finite-state morphological transducer and constraint grammar for German
+Version: @VERSION@

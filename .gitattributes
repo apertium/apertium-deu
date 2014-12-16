@@ -1,11 +1,19 @@
 * text=auto !eol
-/Makefile -text
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
 /README -text
 /apertium-deu.deu.acx -text
 /apertium-deu.deu.dix -text
 /apertium-deu.deu.rlx -text
+/apertium-deu.pc.in -text
 /apertium-deu.post-deu.dix -text
+/autogen.sh -text
+/configure.ac -text
 /deu.prob -text svneol=unset#unset
+/modes.xml -text svneol=unset#text/plain
 texts/tennis1.ana.cg -text
 texts/tennis1.raw.txt -text
 texts/tennis2.ana.cg -text

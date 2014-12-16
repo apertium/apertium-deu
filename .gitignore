@@ -1,0 +1,12 @@
+/*.bin
+/INSTALL
+/Makefile
+/Makefile.in
+/aclocal.m4
+/apertium-deu.pc
+/autom4te.cache
+/config.log
+/config.status
+/configure
+/install-sh
+/missing
