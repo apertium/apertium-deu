@@ -1,0 +1,2703 @@
+"<Ritter>"
+	"Ritter" n m sg nom
+	"Ritter" n m sg dat
+	"Ritter" n m sg acc
+	"Ritter" n m pl nom
+	"Ritter" n m pl gen
+	"Ritter" n m pl acc
+	"ritter" n m sg nom lower
+	"ritter" n m sg dat lower
+	"ritter" n m sg acc lower
+	"ritter" n m pl nom lower
+	"ritter" n m pl gen lower
+	"ritter" n m pl acc lower
+"<ist>"
+	"sein" vbser pri p3 sg
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Bezeichnung>"
+	"Bezeichnung" n f sg nom
+	"Bezeichnung" n f sg gen
+	"Bezeichnung" n f sg dat
+	"Bezeichnung" n f sg acc
+	"bezeichnung" n f sg nom lower
+	"bezeichnung" n f sg gen lower
+	"bezeichnung" n f sg dat lower
+	"bezeichnung" n f sg acc lower
+"<für>"
+	"für" pr acc
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<wehrhaften>"
+	"wehrhaft" adj m sg gen
+	"wehrhaft" adj m sg acc
+	"wehrhaft" adj nt sg gen
+	"wehrhaft" adj mf pl dat
+	"wehrhaft" adj f sg gen mix
+	"wehrhaft" adj f sg dat mix
+	"wehrhaft" adj m sg dat mix
+	"wehrhaft" adj nt sg dat mix
+	"wehrhaft" adj mf pl nom mix
+	"wehrhaft" adj mf pl gen mix
+	"wehrhaft" adj mf pl acc mix
+"<,>"
+	"," cm
+"<schwer>"
+	"schwer" adj attr
+	"schwer" adj pred
+"<gerüsteten>"
+	"*gerüsteten"
+"<,>"
+	"," cm
+"<berittenen>"
+	"*berittenen"
+"<Krieger>"
+	"Krieger" n m sg nom
+	"Krieger" n m sg dat
+	"Krieger" n m sg acc
+	"Krieger" n m pl nom
+	"Krieger" n m pl gen
+	"Krieger" n m pl acc
+	"krieger" n m sg nom lower
+	"krieger" n m sg dat lower
+	"krieger" n m sg acc lower
+	"krieger" n m pl nom lower
+	"krieger" n m pl gen lower
+	"krieger" n m pl acc lower
+"<des>"
+	"der" det def m sg gen
+	"der" det def nt sg gen
+"<europäischen>"
+	"europäisch" adj m sg gen
+	"europäisch" adj m sg acc
+	"europäisch" adj nt sg gen
+	"europäisch" adj mf pl dat
+	"europäisch" adj f sg gen mix
+	"europäisch" adj f sg dat mix
+	"europäisch" adj m sg dat mix
+	"europäisch" adj nt sg dat mix
+	"europäisch" adj mf pl nom mix
+	"europäisch" adj mf pl gen mix
+	"europäisch" adj mf pl acc mix
+"<Mittelalters>"
+	"alter" n nt sg gen lower
+		"Mittel" n nt sg cmp
+	"alter" n nt sg gen lower
+		"mittel" n nt sg lower cmp
+"<.>"
+	"." sent
+
+¶
+"<Einen>"
+	"ein" det ind m sg acc
+"<ebenfalls>"
+	"ebenfalls" adv
+"<gesellschaftlich>"
+	"gesellschaftlich" adj attr
+	"gesellschaftlich" adj pred
+"<herausgehobenen>"
+	"*herausgehobenen"
+"<Reiterstand>"
+	"*Reiterstand"
+"<außerhalb>"
+	"außerhalb" pr gen
+"<des>"
+	"der" det def m sg gen
+	"der" det def nt sg gen
+"<hier>"
+	"hier" adv
+"<behandelten>"
+	"behandeln" vblex pii p1 pl
+	"behandeln" vblex pii p3 pl
+	"behandeln" vblex pis p1 pl
+	"behandeln" vblex pis p3 pl
+"<mittelalterlichen>"
+	"*mittelalterlichen"
+"<Rittertums>"
+	"*Rittertums"
+"<stellten>"
+	"stellen" vblex pii p1 pl
+	"stellen" vblex pii p3 pl
+	"stellen" vblex pis p1 pl
+	"stellen" vblex pis p3 pl
+	"stellen" vblex sep fm pii p1 pl
+	"stellen" vblex sep fm pii p3 pl
+	"stellen" vblex sep fm pis p1 pl
+	"stellen" vblex sep fm pis p3 pl
+"<bereits>"
+	"bereits" adv
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<römischen>"
+	"römisch" adj m sg gen
+	"römisch" adj m sg acc
+	"römisch" adj nt sg gen
+	"römisch" adj mf pl dat
+	"römisch" adj f sg gen mix
+	"römisch" adj f sg dat mix
+	"römisch" adj m sg dat mix
+	"römisch" adj nt sg dat mix
+	"römisch" adj mf pl nom mix
+	"römisch" adj mf pl gen mix
+	"römisch" adj mf pl acc mix
+"<Equites>"
+	"*Equites"
+"<dar>"
+	"*dar"
+"<.>"
+	"." sent
+
+¶
+"<Ab>"
+	"ab" pr dat
+"<dem>"
+	"der" rel m sg dat
+	"der" rel nt sg dat
+	"der" prn dem m sg dat
+	"der" prn dem nt sg dat
+	"der" det def m sg dat
+	"der" det def nt sg dat
+"<11.>"
+	"11." num ord
+"<Jahrhundert>"
+	"Jahrhundert" n nt sg nom
+	"Jahrhundert" n nt sg dat
+	"Jahrhundert" n nt sg acc
+	"jahrhundert" n nt sg nom lower
+	"jahrhundert" n nt sg dat lower
+	"jahrhundert" n nt sg acc lower
+"<etablierten>"
+	"etablieren" vblex pii p1 pl
+	"etablieren" vblex pii p3 pl
+	"etablieren" vblex pis p1 pl
+	"etablieren" vblex pis p3 pl
+"<sich>"
+	"*sich"
+"<neben>"
+	"neben" pr dat
+	"neben" pr acc
+"<adligen>"
+	"adlig" adj m sg gen
+	"adlig" adj m sg acc
+	"adlig" adj nt sg gen
+	"adlig" adj mf pl dat
+	"adlig" adj f sg gen mix
+	"adlig" adj f sg dat mix
+	"adlig" adj m sg dat mix
+	"adlig" adj nt sg dat mix
+	"adlig" adj mf pl nom mix
+	"adlig" adj mf pl gen mix
+	"adlig" adj mf pl acc mix
+"<(>"
+	"(" lpar
+"<„>"
+	"„" lquot
+"<edelfreien>"
+	"*edelfreien"
+"<“>"
+	"“" rquot
+"<)>"
+	")" rpar
+"<Grundherren>"
+	"*Grundherren"
+"<auch>"
+	"auch" adv
+"<unfreie>"
+	"*unfreie"
+"<Hofbeamte>"
+	"*Hofbeamte"
+"<(>"
+	"(" lpar
+"<Ministerialen>"
+	"*Ministerialen"
+"<)>"
+	")" rpar
+"<als>"
+	"als" cnjadv
+	"als" pr nom
+"<Ritter>"
+	"Ritter" n m sg nom
+	"Ritter" n m sg dat
+	"Ritter" n m sg acc
+	"Ritter" n m pl nom
+	"Ritter" n m pl gen
+	"Ritter" n m pl acc
+	"ritter" n m sg nom lower
+	"ritter" n m sg dat lower
+	"ritter" n m sg acc lower
+	"ritter" n m pl nom lower
+	"ritter" n m pl gen lower
+	"ritter" n m pl acc lower
+"<.>"
+	"." sent
+ 
+"<Sie>"
+	"sie" prn pers p3 mf pl nom
+	"sie" prn pers p3 mf pl acc
+	"sie" prn pers p3 f sg nom
+	"sie" prn pers p3 f sg acc
+	"Sie" prn pers p2 frm mf pl nom
+	"Sie" prn pers p2 frm mf pl acc
+"<gingen>"
+	"gehen" vblex pii p1 pl
+	"gehen" vblex pii p3 pl
+	"gehen" vblex pis p1 pl
+	"gehen" vblex pis p3 pl
+	"gehen" vblex sep fm pii p1 pl
+	"gehen" vblex sep fm pii p3 pl
+	"gehen" vblex sep fm pis p1 pl
+	"gehen" vblex sep fm pis p3 pl
+"<im>"
+	"der" det def m sg dat
+		"in" pr dat
+	"der" det def nt sg dat
+		"in" pr dat
+"<13.>"
+	"13." num ord
+"<und>"
+	"und" cnjcoo
+"<14.>"
+	"14." num ord
+"<Jahrhundert>"
+	"Jahrhundert" n nt sg nom
+	"Jahrhundert" n nt sg dat
+	"Jahrhundert" n nt sg acc
+	"jahrhundert" n nt sg nom lower
+	"jahrhundert" n nt sg dat lower
+	"jahrhundert" n nt sg acc lower
+"<im>"
+	"der" det def m sg dat
+		"in" pr dat
+	"der" det def nt sg dat
+		"in" pr dat
+"<niederen>"
+	"nieder" adj m sg gen
+	"nieder" adj m sg acc
+	"nieder" adj nt sg gen
+	"nieder" adj mf pl dat
+	"nieder" adj f sg gen mix
+	"nieder" adj f sg dat mix
+	"nieder" adj m sg dat mix
+	"nieder" adj nt sg dat mix
+	"nieder" adj mf pl nom mix
+	"nieder" adj mf pl gen mix
+	"nieder" adj mf pl acc mix
+"<Adel>"
+	"Adel" n m sg nom
+	"Adel" n m sg dat
+	"Adel" n m sg acc
+	"adeln" vblex imp sg
+	"adel" n m sg nom lower
+	"adel" n m sg dat lower
+	"adel" n m sg acc lower
+"<auf>"
+	"auf" pr dat
+	"auf" pr acc
+"<und>"
+	"und" cnjcoo
+"<wurden>"
+	"werden" vaux pii p1 pl
+	"werden" vaux pii p3 pl
+	"werden" vblex pii p1 pl
+	"werden" vblex pii p3 pl
+"<zum>"
+	"der" det def m sg dat
+		"zu" pr dat
+	"der" det def nt sg dat
+		"zu" pr dat
+"<Kern>"
+	"Kern" n m sg nom
+	"Kern" n m sg dat
+	"Kern" n m sg acc
+	"kern" n m sg nom lower
+	"kern" n m sg dat lower
+	"kern" n m sg acc lower
+"<des>"
+	"der" det def m sg gen
+	"der" det def nt sg gen
+"<Ritterstandes>"
+	"stand" n m sg gen lower
+		"Ritter" n m sg cmp
+	"stand" n m sg gen lower
+		"ritter" n m sg lower cmp
+"<.>"
+	"." sent
+ 
+"<Im>"
+	"der" det def m sg dat
+		"in" pr dat
+	"der" det def nt sg dat
+		"in" pr dat
+"<Hochmittelalter>"
+	"alter" n nt sg nom lower
+		"mittel" n nt sg lower cmp
+			"Hoch" n nt sg cmp
+	"alter" n nt sg dat lower
+		"mittel" n nt sg lower cmp
+			"Hoch" n nt sg cmp
+	"alter" n nt sg acc lower
+		"mittel" n nt sg lower cmp
+			"Hoch" n nt sg cmp
+	"alter" n nt pl nom lower
+		"mittel" n nt sg lower cmp
+			"Hoch" n nt sg cmp
+	"alter" n nt pl gen lower
+		"mittel" n nt sg lower cmp
+			"Hoch" n nt sg cmp
+	"alter" n nt pl acc lower
+		"mittel" n nt sg lower cmp
+			"Hoch" n nt sg cmp
+	"alter" n nt sg nom lower
+		"mittel" n nt sg lower cmp
+			"hoch" n nt sg lower cmp
+	"alter" n nt sg dat lower
+		"mittel" n nt sg lower cmp
+			"hoch" n nt sg lower cmp
+	"alter" n nt sg acc lower
+		"mittel" n nt sg lower cmp
+			"hoch" n nt sg lower cmp
+	"alter" n nt pl nom lower
+		"mittel" n nt sg lower cmp
+			"hoch" n nt sg lower cmp
+	"alter" n nt pl gen lower
+		"mittel" n nt sg lower cmp
+			"hoch" n nt sg lower cmp
+	"alter" n nt pl acc lower
+		"mittel" n nt sg lower cmp
+			"hoch" n nt sg lower cmp
+"<schufen>"
+	"schaffen" vblex pii p1 pl
+	"schaffen" vblex pii p3 pl
+"<sich>"
+	"*sich"
+"<daneben>"
+	"daneben" preadv
+"<auch>"
+	"auch" adv
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<ministerialen>"
+	"*ministerialen"
+"<Geschlechter>"
+	"Geschlecht" n nt pl nom
+	"Geschlecht" n nt pl gen
+	"Geschlecht" n nt pl acc
+	"geschlecht" n nt pl nom lower
+	"geschlecht" n nt pl gen lower
+	"geschlecht" n nt pl acc lower
+"<selbst>"
+	"selbst" adv
+"<oder>"
+	"oder" cnjcoo
+"<sogar>"
+	"sogar" adv
+"<Klöster>"
+	"Kloster" n nt pl nom
+	"Kloster" n nt pl gen
+	"Kloster" n nt pl acc
+	"kloster" n nt pl nom lower
+	"kloster" n nt pl gen lower
+	"kloster" n nt pl acc lower
+"<eigene>"
+	"eigen" adj f sg nom
+	"eigen" adj f sg acc
+	"eigen" adj mf pl nom st
+	"eigen" adj mf pl acc st
+	"eigen" adj m sg nom sw
+	"eigen" adj nt sg nom sw
+	"eigen" adj nt sg acc sw
+"<Gefolgschaften>"
+	"Gefolgschaft" n f pl nom
+	"Gefolgschaft" n f pl gen
+	"Gefolgschaft" n f pl dat
+	"Gefolgschaft" n f pl acc
+	"gefolgschaft" n f pl nom lower
+	"gefolgschaft" n f pl gen lower
+	"gefolgschaft" n f pl dat lower
+	"gefolgschaft" n f pl acc lower
+"<,>"
+	"," cm
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<sich>"
+	"*sich"
+"<als>"
+	"als" cnjadv
+	"als" pr nom
+"<Ritter>"
+	"Ritter" n m sg nom
+	"Ritter" n m sg dat
+	"Ritter" n m sg acc
+	"Ritter" n m pl nom
+	"Ritter" n m pl gen
+	"Ritter" n m pl acc
+	"ritter" n m sg nom lower
+	"ritter" n m sg dat lower
+	"ritter" n m sg acc lower
+	"ritter" n m pl nom lower
+	"ritter" n m pl gen lower
+	"ritter" n m pl acc lower
+"<bezeichneten>"
+	"bezeichnen" vblex pii p1 pl
+	"bezeichnen" vblex pii p3 pl
+	"bezeichnen" vblex pis p1 pl
+	"bezeichnen" vblex pis p3 pl
+"<.>"
+	"." sent
+ 
+"<Die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<meisten>"
+	"viel" adj sup attr
+	"viel" adj sup pred
+	"viel" adj sup m sg gen
+	"viel" adj sup m sg acc
+	"viel" adj sup nt sg gen
+	"viel" adj sup mf pl dat
+	"viel" adj sup m sg dat mix
+	"viel" adj sup nt sg dat mix
+	"viel" adj sup f sg gen mix
+	"viel" adj sup f sg dat mix
+	"viel" adj sup mf pl nom mix
+	"viel" adj sup mf pl gen mix
+	"viel" adj sup mf pl acc mix
+"<dieser>"
+	"dieser" prn dem m sg nom
+	"dieser" prn dem f sg gen
+	"dieser" prn dem f sg dat
+	"dieser" prn dem mfn pl gen
+	"dieser" det dem m sg nom
+	"dieser" det dem f sg gen
+	"dieser" det dem f sg dat
+	"dieser" det dem mfn pl gen
+"<Untervasallen>"
+	"*Untervasallen"
+"<(>"
+	"(" lpar
+"<sogenannte>"
+	"*sogenannte"
+"<niedere>"
+	"nieder" adj f sg nom
+	"nieder" adj f sg acc
+	"nieder" adj mf pl nom st
+	"nieder" adj mf pl acc st
+	"nieder" adj m sg nom sw
+	"nieder" adj nt sg nom sw
+	"nieder" adj nt sg acc sw
+"<Ministerialen>"
+	"*Ministerialen"
+"<)>"
+	")" rpar
+"<konnten>"
+	"können" vbmod pii p1 pl
+	"können" vbmod pii p3 pl
+"<sich>"
+	"*sich"
+"<jedoch>"
+	"jedoch" adv
+"<aus>"
+	"aus" pr dat
+	"aus" n nt sg nom lower
+	"aus" n nt sg gen lower
+	"aus" n nt sg dat lower
+	"aus" n nt sg acc lower
+	"aus" n nt pl nom lower
+	"aus" n nt pl gen lower
+	"aus" n nt pl dat lower
+	"aus" n nt pl acc lower
+"<wirtschaftlichen>"
+	"wirtschaftlich" adj m sg gen
+	"wirtschaftlich" adj m sg acc
+	"wirtschaftlich" adj nt sg gen
+	"wirtschaftlich" adj mf pl dat
+	"wirtschaftlich" adj f sg gen mix
+	"wirtschaftlich" adj f sg dat mix
+	"wirtschaftlich" adj m sg dat mix
+	"wirtschaftlich" adj nt sg dat mix
+	"wirtschaftlich" adj mf pl nom mix
+	"wirtschaftlich" adj mf pl gen mix
+	"wirtschaftlich" adj mf pl acc mix
+"<Gründen>"
+	"Grund" n m pl dat
+	"gründen" vblex inf
+	"grund" n m pl dat lower
+	"gründen" vblex pri p1 pl
+	"gründen" vblex pri p3 pl
+	"gründen" vblex prs p1 pl
+	"gründen" vblex prs p3 pl
+"<nicht>"
+	"nicht" adv
+"<auf>"
+	"auf" pr dat
+	"auf" pr acc
+"<Dauer>"
+	"Dauer" n f sg nom
+	"Dauer" n f sg gen
+	"Dauer" n f sg dat
+	"Dauer" n f sg acc
+	"dauern" vblex imp sg
+	"dauer" n f sg nom lower
+	"dauer" n f sg gen lower
+	"dauer" n f sg dat lower
+	"dauer" n f sg acc lower
+"<im>"
+	"der" det def m sg dat
+		"in" pr dat
+	"der" det def nt sg dat
+		"in" pr dat
+"<Adelstand>"
+	"tand" n m sg nom lower
+		"Adel" n m sg cmp
+	"tand" n m sg dat lower
+		"Adel" n m sg cmp
+	"tand" n m sg acc lower
+		"Adel" n m sg cmp
+	"tand" n m sg nom lower
+		"adel" n m sg lower cmp
+	"tand" n m sg dat lower
+		"adel" n m sg lower cmp
+	"tand" n m sg acc lower
+		"adel" n m sg lower cmp
+"<etablieren>"
+	"etablieren" vblex inf
+	"etablieren" vblex pri p1 pl
+	"etablieren" vblex pri p3 pl
+	"etablieren" vblex prs p1 pl
+	"etablieren" vblex prs p3 pl
+"<.>"
+	"." sent
+ 
+"<Zahlreiche>"
+	"zahlreich" adj f sg nom
+	"zahlreich" adj f sg acc
+	"zahlreich" adj mf pl nom st
+	"zahlreich" adj mf pl acc st
+	"zahlreich" adj m sg nom sw
+	"zahlreich" adj nt sg nom sw
+	"zahlreich" adj nt sg acc sw
+"<Burgställe>"
+	"stall" n m pl nom lower
+		"Burg" n f sg cmp
+	"stall" n m pl gen lower
+		"Burg" n f sg cmp
+	"stall" n m pl acc lower
+		"Burg" n f sg cmp
+	"stall" n m pl nom lower
+		"burg" n f sg lower cmp
+	"stall" n m pl gen lower
+		"burg" n f sg lower cmp
+	"stall" n m pl acc lower
+		"burg" n f sg lower cmp
+"<im>"
+	"der" det def m sg dat
+		"in" pr dat
+	"der" det def nt sg dat
+		"in" pr dat
+"<Umkreis>"
+	"Umkreis" n m sg nom
+	"Umkreis" n m sg dat
+	"Umkreis" n m sg acc
+	"umkreis" n m sg nom lower
+	"umkreis" n m sg dat lower
+	"umkreis" n m sg acc lower
+	"umkreisen" vblex imp sg
+"<von>"
+	"von" pr dat
+"<Burgen>"
+	"Burg" n f pl nom
+	"Burg" n f pl gen
+	"Burg" n f pl dat
+	"Burg" n f pl acc
+	"burg" n f pl nom lower
+	"burg" n f pl gen lower
+	"burg" n f pl dat lower
+	"burg" n f pl acc lower
+"<oder>"
+	"oder" cnjcoo
+"<Ruinen>"
+	"Ruine" n f pl nom
+	"Ruine" n f pl gen
+	"Ruine" n f pl dat
+	"Ruine" n f pl acc
+	"ruine" n f pl nom lower
+	"ruine" n f pl gen lower
+	"ruine" n f pl dat lower
+	"ruine" n f pl acc lower
+"<zeugen>"
+	"zeugen" vblex inf
+	"zeug" n nt pl dat lower
+	"zeugen" vblex pri p1 pl
+	"zeugen" vblex pri p3 pl
+	"zeugen" vblex prs p1 pl
+	"zeugen" vblex prs p3 pl
+	"zeuge" n m sg gen lower
+	"zeuge" n m sg dat lower
+	"zeuge" n m sg acc lower
+	"zeuge" n m pl nom lower
+	"zeuge" n m pl gen lower
+	"zeuge" n m pl dat lower
+	"zeuge" n m pl acc lower
+"<bis>"
+	"bis" pr acc
+"<heute>"
+	"heute" adv
+"<von>"
+	"von" pr dat
+"<ihrer>"
+	"ihr" det pos f sg gen
+	"ihr" det pos f sg dat
+	"ihr" det pos mfn pl gen
+	"sie" prn pers p3 mf pl gen
+	"sie" prn pers p3 f sg gen
+"<Existenz>"
+	"Existenz" n f sg nom
+	"Existenz" n f sg gen
+	"Existenz" n f sg dat
+	"Existenz" n f sg acc
+	"existenz" n f sg nom lower
+	"existenz" n f sg gen lower
+	"existenz" n f sg dat lower
+	"existenz" n f sg acc lower
+"<.>"
+	"." sent
+
+¶
+"<Im>"
+	"der" det def m sg dat
+		"in" pr dat
+	"der" det def nt sg dat
+		"in" pr dat
+"<späteren>"
+	"spät" adj comp m sg gen
+	"spät" adj comp m sg acc
+	"spät" adj comp nt sg gen
+	"spät" adj comp mf pl dat
+	"spät" adj comp m sg dat mix
+	"spät" adj comp nt sg dat mix
+	"spät" adj comp f sg gen mix
+	"spät" adj comp f sg dat mix
+	"spät" adj comp mf pl nom mix
+	"spät" adj comp mf pl gen mix
+	"spät" adj comp mf pl acc mix
+"<Mittelalter>"
+	"alter" n nt sg nom lower
+		"Mittel" n nt sg cmp
+	"alter" n nt sg dat lower
+		"Mittel" n nt sg cmp
+	"alter" n nt sg acc lower
+		"Mittel" n nt sg cmp
+	"alter" n nt pl nom lower
+		"Mittel" n nt sg cmp
+	"alter" n nt pl gen lower
+		"Mittel" n nt sg cmp
+	"alter" n nt pl acc lower
+		"Mittel" n nt sg cmp
+	"alter" n nt sg nom lower
+		"mittel" n nt sg lower cmp
+	"alter" n nt sg dat lower
+		"mittel" n nt sg lower cmp
+	"alter" n nt sg acc lower
+		"mittel" n nt sg lower cmp
+	"alter" n nt pl nom lower
+		"mittel" n nt sg lower cmp
+	"alter" n nt pl gen lower
+		"mittel" n nt sg lower cmp
+	"alter" n nt pl acc lower
+		"mittel" n nt sg lower cmp
+"<war>"
+	"sein" vbser pii p1 sg
+	"sein" vbser pii p3 sg
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Ritterbürtigkeit>"
+	"*Ritterbürtigkeit"
+"<,>"
+	"," cm
+"<also>"
+	"also" adv
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Abstammung>"
+	"*Abstammung"
+"<von>"
+	"von" pr dat
+"<adligen>"
+	"adlig" adj m sg gen
+	"adlig" adj m sg acc
+	"adlig" adj nt sg gen
+	"adlig" adj mf pl dat
+	"adlig" adj f sg gen mix
+	"adlig" adj f sg dat mix
+	"adlig" adj m sg dat mix
+	"adlig" adj nt sg dat mix
+	"adlig" adj mf pl nom mix
+	"adlig" adj mf pl gen mix
+	"adlig" adj mf pl acc mix
+"<,>"
+	"," cm
+"<ritterlichen>"
+	"*ritterlichen"
+"<Vorfahren>"
+	"Vorfahr" n m sg gen
+	"Vorfahr" n m sg dat
+	"Vorfahr" n m sg acc
+	"Vorfahr" n m pl nom
+	"Vorfahr" n m pl gen
+	"Vorfahr" n m pl dat
+	"Vorfahr" n m pl acc
+	"vorfahr" n m sg gen lower
+	"vorfahr" n m sg dat lower
+	"vorfahr" n m sg acc lower
+	"vorfahr" n m pl nom lower
+	"vorfahr" n m pl gen lower
+	"vorfahr" n m pl dat lower
+	"vorfahr" n m pl acc lower
+"<meist>"
+	"meist" adv
+	"viel" adj sup pred
+"<Voraussetzung>"
+	"*Voraussetzung"
+"<für>"
+	"für" pr acc
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Aufnahme>"
+	"Aufnahme" n f sg nom
+	"Aufnahme" n f sg gen
+	"Aufnahme" n f sg dat
+	"Aufnahme" n f sg acc
+	"aufnahme" n f sg nom lower
+	"aufnahme" n f sg gen lower
+	"aufnahme" n f sg dat lower
+	"aufnahme" n f sg acc lower
+"<in>"
+	"in" pr dat
+	"in" pr acc
+"<den>"
+	"der" rel m sg acc
+	"der" prn dem m sg acc
+	"der" det def m sg acc
+	"der" det def mfn pl dat
+"<Ritterstand>"
+	"stand" n m sg nom lower
+		"Ritter" n m sg cmp
+	"stand" n m sg dat lower
+		"Ritter" n m sg cmp
+	"stand" n m sg acc lower
+		"Ritter" n m sg cmp
+	"stand" n m sg nom lower
+		"ritter" n m sg lower cmp
+	"stand" n m sg dat lower
+		"ritter" n m sg lower cmp
+	"stand" n m sg acc lower
+		"ritter" n m sg lower cmp
+"<.>"
+	"." sent
+ 
+"<In>"
+	"in" pr dat
+	"in" pr acc
+"<einem>"
+	"ein" det ind m sg dat
+	"ein" det ind nt sg dat
+"<feierlichen>"
+	"*feierlichen"
+"<Akt>"
+	"Akt" n m sg nom
+	"Akt" n m sg dat
+	"Akt" n m sg acc
+	"akt" n m sg nom lower
+	"akt" n m sg dat lower
+	"akt" n m sg acc lower
+"<,>"
+	"," cm
+"<ursprünglich>"
+	"ursprünglich" adj attr
+	"ursprünglich" adj pred
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Schwertleite>"
+	"leite" n f sg nom lower
+		"Schwert" n nt sg cmp
+	"leite" n f sg gen lower
+		"Schwert" n nt sg cmp
+	"leite" n f sg dat lower
+		"Schwert" n nt sg cmp
+	"leite" n f sg acc lower
+		"Schwert" n nt sg cmp
+	"leite" n f sg nom lower
+		"schwert" n nt sg lower cmp
+	"leite" n f sg gen lower
+		"schwert" n nt sg lower cmp
+	"leite" n f sg dat lower
+		"schwert" n nt sg lower cmp
+	"leite" n f sg acc lower
+		"schwert" n nt sg lower cmp
+"<,>"
+	"," cm
+"<später>"
+	"spät" adj comp attr
+	"spät" adj comp pred
+	"spät" adj mf pl gen st
+	"spät" adj m sg nom mix
+	"spät" adj f sg gen st
+	"spät" adj f sg dat st
+"<dem>"
+	"der" rel m sg dat
+	"der" rel nt sg dat
+	"der" prn dem m sg dat
+	"der" prn dem nt sg dat
+	"der" det def m sg dat
+	"der" det def nt sg dat
+"<Ritterschlag>"
+	"schlag" n m sg nom lower
+		"Ritter" n m sg cmp
+	"schlag" n m sg dat lower
+		"Ritter" n m sg cmp
+	"schlag" n m sg acc lower
+		"Ritter" n m sg cmp
+	"schlag" n m sg nom lower
+		"ritter" n m sg lower cmp
+	"schlag" n m sg dat lower
+		"ritter" n m sg lower cmp
+	"schlag" n m sg acc lower
+		"ritter" n m sg lower cmp
+"<,>"
+	"," cm
+"<wurde>"
+	"werden" vaux pii p1 sg
+	"werden" vaux pii p3 sg
+	"werden" vblex pii p1 sg
+	"werden" vblex pii p3 sg
+"<man>"
+	"man" prn ind p3 mf sg nom
+"<vom>"
+	"der" det def m sg dat
+		"von" pr dat
+	"der" det def nt sg dat
+		"von" pr dat
+"<Herrscher>"
+	"*Herrscher"
+"<oder>"
+	"oder" cnjcoo
+"<einem>"
+	"ein" det ind m sg dat
+	"ein" det ind nt sg dat
+"<anderen>"
+	"ander" adj m sg gen
+	"ander" adj m sg acc
+	"ander" adj nt sg gen
+	"ander" adj mf pl dat
+	"ander" adj f sg gen mix
+	"ander" adj f sg dat mix
+	"ander" adj m sg dat mix
+	"ander" adj nt sg dat mix
+	"ander" adj mf pl nom mix
+	"ander" adj mf pl gen mix
+	"ander" adj mf pl acc mix
+"<Adligen>"
+	"adlig" adj m sg gen
+	"adlig" adj m sg acc
+	"adlig" adj nt sg gen
+	"adlig" adj mf pl dat
+	"adlig" adj f sg gen mix
+	"adlig" adj f sg dat mix
+	"adlig" adj m sg dat mix
+	"adlig" adj nt sg dat mix
+	"adlig" adj mf pl nom mix
+	"adlig" adj mf pl gen mix
+	"adlig" adj mf pl acc mix
+"<zum>"
+	"der" det def m sg dat
+		"zu" pr dat
+	"der" det def nt sg dat
+		"zu" pr dat
+"<Ritter>"
+	"Ritter" n m sg nom
+	"Ritter" n m sg dat
+	"Ritter" n m sg acc
+	"Ritter" n m pl nom
+	"Ritter" n m pl gen
+	"Ritter" n m pl acc
+	"ritter" n m sg nom lower
+	"ritter" n m sg dat lower
+	"ritter" n m sg acc lower
+	"ritter" n m pl nom lower
+	"ritter" n m pl gen lower
+	"ritter" n m pl acc lower
+"<erhoben>"
+	"erheben" vblex pp
+	"erheben" vblex pii p1 pl
+	"erheben" vblex pii p3 pl
+"<,>"
+	"," cm
+"<vorausgesetzt>"
+	"*vorausgesetzt"
+"<man>"
+	"man" prn ind p3 mf sg nom
+"<brachte>"
+	"bringen" vblex pii p1 sg
+	"bringen" vblex pii p3 sg
+	"bringen" vblex sep fm pii p1 sg
+	"bringen" vblex sep fm pii p3 sg
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<erforderlichen>"
+	"*erforderlichen"
+"<Merkmale>"
+	"Merkmal" n nt pl nom
+	"Merkmal" n nt pl gen
+	"Merkmal" n nt pl acc
+	"merkmal" n nt pl nom lower
+	"merkmal" n nt pl gen lower
+	"merkmal" n nt pl acc lower
+"<und>"
+	"und" cnjcoo
+"<Qualitäten>"
+	"Qualität" n f pl nom
+	"Qualität" n f pl gen
+	"Qualität" n f pl dat
+	"Qualität" n f pl acc
+	"qualität" n f pl nom lower
+	"qualität" n f pl gen lower
+	"qualität" n f pl dat lower
+	"qualität" n f pl acc lower
+"<mit>"
+	"mit" pr dat
+"<.>"
+	"." sent
+ 
+"<Ab>"
+	"ab" pr dat
+"<dem>"
+	"der" rel m sg dat
+	"der" rel nt sg dat
+	"der" prn dem m sg dat
+	"der" prn dem nt sg dat
+	"der" det def m sg dat
+	"der" det def nt sg dat
+"<13.>"
+	"13." num ord
+"<Jahrhundert>"
+	"Jahrhundert" n nt sg nom
+	"Jahrhundert" n nt sg dat
+	"Jahrhundert" n nt sg acc
+	"jahrhundert" n nt sg nom lower
+	"jahrhundert" n nt sg dat lower
+	"jahrhundert" n nt sg acc lower
+"<bildeten>"
+	"bilden" vblex pii p1 pl
+	"bilden" vblex pii p3 pl
+	"bilden" vblex pis p1 pl
+	"bilden" vblex pis p3 pl
+"<Ritter>"
+	"Ritter" n m sg nom
+	"Ritter" n m sg dat
+	"Ritter" n m sg acc
+	"Ritter" n m pl nom
+	"Ritter" n m pl gen
+	"Ritter" n m pl acc
+	"ritter" n m sg nom lower
+	"ritter" n m sg dat lower
+	"ritter" n m sg acc lower
+	"ritter" n m pl nom lower
+	"ritter" n m pl gen lower
+	"ritter" n m pl acc lower
+"<einen>"
+	"ein" det ind m sg acc
+"<erblichen>"
+	"erblich" adj m sg gen
+	"erblich" adj m sg acc
+	"erblich" adj nt sg gen
+	"erblich" adj mf pl dat
+	"erblich" adj f sg gen mix
+	"erblich" adj f sg dat mix
+	"erblich" adj m sg dat mix
+	"erblich" adj nt sg dat mix
+	"erblich" adj mf pl nom mix
+	"erblich" adj mf pl gen mix
+	"erblich" adj mf pl acc mix
+"<Stand>"
+	"Stand" n m sg nom
+	"Stand" n m sg dat
+	"Stand" n m sg acc
+	"stand" n m sg nom lower
+	"stand" n m sg dat lower
+	"stand" n m sg acc lower
+	"stehen" vblex pii p1 sg
+	"stehen" vblex pii p3 sg
+	"stehen" vblex sep fm pii p1 sg
+	"stehen" vblex sep fm pii p3 sg
+"<.>"
+	"." sent
+ 
+"<Bis>"
+	"bis" pr acc
+"<zum>"
+	"der" det def m sg dat
+		"zu" pr dat
+	"der" det def nt sg dat
+		"zu" pr dat
+"<Ende>"
+	"Ende" n nt sg nom
+	"Ende" n nt sg dat
+	"Ende" n nt sg acc
+	"enden" vblex imp sg
+	"ende" n nt sg nom lower
+	"ende" n nt sg dat lower
+	"ende" n nt sg acc lower
+	"enden" vblex pri p1 sg
+	"enden" vblex prs p1 sg
+	"enden" vblex prs p3 sg
+"<des>"
+	"der" det def m sg gen
+	"der" det def nt sg gen
+"<Heiligen>"
+	"heilig" adj m sg gen
+	"heilig" adj m sg acc
+	"heilig" adj nt sg gen
+	"heilig" adj mf pl dat
+	"Heilige" n m sg gen
+	"Heilige" n m sg dat
+	"Heilige" n m sg acc
+	"Heilige" n m pl nom
+	"Heilige" n m pl gen
+	"Heilige" n m pl dat
+	"Heilige" n m pl acc
+	"heilig" adj f sg gen mix
+	"heilig" adj f sg dat mix
+	"heilig" adj m sg dat mix
+	"heilig" adj nt sg dat mix
+	"heilig" adj mf pl nom mix
+	"heilig" adj mf pl gen mix
+	"heilig" adj mf pl acc mix
+	"heilige" n m sg gen lower
+	"heilige" n m sg dat lower
+	"heilige" n m sg acc lower
+	"heilige" n m pl nom lower
+	"heilige" n m pl gen lower
+	"heilige" n m pl dat lower
+	"heilige" n m pl acc lower
+"<römischen>"
+	"römisch" adj m sg gen
+	"römisch" adj m sg acc
+	"römisch" adj nt sg gen
+	"römisch" adj mf pl dat
+	"römisch" adj f sg gen mix
+	"römisch" adj f sg dat mix
+	"römisch" adj m sg dat mix
+	"römisch" adj nt sg dat mix
+	"römisch" adj mf pl nom mix
+	"römisch" adj mf pl gen mix
+	"römisch" adj mf pl acc mix
+"<Reiches>"
+	"Reich" n nt sg gen
+	"reich" n nt sg gen lower
+	"reich" adj nt sg nom mix
+	"reich" adj nt sg acc mix
+"<deutscher>"
+	"deutsch" adj comp attr
+	"deutsch" adj comp pred
+	"deutsch" adj mf pl gen st
+	"deutsch" adj m sg nom mix
+	"deutsch" adj f sg gen st
+	"deutsch" adj f sg dat st
+"<Nation>"
+	"Nation" n f sg nom
+	"Nation" n f sg gen
+	"Nation" n f sg dat
+	"Nation" n f sg acc
+	"nation" n f sg nom lower
+	"nation" n f sg gen lower
+	"nation" n f sg dat lower
+	"nation" n f sg acc lower
+"<konnte>"
+	"können" vbmod pii p1 sg
+	"können" vbmod pii p3 sg
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Anerkennung>"
+	"Anerkennung" n f sg nom
+	"Anerkennung" n f sg gen
+	"Anerkennung" n f sg dat
+	"Anerkennung" n f sg acc
+	"anerkennung" n f sg nom lower
+	"anerkennung" n f sg gen lower
+	"anerkennung" n f sg dat lower
+	"anerkennung" n f sg acc lower
+"<als>"
+	"als" cnjadv
+	"als" pr nom
+"<Ritter>"
+	"Ritter" n m sg nom
+	"Ritter" n m sg dat
+	"Ritter" n m sg acc
+	"Ritter" n m pl nom
+	"Ritter" n m pl gen
+	"Ritter" n m pl acc
+	"ritter" n m sg nom lower
+	"ritter" n m sg dat lower
+	"ritter" n m sg acc lower
+	"ritter" n m pl nom lower
+	"ritter" n m pl gen lower
+	"ritter" n m pl acc lower
+"<durch>"
+	"durch" pr acc
+"<Aufschwörung>"
+	"*Aufschwörung"
+"<und>"
+	"und" cnjcoo
+"<Eintrag>"
+	"Eintrag" n m sg nom
+	"Eintrag" n m sg dat
+	"Eintrag" n m sg acc
+	"eintrag" n m sg nom lower
+	"eintrag" n m sg dat lower
+	"eintrag" n m sg acc lower
+"<(>"
+	"(" lpar
+"<Immatrikulation>"
+	"*Immatrikulation"
+"<)>"
+	")" rpar
+"<in>"
+	"in" pr dat
+	"in" pr acc
+"<entsprechende>"
+	"*entsprechende"
+"<Adelsregister>"
+	"register" n nt sg nom lower
+		"Adel" n m sg cmp
+	"register" n nt sg dat lower
+		"Adel" n m sg cmp
+	"register" n nt sg acc lower
+		"Adel" n m sg cmp
+	"register" n nt pl nom lower
+		"Adel" n m sg cmp
+	"register" n nt pl gen lower
+		"Adel" n m sg cmp
+	"register" n nt pl acc lower
+		"Adel" n m sg cmp
+	"register" n nt sg nom lower
+		"adel" n m sg lower cmp
+	"register" n nt sg dat lower
+		"adel" n m sg lower cmp
+	"register" n nt sg acc lower
+		"adel" n m sg lower cmp
+	"register" n nt pl nom lower
+		"adel" n m sg lower cmp
+	"register" n nt pl gen lower
+		"adel" n m sg lower cmp
+	"register" n nt pl acc lower
+		"adel" n m sg lower cmp
+"<entscheidend>"
+	"entscheiden" vblex pprs
+"<dafür>"
+	"dafür" preadv
+"<sein>"
+	"sein" vbser inf
+	"sein" det pos m sg nom
+	"sein" det pos nt sg nom
+	"sein" det pos nt sg acc
+"<,>"
+	"," cm
+"<ob>"
+	"ob" adv
+"<ein>"
+	"ein" num sg
+	"ein" det ind m sg nom
+	"ein" det ind nt sg nom
+	"ein" det ind nt sg acc
+"<Recht>"
+	"recht" adj attr
+	"recht" adj pred
+	"Recht" n nt sg nom
+	"Recht" n nt sg dat
+	"Recht" n nt sg acc
+	"recht" n nt sg nom lower
+	"recht" n nt sg dat lower
+	"recht" n nt sg acc lower
+"<auf>"
+	"auf" pr dat
+	"auf" pr acc
+"<Sitz>"
+	"Sitz" n m sg nom
+	"Sitz" n m sg dat
+	"Sitz" n m sg acc
+	"sitz" n m sg nom lower
+	"sitz" n m sg dat lower
+	"sitz" n m sg acc lower
+	"sitzen" vblex imp sg
+"<und>"
+	"und" cnjcoo
+"<Stimme>"
+	"Stimme" n f sg nom
+	"Stimme" n f sg gen
+	"Stimme" n f sg dat
+	"Stimme" n f sg acc
+	"stimme" n f sg nom lower
+	"stimme" n f sg gen lower
+	"stimme" n f sg dat lower
+	"stimme" n f sg acc lower
+	"stimmen" vblex pri p1 sg
+	"stimmen" vblex prs p1 sg
+	"stimmen" vblex prs p3 sg
+	"stimmen" vblex sep fm pri p1 sg
+	"stimmen" vblex sep fm prs p1 sg
+	"stimmen" vblex sep fm prs p3 sg
+"<im>"
+	"der" det def m sg dat
+		"in" pr dat
+	"der" det def nt sg dat
+		"in" pr dat
+"<Landtag>"
+	"Landtag" n m sg nom
+	"Landtag" n m sg dat
+	"Landtag" n m sg acc
+	"landtag" n m sg nom lower
+	"landtag" n m sg dat lower
+	"landtag" n m sg acc lower
+"<oder>"
+	"oder" cnjcoo
+"<in>"
+	"in" pr dat
+	"in" pr acc
+"<einem>"
+	"ein" det ind m sg dat
+	"ein" det ind nt sg dat
+"<Domkapitel>"
+	"kapitel" n nt sg nom lower
+		"Dom" n m sg cmp
+	"kapitel" n nt sg dat lower
+		"Dom" n m sg cmp
+	"kapitel" n nt sg acc lower
+		"Dom" n m sg cmp
+	"kapitel" n nt pl nom lower
+		"Dom" n m sg cmp
+	"kapitel" n nt pl gen lower
+		"Dom" n m sg cmp
+	"kapitel" n nt pl acc lower
+		"Dom" n m sg cmp
+	"kapitel" n nt sg nom lower
+		"dom" n m sg lower cmp
+	"kapitel" n nt sg dat lower
+		"dom" n m sg lower cmp
+	"kapitel" n nt sg acc lower
+		"dom" n m sg lower cmp
+	"kapitel" n nt pl nom lower
+		"dom" n m sg lower cmp
+	"kapitel" n nt pl gen lower
+		"dom" n m sg lower cmp
+	"kapitel" n nt pl acc lower
+		"dom" n m sg lower cmp
+"<bestand>"
+	"bestand" n m sg nom lower
+	"bestand" n m sg dat lower
+	"bestand" n m sg acc lower
+	"bestehen" vblex pii p1 sg
+	"bestehen" vblex pii p3 sg
+"<.>"
+	"." sent
+ 
+"<Um>"
+	"um" cnjsub
+	"um" pr acc
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Anerkennung>"
+	"Anerkennung" n f sg nom
+	"Anerkennung" n f sg gen
+	"Anerkennung" n f sg dat
+	"Anerkennung" n f sg acc
+	"anerkennung" n f sg nom lower
+	"anerkennung" n f sg gen lower
+	"anerkennung" n f sg dat lower
+	"anerkennung" n f sg acc lower
+"<gab>"
+	"geben" vblex pii p1 sg
+	"geben" vblex pii p3 sg
+	"geben" vblex sep fm pii p1 sg
+	"geben" vblex sep fm pii p3 sg
+"<es>"
+	"es" prn pers p3 nt sg nom
+	"es" prn pers p3 nt sg acc
+"<erbittert>"
+	"erbittert" adj attr
+	"erbittert" adj pred
+"<ausgefochtene>"
+	"*ausgefochtene"
+"<Rechtsstreitigkeiten>"
+	"*Rechtsstreitigkeiten"
+"<wie>"
+	"wie" cnjadv
+	"wie" pr nom
+"<den>"
+	"der" rel m sg acc
+	"der" prn dem m sg acc
+	"der" det def m sg acc
+	"der" det def mfn pl dat
+"<Erbmännerprozess>"
+	"*Erbmännerprozess"
+"<.>"
+	"." sent
+
+¶
+"<Das>"
+	"der" rel nt sg nom
+	"der" rel nt sg acc
+	"der" prn dem nt sg nom
+	"der" prn dem nt sg acc
+	"der" det def nt sg nom
+	"der" det def nt sg acc
+"<Ideal>"
+	"ideal" adj attr
+	"ideal" adj pred
+	"Ideal" n nt sg nom
+	"Ideal" n nt sg dat
+	"Ideal" n nt sg acc
+	"ideal" n nt sg nom lower
+	"ideal" n nt sg dat lower
+	"ideal" n nt sg acc lower
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Ritterlichkeit>"
+	"*Ritterlichkeit"
+"<und>"
+	"und" cnjcoo
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Ritterorden>"
+	"orden" n nt sg nom lower
+		"Ritter" n m sg cmp
+	"orden" n nt sg dat lower
+		"Ritter" n m sg cmp
+	"orden" n nt sg acc lower
+		"Ritter" n m sg cmp
+	"orden" n nt pl nom lower
+		"Ritter" n m sg cmp
+	"orden" n nt pl gen lower
+		"Ritter" n m sg cmp
+	"orden" n nt pl dat lower
+		"Ritter" n m sg cmp
+	"orden" n nt pl acc lower
+		"Ritter" n m sg cmp
+	"orden" n nt sg nom lower
+		"ritter" n m sg lower cmp
+	"orden" n nt sg dat lower
+		"ritter" n m sg lower cmp
+	"orden" n nt sg acc lower
+		"ritter" n m sg lower cmp
+	"orden" n nt pl nom lower
+		"ritter" n m sg lower cmp
+	"orden" n nt pl gen lower
+		"ritter" n m sg lower cmp
+	"orden" n nt pl dat lower
+		"ritter" n m sg lower cmp
+	"orden" n nt pl acc lower
+		"ritter" n m sg lower cmp
+"<haben>"
+	"haben" vbhaver inf
+	"haben" vbhaver pri p1 pl
+	"haben" vbhaver pri p3 pl
+	"haben" vbhaver prs p1 pl
+	"haben" vbhaver prs p3 pl
+	"haben" n nt sg nom lower
+	"haben" n nt sg dat lower
+	"haben" n nt sg acc lower
+"<bis>"
+	"bis" pr acc
+"<heute>"
+	"heute" adv
+"<kulturelle>"
+	"kulturell" adj f sg nom
+	"kulturell" adj f sg acc
+	"kulturell" adj mf pl nom st
+	"kulturell" adj mf pl acc st
+	"kulturell" adj m sg nom sw
+	"kulturell" adj nt sg nom sw
+	"kulturell" adj nt sg acc sw
+"<und>"
+	"und" cnjcoo
+"<soziale>"
+	"sozial" adj f sg nom
+	"sozial" adj f sg acc
+	"sozial" adj mf pl nom st
+	"sozial" adj mf pl acc st
+	"sozial" adj m sg nom sw
+	"sozial" adj nt sg nom sw
+	"sozial" adj nt sg acc sw
+"<Bedeutung>"
+	"Bedeutung" n f sg nom
+	"Bedeutung" n f sg gen
+	"Bedeutung" n f sg dat
+	"Bedeutung" n f sg acc
+	"bedeutung" n f sg nom lower
+	"bedeutung" n f sg gen lower
+	"bedeutung" n f sg dat lower
+	"bedeutung" n f sg acc lower
+"<.>"
+	"." sent
+
+¶
+"<Die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<meisten>"
+	"viel" adj sup attr
+	"viel" adj sup pred
+	"viel" adj sup m sg gen
+	"viel" adj sup m sg acc
+	"viel" adj sup nt sg gen
+	"viel" adj sup mf pl dat
+	"viel" adj sup m sg dat mix
+	"viel" adj sup nt sg dat mix
+	"viel" adj sup f sg gen mix
+	"viel" adj sup f sg dat mix
+	"viel" adj sup mf pl nom mix
+	"viel" adj sup mf pl gen mix
+	"viel" adj sup mf pl acc mix
+"<Adligen>"
+	"adlig" adj m sg gen
+	"adlig" adj m sg acc
+	"adlig" adj nt sg gen
+	"adlig" adj mf pl dat
+	"adlig" adj f sg gen mix
+	"adlig" adj f sg dat mix
+	"adlig" adj m sg dat mix
+	"adlig" adj nt sg dat mix
+	"adlig" adj mf pl nom mix
+	"adlig" adj mf pl gen mix
+	"adlig" adj mf pl acc mix
+"<des>"
+	"der" det def m sg gen
+	"der" det def nt sg gen
+"<Mittelalters>"
+	"alter" n nt sg gen lower
+		"Mittel" n nt sg cmp
+	"alter" n nt sg gen lower
+		"mittel" n nt sg lower cmp
+"<waren>"
+	"sein" vbser pii p1 pl
+	"sein" vbser pii p3 pl
+	"ware" n f pl nom lower
+	"ware" n f pl gen lower
+	"ware" n f pl dat lower
+	"ware" n f pl acc lower
+"<keine>"
+	"kein" det ind f sg nom
+	"kein" det ind f sg acc
+"<Ritter>"
+	"Ritter" n m sg nom
+	"Ritter" n m sg dat
+	"Ritter" n m sg acc
+	"Ritter" n m pl nom
+	"Ritter" n m pl gen
+	"Ritter" n m pl acc
+	"ritter" n m sg nom lower
+	"ritter" n m sg dat lower
+	"ritter" n m sg acc lower
+	"ritter" n m pl nom lower
+	"ritter" n m pl gen lower
+	"ritter" n m pl acc lower
+"<.>"
+	"." sent
+ 
+"<Aus>"
+	"aus" pr dat
+	"Aus" n nt sg nom
+	"Aus" n nt sg gen
+	"Aus" n nt sg dat
+	"Aus" n nt sg acc
+	"Aus" n nt pl nom
+	"Aus" n nt pl gen
+	"Aus" n nt pl dat
+	"Aus" n nt pl acc
+	"aus" n nt sg nom lower
+	"aus" n nt sg gen lower
+	"aus" n nt sg dat lower
+	"aus" n nt sg acc lower
+	"aus" n nt pl nom lower
+	"aus" n nt pl gen lower
+	"aus" n nt pl dat lower
+	"aus" n nt pl acc lower
+"<finanziellen>"
+	"finanziell" adj m sg gen
+	"finanziell" adj m sg acc
+	"finanziell" adj nt sg gen
+	"finanziell" adj mf pl dat
+	"finanziell" adj f sg gen mix
+	"finanziell" adj f sg dat mix
+	"finanziell" adj m sg dat mix
+	"finanziell" adj nt sg dat mix
+	"finanziell" adj mf pl nom mix
+	"finanziell" adj mf pl gen mix
+	"finanziell" adj mf pl acc mix
+"<und>"
+	"und" cnjcoo
+"<familiären>"
+	"familiär" adj m sg gen
+	"familiär" adj m sg acc
+	"familiär" adj nt sg gen
+	"familiär" adj mf pl dat
+	"familiär" adj f sg gen mix
+	"familiär" adj f sg dat mix
+	"familiär" adj m sg dat mix
+	"familiär" adj nt sg dat mix
+	"familiär" adj mf pl nom mix
+	"familiär" adj mf pl gen mix
+	"familiär" adj mf pl acc mix
+"<Gründen>"
+	"Grund" n m pl dat
+	"gründen" vblex inf
+	"grund" n m pl dat lower
+	"gründen" vblex pri p1 pl
+	"gründen" vblex pri p3 pl
+	"gründen" vblex prs p1 pl
+	"gründen" vblex prs p3 pl
+"<zogen>"
+	"ziehen" vblex pii p1 pl
+	"ziehen" vblex pii p3 pl
+	"ziehen" vblex sep fm pii p1 pl
+	"ziehen" vblex sep fm pii p3 pl
+"<es>"
+	"es" prn pers p3 nt sg nom
+	"es" prn pers p3 nt sg acc
+"<viele>"
+	"viel" adj f sg nom
+	"viel" adj f sg acc
+	"viel" adj mf pl nom st
+	"viel" adj mf pl acc st
+	"viel" adj m sg nom sw
+	"viel" adj nt sg nom sw
+	"viel" adj nt sg acc sw
+"<vor>"
+	"vor" pr dat
+"<,>"
+	"," cm
+"<zeit>"
+	"zeit" pr gen
+	"zeit" n f sg nom lower
+	"zeit" n f sg gen lower
+	"zeit" n f sg dat lower
+	"zeit" n f sg acc lower
+"<ihres>"
+	"ihr" det pos m sg gen
+	"ihr" det pos nt sg gen
+"<Lebens>"
+	"Leben" n nt sg gen
+	"leben" n nt sg gen lower
+"<Edelknechte>"
+	"*Edelknechte"
+"<,>"
+	"," cm
+"<und>"
+	"und" cnjcoo
+"<damit>"
+	"damit" preadv
+"<ritterbürtige>"
+	"*ritterbürtige"
+"<und>"
+	"und" cnjcoo
+"<waffentragende>"
+	"*waffentragende"
+"<Krieger>"
+	"Krieger" n m sg nom
+	"Krieger" n m sg dat
+	"Krieger" n m sg acc
+	"Krieger" n m pl nom
+	"Krieger" n m pl gen
+	"Krieger" n m pl acc
+	"krieger" n m sg nom lower
+	"krieger" n m sg dat lower
+	"krieger" n m sg acc lower
+	"krieger" n m pl nom lower
+	"krieger" n m pl gen lower
+	"krieger" n m pl acc lower
+"<zu>"
+	"zu" pr dat
+"<bleiben>"
+	"bleiben" vblex inf
+	"bleiben" vblex pri p1 pl
+	"bleiben" vblex pri p3 pl
+	"bleiben" vblex prs p1 pl
+	"bleiben" vblex prs p3 pl
+	"bleibe" n f pl nom lower
+	"bleibe" n f pl gen lower
+	"bleibe" n f pl dat lower
+	"bleibe" n f pl acc lower
+"<.>"
+	"." sent
+ 
+"<Auch>"
+	"auch" adv
+"<bei>"
+	"bei" pr dat
+"<Hochadligen>"
+	"*Hochadligen"
+"<war>"
+	"sein" vbser pii p1 sg
+	"sein" vbser pii p3 sg
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Ritterwürde>"
+	"würde" n f sg nom lower
+		"Ritter" n m sg cmp
+	"würde" n f sg gen lower
+		"Ritter" n m sg cmp
+	"würde" n f sg dat lower
+		"Ritter" n m sg cmp
+	"würde" n f sg acc lower
+		"Ritter" n m sg cmp
+	"würde" n f sg nom lower
+		"ritter" n m sg lower cmp
+	"würde" n f sg gen lower
+		"ritter" n m sg lower cmp
+	"würde" n f sg dat lower
+		"ritter" n m sg lower cmp
+	"würde" n f sg acc lower
+		"ritter" n m sg lower cmp
+"<keineswegs>"
+	"keineswegs" adv
+"<selbstverständlich>"
+	"selbstverständlich" adj attr
+	"selbstverständlich" adj pred
+"<.>"
+	"." sent
+ 
+"<Manchmal>"
+	"manchmal" adv
+"<wurde>"
+	"werden" vaux pii p1 sg
+	"werden" vaux pii p3 sg
+	"werden" vblex pii p1 sg
+	"werden" vblex pii p3 sg
+"<sie>"
+	"sie" prn pers p3 mf pl nom
+	"sie" prn pers p3 mf pl acc
+	"sie" prn pers p3 f sg nom
+	"sie" prn pers p3 f sg acc
+"<gegen>"
+	"gegen" pr acc
+"<Zahlung>"
+	"*Zahlung"
+"<einer>"
+	"ein" det ind f sg gen
+	"ein" det ind f sg dat
+"<erheblichen>"
+	"erheblich" adj m sg gen
+	"erheblich" adj m sg acc
+	"erheblich" adj nt sg gen
+	"erheblich" adj mf pl dat
+	"erheblich" adj f sg gen mix
+	"erheblich" adj f sg dat mix
+	"erheblich" adj m sg dat mix
+	"erheblich" adj nt sg dat mix
+	"erheblich" adj mf pl nom mix
+	"erheblich" adj mf pl gen mix
+	"erheblich" adj mf pl acc mix
+"<Summe>"
+	"Summe" n f sg nom
+	"Summe" n f sg gen
+	"Summe" n f sg dat
+	"Summe" n f sg acc
+	"summe" n f sg nom lower
+	"summe" n f sg gen lower
+	"summe" n f sg dat lower
+	"summe" n f sg acc lower
+	"summen" vblex pri p1 sg
+	"summen" vblex prs p1 sg
+	"summen" vblex prs p3 sg
+"<erkauft>"
+	"erkaufen" vblex pp
+	"erkaufen" vblex imp pl
+	"erkaufen" vblex pri p2 pl
+	"erkaufen" vblex pri p3 sg
+"<.>"
+	"." sent
+
+¶
+"<Besonders>"
+	"besonders" adv
+"<bei>"
+	"bei" pr dat
+"<Turnieren>"
+	"Turnier" n nt pl dat
+	"turnier" n nt pl dat lower
+"<wurde>"
+	"werden" vaux pii p1 sg
+	"werden" vaux pii p3 sg
+	"werden" vblex pii p1 sg
+	"werden" vblex pii p3 sg
+"<streng>"
+	"streng" adj attr
+	"streng" adj pred
+"<zwischen>"
+	"zwischen" pr dat
+"<Rittern>"
+	"Ritter" n m pl dat
+	"ritter" n m pl dat lower
+"<und>"
+	"und" cnjcoo
+"<Edelknechten>"
+	"*Edelknechten"
+"<unterschieden>"
+	"unterscheiden" vblex pp
+	"unterschied" n m pl dat lower
+	"unterscheiden" vblex pii p1 pl
+	"unterscheiden" vblex pii p3 pl
+	"unterscheiden" vblex pis p1 pl
+	"unterscheiden" vblex pis p3 pl
+"<.>"
+	"." sent
+ 
+"<So>"
+	"so" adv
+"<durften>"
+	"*durften"
+"<Ritter>"
+	"Ritter" n m sg nom
+	"Ritter" n m sg dat
+	"Ritter" n m sg acc
+	"Ritter" n m pl nom
+	"Ritter" n m pl gen
+	"Ritter" n m pl acc
+	"ritter" n m sg nom lower
+	"ritter" n m sg dat lower
+	"ritter" n m sg acc lower
+	"ritter" n m pl nom lower
+	"ritter" n m pl gen lower
+	"ritter" n m pl acc lower
+"<beispielsweise>"
+	"beispielsweise" adv
+"<mit>"
+	"mit" pr dat
+"<drei>"
+	"drei" num sp
+"<Pferden>"
+	"Pferd" n nt pl dat
+	"pferd" n nt pl dat lower
+"<auf>"
+	"auf" pr dat
+	"auf" pr acc
+"<dem>"
+	"der" rel m sg dat
+	"der" rel nt sg dat
+	"der" prn dem m sg dat
+	"der" prn dem nt sg dat
+	"der" det def m sg dat
+	"der" det def nt sg dat
+"<Turnierplatz>"
+	"platz" n m sg nom lower
+		"Turnier" n nt sg cmp
+	"platz" n m sg dat lower
+		"Turnier" n nt sg cmp
+	"platz" n m sg acc lower
+		"Turnier" n nt sg cmp
+	"platz" n m sg nom lower
+		"turnier" n nt sg lower cmp
+	"platz" n m sg dat lower
+		"turnier" n nt sg lower cmp
+	"platz" n m sg acc lower
+		"turnier" n nt sg lower cmp
+"<erscheinen>"
+	"erscheinen" vblex inf
+	"erscheinen" vblex pri p1 pl
+	"erscheinen" vblex pri p3 pl
+	"erscheinen" vblex prs p1 pl
+	"erscheinen" vblex prs p3 pl
+"<,>"
+	"," cm
+"<Knechten>"
+	"Knecht" n m pl dat
+	"knecht" n m pl dat lower
+"<wurden>"
+	"werden" vaux pii p1 pl
+	"werden" vaux pii p3 pl
+	"werden" vblex pii p1 pl
+	"werden" vblex pii p3 pl
+"<nur>"
+	"nur" adv
+"<zwei>"
+	"zwei" num sp
+"<zugestanden>"
+	"*zugestanden"
+"<.>"
+	"." sent
+ 
+"<Vor>"
+	"vor" pr dat
+"<großen>"
+	"groß" adj m sg gen
+	"groß" adj m sg acc
+	"groß" adj nt sg gen
+	"groß" adj mf pl dat
+	"groß" adj f sg gen mix
+	"groß" adj f sg dat mix
+	"groß" adj m sg dat mix
+	"groß" adj nt sg dat mix
+	"groß" adj mf pl nom mix
+	"groß" adj mf pl gen mix
+	"groß" adj mf pl acc mix
+"<Schlachten>"
+	"Schlacht" n f pl nom
+	"Schlacht" n f pl gen
+	"Schlacht" n f pl dat
+	"Schlacht" n f pl acc
+	"schlachten" vblex inf
+	"schlacht" n f pl nom lower
+	"schlacht" n f pl gen lower
+	"schlacht" n f pl dat lower
+	"schlacht" n f pl acc lower
+	"schlachten" vblex pri p1 pl
+	"schlachten" vblex pri p3 pl
+	"schlachten" vblex prs p1 pl
+	"schlachten" vblex prs p3 pl
+	"schlachten" vblex sep fm pri p1 pl
+	"schlachten" vblex sep fm pri p3 pl
+	"schlachten" vblex sep fm prs p1 pl
+	"schlachten" vblex sep fm prs p3 pl
+"<versuchten>"
+	"versuchen" vblex pii p1 pl
+	"versuchen" vblex pii p3 pl
+	"versuchen" vblex pis p1 pl
+	"versuchen" vblex pis p3 pl
+"<viele>"
+	"viel" adj f sg nom
+	"viel" adj f sg acc
+	"viel" adj mf pl nom st
+	"viel" adj mf pl acc st
+	"viel" adj m sg nom sw
+	"viel" adj nt sg nom sw
+	"viel" adj nt sg acc sw
+"<Feudalherren>"
+	"*Feudalherren"
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Kampfmoral>"
+	"moral" n f sg nom lower
+		"Kampf" n m sg cmp
+	"moral" n f sg gen lower
+		"Kampf" n m sg cmp
+	"moral" n f sg dat lower
+		"Kampf" n m sg cmp
+	"moral" n f sg acc lower
+		"Kampf" n m sg cmp
+	"moral" n f sg nom lower
+		"kampf" n m sg lower cmp
+	"moral" n f sg gen lower
+		"kampf" n m sg lower cmp
+	"moral" n f sg dat lower
+		"kampf" n m sg lower cmp
+	"moral" n f sg acc lower
+		"kampf" n m sg lower cmp
+"<ihrer>"
+	"ihr" det pos f sg gen
+	"ihr" det pos f sg dat
+	"ihr" det pos mfn pl gen
+	"sie" prn pers p3 mf pl gen
+	"sie" prn pers p3 f sg gen
+"<Truppen>"
+	"Truppe" n f pl nom
+	"Truppe" n f pl gen
+	"Truppe" n f pl dat
+	"Truppe" n f pl acc
+	"truppe" n f pl nom lower
+	"truppe" n f pl gen lower
+	"truppe" n f pl dat lower
+	"truppe" n f pl acc lower
+"<zu>"
+	"zu" pr dat
+"<stärken>"
+	"stärken" vblex inf
+	"stärken" vblex pri p1 pl
+	"stärken" vblex pri p3 pl
+	"stärken" vblex prs p1 pl
+	"stärken" vblex prs p3 pl
+	"stärke" n f pl nom lower
+	"stärke" n f pl gen lower
+	"stärke" n f pl dat lower
+	"stärke" n f pl acc lower
+"<,>"
+	"," cm
+"<indem>"
+	"indem" cnjsub
+"<man>"
+	"man" prn ind p3 mf sg nom
+"<diese>"
+	"dieser" prn dem f sg nom
+	"dieser" prn dem f sg acc
+	"dieser" prn dem mfn pl nom
+	"dieser" prn dem mfn pl acc
+	"dieser" det dem f sg nom
+	"dieser" det dem f sg acc
+	"dieser" det dem mfn pl nom
+	"dieser" det dem mfn pl acc
+"<Edelknechte>"
+	"*Edelknechte"
+"<in>"
+	"in" pr dat
+	"in" pr acc
+"<großer>"
+	"groß" adj mf pl gen st
+	"groß" adj m sg nom mix
+	"groß" adj f sg gen st
+	"groß" adj f sg dat st
+"<Anzahl>"
+	"Anzahl" n f sg nom
+	"Anzahl" n f sg gen
+	"Anzahl" n f sg dat
+	"Anzahl" n f sg acc
+	"anzahl" n f sg nom lower
+	"anzahl" n f sg gen lower
+	"anzahl" n f sg dat lower
+	"anzahl" n f sg acc lower
+"<in>"
+	"in" pr dat
+	"in" pr acc
+"<den>"
+	"der" rel m sg acc
+	"der" prn dem m sg acc
+	"der" det def m sg acc
+	"der" det def mfn pl dat
+"<Ritterstand>"
+	"stand" n m sg nom lower
+		"Ritter" n m sg cmp
+	"stand" n m sg dat lower
+		"Ritter" n m sg cmp
+	"stand" n m sg acc lower
+		"Ritter" n m sg cmp
+	"stand" n m sg nom lower
+		"ritter" n m sg lower cmp
+	"stand" n m sg dat lower
+		"ritter" n m sg lower cmp
+	"stand" n m sg acc lower
+		"ritter" n m sg lower cmp
+"<aufnahm>"
+	"*aufnahm"
+"<.>"
+	"." sent
+ 
+"<So>"
+	"so" adv
+"<soll>"
+	"soll" n nt sg nom lower
+	"soll" n nt sg dat lower
+	"soll" n nt sg acc lower
+	"sollen" vbmod pri p1 sg
+	"sollen" vbmod pri p3 sg
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<polnische>"
+	"polnisch" adj f sg nom
+	"polnisch" adj f sg acc
+	"polnisch" adj mf pl nom st
+	"polnisch" adj mf pl acc st
+	"polnisch" adj m sg nom sw
+	"polnisch" adj nt sg nom sw
+	"polnisch" adj nt sg acc sw
+"<König>"
+	"König" n m sg nom
+	"König" n m sg dat
+	"König" n m sg acc
+	"könig" n m sg nom lower
+	"könig" n m sg dat lower
+	"könig" n m sg acc lower
+"<Władysław>"
+	"*Władysław"
+"<II>"
+	"II" num sp
+"<.>"
+	"." sent
+ 
+"<Jagiełło>"
+	"*Jagiełło"
+"<unmittelbar>"
+	"unmittelbar" adj attr
+	"unmittelbar" adj pred
+"<vor>"
+	"vor" pr dat
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Schlacht>"
+	"Schlacht" n f sg nom
+	"Schlacht" n f sg gen
+	"Schlacht" n f sg dat
+	"Schlacht" n f sg acc
+	"schlacht" n f sg nom lower
+	"schlacht" n f sg gen lower
+	"schlacht" n f sg dat lower
+	"schlacht" n f sg acc lower
+"<bei>"
+	"bei" pr dat
+"<Grunwald>"
+	"*Grunwald"
+/
+"<Tannenberg>"
+	"*Tannenberg"
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Ritterwürde>"
+	"würde" n f sg nom lower
+		"Ritter" n m sg cmp
+	"würde" n f sg gen lower
+		"Ritter" n m sg cmp
+	"würde" n f sg dat lower
+		"Ritter" n m sg cmp
+	"würde" n f sg acc lower
+		"Ritter" n m sg cmp
+	"würde" n f sg nom lower
+		"ritter" n m sg lower cmp
+	"würde" n f sg gen lower
+		"ritter" n m sg lower cmp
+	"würde" n f sg dat lower
+		"ritter" n m sg lower cmp
+	"würde" n f sg acc lower
+		"ritter" n m sg lower cmp
+"<an>"
+	"an" pr dat
+	"an" pr acc
+"<tausend>"
+	"tausend" n nt sg nom lower
+	"tausend" n nt sg dat lower
+	"tausend" n nt sg acc lower
+"<seiner>"
+	"er" prn pers p3 m sg gen
+	"es" prn pers p3 nt sg gen
+	"sein" det pos f sg gen
+	"sein" det pos f sg dat
+	"sein" det pos mfn pl gen
+"<„>"
+	"„" lquot
+"<Szlachtschitzen>"
+	"*Szlachtschitzen"
+"<“>"
+	"“" rquot
+"<verliehen>"
+	"verleihen" vblex pp
+	"verleihen" vblex pii p1 pl
+	"verleihen" vblex pii p3 pl
+	"verleihen" vblex pis p1 pl
+	"verleihen" vblex pis p3 pl
+"<haben>"
+	"haben" vbhaver inf
+	"haben" vbhaver pri p1 pl
+	"haben" vbhaver pri p3 pl
+	"haben" vbhaver prs p1 pl
+	"haben" vbhaver prs p3 pl
+	"haben" n nt sg nom lower
+	"haben" n nt sg dat lower
+	"haben" n nt sg acc lower
+"<.>"
+	"." sent
+ 
+"<Diese>"
+	"dieser" prn dem f sg nom
+	"dieser" prn dem f sg acc
+	"dieser" prn dem mfn pl nom
+	"dieser" prn dem mfn pl acc
+	"dieser" det dem f sg nom
+	"dieser" det dem f sg acc
+	"dieser" det dem mfn pl nom
+	"dieser" det dem mfn pl acc
+"<„>"
+	"„" lquot
+"<Promotionen>"
+	"Promotion" n f pl nom
+	"Promotion" n f pl gen
+	"Promotion" n f pl dat
+	"Promotion" n f pl acc
+	"promotion" n f pl nom lower
+	"promotion" n f pl gen lower
+	"promotion" n f pl dat lower
+	"promotion" n f pl acc lower
+"<“>"
+	"“" rquot
+"<kamen>"
+	"kommen" vblex pii p1 pl
+	"kommen" vblex pii p3 pl
+"<natürlich>"
+	"natürlich" adv
+	"natürlich" adj attr
+	"natürlich" adj pred
+"<auch>"
+	"auch" adv
+"<nach>"
+	"nach" pr dat
+	"nach" pprep dat
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Schlacht>"
+	"Schlacht" n f sg nom
+	"Schlacht" n f sg gen
+	"Schlacht" n f sg dat
+	"Schlacht" n f sg acc
+	"schlacht" n f sg nom lower
+	"schlacht" n f sg gen lower
+	"schlacht" n f sg dat lower
+	"schlacht" n f sg acc lower
+"<vor>"
+	"vor" pr dat
+"<.>"
+	"." sent
+
+¶
+"<Gelegentlich>"
+	"gelegentlich" adj attr
+	"gelegentlich" adj pred
+"<wurden>"
+	"werden" vaux pii p1 pl
+	"werden" vaux pii p3 pl
+	"werden" vblex pii p1 pl
+	"werden" vblex pii p3 pl
+"<sogar>"
+	"sogar" adv
+"<tapfere>"
+	"tapfer" adj f sg nom
+	"tapfer" adj f sg acc
+	"tapfer" adj mf pl nom st
+	"tapfer" adj mf pl acc st
+	"tapfer" adj m sg nom sw
+	"tapfer" adj nt sg nom sw
+	"tapfer" adj nt sg acc sw
+"<nichtadlige>"
+	"*nichtadlige"
+"<Kriegsknechte>"
+	"*Kriegsknechte"
+"<zu>"
+	"zu" pr dat
+"<Rittern>"
+	"Ritter" n m pl dat
+	"ritter" n m pl dat lower
+"<geschlagen>"
+	"schlagen" vblex pp
+"<oder>"
+	"oder" cnjcoo
+"<mit>"
+	"mit" pr dat
+"<dem>"
+	"der" rel m sg dat
+	"der" rel nt sg dat
+	"der" prn dem m sg dat
+	"der" prn dem nt sg dat
+	"der" det def m sg dat
+	"der" det def nt sg dat
+"<Schwert>"
+	"Schwert" n nt sg nom
+	"Schwert" n nt sg dat
+	"Schwert" n nt sg acc
+	"schwert" n nt sg nom lower
+	"schwert" n nt sg dat lower
+	"schwert" n nt sg acc lower
+"<umgürtet>"
+	"*umgürtet"
+"<.>"
+	"." sent
+ 
+"<Diese>"
+	"dieser" prn dem f sg nom
+	"dieser" prn dem f sg acc
+	"dieser" prn dem mfn pl nom
+	"dieser" prn dem mfn pl acc
+	"dieser" det dem f sg nom
+	"dieser" det dem f sg acc
+	"dieser" det dem mfn pl nom
+	"dieser" det dem mfn pl acc
+"<Standeserhöhungen>"
+	"*Standeserhöhungen"
+"<waren>"
+	"sein" vbser pii p1 pl
+	"sein" vbser pii p3 pl
+	"ware" n f pl nom lower
+	"ware" n f pl gen lower
+	"ware" n f pl dat lower
+	"ware" n f pl acc lower
+"<aber>"
+	"aber" adv
+	"aber" cnjcoo
+"<meist>"
+	"meist" adv
+	"viel" adj sup pred
+"<nur>"
+	"nur" adv
+"<symbolischer>"
+	"symbolisch" adj mf pl gen st
+	"symbolisch" adj m sg nom mix
+	"symbolisch" adj f sg gen st
+	"symbolisch" adj f sg dat st
+"<Natur>"
+	"Natur" n f sg nom
+	"Natur" n f sg gen
+	"Natur" n f sg dat
+	"Natur" n f sg acc
+	"natur" n f sg nom lower
+	"natur" n f sg gen lower
+	"natur" n f sg dat lower
+	"natur" n f sg acc lower
+"<,>"
+	"," cm
+"<vergleichbar>"
+	"vergleichbar" adj attr
+	"vergleichbar" adj pred
+"<mit>"
+	"mit" pr dat
+"<heutigen>"
+	"heutig" adj m sg gen
+	"heutig" adj m sg acc
+	"heutig" adj nt sg gen
+	"heutig" adj mf pl dat
+	"heutig" adj f sg gen mix
+	"heutig" adj f sg dat mix
+	"heutig" adj m sg dat mix
+	"heutig" adj nt sg dat mix
+	"heutig" adj mf pl nom mix
+	"heutig" adj mf pl gen mix
+	"heutig" adj mf pl acc mix
+"<Ordensverleihungen>"
+	"*Ordensverleihungen"
+"<,>"
+	"," cm
+"<denn>"
+	"denn" adv
+"<den>"
+	"der" rel m sg acc
+	"der" prn dem m sg acc
+	"der" det def m sg acc
+	"der" det def mfn pl dat
+"<so>"
+	"so" adv
+"<ausgezeichneten>"
+	"ausgezeichnet" adj m sg gen
+	"ausgezeichnet" adj m sg acc
+	"ausgezeichnet" adj nt sg gen
+	"ausgezeichnet" adj mf pl dat
+	"ausgezeichnet" adj f sg gen mix
+	"ausgezeichnet" adj f sg dat mix
+	"ausgezeichnet" adj m sg dat mix
+	"ausgezeichnet" adj nt sg dat mix
+	"ausgezeichnet" adj mf pl nom mix
+	"ausgezeichnet" adj mf pl gen mix
+	"ausgezeichnet" adj mf pl acc mix
+"<Knechten>"
+	"Knecht" n m pl dat
+	"knecht" n m pl dat lower
+"<fehlten>"
+	"fehlen" vblex pii p1 pl
+	"fehlen" vblex pii p3 pl
+	"fehlen" vblex pis p1 pl
+	"fehlen" vblex pis p3 pl
+"<meist>"
+	"meist" adv
+	"viel" adj sup pred
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<nötigen>"
+	"nötigen" vblex inf
+	"nötig" adj m sg gen
+	"nötig" adj m sg acc
+	"nötig" adj nt sg gen
+	"nötig" adj mf pl dat
+	"nötig" adj f sg gen mix
+	"nötig" adj f sg dat mix
+	"nötig" adj m sg dat mix
+	"nötig" adj nt sg dat mix
+	"nötig" adj mf pl nom mix
+	"nötig" adj mf pl gen mix
+	"nötig" adj mf pl acc mix
+	"nötigen" vblex pri p1 pl
+	"nötigen" vblex pri p3 pl
+	"nötigen" vblex prs p1 pl
+	"nötigen" vblex prs p3 pl
+"<finanziellen>"
+	"finanziell" adj m sg gen
+	"finanziell" adj m sg acc
+	"finanziell" adj nt sg gen
+	"finanziell" adj mf pl dat
+	"finanziell" adj f sg gen mix
+	"finanziell" adj f sg dat mix
+	"finanziell" adj m sg dat mix
+	"finanziell" adj nt sg dat mix
+	"finanziell" adj mf pl nom mix
+	"finanziell" adj mf pl gen mix
+	"finanziell" adj mf pl acc mix
+"<Mittel>"
+	"mittel" adj attr
+	"mittel" adj pred
+	"Mittel" n nt sg nom
+	"Mittel" n nt sg dat
+	"Mittel" n nt sg acc
+	"Mittel" n nt pl nom
+	"Mittel" n nt pl gen
+	"Mittel" n nt pl acc
+	"mittel" n nt sg nom lower
+	"mittel" n nt sg dat lower
+	"mittel" n nt sg acc lower
+	"mittel" n nt pl nom lower
+	"mittel" n nt pl gen lower
+	"mittel" n nt pl acc lower
+"<,>"
+	"," cm
+"<um>"
+	"um" cnjsub
+	"um" pr acc
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Ritterwürde>"
+	"würde" n f sg nom lower
+		"Ritter" n m sg cmp
+	"würde" n f sg gen lower
+		"Ritter" n m sg cmp
+	"würde" n f sg dat lower
+		"Ritter" n m sg cmp
+	"würde" n f sg acc lower
+		"Ritter" n m sg cmp
+	"würde" n f sg nom lower
+		"ritter" n m sg lower cmp
+	"würde" n f sg gen lower
+		"ritter" n m sg lower cmp
+	"würde" n f sg dat lower
+		"ritter" n m sg lower cmp
+	"würde" n f sg acc lower
+		"ritter" n m sg lower cmp
+"<dauerhaft>"
+	"haft" n f sg nom lower
+		"dauer" n f sg lower cmp
+	"haft" n f sg gen lower
+		"dauer" n f sg lower cmp
+	"haft" n f sg dat lower
+		"dauer" n f sg lower cmp
+	"haft" n f sg acc lower
+		"dauer" n f sg lower cmp
+"<anzunehmen>"
+	"*anzunehmen"
+"<.>"
+	"." sent
+ 
+"<Einige>"
+	"einig" adj f sg nom
+	"einig" adj f sg acc
+	"einig" adj mf pl nom st
+	"einig" adj mf pl acc st
+	"einig" adj m sg nom sw
+	"einig" adj nt sg nom sw
+	"einig" adj nt sg acc sw
+	"einigen" vblex pri p1 sg
+	"einigen" vblex prs p1 sg
+	"einigen" vblex prs p3 sg
+"<besonders>"
+	"besonders" adv
+"<tapfere>"
+	"tapfer" adj f sg nom
+	"tapfer" adj f sg acc
+	"tapfer" adj mf pl nom st
+	"tapfer" adj mf pl acc st
+	"tapfer" adj m sg nom sw
+	"tapfer" adj nt sg nom sw
+	"tapfer" adj nt sg acc sw
+"<Kämpfer>"
+	"*Kämpfer"
+"<wurden>"
+	"werden" vaux pii p1 pl
+	"werden" vaux pii p3 pl
+	"werden" vblex pii p1 pl
+	"werden" vblex pii p3 pl
+"<sogar>"
+	"sogar" adv
+"<mehrere>"
+	"viel" adj comp f sg nom
+	"viel" adj comp f sg acc
+	"viel" adj comp m sg nom sw
+	"viel" adj comp nt sg nom sw
+	"viel" adj comp nt sg acc sw
+	"viel" adj comp mf pl nom st
+	"viel" adj comp mf pl acc st
+"<Male>"
+	"Mal" n nt sg dat
+	"Mal" n nt pl nom
+	"Mal" n nt pl gen
+	"Mal" n nt pl acc
+	"mal" n nt sg dat lower
+	"mal" n nt pl nom lower
+	"mal" n nt pl gen lower
+	"mal" n nt pl acc lower
+	"malen" vblex pri p1 sg
+	"malen" vblex prs p1 sg
+	"malen" vblex prs p3 sg
+"<zum>"
+	"der" det def m sg dat
+		"zu" pr dat
+	"der" det def nt sg dat
+		"zu" pr dat
+"<Ritter>"
+	"Ritter" n m sg nom
+	"Ritter" n m sg dat
+	"Ritter" n m sg acc
+	"Ritter" n m pl nom
+	"Ritter" n m pl gen
+	"Ritter" n m pl acc
+	"ritter" n m sg nom lower
+	"ritter" n m sg dat lower
+	"ritter" n m sg acc lower
+	"ritter" n m pl nom lower
+	"ritter" n m pl gen lower
+	"ritter" n m pl acc lower
+"<geschlagen>"
+	"schlagen" vblex pp
+"<,>"
+	"," cm
+"<blieben>"
+	"bleiben" vblex pii p1 pl
+	"bleiben" vblex pii p3 pl
+	"bleiben" vblex pis p1 pl
+	"bleiben" vblex pis p3 pl
+"<aber>"
+	"aber" adv
+	"aber" cnjcoo
+"<weiterhin>"
+	"weiterhin" adv
+"<Edelknechte>"
+	"*Edelknechte"
+"<.>"
+	"." sent

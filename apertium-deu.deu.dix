@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
-  <alphabet>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÄÉÖÜßäéöüāēīōūĀĒĪŌŪ</alphabet>
+  <alphabet>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÄÉÖÜßäéöüāēīōūĀĒĪŌŪłŁ</alphabet>
   <sdefs>
     <sdef n="n" 	c="Noun"/> 
     <sdef n="np" 	c="Proper noun"/> 

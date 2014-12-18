@@ -16,6 +16,8 @@
 /modes.xml -text svneol=unset#text/plain
 texts/mittelalter1.ana.cg -text
 texts/mittelalter1.raw.txt -text
+texts/ritter1.ana.cg -text
+texts/ritter1.raw.txt -text
 texts/samurai1.ana.cg -text
 texts/samurai1.raw.txt -text
 texts/tennis1.ana.cg -text
