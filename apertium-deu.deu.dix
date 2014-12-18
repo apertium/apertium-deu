@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
-  <alphabet>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÄÉÖÜßäéöü</alphabet>
+  <alphabet>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÄÉÖÜßäéöüāēīōūĀĒĪŌŪ</alphabet>
   <sdefs>
     <sdef n="n" 	c="Noun"/> 
     <sdef n="np" 	c="Proper noun"/> 
@@ -70,6 +70,8 @@
     <sdef n="lpar" 	c="Left parenthesis"/> 
     <sdef n="rpar" 	c="Right parenthesis"/> 
     <sdef n="guio" 	c="Hyphen"/> 
+    <sdef n="lquot" 	c=""/> 
+    <sdef n="rquot" 	c=""/> 
     <sdef n="percent" 	c="Percentage"/> 
     <sdef n="apos" 	c="Apostrophe"/> 
     <sdef n="compound-only-L" 	c=""/> 
@@ -86,12 +88,18 @@
   <e r="RL"><p><l><a/></l>      <r></r></p><re>[.\?;:!]</re><p><l></l><r><s n="sent"/></r></p></e>
 </pardef>
 
+<pardef n="quot">
+  <e>       <re>[„«]</re><p><l></l><r><s n="lquot"/></r></p></e>
+  <e>       <re>[“»]</re><p><l></l><r><s n="rquot"/></r></p></e>
+</pardef>
+
 <pardef n="cometa">
   <e>       <re>[’'‘]</re><p><l></l><r><s n="apos"/></r></p></e>
 </pardef>
 
 <pardef n="guionet">
   <e>       <p><l>-</l>         <r>-<s n="guio"/></r></p></e>
+  <e>       <p><l>–</l>         <r>–<s n="guio"/></r></p></e>
 </pardef>
 
 <pardef n="coma">
@@ -45842,6 +45850,7 @@
   <section id="final" type="inconditional">
 <e>                      <par n="separa"/></e>
 <e>                      <par n="numeros"/></e>
+<e>                      <par n="quot"/></e>
 <e>                      <par n="cometa"/></e>
 <e>                      <par n="ordinals"/></e>
 <e>                      <par n="coma"/></e>

@@ -1,0 +1,3411 @@
+"<Samurai>"
+	"Samurai" n m sg nom
+	"Samurai" n m sg gen
+	"Samurai" n m sg dat
+	"Samurai" n m sg acc
+	"Samurai" n m pl nom
+	"Samurai" n m pl gen
+	"Samurai" n m pl dat
+	"Samurai" n m pl acc
+	"samurai" n m sg nom lower
+	"samurai" n m sg gen lower
+	"samurai" n m sg dat lower
+	"samurai" n m sg acc lower
+	"samurai" n m pl nom lower
+	"samurai" n m pl gen lower
+	"samurai" n m pl dat lower
+	"samurai" n m pl acc lower
+"<ist>"
+	"sein" vbser pri p3 sg
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<im>"
+	"der" det def m sg dat
+		"in" pr dat
+	"der" det def nt sg dat
+		"in" pr dat
+"<Westen>"
+	"Weste" n f pl nom
+	"Weste" n f pl gen
+	"Weste" n f pl dat
+	"Weste" n f pl acc
+	"wesen" vblex pii p1 pl
+	"wesen" vblex pii p3 pl
+	"wesen" vblex pis p1 pl
+	"wesen" vblex pis p3 pl
+	"Westen" n nt sg nom
+	"Westen" n nt sg dat
+	"Westen" n nt sg acc
+	"Westen" n nt pl nom
+	"Westen" n nt pl gen
+	"Westen" n nt pl dat
+	"Westen" n nt pl acc
+	"weste" n f pl nom lower
+	"weste" n f pl gen lower
+	"weste" n f pl dat lower
+	"weste" n f pl acc lower
+	"westen" n nt sg nom lower
+	"westen" n nt sg dat lower
+	"westen" n nt sg acc lower
+	"westen" n nt pl nom lower
+	"westen" n nt pl gen lower
+	"westen" n nt pl dat lower
+	"westen" n nt pl acc lower
+"<übliche>"
+	"üblich" adj f sg nom
+	"üblich" adj f sg acc
+	"üblich" adj mf pl nom st
+	"üblich" adj mf pl acc st
+	"üblich" adj m sg nom sw
+	"üblich" adj nt sg nom sw
+	"üblich" adj nt sg acc sw
+"<Bezeichnung>"
+	"Bezeichnung" n f sg nom
+	"Bezeichnung" n f sg gen
+	"Bezeichnung" n f sg dat
+	"Bezeichnung" n f sg acc
+	"bezeichnung" n f sg nom lower
+	"bezeichnung" n f sg gen lower
+	"bezeichnung" n f sg dat lower
+	"bezeichnung" n f sg acc lower
+"<für>"
+	"für" pr acc
+"<ein>"
+	"ein" num sg
+	"ein" det ind m sg nom
+	"ein" det ind nt sg nom
+	"ein" det ind nt sg acc
+"<Mitglied>"
+	"Mitglied" n nt sg nom
+	"Mitglied" n nt sg dat
+	"Mitglied" n nt sg acc
+	"mitglied" n nt sg nom lower
+	"mitglied" n nt sg dat lower
+	"mitglied" n nt sg acc lower
+"<des>"
+	"der" det def m sg gen
+	"der" det def nt sg gen
+"<Kriegerstandes>"
+	"stand" n m sg gen lower
+		"Krieger" n m sg cmp
+	"stand" n m sg gen lower
+		"krieger" n m sg lower cmp
+"<im>"
+	"der" det def m sg dat
+		"in" pr dat
+	"der" det def nt sg dat
+		"in" pr dat
+"<vorindustriellen>"
+	"*vorindustriellen"
+"<Japan>"
+	"*Japan"
+"<.>"
+	"." sent
+ 
+"<In>"
+	"in" pr dat
+	"in" pr acc
+"<Japan>"
+	"*Japan"
+"<selbst>"
+	"selbst" adv
+"<ist>"
+	"sein" vbser pri p3 sg
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Bezeichnung>"
+	"Bezeichnung" n f sg nom
+	"Bezeichnung" n f sg gen
+	"Bezeichnung" n f sg dat
+	"Bezeichnung" n f sg acc
+	"bezeichnung" n f sg nom lower
+	"bezeichnung" n f sg gen lower
+	"bezeichnung" n f sg dat lower
+	"bezeichnung" n f sg acc lower
+"<Bushi>"
+	"*Bushi"
+"<üblich>"
+	"üblich" adj attr
+	"üblich" adj pred
+"<.>"
+	"." sent
+ 
+"<Heute>"
+	"heute" adv
+"<wird>"
+	"werden" vaux pri p3 sg
+	"werden" vblex pri p3 sg
+"<Samurai>"
+	"Samurai" n m sg nom
+	"Samurai" n m sg gen
+	"Samurai" n m sg dat
+	"Samurai" n m sg acc
+	"Samurai" n m pl nom
+	"Samurai" n m pl gen
+	"Samurai" n m pl dat
+	"Samurai" n m pl acc
+	"samurai" n m sg nom lower
+	"samurai" n m sg gen lower
+	"samurai" n m sg dat lower
+	"samurai" n m sg acc lower
+	"samurai" n m pl nom lower
+	"samurai" n m pl gen lower
+	"samurai" n m pl dat lower
+	"samurai" n m pl acc lower
+"<ausschließlich>"
+	"ausschließlich" adj attr
+	"ausschließlich" adj pred
+"<für>"
+	"für" pr acc
+"<den>"
+	"der" rel m sg acc
+	"der" prn dem m sg acc
+	"der" det def m sg acc
+	"der" det def mfn pl dat
+"<Kriegeradel>"
+	"adel" n m sg nom lower
+		"Krieger" n m sg cmp
+	"adel" n m sg dat lower
+		"Krieger" n m sg cmp
+	"adel" n m sg acc lower
+		"Krieger" n m sg cmp
+	"adel" n m sg nom lower
+		"krieger" n m sg lower cmp
+	"adel" n m sg dat lower
+		"krieger" n m sg lower cmp
+	"adel" n m sg acc lower
+		"krieger" n m sg lower cmp
+"<jener>"
+	"jener" det dem m sg nom
+	"jener" det dem f sg gen
+	"jener" det dem f sg dat
+	"jener" det dem mfn pl gen
+"<Zeit>"
+	"zeit" pr gen
+	"Zeit" n f sg nom
+	"Zeit" n f sg gen
+	"Zeit" n f sg dat
+	"Zeit" n f sg acc
+	"zeit" n f sg nom lower
+	"zeit" n f sg gen lower
+	"zeit" n f sg dat lower
+	"zeit" n f sg acc lower
+"<verwendet>"
+	"verwenden" vblex pp
+	"verwenden" vblex imp pl
+	"verwenden" vblex pri p2 pl
+	"verwenden" vblex pri p3 sg
+	"verwenden" vblex prs p2 pl
+"<und>"
+	"und" cnjcoo
+"<nicht>"
+	"nicht" adv
+"<beispielsweise>"
+	"beispielsweise" adv
+"<für>"
+	"für" pr acc
+"<Ashigaru>"
+	"*Ashigaru"
+ = 
+"<„>"
+	"„" lquot
+"<leichtgerüstete>"
+	"*leichtgerüstete"
+"<Fußsoldaten>"
+	"soldat" n m sg gen lower
+		"Fuß" n m sg cmp
+	"soldat" n m sg dat lower
+		"Fuß" n m sg cmp
+	"soldat" n m sg acc lower
+		"Fuß" n m sg cmp
+	"soldat" n m pl nom lower
+		"Fuß" n m sg cmp
+	"soldat" n m pl gen lower
+		"Fuß" n m sg cmp
+	"soldat" n m pl dat lower
+		"Fuß" n m sg cmp
+	"soldat" n m pl acc lower
+		"Fuß" n m sg cmp
+	"soldat" n m sg gen lower
+		"fuß" n m sg lower cmp
+	"soldat" n m sg dat lower
+		"fuß" n m sg lower cmp
+	"soldat" n m sg acc lower
+		"fuß" n m sg lower cmp
+	"soldat" n m pl nom lower
+		"fuß" n m sg lower cmp
+	"soldat" n m pl gen lower
+		"fuß" n m sg lower cmp
+	"soldat" n m pl dat lower
+		"fuß" n m sg lower cmp
+	"soldat" n m pl acc lower
+		"fuß" n m sg lower cmp
+"<“>"
+	"“" rquot
+"<(>"
+	"(" lpar
+"<wörtlich>"
+	"wörtlich" adj attr
+	"wörtlich" adj pred
+"<„>"
+	"„" lquot
+"<leichtfüßig>"
+	"*leichtfüßig"
+"<“>"
+	"“" rquot
+"<)>"
+	")" rpar
+"<.>"
+	"." sent
+ 
+"<Herrenlos>"
+	"herrenlos" adj attr
+	"herrenlos" adj pred
+"<gewordene>"
+	"*gewordene"
+"<Samurai>"
+	"Samurai" n m sg nom
+	"Samurai" n m sg gen
+	"Samurai" n m sg dat
+	"Samurai" n m sg acc
+	"Samurai" n m pl nom
+	"Samurai" n m pl gen
+	"Samurai" n m pl dat
+	"Samurai" n m pl acc
+	"samurai" n m sg nom lower
+	"samurai" n m sg gen lower
+	"samurai" n m sg dat lower
+	"samurai" n m sg acc lower
+	"samurai" n m pl nom lower
+	"samurai" n m pl gen lower
+	"samurai" n m pl dat lower
+	"samurai" n m pl acc lower
+"<wurden>"
+	"werden" vaux pii p1 pl
+	"werden" vaux pii p3 pl
+	"werden" vblex pii p1 pl
+	"werden" vblex pii p3 pl
+"<als>"
+	"als" cnjadv
+	"als" pr nom
+"<Rōnin>"
+	"*Rōnin"
+"<(>"
+	"(" lpar
+"<dt>"
+	"*dt"
+"<.>"
+	"." sent
+"<„>"
+	"„" lquot
+"<Wellenmänner>"
+	"*Wellenmänner"
+"<“>"
+	"“" rquot
+"<)>"
+	")" rpar
+"<bezeichnet>"
+	"bezeichnen" vblex pp
+	"bezeichnen" vblex imp pl
+	"bezeichnen" vblex pri p2 pl
+	"bezeichnen" vblex pri p3 sg
+	"bezeichnen" vblex prs p2 pl
+"<.>"
+	"." sent
+
+¶
+"<Die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Armeen>"
+	"Armee" n f pl nom
+	"Armee" n f pl gen
+	"Armee" n f pl dat
+	"Armee" n f pl acc
+	"armee" n f pl nom lower
+	"armee" n f pl gen lower
+	"armee" n f pl dat lower
+	"armee" n f pl acc lower
+"<des>"
+	"der" det def m sg gen
+	"der" det def nt sg gen
+"<japanischen>"
+	"japanisch" adj m sg gen
+	"japanisch" adj m sg acc
+	"japanisch" adj nt sg gen
+	"japanisch" adj mf pl dat
+	"japanisch" adj f sg gen mix
+	"japanisch" adj f sg dat mix
+	"japanisch" adj m sg dat mix
+	"japanisch" adj nt sg dat mix
+	"japanisch" adj mf pl nom mix
+	"japanisch" adj mf pl gen mix
+	"japanisch" adj mf pl acc mix
+"<Kaisers>"
+	"Kaiser" n m sg gen
+	"kaiser" n m sg gen lower
+"<bestanden>"
+	"bestehen" vblex pp
+	"bestehen" vblex pii p1 pl
+	"bestehen" vblex pii p3 pl
+"<ursprünglich>"
+	"ursprünglich" adj attr
+	"ursprünglich" adj pred
+"<aus>"
+	"aus" pr dat
+	"aus" n nt sg nom lower
+	"aus" n nt sg gen lower
+	"aus" n nt sg dat lower
+	"aus" n nt sg acc lower
+	"aus" n nt pl nom lower
+	"aus" n nt pl gen lower
+	"aus" n nt pl dat lower
+	"aus" n nt pl acc lower
+"<Wehrpflichtigen>"
+	"wehrpflichtig" adj m sg gen
+	"wehrpflichtig" adj m sg acc
+	"wehrpflichtig" adj nt sg gen
+	"wehrpflichtig" adj mf pl dat
+	"wehrpflichtig" adj f sg gen mix
+	"wehrpflichtig" adj f sg dat mix
+	"wehrpflichtig" adj m sg dat mix
+	"wehrpflichtig" adj nt sg dat mix
+	"wehrpflichtig" adj mf pl nom mix
+	"wehrpflichtig" adj mf pl gen mix
+	"wehrpflichtig" adj mf pl acc mix
+"<,>"
+	"," cm
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<im>"
+	"der" det def m sg dat
+		"in" pr dat
+	"der" det def nt sg dat
+		"in" pr dat
+"<Kriegs>"
+	"Krieg" n m sg gen
+	"krieg" n m sg gen lower
+"<->"
+	"-" guio
+"<oder>"
+	"oder" cnjcoo
+"<Rebellionsfall>"
+	"*Rebellionsfall"
+"<den>"
+	"der" rel m sg acc
+	"der" prn dem m sg acc
+	"der" det def m sg acc
+	"der" det def mfn pl dat
+"<entsprechenden>"
+	"*entsprechenden"
+"<Provinzen>"
+	"Provinz" n f pl nom
+	"Provinz" n f pl gen
+	"Provinz" n f pl dat
+	"Provinz" n f pl acc
+	"provinz" n f pl nom lower
+	"provinz" n f pl gen lower
+	"provinz" n f pl dat lower
+	"provinz" n f pl acc lower
+"<Japans>"
+	"*Japans"
+"<zugeordnet>"
+	"*zugeordnet"
+"<wurden>"
+	"werden" vaux pii p1 pl
+	"werden" vaux pii p3 pl
+	"werden" vblex pii p1 pl
+	"werden" vblex pii p3 pl
+"<.>"
+	"." sent
+ 
+"<Sie>"
+	"sie" prn pers p3 mf pl nom
+	"sie" prn pers p3 mf pl acc
+	"sie" prn pers p3 f sg nom
+	"sie" prn pers p3 f sg acc
+	"Sie" prn pers p2 frm mf pl nom
+	"Sie" prn pers p2 frm mf pl acc
+"<waren>"
+	"sein" vbser pii p1 pl
+	"sein" vbser pii p3 pl
+	"ware" n f pl nom lower
+	"ware" n f pl gen lower
+	"ware" n f pl dat lower
+	"ware" n f pl acc lower
+"<nach>"
+	"nach" pr dat
+	"nach" pprep dat
+"<dem>"
+	"der" rel m sg dat
+	"der" rel nt sg dat
+	"der" prn dem m sg dat
+	"der" prn dem nt sg dat
+	"der" det def m sg dat
+	"der" det def nt sg dat
+"<Vorbild>"
+	"Vorbild" n nt sg nom
+	"Vorbild" n nt sg dat
+	"Vorbild" n nt sg acc
+	"vorbild" n nt sg nom lower
+	"vorbild" n nt sg dat lower
+	"vorbild" n nt sg acc lower
+"<chinesischer>"
+	"chinesisch" adj comp attr
+	"chinesisch" adj comp pred
+	"chinesisch" adj mf pl gen st
+	"chinesisch" adj m sg nom mix
+	"chinesisch" adj f sg gen st
+	"chinesisch" adj f sg dat st
+"<Armeen>"
+	"Armee" n f pl nom
+	"Armee" n f pl gen
+	"Armee" n f pl dat
+	"Armee" n f pl acc
+	"armee" n f pl nom lower
+	"armee" n f pl gen lower
+	"armee" n f pl dat lower
+	"armee" n f pl acc lower
+"<aufgebaut>"
+	"*aufgebaut"
+"<und>"
+	"und" cnjcoo
+"<bestanden>"
+	"bestehen" vblex pp
+	"bestehen" vblex pii p1 pl
+	"bestehen" vblex pii p3 pl
+"<aus>"
+	"aus" pr dat
+	"aus" n nt sg nom lower
+	"aus" n nt sg gen lower
+	"aus" n nt sg dat lower
+	"aus" n nt sg acc lower
+	"aus" n nt pl nom lower
+	"aus" n nt pl gen lower
+	"aus" n nt pl dat lower
+	"aus" n nt pl acc lower
+"<einem>"
+	"ein" det ind m sg dat
+	"ein" det ind nt sg dat
+"<Drittel>"
+	"*Drittel"
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<kampffähigen>"
+	"*kampffähigen"
+"<erwachsenen>"
+	"erwachsene" n m sg gen lower
+	"erwachsene" n m sg dat lower
+	"erwachsene" n m sg acc lower
+	"erwachsene" n m pl nom lower
+	"erwachsene" n m pl gen lower
+	"erwachsene" n m pl dat lower
+	"erwachsene" n m pl acc lower
+"<männlichen>"
+	"männlich" adj m sg gen
+	"männlich" adj m sg acc
+	"männlich" adj nt sg gen
+	"männlich" adj mf pl dat
+	"männlich" adj f sg gen mix
+	"männlich" adj f sg dat mix
+	"männlich" adj m sg dat mix
+	"männlich" adj nt sg dat mix
+	"männlich" adj mf pl nom mix
+	"männlich" adj mf pl gen mix
+	"männlich" adj mf pl acc mix
+"<Bevölkerung>"
+	"Bevölkerung" n f sg nom
+	"Bevölkerung" n f sg gen
+	"Bevölkerung" n f sg dat
+	"Bevölkerung" n f sg acc
+	"bevölkerung" n f sg nom lower
+	"bevölkerung" n f sg gen lower
+	"bevölkerung" n f sg dat lower
+	"bevölkerung" n f sg acc lower
+"<.>"
+	"." sent
+ 
+"<Jeder>"
+	"*Jeder"
+"<Soldat>"
+	"Soldat" n m sg nom
+	"soldat" n m sg nom lower
+"<musste>"
+	"müssen" vbmod pii p1 sg
+	"müssen" vbmod pii p3 sg
+"<für>"
+	"für" pr acc
+"<seine>"
+	"sein" det pos f sg nom
+	"sein" det pos f sg acc
+	"sein" det pos mfn pl nom
+	"sein" det pos mfn pl acc
+"<Waffen>"
+	"Waffe" n f pl nom
+	"Waffe" n f pl gen
+	"Waffe" n f pl dat
+	"Waffe" n f pl acc
+	"waffe" n f pl nom lower
+	"waffe" n f pl gen lower
+	"waffe" n f pl dat lower
+	"waffe" n f pl acc lower
+"<und>"
+	"und" cnjcoo
+"<Versorgung>"
+	"Versorgung" n f sg nom
+	"Versorgung" n f sg gen
+	"Versorgung" n f sg dat
+	"Versorgung" n f sg acc
+	"versorgung" n f sg nom lower
+	"versorgung" n f sg gen lower
+	"versorgung" n f sg dat lower
+	"versorgung" n f sg acc lower
+"<selbst>"
+	"selbst" adv
+"<aufkommen>"
+	"aufkommen" n nt sg nom lower
+	"aufkommen" n nt sg dat lower
+	"aufkommen" n nt sg acc lower
+	"aufkommen" n nt pl nom lower
+	"aufkommen" n nt pl gen lower
+	"aufkommen" n nt pl dat lower
+	"aufkommen" n nt pl acc lower
+"<.>"
+	"." sent
+
+¶
+"<Mit>"
+	"mit" pr dat
+"<den>"
+	"der" rel m sg acc
+	"der" prn dem m sg acc
+	"der" det def m sg acc
+	"der" det def mfn pl dat
+"<Taika>"
+	"*Taika"
+"<->"
+	"-" guio
+"<Reformen>"
+	"Reform" n f pl nom
+	"Reform" n f pl gen
+	"Reform" n f pl dat
+	"Reform" n f pl acc
+	"reform" n f pl nom lower
+	"reform" n f pl gen lower
+	"reform" n f pl dat lower
+	"reform" n f pl acc lower
+"<von>"
+	"von" pr dat
+"<645>"
+	"645" num
+"<und>"
+	"und" cnjcoo
+"<dem>"
+	"der" rel m sg dat
+	"der" rel nt sg dat
+	"der" prn dem m sg dat
+	"der" prn dem nt sg dat
+	"der" det def m sg dat
+	"der" det def nt sg dat
+"<Taihō>"
+	"*Taihō"
+"<->"
+	"-" guio
+"<Kodex>"
+	"Kodex" n m sg nom
+	"Kodex" n m sg gen
+	"Kodex" n m sg dat
+	"Kodex" n m sg acc
+	"kodex" n m sg nom lower
+	"kodex" n m sg gen lower
+	"kodex" n m sg dat lower
+	"kodex" n m sg acc lower
+"<von>"
+	"von" pr dat
+"<702>"
+	"702" num
+"<,>"
+	"," cm
+"<auf>"
+	"auf" pr dat
+	"auf" pr acc
+"<Grund>"
+	"Grund" n m sg nom
+	"Grund" n m sg dat
+	"Grund" n m sg acc
+	"grund" n m sg nom lower
+	"grund" n m sg dat lower
+	"grund" n m sg acc lower
+"<deren>"
+	"der" rel f sg gen
+	"der" rel mfn pl gen
+	"der" prn dem f sg gen
+	"der" prn dem mfn pl gen
+"<eine>"
+	"ein" det ind f sg nom
+	"ein" det ind f sg acc
+"<Landreform>"
+	"reform" n f sg nom lower
+		"Land" n nt sg cmp
+	"reform" n f sg gen lower
+		"Land" n nt sg cmp
+	"reform" n f sg dat lower
+		"Land" n nt sg cmp
+	"reform" n f sg acc lower
+		"Land" n nt sg cmp
+	"reform" n f sg nom lower
+		"land" n nt sg lower cmp
+	"reform" n f sg gen lower
+		"land" n nt sg lower cmp
+	"reform" n f sg dat lower
+		"land" n nt sg lower cmp
+	"reform" n f sg acc lower
+		"land" n nt sg lower cmp
+"<durchgeführt>"
+	"*durchgeführt"
+"<und>"
+	"und" cnjcoo
+"<ein>"
+	"ein" num sg
+	"ein" det ind m sg nom
+	"ein" det ind nt sg nom
+	"ein" det ind nt sg acc
+"<einheitliches>"
+	"einheitlich" adj nt sg nom mix
+	"einheitlich" adj nt sg acc mix
+"<Steuersystem>"
+	"system" n nt sg nom lower
+		"Steuer" n f sg cmp
+	"system" n nt sg dat lower
+		"Steuer" n f sg cmp
+	"system" n nt sg acc lower
+		"Steuer" n f sg cmp
+	"system" n nt sg nom lower
+		"Steuer" n nt sg cmp
+	"system" n nt sg dat lower
+		"Steuer" n nt sg cmp
+	"system" n nt sg acc lower
+		"Steuer" n nt sg cmp
+	"system" n nt sg nom lower
+		"steuer" n f sg lower cmp
+	"system" n nt sg dat lower
+		"steuer" n f sg lower cmp
+	"system" n nt sg acc lower
+		"steuer" n f sg lower cmp
+	"system" n nt sg nom lower
+		"steuer" n nt sg lower cmp
+	"system" n nt sg dat lower
+		"steuer" n nt sg lower cmp
+	"system" n nt sg acc lower
+		"steuer" n nt sg lower cmp
+"<eingeführt>"
+	"*eingeführt"
+"<wurde>"
+	"werden" vaux pii p1 sg
+	"werden" vaux pii p3 sg
+	"werden" vblex pii p1 sg
+	"werden" vblex pii p3 sg
+"<,>"
+	"," cm
+"<begann>"
+	"beginnen" vblex pii p1 sg
+	"beginnen" vblex pii p3 sg
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Entwicklung>"
+	"Entwicklung" n f sg nom
+	"Entwicklung" n f sg gen
+	"Entwicklung" n f sg dat
+	"Entwicklung" n f sg acc
+	"entwicklung" n f sg nom lower
+	"entwicklung" n f sg gen lower
+	"entwicklung" n f sg dat lower
+	"entwicklung" n f sg acc lower
+"<mächtiger>"
+	"*mächtiger"
+"<Clans>"
+	"Clan" n m sg gen
+	"clan" n m sg gen lower
+"<und>"
+	"und" cnjcoo
+"<damit>"
+	"damit" preadv
+"<des>"
+	"der" det def m sg gen
+	"der" det def nt sg gen
+"<Schwertadels>"
+	"adel" n m sg gen lower
+		"Schwert" n nt sg cmp
+	"adel" n m sg gen lower
+		"schwert" n nt sg lower cmp
+"<.>"
+	"." sent
+ 
+"<Der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Begriff>"
+	"Begriff" n m sg nom
+	"Begriff" n m sg dat
+	"Begriff" n m sg acc
+	"begriff" n m sg nom lower
+	"begriff" n m sg dat lower
+	"begriff" n m sg acc lower
+	"begreifen" vblex pii p1 sg
+	"begreifen" vblex pii p3 sg
+"<Samurai>"
+	"Samurai" n m sg nom
+	"Samurai" n m sg gen
+	"Samurai" n m sg dat
+	"Samurai" n m sg acc
+	"Samurai" n m pl nom
+	"Samurai" n m pl gen
+	"Samurai" n m pl dat
+	"Samurai" n m pl acc
+	"samurai" n m sg nom lower
+	"samurai" n m sg gen lower
+	"samurai" n m sg dat lower
+	"samurai" n m sg acc lower
+	"samurai" n m pl nom lower
+	"samurai" n m pl gen lower
+	"samurai" n m pl dat lower
+	"samurai" n m pl acc lower
+"<taucht>"
+	"tauchen" vblex imp pl
+	"tauchen" vblex pri p2 pl
+	"tauchen" vblex pri p3 sg
+"<jedoch>"
+	"jedoch" adv
+"<erst>"
+	"erst" adv
+"<später>"
+	"spät" adj comp attr
+	"spät" adj comp pred
+	"spät" adj mf pl gen st
+	"spät" adj m sg nom mix
+	"spät" adj f sg gen st
+	"spät" adj f sg dat st
+"<,>"
+	"," cm
+"<während>"
+	"währen" vblex pprs
+	"während" pr gen
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Idealisierung>"
+	"*Idealisierung"
+"<des>"
+	"der" det def m sg gen
+	"der" det def nt sg gen
+"<Kriegertypus>"
+	"*Kriegertypus"
+"<in>"
+	"in" pr dat
+	"in" pr acc
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Sengoku>"
+	"*Sengoku"
+"<->"
+	"-" guio
+"<Zeit>"
+	"zeit" pr gen
+	"Zeit" n f sg nom
+	"Zeit" n f sg gen
+	"Zeit" n f sg dat
+	"Zeit" n f sg acc
+	"zeit" n f sg nom lower
+	"zeit" n f sg gen lower
+	"zeit" n f sg dat lower
+	"zeit" n f sg acc lower
+"<und>"
+	"und" cnjcoo
+"<Edo>"
+	"*Edo"
+"<->"
+	"-" guio
+"<Zeit>"
+	"zeit" pr gen
+	"Zeit" n f sg nom
+	"Zeit" n f sg gen
+	"Zeit" n f sg dat
+	"Zeit" n f sg acc
+	"zeit" n f sg nom lower
+	"zeit" n f sg gen lower
+	"zeit" n f sg dat lower
+	"zeit" n f sg acc lower
+"<auf>"
+	"auf" pr dat
+	"auf" pr acc
+"<.>"
+	"." sent
+ 
+"<Davor>"
+	"davor" preadv
+"<war>"
+	"sein" vbser pii p1 sg
+	"sein" vbser pii p3 sg
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Begriff>"
+	"Begriff" n m sg nom
+	"Begriff" n m sg dat
+	"Begriff" n m sg acc
+	"begriff" n m sg nom lower
+	"begriff" n m sg dat lower
+	"begriff" n m sg acc lower
+	"begreifen" vblex pii p1 sg
+	"begreifen" vblex pii p3 sg
+"<Buke>"
+	"*Buke"
+"<,>"
+	"," cm
+"<(>"
+	"(" lpar
+"<Krieger>"
+	"Krieger" n m sg nom
+	"Krieger" n m sg dat
+	"Krieger" n m sg acc
+	"Krieger" n m pl nom
+	"Krieger" n m pl gen
+	"Krieger" n m pl acc
+	"krieger" n m sg nom lower
+	"krieger" n m sg dat lower
+	"krieger" n m sg acc lower
+	"krieger" n m pl nom lower
+	"krieger" n m pl gen lower
+	"krieger" n m pl acc lower
+"<)>"
+	")" rpar
+"<für>"
+	"für" pr acc
+"<den>"
+	"der" rel m sg acc
+	"der" prn dem m sg acc
+	"der" det def m sg acc
+	"der" det def mfn pl dat
+"<Schwertadel>"
+	"adel" n m sg nom lower
+		"Schwert" n nt sg cmp
+	"adel" n m sg dat lower
+		"Schwert" n nt sg cmp
+	"adel" n m sg acc lower
+		"Schwert" n nt sg cmp
+	"adel" n m sg nom lower
+		"schwert" n nt sg lower cmp
+	"adel" n m sg dat lower
+		"schwert" n nt sg lower cmp
+	"adel" n m sg acc lower
+		"schwert" n nt sg lower cmp
+"<und>"
+	"und" cnjcoo
+"<dessen>"
+	"der" rel m sg gen
+	"der" rel nt sg gen
+	"der" prn dem m sg gen
+	"der" prn dem nt sg gen
+"<Angehörige>"
+	"*Angehörige"
+"<gebräuchlich>"
+	"gebräuchlich" adj attr
+	"gebräuchlich" adj pred
+"<.>"
+	"." sent
+ 
+"<Zu>"
+	"zu" pr dat
+"<den>"
+	"der" rel m sg acc
+	"der" prn dem m sg acc
+	"der" det def m sg acc
+	"der" det def mfn pl dat
+"<Steuern>"
+	"steuern" vblex inf
+	"Steuer" n f pl nom
+	"Steuer" n f pl gen
+	"Steuer" n f pl dat
+	"Steuer" n f pl acc
+	"Steuer" n nt pl dat
+	"steuern" vblex pri p1 pl
+	"steuern" vblex pri p3 pl
+	"steuern" vblex prs p1 pl
+	"steuern" vblex prs p3 pl
+	"steuer" n f pl nom lower
+	"steuer" n f pl gen lower
+	"steuer" n f pl dat lower
+	"steuer" n f pl acc lower
+	"steuer" n nt pl dat lower
+"<gehörten>"
+	"gehören" vblex pii p1 pl
+	"gehören" vblex pii p3 pl
+	"gehören" vblex pis p1 pl
+	"gehören" vblex pis p3 pl
+"<auch>"
+	"auch" adv
+"<Fron>"
+	"*Fron"
+"<->"
+	"-" guio
+"<und>"
+	"und" cnjcoo
+"<Militärdienst>"
+	"dienst" n m sg nom lower
+		"Militär" n nt sg cmp
+	"dienst" n m sg dat lower
+		"Militär" n nt sg cmp
+	"dienst" n m sg acc lower
+		"Militär" n nt sg cmp
+	"dienst" n m sg nom lower
+		"militär" n nt sg lower cmp
+	"dienst" n m sg dat lower
+		"militär" n nt sg lower cmp
+	"dienst" n m sg acc lower
+		"militär" n nt sg lower cmp
+"<.>"
+	"." sent
+ 
+"<Kleinbauern>"
+	"bauer" n m sg gen lower
+		"Klein" n nt sg cmp
+	"bauer" n m sg dat lower
+		"Klein" n nt sg cmp
+	"bauer" n m sg acc lower
+		"Klein" n nt sg cmp
+	"bauer" n m pl nom lower
+		"Klein" n nt sg cmp
+	"bauer" n m pl gen lower
+		"Klein" n nt sg cmp
+	"bauer" n m pl dat lower
+		"Klein" n nt sg cmp
+	"bauer" n m pl acc lower
+		"Klein" n nt sg cmp
+	"bauer" n m sg gen lower
+		"klein" n nt sg lower cmp
+	"bauer" n m sg dat lower
+		"klein" n nt sg lower cmp
+	"bauer" n m sg acc lower
+		"klein" n nt sg lower cmp
+	"bauer" n m pl nom lower
+		"klein" n nt sg lower cmp
+	"bauer" n m pl gen lower
+		"klein" n nt sg lower cmp
+	"bauer" n m pl dat lower
+		"klein" n nt sg lower cmp
+	"bauer" n m pl acc lower
+		"klein" n nt sg lower cmp
+"<,>"
+	"," cm
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<sich>"
+	"*sich"
+"<ihrer>"
+	"ihr" det pos f sg gen
+	"ihr" det pos f sg dat
+	"ihr" det pos mfn pl gen
+	"sie" prn pers p3 mf pl gen
+	"sie" prn pers p3 f sg gen
+"<Steuern>"
+	"steuern" vblex inf
+	"Steuer" n f pl nom
+	"Steuer" n f pl gen
+	"Steuer" n f pl dat
+	"Steuer" n f pl acc
+	"Steuer" n nt pl dat
+	"steuern" vblex pri p1 pl
+	"steuern" vblex pri p3 pl
+	"steuern" vblex prs p1 pl
+	"steuern" vblex prs p3 pl
+	"steuer" n f pl nom lower
+	"steuer" n f pl gen lower
+	"steuer" n f pl dat lower
+	"steuer" n f pl acc lower
+	"steuer" n nt pl dat lower
+"<und>"
+	"und" cnjcoo
+"<besonders>"
+	"besonders" adv
+"<des>"
+	"der" det def m sg gen
+	"der" det def nt sg gen
+"<Wehrdienstes>"
+	"dienst" n m sg gen lower
+		"Wehr" n nt sg cmp
+	"dienst" n m sg gen lower
+		"wehr" n nt sg lower cmp
+"<entledigen>"
+	"entledigen" vblex inf
+	"entledigen" vblex pri p1 pl
+	"entledigen" vblex pri p3 pl
+	"entledigen" vblex prs p1 pl
+	"entledigen" vblex prs p3 pl
+"<wollten>"
+	"wollen" vaux pii p1 pl
+	"wollen" vaux pii p3 pl
+	"wollen" vaux pis p1 pl
+	"wollen" vaux pis p3 pl
+"<,>"
+	"," cm
+"<verschenkten>"
+	"verschenken" vblex pii p1 pl
+	"verschenken" vblex pii p3 pl
+	"verschenken" vblex pis p1 pl
+	"verschenken" vblex pis p3 pl
+"<ihr>"
+	"ihr" det pos m sg nom
+	"ihr" det pos nt sg nom
+	"ihr" det pos nt sg acc
+	"es" prn pers p3 nt sg dat
+	"ihr" prn pers p2 mf pl nom
+	"sie" prn pers p3 f sg dat
+"<Land>"
+	"Land" n nt sg nom
+	"Land" n nt sg dat
+	"Land" n nt sg acc
+	"land" n nt sg nom lower
+	"land" n nt sg dat lower
+	"land" n nt sg acc lower
+"<an>"
+	"an" pr dat
+	"an" pr acc
+"<Institutionen>"
+	"Institution" n f pl nom
+	"Institution" n f pl gen
+	"Institution" n f pl dat
+	"Institution" n f pl acc
+	"institution" n f pl nom lower
+	"institution" n f pl gen lower
+	"institution" n f pl dat lower
+	"institution" n f pl acc lower
+"<wie>"
+	"wie" cnjadv
+	"wie" pr nom
+"<Klöster>"
+	"Kloster" n nt pl nom
+	"Kloster" n nt pl gen
+	"Kloster" n nt pl acc
+	"kloster" n nt pl nom lower
+	"kloster" n nt pl gen lower
+	"kloster" n nt pl acc lower
+"<oder>"
+	"oder" cnjcoo
+"<an>"
+	"an" pr dat
+	"an" pr acc
+"<Adlige>"
+	"adlig" adj f sg nom
+	"adlig" adj f sg acc
+	"adlig" adj mf pl nom st
+	"adlig" adj mf pl acc st
+	"adlig" adj m sg nom sw
+	"adlig" adj nt sg nom sw
+	"adlig" adj nt sg acc sw
+"<und>"
+	"und" cnjcoo
+"<pachteten>"
+	"pachten" vblex pii p1 pl
+	"pachten" vblex pii p3 pl
+	"pachten" vblex pis p1 pl
+	"pachten" vblex pis p3 pl
+"<es>"
+	"es" prn pers p3 nt sg nom
+	"es" prn pers p3 nt sg acc
+"<von>"
+	"von" pr dat
+"<ihren>"
+	"ihr" det pos m sg acc
+	"ihr" det pos mfn pl dat
+"<neuen>"
+	"neu" adj m sg gen
+	"neu" adj m sg acc
+	"neu" adj nt sg gen
+	"neu" adj mf pl dat
+	"neu" adj f sg gen mix
+	"neu" adj f sg dat mix
+	"neu" adj m sg dat mix
+	"neu" adj nt sg dat mix
+	"neu" adj mf pl nom mix
+	"neu" adj mf pl gen mix
+	"neu" adj mf pl acc mix
+"<Herren>"
+	"Herr" n m sg gen
+	"Herr" n m sg dat
+	"Herr" n m sg acc
+	"Herr" n m pl nom
+	"Herr" n m pl gen
+	"Herr" n m pl dat
+	"Herr" n m pl acc
+	"herr" n m sg gen lower
+	"herr" n m sg dat lower
+	"herr" n m sg acc lower
+	"herr" n m pl nom lower
+	"herr" n m pl gen lower
+	"herr" n m pl dat lower
+	"herr" n m pl acc lower
+"<wieder>"
+	"wieder" adv
+"<zurück>"
+	"zurück" preadv
+"<.>"
+	"." sent
+ 
+"<Eine>"
+	"ein" det ind f sg nom
+	"ein" det ind f sg acc
+"<symbiotische>"
+	"*symbiotische"
+"<Gemeinschaft>"
+	"Gemeinschaft" n f sg nom
+	"Gemeinschaft" n f sg gen
+	"Gemeinschaft" n f sg dat
+	"Gemeinschaft" n f sg acc
+	"gemeinschaft" n f sg nom lower
+	"gemeinschaft" n f sg gen lower
+	"gemeinschaft" n f sg dat lower
+	"gemeinschaft" n f sg acc lower
+"<von>"
+	"von" pr dat
+"<Großbauern>"
+	"*Großbauern"
+"<und>"
+	"und" cnjcoo
+"<Gefolgschaft>"
+	"Gefolgschaft" n f sg nom
+	"Gefolgschaft" n f sg gen
+	"Gefolgschaft" n f sg dat
+	"Gefolgschaft" n f sg acc
+	"gefolgschaft" n f sg nom lower
+	"gefolgschaft" n f sg gen lower
+	"gefolgschaft" n f sg dat lower
+	"gefolgschaft" n f sg acc lower
+"<,>"
+	"," cm
+"<Herr>"
+	"Herr" n m sg nom
+	"herr" n m sg nom lower
+"<und>"
+	"und" cnjcoo
+"<Diener>"
+	"Diener" n m sg nom
+	"Diener" n m sg dat
+	"Diener" n m sg acc
+	"Diener" n m pl nom
+	"Diener" n m pl gen
+	"Diener" n m pl acc
+	"diener" n m sg nom lower
+	"diener" n m sg dat lower
+	"diener" n m sg acc lower
+	"diener" n m pl nom lower
+	"diener" n m pl gen lower
+	"diener" n m pl acc lower
+"<(>"
+	"(" lpar
+"<Shujū>"
+	"*Shujū"
+"<)>"
+	")" rpar
+"<entstand>"
+	"entstehen" vblex pii p1 sg
+	"entstehen" vblex pii p3 sg
+"<.>"
+	"." sent
+ 
+"<Diese>"
+	"dieser" prn dem f sg nom
+	"dieser" prn dem f sg acc
+	"dieser" prn dem mfn pl nom
+	"dieser" prn dem mfn pl acc
+	"dieser" det dem f sg nom
+	"dieser" det dem f sg acc
+	"dieser" det dem mfn pl nom
+	"dieser" det dem mfn pl acc
+"<Methode>"
+	"Methode" n f sg nom
+	"Methode" n f sg gen
+	"Methode" n f sg dat
+	"Methode" n f sg acc
+	"methode" n f sg nom lower
+	"methode" n f sg gen lower
+	"methode" n f sg dat lower
+	"methode" n f sg acc lower
+"<wurde>"
+	"werden" vaux pii p1 sg
+	"werden" vaux pii p3 sg
+	"werden" vblex pii p1 sg
+	"werden" vblex pii p3 sg
+"<Kishin>"
+	"*Kishin"
+"<(>"
+	"(" lpar
+"<dt.>"
+	"dt." abbr
+"<Schenkung>"
+	"*Schenkung"
+"<)>"
+	")" rpar
+"<genannt>"
+	"nennen" vblex pp
+"<.>"
+	"." sent
+ 
+"<Durch>"
+	"durch" pr acc
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Kishin>"
+	"*Kishin"
+"<->"
+	"-" guio
+"<Methode>"
+	"Methode" n f sg nom
+	"Methode" n f sg gen
+	"Methode" n f sg dat
+	"Methode" n f sg acc
+	"methode" n f sg nom lower
+	"methode" n f sg gen lower
+	"methode" n f sg dat lower
+	"methode" n f sg acc lower
+"<(>"
+	"(" lpar
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<seit>"
+	"seit" pr dat
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Nara>"
+	"*Nara"
+"<->"
+	"-" guio
+"<Zeit>"
+	"zeit" pr gen
+	"Zeit" n f sg nom
+	"Zeit" n f sg gen
+	"Zeit" n f sg dat
+	"Zeit" n f sg acc
+	"zeit" n f sg nom lower
+	"zeit" n f sg gen lower
+	"zeit" n f sg dat lower
+	"zeit" n f sg acc lower
+"<unter>"
+	"unter" adj attr
+	"unter" adj pred
+	"unter" pr dat
+	"unter" pr acc
+"<Strafe>"
+	"Strafe" n f sg nom
+	"Strafe" n f sg gen
+	"Strafe" n f sg dat
+	"Strafe" n f sg acc
+	"strafe" n f sg nom lower
+	"strafe" n f sg gen lower
+	"strafe" n f sg dat lower
+	"strafe" n f sg acc lower
+	"strafen" vblex pri p1 sg
+	"strafen" vblex prs p1 sg
+	"strafen" vblex prs p3 sg
+"<stand>"
+	"stand" n m sg nom lower
+	"stand" n m sg dat lower
+	"stand" n m sg acc lower
+	"stehen" vblex pii p1 sg
+	"stehen" vblex pii p3 sg
+	"stehen" vblex sep fm pii p1 sg
+	"stehen" vblex sep fm pii p3 sg
+"<,>"
+	"," cm
+"<was>"
+	"*was"
+"<allerdings>"
+	"allerdings" adv
+"<keinen>"
+	"kein" det ind m sg acc
+"<Erfolg>"
+	"Erfolg" n m sg nom
+	"Erfolg" n m sg dat
+	"Erfolg" n m sg acc
+	"erfolg" n m sg nom lower
+	"erfolg" n m sg dat lower
+	"erfolg" n m sg acc lower
+	"erfolgen" vblex imp sg
+"<zeigte>"
+	"zeigen" vblex pii p1 sg
+	"zeigen" vblex pii p3 sg
+	"zeigen" vblex pis p1 sg
+	"zeigen" vblex pis p3 sg
+"<)>"
+	")" rpar
+"<brach>"
+	"brach" adj pred
+	"brechen" vblex pii p1 sg
+	"brechen" vblex pii p3 sg
+	"brechen" vblex sep fm pii p1 sg
+	"brechen" vblex sep fm pii p3 sg
+"<das>"
+	"der" rel nt sg nom
+	"der" rel nt sg acc
+	"der" prn dem nt sg nom
+	"der" prn dem nt sg acc
+	"der" det def nt sg nom
+	"der" det def nt sg acc
+"<ohnehin>"
+	"ohnehin" adv
+"<schwer>"
+	"schwer" adj attr
+	"schwer" adj pred
+"<zu>"
+	"zu" pr dat
+"<verwaltende>"
+	"*verwaltende"
+"<und>"
+	"und" cnjcoo
+"<ineffektive>"
+	"*ineffektive"
+"<System>"
+	"System" n nt sg nom
+	"System" n nt sg dat
+	"System" n nt sg acc
+	"system" n nt sg nom lower
+	"system" n nt sg dat lower
+	"system" n nt sg acc lower
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Wehrpflicht>"
+	"pflicht" n f sg nom lower
+		"Wehr" n nt sg cmp
+	"pflicht" n f sg gen lower
+		"Wehr" n nt sg cmp
+	"pflicht" n f sg dat lower
+		"Wehr" n nt sg cmp
+	"pflicht" n f sg acc lower
+		"Wehr" n nt sg cmp
+	"pflicht" n f sg nom lower
+		"wehr" n nt sg lower cmp
+	"pflicht" n f sg gen lower
+		"wehr" n nt sg lower cmp
+	"pflicht" n f sg dat lower
+		"wehr" n nt sg lower cmp
+	"pflicht" n f sg acc lower
+		"wehr" n nt sg lower cmp
+"<jedoch>"
+	"jedoch" adv
+"<zusammen>"
+	"zusammen" adv
+"<.>"
+	"." sent
+ 
+"<Während>"
+	"währen" vblex pprs
+	"während" pr gen
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<frühen>"
+	"früh" adj m sg gen
+	"früh" adj m sg acc
+	"früh" adj nt sg gen
+	"früh" adj mf pl dat
+	"früh" adj f sg gen mix
+	"früh" adj f sg dat mix
+	"früh" adj m sg dat mix
+	"früh" adj nt sg dat mix
+	"früh" adj mf pl nom mix
+	"früh" adj mf pl gen mix
+	"früh" adj mf pl acc mix
+"<Heian>"
+	"*Heian"
+"<->"
+	"-" guio
+"<Periode>"
+	"Periode" n f sg nom
+	"Periode" n f sg gen
+	"Periode" n f sg dat
+	"Periode" n f sg acc
+	"periode" n f sg nom lower
+	"periode" n f sg gen lower
+	"periode" n f sg dat lower
+	"periode" n f sg acc lower
+"<,>"
+	"," cm
+"<also>"
+	"also" adv
+"<im>"
+	"der" det def m sg dat
+		"in" pr dat
+	"der" det def nt sg dat
+		"in" pr dat
+"<späten>"
+	"spät" adj m sg gen
+	"spät" adj m sg acc
+	"spät" adj nt sg gen
+	"spät" adj mf pl dat
+	"spät" adj f sg gen mix
+	"spät" adj f sg dat mix
+	"spät" adj m sg dat mix
+	"spät" adj nt sg dat mix
+	"spät" adj mf pl nom mix
+	"spät" adj mf pl gen mix
+	"spät" adj mf pl acc mix
+"<8.>"
+	"8." num ord
+"<und>"
+	"und" cnjcoo
+"<frühen>"
+	"früh" adj m sg gen
+	"früh" adj m sg acc
+	"früh" adj nt sg gen
+	"früh" adj mf pl dat
+	"früh" adj f sg gen mix
+	"früh" adj f sg dat mix
+	"früh" adj m sg dat mix
+	"früh" adj nt sg dat mix
+	"früh" adj mf pl nom mix
+	"früh" adj mf pl gen mix
+	"früh" adj mf pl acc mix
+"<9.>"
+	"9." num ord
+"<Jahrhundert>"
+	"Jahrhundert" n nt sg nom
+	"Jahrhundert" n nt sg dat
+	"Jahrhundert" n nt sg acc
+	"jahrhundert" n nt sg nom lower
+	"jahrhundert" n nt sg dat lower
+	"jahrhundert" n nt sg acc lower
+"<,>"
+	"," cm
+"<strebte>"
+	"streben" vblex pii p1 sg
+	"streben" vblex pii p3 sg
+	"streben" vblex pis p1 sg
+	"streben" vblex pis p3 sg
+"<Kaiser>"
+	"Kaiser" n m sg nom
+	"Kaiser" n m sg dat
+	"Kaiser" n m sg acc
+	"Kaiser" n m pl nom
+	"Kaiser" n m pl gen
+	"Kaiser" n m pl acc
+	"kaiser" n m sg nom lower
+	"kaiser" n m sg dat lower
+	"kaiser" n m sg acc lower
+	"kaiser" n m pl nom lower
+	"kaiser" n m pl gen lower
+	"kaiser" n m pl acc lower
+"<Kammu>"
+	"*Kammu"
+"<(>"
+	"(" lpar
+"<737>"
+	"737" num
+"<–>"
+	"–" guio
+"<806>"
+	"806" num
+"<)>"
+	")" rpar
+"<nach>"
+	"nach" pr dat
+	"nach" pprep dat
+"<einer>"
+	"ein" det ind f sg gen
+	"ein" det ind f sg dat
+"<Konsolidierung>"
+	"*Konsolidierung"
+"<und>"
+	"und" cnjcoo
+"<Expansion>"
+	"Expansion" n f sg nom
+	"Expansion" n f sg gen
+	"Expansion" n f sg dat
+	"Expansion" n f sg acc
+	"expansion" n f sg nom lower
+	"expansion" n f sg gen lower
+	"expansion" n f sg dat lower
+	"expansion" n f sg acc lower
+"<seines>"
+	"sein" det pos m sg gen
+	"sein" det pos nt sg gen
+"<Reiches>"
+	"Reich" n nt sg gen
+	"reich" n nt sg gen lower
+	"reich" adj nt sg nom mix
+	"reich" adj nt sg acc mix
+"<in>"
+	"in" pr dat
+	"in" pr acc
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<nördliche>"
+	"nördlich" adj f sg nom
+	"nördlich" adj f sg acc
+	"nördlich" adj mf pl nom st
+	"nördlich" adj mf pl acc st
+	"nördlich" adj m sg nom sw
+	"nördlich" adj nt sg nom sw
+	"nördlich" adj nt sg acc sw
+"<Honshū>"
+	"*Honshū"
+"<->"
+	"-" guio
+"<Region>"
+	"Region" n f sg nom
+	"Region" n f sg gen
+	"Region" n f sg dat
+	"Region" n f sg acc
+	"region" n f sg nom lower
+	"region" n f sg gen lower
+	"region" n f sg dat lower
+	"region" n f sg acc lower
+"<.>"
+	"." sent
+ 
+"<Er>"
+	"er" prn pers p3 m sg nom
+"<sandte>"
+	"*sandte"
+"<seine>"
+	"sein" det pos f sg nom
+	"sein" det pos f sg acc
+	"sein" det pos mfn pl nom
+	"sein" det pos mfn pl acc
+"<Armeen>"
+	"Armee" n f pl nom
+	"Armee" n f pl gen
+	"Armee" n f pl dat
+	"Armee" n f pl acc
+	"armee" n f pl nom lower
+	"armee" n f pl gen lower
+	"armee" n f pl dat lower
+	"armee" n f pl acc lower
+"<aus>"
+	"aus" pr dat
+	"aus" n nt sg nom lower
+	"aus" n nt sg gen lower
+	"aus" n nt sg dat lower
+	"aus" n nt sg acc lower
+	"aus" n nt pl nom lower
+	"aus" n nt pl gen lower
+	"aus" n nt pl dat lower
+	"aus" n nt pl acc lower
+"<,>"
+	"," cm
+"<um>"
+	"um" cnjsub
+	"um" pr acc
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<im>"
+	"der" det def m sg dat
+		"in" pr dat
+	"der" det def nt sg dat
+		"in" pr dat
+"<Norden>"
+	"Nord" n m pl dat
+	"norden" vblex inf
+	"nord" n m pl dat lower
+	"Norden" n m sg nom
+	"Norden" n m sg dat
+	"Norden" n m sg acc
+	"norden" vblex pri p1 pl
+	"norden" vblex pri p3 pl
+	"norden" vblex prs p1 pl
+	"norden" vblex prs p3 pl
+	"norden" n m sg nom lower
+	"norden" n m sg dat lower
+	"norden" n m sg acc lower
+"<noch>"
+	"noch" adv
+"<nach>"
+	"nach" pr dat
+	"nach" pprep dat
+"<den>"
+	"der" rel m sg acc
+	"der" prn dem m sg acc
+	"der" det def m sg acc
+	"der" det def mfn pl dat
+"<alten>"
+	"alt" adj m sg gen
+	"alt" adj m sg acc
+	"alt" adj nt sg gen
+	"alt" adj mf pl dat
+	"alt" n m pl dat lower
+	"alt" adj f sg gen mix
+	"alt" adj f sg dat mix
+	"alt" adj m sg dat mix
+	"alt" adj nt sg dat mix
+	"alt" adj mf pl nom mix
+	"alt" adj mf pl gen mix
+	"alt" adj mf pl acc mix
+"<Traditionen>"
+	"Tradition" n f pl nom
+	"Tradition" n f pl gen
+	"Tradition" n f pl dat
+	"Tradition" n f pl acc
+	"tradition" n f pl nom lower
+	"tradition" n f pl gen lower
+	"tradition" n f pl dat lower
+	"tradition" n f pl acc lower
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Yayoi>"
+	"*Yayoi"
+"<->"
+	"-" guio
+"<Zeit>"
+	"zeit" pr gen
+	"Zeit" n f sg nom
+	"Zeit" n f sg gen
+	"Zeit" n f sg dat
+	"Zeit" n f sg acc
+	"zeit" n f sg nom lower
+	"zeit" n f sg gen lower
+	"zeit" n f sg dat lower
+	"zeit" n f sg acc lower
+"<lebenden>"
+	"*lebenden"
+"<Emishi>"
+	"*Emishi"
+"<zu>"
+	"zu" pr dat
+"<unterwerfen>"
+	"unterwerfen" vblex inf
+	"unterwerfen" vblex pri p1 pl
+	"unterwerfen" vblex pri p3 pl
+	"unterwerfen" vblex prs p1 pl
+	"unterwerfen" vblex prs p3 pl
+"<,>"
+	"," cm
+"<und>"
+	"und" cnjcoo
+"<führte>"
+	"führen" vblex pii p1 sg
+	"führen" vblex pii p3 sg
+	"führen" vblex pis p1 sg
+	"führen" vblex pis p3 sg
+	"führen" vblex sep fm pii p1 sg
+	"führen" vblex sep fm pii p3 sg
+	"führen" vblex sep fm pis p1 sg
+	"führen" vblex sep fm pis p3 sg
+"<den>"
+	"der" rel m sg acc
+	"der" prn dem m sg acc
+	"der" det def m sg acc
+	"der" det def mfn pl dat
+"<Titel>"
+	"Titel" n m sg nom
+	"Titel" n m sg dat
+	"Titel" n m sg acc
+	"Titel" n m pl nom
+	"Titel" n m pl gen
+	"Titel" n m pl acc
+	"titeln" vblex imp sg
+	"titel" n m sg nom lower
+	"titel" n m sg dat lower
+	"titel" n m sg acc lower
+	"titel" n m pl nom lower
+	"titel" n m pl gen lower
+	"titel" n m pl acc lower
+"<des>"
+	"der" det def m sg gen
+	"der" det def nt sg gen
+"<Shōgun>"
+	"*Shōgun"
+"<ein>"
+	"ein" num sg
+	"ein" det ind m sg nom
+	"ein" det ind nt sg nom
+	"ein" det ind nt sg acc
+"<,>"
+	"," cm
+"<wobei>"
+	"wobei" adv
+"<er>"
+	"er" prn pers p3 m sg nom
+"<sich>"
+	"*sich"
+"<bei>"
+	"bei" pr dat
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Unterwerfung>"
+	"*Unterwerfung"
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Emishi>"
+	"*Emishi"
+"<auf>"
+	"auf" pr dat
+	"auf" pr acc
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<starken>"
+	"stark" adj m sg gen
+	"stark" adj m sg acc
+	"stark" adj nt sg gen
+	"stark" adj mf pl dat
+	"stark" adj f sg gen mix
+	"stark" adj f sg dat mix
+	"stark" adj m sg dat mix
+	"stark" adj nt sg dat mix
+	"stark" adj mf pl nom mix
+	"stark" adj mf pl gen mix
+	"stark" adj mf pl acc mix
+"<regionalen>"
+	"regional" adj m sg gen
+	"regional" adj m sg acc
+	"regional" adj nt sg gen
+	"regional" adj mf pl dat
+	"regional" adj f sg gen mix
+	"regional" adj f sg dat mix
+	"regional" adj m sg dat mix
+	"regional" adj nt sg dat mix
+	"regional" adj mf pl nom mix
+	"regional" adj mf pl gen mix
+	"regional" adj mf pl acc mix
+"<Clans>"
+	"Clan" n m sg gen
+	"clan" n m sg gen lower
+"<verließ>"
+	"verlassen" vblex pii p1 sg
+	"verlassen" vblex pii p3 sg
+"<.>"
+	"." sent
+
+¶
+"<Im>"
+	"der" det def m sg dat
+		"in" pr dat
+	"der" det def nt sg dat
+		"in" pr dat
+"<Krieg>"
+	"Krieg" n m sg nom
+	"Krieg" n m sg dat
+	"Krieg" n m sg acc
+	"krieg" n m sg nom lower
+	"krieg" n m sg dat lower
+	"krieg" n m sg acc lower
+	"kriegen" vblex imp sg
+"<gegen>"
+	"gegen" pr acc
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Emishi>"
+	"*Emishi"
+"<ab>"
+	"ab" pr dat
+"<780>"
+	"780" num
+"<erwiesen>"
+	"erweisen" vblex pp
+	"erweisen" vblex pii p1 pl
+	"erweisen" vblex pii p3 pl
+	"erweisen" vblex pis p1 pl
+	"erweisen" vblex pis p3 pl
+"<sich>"
+	"*sich"
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Wehrpflichtigen>"
+	"wehrpflichtig" adj m sg gen
+	"wehrpflichtig" adj m sg acc
+	"wehrpflichtig" adj nt sg gen
+	"wehrpflichtig" adj mf pl dat
+	"wehrpflichtig" adj f sg gen mix
+	"wehrpflichtig" adj f sg dat mix
+	"wehrpflichtig" adj m sg dat mix
+	"wehrpflichtig" adj nt sg dat mix
+	"wehrpflichtig" adj mf pl nom mix
+	"wehrpflichtig" adj mf pl gen mix
+	"wehrpflichtig" adj mf pl acc mix
+"<aber>"
+	"aber" adv
+	"aber" cnjcoo
+"<als>"
+	"als" cnjadv
+	"als" pr nom
+"<schlechte>"
+	"schlecht" adj f sg nom
+	"schlecht" adj f sg acc
+	"schlecht" adj mf pl nom st
+	"schlecht" adj mf pl acc st
+	"schlecht" adj m sg nom sw
+	"schlecht" adj nt sg nom sw
+	"schlecht" adj nt sg acc sw
+"<Kämpfer>"
+	"*Kämpfer"
+"<–>"
+	"–" guio
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<stärksten>"
+	"stark" adj sup attr
+	"stark" adj sup pred
+	"stark" adj sup m sg gen
+	"stark" adj sup m sg acc
+	"stark" adj sup nt sg gen
+	"stark" adj sup mf pl dat
+	"stark" adj sup m sg dat mix
+	"stark" adj sup nt sg dat mix
+	"stark" adj sup f sg gen mix
+	"stark" adj sup f sg dat mix
+	"stark" adj sup mf pl nom mix
+	"stark" adj sup mf pl gen mix
+	"stark" adj sup mf pl acc mix
+"<militärischen>"
+	"militärisch" adj m sg gen
+	"militärisch" adj m sg acc
+	"militärisch" adj nt sg gen
+	"militärisch" adj mf pl dat
+	"militärisch" adj f sg gen mix
+	"militärisch" adj f sg dat mix
+	"militärisch" adj m sg dat mix
+	"militärisch" adj nt sg dat mix
+	"militärisch" adj mf pl nom mix
+	"militärisch" adj mf pl gen mix
+	"militärisch" adj mf pl acc mix
+"<Einheiten>"
+	"Einheit" n f pl nom
+	"Einheit" n f pl gen
+	"Einheit" n f pl dat
+	"Einheit" n f pl acc
+	"einheit" n f pl nom lower
+	"einheit" n f pl gen lower
+	"einheit" n f pl dat lower
+	"einheit" n f pl acc lower
+"<waren>"
+	"sein" vbser pii p1 pl
+	"sein" vbser pii p3 pl
+	"ware" n f pl nom lower
+	"ware" n f pl gen lower
+	"ware" n f pl dat lower
+	"ware" n f pl acc lower
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<berittenen>"
+	"*berittenen"
+"<Eliteoffiziere>"
+	"offizier" n m pl nom lower
+		"Elite" n f sg cmp
+	"offizier" n m pl gen lower
+		"Elite" n f sg cmp
+	"offizier" n m pl acc lower
+		"Elite" n f sg cmp
+	"offizier" n m pl nom lower
+		"elite" n f sg lower cmp
+	"offizier" n m pl gen lower
+		"elite" n f sg lower cmp
+	"offizier" n m pl acc lower
+		"elite" n f sg lower cmp
+"<.>"
+	"." sent
+ 
+"<Daraufhin>"
+	"daraufhin" preadv
+"<wurde>"
+	"werden" vaux pii p1 sg
+	"werden" vaux pii p3 sg
+	"werden" vblex pii p1 sg
+	"werden" vblex pii p3 sg
+"<792>"
+	"792" num
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Wehrpflicht>"
+	"pflicht" n f sg nom lower
+		"Wehr" n nt sg cmp
+	"pflicht" n f sg gen lower
+		"Wehr" n nt sg cmp
+	"pflicht" n f sg dat lower
+		"Wehr" n nt sg cmp
+	"pflicht" n f sg acc lower
+		"Wehr" n nt sg cmp
+	"pflicht" n f sg nom lower
+		"wehr" n nt sg lower cmp
+	"pflicht" n f sg gen lower
+		"wehr" n nt sg lower cmp
+	"pflicht" n f sg dat lower
+		"wehr" n nt sg lower cmp
+	"pflicht" n f sg acc lower
+		"wehr" n nt sg lower cmp
+"<abgeschafft>"
+	"*abgeschafft"
+"<und>"
+	"und" cnjcoo
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Armee>"
+	"Armee" n f sg nom
+	"Armee" n f sg gen
+	"Armee" n f sg dat
+	"Armee" n f sg acc
+	"armee" n f sg nom lower
+	"armee" n f sg gen lower
+	"armee" n f sg dat lower
+	"armee" n f sg acc lower
+"<auf>"
+	"auf" pr dat
+	"auf" pr acc
+"<ein>"
+	"ein" num sg
+	"ein" det ind m sg nom
+	"ein" det ind nt sg nom
+	"ein" det ind nt sg acc
+"<Freiwilligenheer>"
+	"*Freiwilligenheer"
+"<umgestellt>"
+	"*umgestellt"
+"<.>"
+	"." sent
+ 
+"<Dieses>"
+	"dieser" prn dem m sg gen
+	"dieser" prn dem nt sg nom
+	"dieser" prn dem nt sg gen
+	"dieser" prn dem nt sg acc
+	"dieser" det dem m sg gen
+	"dieser" det dem nt sg nom
+	"dieser" det dem nt sg gen
+	"dieser" det dem nt sg acc
+"<war>"
+	"sein" vbser pii p1 sg
+	"sein" vbser pii p3 sg
+"<jedoch>"
+	"jedoch" adv
+"<nicht>"
+	"nicht" adv
+"<mehr>"
+	"mehr" adv
+	"mehren" vblex imp sg
+"<in>"
+	"in" pr dat
+	"in" pr acc
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Lage>"
+	"Lage" n f sg nom
+	"Lage" n f sg gen
+	"Lage" n f sg dat
+	"Lage" n f sg acc
+	"lage" n f sg nom lower
+	"lage" n f sg gen lower
+	"lage" n f sg dat lower
+	"lage" n f sg acc lower
+"<,>"
+	"," cm
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Sicherheit>"
+	"Sicherheit" n f sg nom
+	"Sicherheit" n f sg gen
+	"Sicherheit" n f sg dat
+	"Sicherheit" n f sg acc
+	"sicherheit" n f sg nom lower
+	"sicherheit" n f sg gen lower
+	"sicherheit" n f sg dat lower
+	"sicherheit" n f sg acc lower
+"<im>"
+	"der" det def m sg dat
+		"in" pr dat
+	"der" det def nt sg dat
+		"in" pr dat
+"<ganzen>"
+	"ganz" adj m sg gen
+	"ganz" adj m sg acc
+	"ganz" adj nt sg gen
+	"ganz" adj mf pl dat
+	"ganz" adj f sg gen mix
+	"ganz" adj f sg dat mix
+	"ganz" adj m sg dat mix
+	"ganz" adj nt sg dat mix
+	"ganz" adj mf pl nom mix
+	"ganz" adj mf pl gen mix
+	"ganz" adj mf pl acc mix
+"<Land>"
+	"Land" n nt sg nom
+	"Land" n nt sg dat
+	"Land" n nt sg acc
+	"land" n nt sg nom lower
+	"land" n nt sg dat lower
+	"land" n nt sg acc lower
+"<aufrechtzuerhalten>"
+	"*aufrechtzuerhalten"
+"<.>"
+	"." sent
+ 
+"<Besonders>"
+	"besonders" adv
+"<in>"
+	"in" pr dat
+	"in" pr acc
+"<den>"
+	"der" rel m sg acc
+	"der" prn dem m sg acc
+	"der" det def m sg acc
+	"der" det def mfn pl dat
+"<entlegenen>"
+	"entlegen" adj m sg gen
+	"entlegen" adj m sg acc
+	"entlegen" adj nt sg gen
+	"entlegen" adj mf pl dat
+	"entlegen" adj f sg gen mix
+	"entlegen" adj f sg dat mix
+	"entlegen" adj m sg dat mix
+	"entlegen" adj nt sg dat mix
+	"entlegen" adj mf pl nom mix
+	"entlegen" adj mf pl gen mix
+	"entlegen" adj mf pl acc mix
+"<Provinzen>"
+	"Provinz" n f pl nom
+	"Provinz" n f pl gen
+	"Provinz" n f pl dat
+	"Provinz" n f pl acc
+	"provinz" n f pl nom lower
+	"provinz" n f pl gen lower
+	"provinz" n f pl dat lower
+	"provinz" n f pl acc lower
+"<verschlechterte>"
+	"verschlechtern" vblex pii p1 sg
+	"verschlechtern" vblex pii p3 sg
+	"verschlechtern" vblex pis p1 sg
+	"verschlechtern" vblex pis p3 sg
+"<sich>"
+	"*sich"
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Situation>"
+	"Situation" n f sg nom
+	"Situation" n f sg gen
+	"Situation" n f sg dat
+	"Situation" n f sg acc
+	"situation" n f sg nom lower
+	"situation" n f sg gen lower
+	"situation" n f sg dat lower
+	"situation" n f sg acc lower
+"<,>"
+	"," cm
+"<so>"
+	"so" adv
+"<dass>"
+	"dass" cnjsub
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<lokalen>"
+	"lokal" adj m sg gen
+	"lokal" adj m sg acc
+	"lokal" adj nt sg gen
+	"lokal" adj mf pl dat
+	"lokal" n nt pl dat lower
+	"lokal" adj f sg gen mix
+	"lokal" adj f sg dat mix
+	"lokal" adj m sg dat mix
+	"lokal" adj nt sg dat mix
+	"lokal" adj mf pl nom mix
+	"lokal" adj mf pl gen mix
+	"lokal" adj mf pl acc mix
+"<Großbauern>"
+	"*Großbauern"
+"<dort>"
+	"dort" adv
+"<letztlich>"
+	"letztlich" adj attr
+	"letztlich" adj pred
+"<selbst>"
+	"selbst" adv
+"<für>"
+	"für" pr acc
+"<ihre>"
+	"ihr" det pos f sg nom
+	"ihr" det pos f sg acc
+	"ihr" det pos mfn pl nom
+	"ihr" det pos mfn pl acc
+"<Verteidigung>"
+	"Verteidigung" n f sg nom
+	"Verteidigung" n f sg gen
+	"Verteidigung" n f sg dat
+	"Verteidigung" n f sg acc
+	"verteidigung" n f sg nom lower
+	"verteidigung" n f sg gen lower
+	"verteidigung" n f sg dat lower
+	"verteidigung" n f sg acc lower
+"<sorgen>"
+	"sorgen" vblex inf
+	"sorgen" vblex pri p1 pl
+	"sorgen" vblex pri p3 pl
+	"sorgen" vblex prs p1 pl
+	"sorgen" vblex prs p3 pl
+	"sorge" n f pl nom lower
+	"sorge" n f pl gen lower
+	"sorge" n f pl dat lower
+	"sorge" n f pl acc lower
+"<mussten>"
+	"müssen" vbmod pii p1 pl
+	"müssen" vbmod pii p3 pl
+"<.>"
+	"." sent
+ 
+"<Sie>"
+	"sie" prn pers p3 mf pl nom
+	"sie" prn pers p3 mf pl acc
+	"sie" prn pers p3 f sg nom
+	"sie" prn pers p3 f sg acc
+	"Sie" prn pers p2 frm mf pl nom
+	"Sie" prn pers p2 frm mf pl acc
+"<waren>"
+	"sein" vbser pii p1 pl
+	"sein" vbser pii p3 pl
+	"ware" n f pl nom lower
+	"ware" n f pl gen lower
+	"ware" n f pl dat lower
+	"ware" n f pl acc lower
+"<dabei>"
+	"dabei" preadv
+"<so>"
+	"so" adv
+"<erfolgreich>"
+	"reich" n nt sg nom lower
+		"erfolg" n m sg lower cmp
+	"reich" n nt sg dat lower
+		"erfolg" n m sg lower cmp
+	"reich" n nt sg acc lower
+		"erfolg" n m sg lower cmp
+"<,>"
+	"," cm
+"<dass>"
+	"dass" cnjsub
+"<sich>"
+	"*sich"
+"<einige>"
+	"einig" adj f sg nom
+	"einig" adj f sg acc
+	"einig" adj mf pl nom st
+	"einig" adj mf pl acc st
+	"einig" adj m sg nom sw
+	"einig" adj nt sg nom sw
+	"einig" adj nt sg acc sw
+	"einigen" vblex pri p1 sg
+	"einigen" vblex prs p1 sg
+	"einigen" vblex prs p3 sg
+"<Familien>"
+	"Familie" n f pl nom
+	"Familie" n f pl gen
+	"Familie" n f pl dat
+	"Familie" n f pl acc
+	"familie" n f pl nom lower
+	"familie" n f pl gen lower
+	"familie" n f pl dat lower
+	"familie" n f pl acc lower
+"<im>"
+	"der" det def m sg dat
+		"in" pr dat
+	"der" det def nt sg dat
+		"in" pr dat
+"<Laufe>"
+	"Lauf" n m sg dat
+	"lauf" n m sg dat lower
+	"laufen" vblex pri p1 sg
+	"laufen" vblex prs p1 sg
+	"laufen" vblex prs p3 sg
+	"laufen" vblex sep fm pri p1 sg
+	"laufen" vblex sep fm prs p1 sg
+	"laufen" vblex sep fm prs p3 sg
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Zeit>"
+	"zeit" pr gen
+	"Zeit" n f sg nom
+	"Zeit" n f sg gen
+	"Zeit" n f sg dat
+	"Zeit" n f sg acc
+	"zeit" n f sg nom lower
+	"zeit" n f sg gen lower
+	"zeit" n f sg dat lower
+	"zeit" n f sg acc lower
+"<darauf>"
+	"darauf" preadv
+"<spezialisierten>"
+	"spezialisieren" vblex pii p1 pl
+	"spezialisieren" vblex pii p3 pl
+	"spezialisieren" vblex pis p1 pl
+	"spezialisieren" vblex pis p3 pl
+"<,>"
+	"," cm
+"<militärische>"
+	"militärisch" adj f sg nom
+	"militärisch" adj f sg acc
+	"militärisch" adj mf pl nom st
+	"militärisch" adj mf pl acc st
+	"militärisch" adj m sg nom sw
+	"militärisch" adj nt sg nom sw
+	"militärisch" adj nt sg acc sw
+"<Aufträge>"
+	"Auftrag" n m pl nom
+	"Auftrag" n m pl gen
+	"Auftrag" n m pl acc
+	"auftrag" n m pl nom lower
+	"auftrag" n m pl gen lower
+	"auftrag" n m pl acc lower
+"<des>"
+	"der" det def m sg gen
+	"der" det def nt sg gen
+"<Kaiserhauses>"
+	"haus" n nt sg gen lower
+		"Kaiser" n m sg cmp
+	"haus" n nt sg gen lower
+		"kaiser" n m sg lower cmp
+"<durchzuführen>"
+	"*durchzuführen"
+"<–>"
+	"–" guio
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Schwertadel>"
+	"adel" n m sg nom lower
+		"Schwert" n nt sg cmp
+	"adel" n m sg dat lower
+		"Schwert" n nt sg cmp
+	"adel" n m sg acc lower
+		"Schwert" n nt sg cmp
+	"adel" n m sg nom lower
+		"schwert" n nt sg lower cmp
+	"adel" n m sg dat lower
+		"schwert" n nt sg lower cmp
+	"adel" n m sg acc lower
+		"schwert" n nt sg lower cmp
+"<(>"
+	"(" lpar
+"<Buke>"
+	"*Buke"
+"<)>"
+	")" rpar
+"<war>"
+	"sein" vbser pii p1 sg
+	"sein" vbser pii p3 sg
+"<geboren>"
+	"geboren" adj attr
+	"geboren" adj pred
+	"gebären" vblex pp
+"<.>"
+	"." sent
+ 
+"<Dabei>"
+	"dabei" preadv
+
+"<spielten>"
+	"spielen" vblex pii p1 pl
+	"spielen" vblex pii p3 pl
+	"spielen" vblex pis p1 pl
+	"spielen" vblex pis p3 pl
+	"spielen" vblex sep fm pii p1 pl
+	"spielen" vblex sep fm pii p3 pl
+	"spielen" vblex sep fm pis p1 pl
+	"spielen" vblex sep fm pis p3 pl
+"<Prinzen>"
+	"Prinz" n m sg gen
+	"Prinz" n m sg dat
+	"Prinz" n m sg acc
+	"Prinz" n m pl nom
+	"Prinz" n m pl gen
+	"Prinz" n m pl dat
+	"Prinz" n m pl acc
+	"prinz" n m sg gen lower
+	"prinz" n m sg dat lower
+	"prinz" n m sg acc lower
+	"prinz" n m pl nom lower
+	"prinz" n m pl gen lower
+	"prinz" n m pl dat lower
+	"prinz" n m pl acc lower
+"<,>"
+	"," cm
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<ihr>"
+	"ihr" det pos m sg nom
+	"ihr" det pos nt sg nom
+	"ihr" det pos nt sg acc
+	"es" prn pers p3 nt sg dat
+	"ihr" prn pers p2 mf pl nom
+	"sie" prn pers p3 f sg dat
+"<Glück>"
+	"Glück" n nt sg nom
+	"Glück" n nt sg dat
+	"Glück" n nt sg acc
+	"glück" n nt sg nom lower
+	"glück" n nt sg dat lower
+	"glück" n nt sg acc lower
+	"glücken" vblex imp sg
+"<in>"
+	"in" pr dat
+	"in" pr acc
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Provinz>"
+	"Provinz" n f sg nom
+	"Provinz" n f sg gen
+	"Provinz" n f sg dat
+	"Provinz" n f sg acc
+	"provinz" n f sg nom lower
+	"provinz" n f sg gen lower
+	"provinz" n f sg dat lower
+	"provinz" n f sg acc lower
+"<suchten>"
+	"sucht" n f pl nom lower
+	"sucht" n f pl gen lower
+	"sucht" n f pl dat lower
+	"sucht" n f pl acc lower
+	"suchen" vblex pii p1 pl
+	"suchen" vblex pii p3 pl
+	"suchen" vblex pis p1 pl
+	"suchen" vblex pis p3 pl
+	"suchen" vblex sep fm pii p1 pl
+	"suchen" vblex sep fm pii p3 pl
+	"suchen" vblex sep fm pis p1 pl
+	"suchen" vblex sep fm pis p3 pl
+"<,>"
+	"," cm
+"<eine>"
+	"ein" det ind f sg nom
+	"ein" det ind f sg acc
+"<besondere>"
+	"besonder" adj f sg nom
+	"besonder" adj f sg acc
+	"besonder" adj mf pl nom st
+	"besonder" adj mf pl acc st
+	"besonder" adj m sg nom sw
+	"besonder" adj nt sg nom sw
+	"besonder" adj nt sg acc sw
+"<Rolle>"
+	"Rolle" n f sg nom
+	"Rolle" n f sg gen
+	"Rolle" n f sg dat
+	"Rolle" n f sg acc
+	"rolle" n f sg nom lower
+	"rolle" n f sg gen lower
+	"rolle" n f sg dat lower
+	"rolle" n f sg acc lower
+	"rollen" vblex pri p1 sg
+	"rollen" vblex prs p1 sg
+	"rollen" vblex prs p3 sg
+	"rollen" vblex sep fm pri p1 sg
+	"rollen" vblex sep fm prs p1 sg
+	"rollen" vblex sep fm prs p3 sg
+"<:>"
+	":" sent
+"<Die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Taira>"
+	"*Taira"
+"<,>"
+	"," cm
+"<Minamoto>"
+	"*Minamoto"
+"<und>"
+	"und" cnjcoo
+"<andere>"
+	"ander" adj f sg nom
+	"ander" adj f sg acc
+	"ander" adj mf pl nom st
+	"ander" adj mf pl acc st
+	"ander" adj m sg nom sw
+	"ander" adj nt sg nom sw
+	"ander" adj nt sg acc sw
+"<Sippen>"
+	"Sippe" n f pl nom
+	"Sippe" n f pl gen
+	"Sippe" n f pl dat
+	"Sippe" n f pl acc
+	"sippe" n f pl nom lower
+	"sippe" n f pl gen lower
+	"sippe" n f pl dat lower
+	"sippe" n f pl acc lower
+"<haben>"
+	"haben" vbhaver inf
+	"haben" vbhaver pri p1 pl
+	"haben" vbhaver pri p3 pl
+	"haben" vbhaver prs p1 pl
+	"haben" vbhaver prs p3 pl
+	"haben" n nt sg nom lower
+	"haben" n nt sg dat lower
+	"haben" n nt sg acc lower
+"<alle>"
+	"*alle"
+"<kaiserliche>"
+	"kaiserlich" adj f sg nom
+	"kaiserlich" adj f sg acc
+	"kaiserlich" adj mf pl nom st
+	"kaiserlich" adj mf pl acc st
+	"kaiserlich" adj m sg nom sw
+	"kaiserlich" adj nt sg nom sw
+	"kaiserlich" adj nt sg acc sw
+"<Vorfahren>"
+	"Vorfahr" n m sg gen
+	"Vorfahr" n m sg dat
+	"Vorfahr" n m sg acc
+	"Vorfahr" n m pl nom
+	"Vorfahr" n m pl gen
+	"Vorfahr" n m pl dat
+	"Vorfahr" n m pl acc
+	"vorfahr" n m sg gen lower
+	"vorfahr" n m sg dat lower
+	"vorfahr" n m sg acc lower
+	"vorfahr" n m pl nom lower
+	"vorfahr" n m pl gen lower
+	"vorfahr" n m pl dat lower
+	"vorfahr" n m pl acc lower
+"<.>"
+	"." sent
+
+¶
+"<Während>"
+	"währen" vblex pprs
+	"während" pr gen
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Heian>"
+	"*Heian"
+"<->"
+	"-" guio
+"<Zeit>"
+	"zeit" pr gen
+	"Zeit" n f sg nom
+	"Zeit" n f sg gen
+	"Zeit" n f sg dat
+	"Zeit" n f sg acc
+	"zeit" n f sg nom lower
+	"zeit" n f sg gen lower
+	"zeit" n f sg dat lower
+	"zeit" n f sg acc lower
+"<(>"
+	"(" lpar
+"<794>"
+	"794" num
+"<–>"
+	"–" guio
+"<1192>"
+	"1192" num
+"<)>"
+	")" rpar
+"<bezog>"
+	"beziehen" vblex pii p1 sg
+	"beziehen" vblex pii p3 sg
+"<sich>"
+	"*sich"
+"<Samurai>"
+	"Samurai" n m sg nom
+	"Samurai" n m sg gen
+	"Samurai" n m sg dat
+	"Samurai" n m sg acc
+	"Samurai" n m pl nom
+	"Samurai" n m pl gen
+	"Samurai" n m pl dat
+	"Samurai" n m pl acc
+	"samurai" n m sg nom lower
+	"samurai" n m sg gen lower
+	"samurai" n m sg dat lower
+	"samurai" n m sg acc lower
+	"samurai" n m pl nom lower
+	"samurai" n m pl gen lower
+	"samurai" n m pl dat lower
+	"samurai" n m pl acc lower
+"<vor>"
+	"vor" pr dat
+"<allem>"
+	"*allem"
+"<auf>"
+	"auf" pr dat
+	"auf" pr acc
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Wachen>"
+	"wachen" vblex inf
+	"wach" adj m sg gen
+	"wach" adj m sg acc
+	"wach" adj nt sg gen
+	"wach" adj mf pl dat
+	"Wache" n f pl nom
+	"Wache" n f pl gen
+	"Wache" n f pl dat
+	"Wache" n f pl acc
+	"wach" adj f sg gen mix
+	"wach" adj f sg dat mix
+	"wach" adj m sg dat mix
+	"wach" adj nt sg dat mix
+	"wach" adj mf pl nom mix
+	"wach" adj mf pl gen mix
+	"wach" adj mf pl acc mix
+	"wachen" vblex pri p1 pl
+	"wachen" vblex pri p3 pl
+	"wachen" vblex prs p1 pl
+	"wachen" vblex prs p3 pl
+	"wache" n f pl nom lower
+	"wache" n f pl gen lower
+	"wache" n f pl dat lower
+	"wache" n f pl acc lower
+"<des>"
+	"der" det def m sg gen
+	"der" det def nt sg gen
+"<kaiserlichen>"
+	"kaiserlich" adj m sg gen
+	"kaiserlich" adj m sg acc
+	"kaiserlich" adj nt sg gen
+	"kaiserlich" adj mf pl dat
+	"kaiserlich" adj f sg gen mix
+	"kaiserlich" adj f sg dat mix
+	"kaiserlich" adj m sg dat mix
+	"kaiserlich" adj nt sg dat mix
+	"kaiserlich" adj mf pl nom mix
+	"kaiserlich" adj mf pl gen mix
+	"kaiserlich" adj mf pl acc mix
+"<Palastes>"
+	"Palast" n m sg gen
+	"palast" n m sg gen lower
+"<und>"
+	"und" cnjcoo
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Schwertträger>"
+	"*Schwertträger"
+"<.>"
+	"." sent
+ 
+"<Diese>"
+	"dieser" prn dem f sg nom
+	"dieser" prn dem f sg acc
+	"dieser" prn dem mfn pl nom
+	"dieser" prn dem mfn pl acc
+	"dieser" det dem f sg nom
+	"dieser" det dem f sg acc
+	"dieser" det dem mfn pl nom
+	"dieser" det dem mfn pl acc
+"<Vorläufer>"
+	"Vorläufer" n m sg nom
+	"Vorläufer" n m sg dat
+	"Vorläufer" n m sg acc
+	"Vorläufer" n m pl nom
+	"Vorläufer" n m pl gen
+	"Vorläufer" n m pl acc
+	"vorläufer" n m sg nom lower
+	"vorläufer" n m sg dat lower
+	"vorläufer" n m sg acc lower
+	"vorläufer" n m pl nom lower
+	"vorläufer" n m pl gen lower
+	"vorläufer" n m pl acc lower
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<klassischen>"
+	"klassisch" adj m sg gen
+	"klassisch" adj m sg acc
+	"klassisch" adj nt sg gen
+	"klassisch" adj mf pl dat
+	"klassisch" adj f sg gen mix
+	"klassisch" adj f sg dat mix
+	"klassisch" adj m sg dat mix
+	"klassisch" adj nt sg dat mix
+	"klassisch" adj mf pl nom mix
+	"klassisch" adj mf pl gen mix
+	"klassisch" adj mf pl acc mix
+"<Samurai>"
+	"Samurai" n m sg nom
+	"Samurai" n m sg gen
+	"Samurai" n m sg dat
+	"Samurai" n m sg acc
+	"Samurai" n m pl nom
+	"Samurai" n m pl gen
+	"Samurai" n m pl dat
+	"Samurai" n m pl acc
+	"samurai" n m sg nom lower
+	"samurai" n m sg gen lower
+	"samurai" n m sg dat lower
+	"samurai" n m sg acc lower
+	"samurai" n m pl nom lower
+	"samurai" n m pl gen lower
+	"samurai" n m pl dat lower
+	"samurai" n m pl acc lower
+"<wurden>"
+	"werden" vaux pii p1 pl
+	"werden" vaux pii p3 pl
+	"werden" vblex pii p1 pl
+	"werden" vblex pii p3 pl
+"<vom>"
+	"der" det def m sg dat
+		"von" pr dat
+	"der" det def nt sg dat
+		"von" pr dat
+"<Herrscher>"
+	"*Herrscher"
+"<ausgestattet>"
+	"*ausgestattet"
+"<.>"
+	"." sent
+ 
+"<Ihnen>"
+	"sie" prn pers p3 mf pl dat
+	"Sie" prn pers p2 frm mf pl dat
+"<war>"
+	"sein" vbser pii p1 sg
+	"sein" vbser pii p3 sg
+"<es>"
+	"es" prn pers p3 nt sg nom
+	"es" prn pers p3 nt sg acc
+"<vorgeschrieben>"
+	"*vorgeschrieben"
+"<,>"
+	"," cm
+"<fortwährend>"
+	"*fortwährend"
+"<ihre>"
+	"ihr" det pos f sg nom
+	"ihr" det pos f sg acc
+	"ihr" det pos mfn pl nom
+	"ihr" det pos mfn pl acc
+"<Beherrschung>"
+	"*Beherrschung"
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Kampfkunst>"
+	"kunst" n f sg nom lower
+		"Kampf" n m sg cmp
+	"kunst" n f sg gen lower
+		"Kampf" n m sg cmp
+	"kunst" n f sg dat lower
+		"Kampf" n m sg cmp
+	"kunst" n f sg acc lower
+		"Kampf" n m sg cmp
+	"kunst" n f sg nom lower
+		"kampf" n m sg lower cmp
+	"kunst" n f sg gen lower
+		"kampf" n m sg lower cmp
+	"kunst" n f sg dat lower
+		"kampf" n m sg lower cmp
+	"kunst" n f sg acc lower
+		"kampf" n m sg lower cmp
+"<zu>"
+	"zu" pr dat
+"<verbessern>"
+	"verbessern" vblex inf
+	"verbessern" vblex pri p1 pl
+	"verbessern" vblex pri p3 pl
+	"verbessern" vblex prs p1 pl
+	"verbessern" vblex prs p3 pl
+"<.>"
+	"." sent
+
+¶
+"<Da>"
+	"da" adv
+	"da" cnjsub
+"<zu>"
+	"zu" pr dat
+"<Beginn>"
+	"Beginn" n m sg nom
+	"Beginn" n m sg dat
+	"Beginn" n m sg acc
+	"beginn" n m sg nom lower
+	"beginn" n m sg dat lower
+	"beginn" n m sg acc lower
+	"beginnen" vblex imp sg
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<größte>"
+	"groß" adj sup f sg nom
+	"groß" adj sup f sg acc
+	"groß" adj sup mf pl nom st
+	"groß" adj sup mf pl acc st
+	"groß" adj sup m sg nom sw
+	"groß" adj sup nt sg nom sw
+	"groß" adj sup nt sg acc sw
+"<Vorteil>"
+	"Vorteil" n m sg nom
+	"Vorteil" n m sg dat
+	"Vorteil" n m sg acc
+	"vorteil" n m sg nom lower
+	"vorteil" n m sg dat lower
+	"vorteil" n m sg acc lower
+"<dieser>"
+	"dieser" prn dem m sg nom
+	"dieser" prn dem f sg gen
+	"dieser" prn dem f sg dat
+	"dieser" prn dem mfn pl gen
+	"dieser" det dem m sg nom
+	"dieser" det dem f sg gen
+	"dieser" det dem f sg dat
+	"dieser" det dem mfn pl gen
+"<militärischen>"
+	"militärisch" adj m sg gen
+	"militärisch" adj m sg acc
+	"militärisch" adj nt sg gen
+	"militärisch" adj mf pl dat
+	"militärisch" adj f sg gen mix
+	"militärisch" adj f sg dat mix
+	"militärisch" adj m sg dat mix
+	"militärisch" adj nt sg dat mix
+	"militärisch" adj mf pl nom mix
+	"militärisch" adj mf pl gen mix
+	"militärisch" adj mf pl acc mix
+"<Einheiten>"
+	"Einheit" n f pl nom
+	"Einheit" n f pl gen
+	"Einheit" n f pl dat
+	"Einheit" n f pl acc
+	"einheit" n f pl nom lower
+	"einheit" n f pl gen lower
+	"einheit" n f pl dat lower
+	"einheit" n f pl acc lower
+"<in>"
+	"in" pr dat
+	"in" pr acc
+"<ihrer>"
+	"ihr" det pos f sg gen
+	"ihr" det pos f sg dat
+	"ihr" det pos mfn pl gen
+	"sie" prn pers p3 mf pl gen
+	"sie" prn pers p3 f sg gen
+"<Erfahrung>"
+	"Erfahrung" n f sg nom
+	"Erfahrung" n f sg gen
+	"Erfahrung" n f sg dat
+	"Erfahrung" n f sg acc
+	"erfahrung" n f sg nom lower
+	"erfahrung" n f sg gen lower
+	"erfahrung" n f sg dat lower
+	"erfahrung" n f sg acc lower
+"<im>"
+	"der" det def m sg dat
+		"in" pr dat
+	"der" det def nt sg dat
+		"in" pr dat
+"<Gebirgskampf>"
+	"*Gebirgskampf"
+"<und>"
+	"und" cnjcoo
+"<vor>"
+	"vor" pr dat
+"<allem>"
+	"*allem"
+"<im>"
+	"der" det def m sg dat
+		"in" pr dat
+	"der" det def nt sg dat
+		"in" pr dat
+"<Bogenschießen>"
+	"*Bogenschießen"
+"<lag>"
+	"liegen" vblex pii p1 sg
+	"liegen" vblex pii p3 sg
+"<,>"
+	"," cm
+"<blieb>"
+	"bleiben" vblex pii p1 sg
+	"bleiben" vblex pii p3 sg
+"<für>"
+	"für" pr acc
+"<den>"
+	"der" rel m sg acc
+	"der" prn dem m sg acc
+	"der" det def m sg acc
+	"der" det def mfn pl dat
+"<größten>"
+	"groß" adj sup attr
+	"groß" adj sup pred
+	"groß" adj sup m sg gen
+	"groß" adj sup m sg acc
+	"groß" adj sup nt sg gen
+	"groß" adj sup mf pl dat
+	"groß" adj sup f sg gen mix
+	"groß" adj sup f sg dat mix
+	"groß" adj sup m sg dat mix
+	"groß" adj sup nt sg dat mix
+	"groß" adj sup mf pl nom mix
+	"groß" adj sup mf pl gen mix
+	"groß" adj sup mf pl acc mix
+"<Teil>"
+	"Teil" n nt sg nom
+	"Teil" n nt sg dat
+	"Teil" n nt sg acc
+	"teil" n nt sg nom lower
+	"teil" n nt sg dat lower
+	"teil" n nt sg acc lower
+	"teilen" vblex imp sg
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<folgenden>"
+	"*folgenden"
+"<Feudalperiode>"
+	"*Feudalperiode"
+"<,>"
+	"," cm
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Ära>"
+	"Ära" n f sg nom
+	"Ära" n f sg gen
+	"Ära" n f sg dat
+	"Ära" n f sg acc
+	"ära" n f sg nom lower
+	"ära" n f sg gen lower
+	"ära" n f sg dat lower
+	"ära" n f sg acc lower
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Samurai>"
+	"Samurai" n m sg nom
+	"Samurai" n m sg gen
+	"Samurai" n m sg dat
+	"Samurai" n m sg acc
+	"Samurai" n m pl nom
+	"Samurai" n m pl gen
+	"Samurai" n m pl dat
+	"Samurai" n m pl acc
+	"samurai" n m sg nom lower
+	"samurai" n m sg gen lower
+	"samurai" n m sg dat lower
+	"samurai" n m sg acc lower
+	"samurai" n m pl nom lower
+	"samurai" n m pl gen lower
+	"samurai" n m pl dat lower
+	"samurai" n m pl acc lower
+"<->"
+	"-" guio
+"<Herrschaft>"
+	"Herrschaft" n f sg nom
+	"Herrschaft" n f sg gen
+	"Herrschaft" n f sg dat
+	"Herrschaft" n f sg acc
+	"herrschaft" n f sg nom lower
+	"herrschaft" n f sg gen lower
+	"herrschaft" n f sg dat lower
+	"herrschaft" n f sg acc lower
+"<,>"
+	"," cm
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Ausdruck>"
+	"Ausdruck" n m sg nom
+	"Ausdruck" n m sg dat
+	"Ausdruck" n m sg acc
+	"ausdruck" n m sg nom lower
+	"ausdruck" n m sg dat lower
+	"ausdruck" n m sg acc lower
+"<Yumitori>"
+	"*Yumitori"
+"<(>"
+	"(" lpar
+"<Bogenschütze>"
+	"schütze" n m sg nom lower
+		"Bogen" n m sg cmp
+	"schütze" n m sg nom lower
+		"bogen" n m sg lower cmp
+"<)>"
+	")" rpar
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Ehrentitel>"
+	"*Ehrentitel"
+"<eines>"
+	"ein" det ind m sg gen
+	"ein" det ind nt sg gen
+"<ausgezeichneten>"
+	"ausgezeichnet" adj m sg gen
+	"ausgezeichnet" adj m sg acc
+	"ausgezeichnet" adj nt sg gen
+	"ausgezeichnet" adj mf pl dat
+	"ausgezeichnet" adj f sg gen mix
+	"ausgezeichnet" adj f sg dat mix
+	"ausgezeichnet" adj m sg dat mix
+	"ausgezeichnet" adj nt sg dat mix
+	"ausgezeichnet" adj mf pl nom mix
+	"ausgezeichnet" adj mf pl gen mix
+	"ausgezeichnet" adj mf pl acc mix
+"<Kriegers>"
+	"Krieger" n m sg gen
+	"krieger" n m sg gen lower
+"<,>"
+	"," cm
+"<selbst>"
+	"selbst" adv
+"<als>"
+	"als" cnjadv
+	"als" pr nom
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Schwertkampf>"
+	"kampf" n m sg nom lower
+		"Schwert" n nt sg cmp
+	"kampf" n m sg dat lower
+		"Schwert" n nt sg cmp
+	"kampf" n m sg acc lower
+		"Schwert" n nt sg cmp
+	"kampf" n m sg nom lower
+		"schwert" n nt sg lower cmp
+	"kampf" n m sg dat lower
+		"schwert" n nt sg lower cmp
+	"kampf" n m sg acc lower
+		"schwert" n nt sg lower cmp
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<größere>"
+	"groß" adj comp f sg nom
+	"groß" adj comp f sg acc
+	"groß" adj comp m sg nom sw
+	"groß" adj comp nt sg nom sw
+	"groß" adj comp nt sg acc sw
+	"groß" adj comp mf pl nom st
+	"groß" adj comp mf pl acc st
+"<Wichtigkeit>"
+	"*Wichtigkeit"
+"<erlangt>"
+	"erlangen" vblex pp
+	"erlangen" vblex imp pl
+	"erlangen" vblex pri p2 pl
+	"erlangen" vblex pri p3 sg
+"<hatte>"
+	"haben" vbhaver pii p1 sg
+	"haben" vbhaver pii p3 sg
+"<.>"
+	"." sent
