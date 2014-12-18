@@ -5,10 +5,10 @@
 "<ein>"
 ;	"ein" num sg
 ;	"ein" det ind m sg nom
-	"ein" det ind nt sg nom
-;	"ein" det ind nt sg acc
+;	"ein" det ind nt sg nom
+	"ein" det ind nt sg acc
 "<Rückschlagspiel>"
-	"Rückschlagspiel"  n n sg acc
+	"Rückschlagspiel"  n nt sg acc
 "<,>"
 	"," cm
 "<das>"
@@ -75,7 +75,7 @@
 	"werden" vaux pri p3 sg
 ;	"werden" vblex pri p3 sg
 "<dies>"
-	"*dies"
+	"dies" det ind nt sg nom
 "<Einzel>"
 	"Einzel" n nt sg nom
 ;	"Einzel" n nt sg dat
@@ -113,7 +113,7 @@
 	"werden" vaux pri p3 sg
 ;	"werden" vblex pri p3 sg
 "<dies>"
-	"*dies"
+	"dies" det ind nt sg acc
 "<Doppel>"
 ;	"Doppel" n nt sg nom
 ;	"Doppel" n nt sg dat
@@ -133,14 +133,14 @@
 	"nach" pr dat
 ;	"nach" pprep dat
 "<Zusammensetzung>"
-	"*Zusammensetzung" n f sg nom
+	"Zusammensetzung" n f sg nom
 "<vom>"
 ;	"der" det def m sg dat
-		"von" pr dat
+;		"von" pr dat
 	"der" det def nt sg dat
 		"von" pr dat
 "<Herrendoppel>"
-	"*Herrendoppel" n nt sg dat
+	"Herrendoppel" n nt sg dat
 "<(>"
 	"(" lpar
 "<zwei>"
@@ -154,7 +154,7 @@
 "<,>"
 	"," cm
 "<Damendoppel>"
-	"*Damendoppel" n f sg dat
+	"Damendoppel" n f sg dat
 "<(>"
 	"(" lpar
 "<zwei>"
@@ -176,15 +176,15 @@
 ;	"gemischt" adj f sg gen mix
 ;	"gemischt" adj f sg dat mix
 ;	"gemischt" adj m sg dat mix
-;	"gemischt" adj nt sg dat mix
-	"gemischt" adj mf pl nom mix
+	"gemischt" adj nt sg dat mix
+;	"gemischt" adj mf pl nom mix
 ;	"gemischt" adj mf pl gen mix
 ;	"gemischt" adj mf pl acc mix
 "<Doppel>"
 ;	"Doppel" n nt sg nom
-;	"Doppel" n nt sg dat
+	"Doppel" n nt sg dat
 ;	"Doppel" n nt sg acc
-	"Doppel" n nt pl nom
+;	"Doppel" n nt pl nom
 ;	"Doppel" n nt pl gen
 ;	"Doppel" n nt pl acc
 "<(>"
@@ -195,7 +195,7 @@
 	")" rpar
 "<die>"
 ;	"der" rel f sg nom
-	"der" rel f sg acc
+;	"der" rel f sg acc
 ;	"der" rel mfn pl nom
 ;	"der" rel mfn pl acc
 ;	"der" prn dem f sg nom
@@ -203,7 +203,7 @@
 ;	"der" prn dem mfn pl nom
 ;	"der" prn dem mfn pl acc
 ;	"der" det def f sg nom
-;	"der" det def f sg acc
+	"der" det def f sg acc
 ;	"der" det def mfn pl nom
 ;	"der" det def mfn pl acc
 "<Rede>"
@@ -240,15 +240,15 @@
 ;	"in" pr dat
 	"in" pr acc
 "<Deutschland>"
-	"*Deutschland" n nt sg acc
+	"Deutschland" n nt sg acc
 "<als>"
 	"als" cnjadv
 ;	"als" pr nom
 "<elitär>"
-;	"elitär" adj attr
-	"elitär" adj pred
+	"elitär" adj attr
+;	"elitär" adj pred
 "<geltende>"
-	"*geltende"
+	"*geltende" adj attr
 "<Sport>"
 	"Sport" n m sg nom
 ;	"Sport" n m sg dat
@@ -263,12 +263,12 @@
 	"als" cnjadv
 ;	"als" pr nom
 "<Breitensport>"
-	"*Breitensport"
+	"Breitensport" n m sg dat
 "<eine>"
 ;	"ein" det ind f sg nom
 	"ein" det ind f sg acc
 "<herausragende>"
-	"*herausragende"
+	"herausragende" adj f sg acc
 "<Bedeutung>"
 ;	"Bedeutung" n f sg nom
 ;	"Bedeutung" n f sg gen
@@ -288,11 +288,11 @@
 "<ist>"
 	"sein" vbser pri p3 sg
 "<Tennis>"
-	"*Tennis" n nt sg nom
+	"Tennis" n nt sg nom
 "<wieder>"
 	"wieder" adv
 "<Bestandteil>"
-	"*Bestandteil"
+	"Bestandteil" n m sg acc
 "<der>"
 ;	"der" rel m sg nom
 ;	"der" rel f sg dat
@@ -315,7 +315,7 @@
 ;	"olympisch" adj mf pl gen mix
 ;	"olympisch" adj mf pl acc mix
 "<Sommerspiele>"
-	"*Sommerspiele" n f sg gen
+	"Sommerspiele" n f sg gen
 "<.>"
 	"." sent
 [
@@ -365,11 +365,11 @@
 "<,>"
 	"," cm
 "<Jeu>"
-	"*Jeu"            französisch
+	"*Jeu"
 "<de>"
-	"de" pr acc      französisch
+	"*de" pr acc
 "<Paume>"
-	"*Paume"         französisch
+	"*Paume"
 "<(>"
 	"(" lpar
 "<französisch>"
@@ -394,7 +394,7 @@
 ;	"der" det def f sg dat
 ;	"der" det def mfn pl gen
 "<Handinnenfläche>"
-	"*Handinnenfläche" n f sg gen
+	"Handinnenfläche" n f sg gen
 "<)>"
 	")" rpar
 "<wurde>"
@@ -405,10 +405,10 @@
 "<zunächst>"
 	"zunächst" adv
 "<in>"
-;	"in" pr dat
-	"in" pr acc
+	"in" pr dat
+;	"in" pr acc
 "<Klosterhöfen>"
-	"*Klosterhöfen" n f pl acc
+	"Klosterhöfen" n f pl dat
 "<,>"
 	"," cm
 "<später>"
@@ -422,7 +422,7 @@
 ;	"in" pr dat
 	"in" pr acc
 "<Ballspielhäusern>"
-	"*Ballspielhäusern"n f pl acc
+	"Ballspielhäusern" n f pl acc
 "<auf>"
 	"auf" pr dat
 ;	"auf" pr acc
@@ -535,7 +535,7 @@
 "<,>"
 	"," cm
 "<welche>"
-	"*welche"
+	"welche" rel mf pl nom
 "<entlang>"
 	"entlang" pprep dat
 ;	"entlang" pprep acc
@@ -563,7 +563,7 @@
 	"der" det def mfn pl nom
 ;	"der" det def mfn pl acc
 "<Zuschauer>"
-	"*Zuschauer" n f pl nom
+	"Zuschauer" n f pl nom
 "<saßen>"
 ;	"sitzen" vblex pii p1 pl
 	"sitzen" vblex pii p3 pl
@@ -658,7 +658,7 @@
 	"parallel" adj attr
 ;	"parallel" adj pred
 "<verlaufende>"
-	"*verlaufende"
+	"verlaufende" adj attr
 "<Streifen>"
 ;	"Streif" n m pl dat
 ;	"streifen" vblex inf
@@ -680,9 +680,9 @@
 "<zu>"
 	"zu" pr dat
 "<beiden>"
-	"*beiden"
+	"beiden" det qnt pl
 "<Netzseiten>"
-	"*Netzseiten"
+	"Netzseiten"n f pl acc
 "<.>"
 	"." sent
 [
@@ -723,7 +723,7 @@
 ;	"kommerziell" adj nt sg nom sw
 ;	"kommerziell" adj nt sg acc sw
 "<Tennisanlagen>"
-	"*Tennisanlagen" n f pl acc
+	"Tennisanlagen" n f pl acc
 "<erbaut>"
 ;	"erbauen" vblex pp
 ;	"erbauen" vblex imp pl
@@ -751,7 +751,7 @@
 	"der" det def mfn pl nom
 ;	"der" det def mfn pl acc
 "<Besitzer>"
-	"*Besitzer" n f pl nom
+	"Besitzer" n f pl nom
 "<die>"
 ;	"der" rel f sg nom
 	"der" rel f sg acc
@@ -863,12 +863,12 @@
 ;	"verschieden" adj sup mf pl gen mix
 	"verschieden" adj sup mf pl acc mix
 "<Bevölkerungsschichten>"
-	"*Bevölkerungsschichten" n f pl acc
+	"Bevölkerungsschichten" n f pl acc
 "<als>"
 	"als" cnjadv
 als	"als" pr nom
 "<Freizeiteinrichtung>"
-	"*Freizeiteinrichtung" n f pl dat
+	"Freizeiteinrichtung" n f pl dat
 "<genutzt>"
 	"nutzen" vblex pp
 "<.>"
@@ -898,16 +898,16 @@ als	"als" pr nom
 ;	"Major" n m sg dat
 ;	"Major" n m sg acc
 "<Walter>"
-	"*Walter"
+	"*Walter" np ant m
 "<Clopton>"
-	"*Clopton"
+	"*Clopton" np ant m
 "<Wingfield>"
-	"*Wingfield"
+	"Wingfield" np ant m
 "<ließ>"
 ;	"lassen" vblex pii p1 sg
 	"lassen" vblex pii p3 sg
 "<sich>"
-	"*sich"
+	"sich" prn refl 3 pers pl
 "<1874>"
 	"1874" num
 "<seine>"
@@ -923,7 +923,7 @@ als	"als" pr nom
 "<von>"
 	"von" pr dat
 "<Tennis>"
-	"*Tennis" n nt sg dat
+	"Tennis" n nt sg dat
 "<,>"
 	"," cm
 "<das>"
@@ -982,7 +982,7 @@ als	"als" pr nom
 ;	"dieser" det dem f sg dat
 ;	"dieser" det dem mfn pl gen
 "<Patentierung>"
-	"*Patentierung" n f sg nom
+	"Patentierung" n f sg nom
 "<wurden>"
 ;	"werden" vaux pii p1 pl
 	"werden" vaux pii p3 pl
@@ -1035,7 +1035,7 @@ als	"als" pr nom
 ;	"üblich" adj nt sg nom sw
 ;	"üblich" adj nt sg acc sw
 "<Tennis>"
-	"*Tennis" n nt sg acc
+	"Tennis" n nt sg acc
 "<entstand>"
 ;	"entstehen" vblex pii p1 sg
 	"entstehen" vblex pii p3 sg
@@ -1100,11 +1100,11 @@ als	"als" pr nom
 	"in" pr dat
 ;	"in" pr acc
 "<Wimbledon>"
-	"*Wimbledon" n  sg nom
+	"Wimbledon" np al
 "<(>"
 	"(" lpar
 "<London>"
-	"*London" n  sg nom
+	"London" np al
 "<)>"
 	")" rpar
 "<im>"
@@ -1113,7 +1113,7 @@ als	"als" pr nom
 ;	"der" det def nt sg dat
 		"in" pr dat
 "<Juli>"
-	"*Juli" n m sg nom
+	"Juli" n m sg nom
 "<1877.>"
 	"1877." num ord
 [
@@ -1140,13 +1140,13 @@ als	"als" pr nom
 ;	"der" det def m sg gen
 	"der" det def nt sg gen
 "<Profi>"
-	"Profi" n m sg nom
-;	"Profi" n m sg dat
+;	"Profi" n m sg nom
+	"Profi" n m sg dat
 ;	"Profi" n m sg acc
 "<->"
 	"-" guio
 "<Tennis>"
-	"*Tennis"
+	"Tennis" n nt sg dat
 "<Mitte>"
 ;	"Mitte" n f sg nom
 ;	"Mitte" n f sg gen
@@ -1214,7 +1214,7 @@ als	"als" pr nom
 ;	"Amateur" n m pl gen
 ;	"Amateur" n m pl acc
 "<zugelassen>"
-	"*zugelassen"
+	"zugelassen" vblex inf pres
 "<.>"
 	"." sent
 "<1925>"
@@ -1225,7 +1225,7 @@ als	"als" pr nom
 ;	"werden" vblex pii p1 sg
 ;	"werden" vblex pii p3 sg
 "<Tennis>"
-	"*Tennis"
+	"Tennis" n nt sg acc
 "<aus>"
 	"aus" pr dat
 "<dem>"
@@ -1276,9 +1276,9 @@ als	"als" pr nom
 ;	"der" det def mfn pl nom
 ;	"der" det def mfn pl acc
 "<Beschränkung>"
-	"*Beschränkung" n f sg nom
+	"Beschränkung" n f sg nom
 "<aufgehoben>"
-	"*aufgehoben"
+	"aufgehoben"  inf pii
 "<(>"
 	"(" lpar
 "<siehe>"
@@ -1286,9 +1286,9 @@ als	"als" pr nom
 "<auch>"
 	"auch" adv
 "<Open>"
-	"*Open"
+	"Open" np al
 "<Era>"
-	"*Era"
+	"Era" np al
 "<)>"
 	")" rpar
 "<,>"
@@ -1335,9 +1335,9 @@ als	"als" pr nom
 ;	"der" det def mfn pl nom
 ;	"der" det def mfn pl acc
 "<US>"
-	"*US"
+	"US" np al
 "<Open>"
-	"*Open"
+	"Open" np al
 "<oder>"
 	"oder" cnjcoo
 "<die>"
@@ -1354,9 +1354,9 @@ als	"als" pr nom
 ;	"der" det def mfn pl nom
 ;	"der" det def mfn pl acc
 "<French>"
-	"*French"
+	"French" np al
 "<Open>"
-	"*Open"
+	"Open" np al
 "<,>"
 	"," cm
 "<erhebliche>"
@@ -1394,7 +1394,7 @@ als	"als" pr nom
 "<ist>"
 	"sein" vbser pri p3 sg
 "<Tennis>"
-	"*Tennis"
+	"Tennis" n nt sg nom
 "<wieder>"
 	"wieder" adv
 "<eine>"
@@ -1437,11 +1437,11 @@ als	"als" pr nom
 "<Wortes>"
 	"Wort" n nt sg gen
 "<Tennis>"
-	"*Tennis"
+	"Tennis" n nt sg gen
 "<ist>"
 	"sein" vbser pri p3 sg
 "<ungewiss>"
-	"*ungewiss"
+	"ungewiss" adj nt acc
 "<;>"
 	";" sent
 "<er>"
@@ -1477,7 +1477,7 @@ als	"als" pr nom
 ;	"groß" adj mf pl gen mix
 ;	"groß" adj mf pl acc mix
 "<ungelösten>"
-	"*ungelösten" adj mf pl gen
+	"ungelösten" adj mf pl gen
 "<Fragen>"
 ;	"fragen" vblex inf
 ;	"Frage" n f pl nom
@@ -1510,9 +1510,9 @@ als	"als" pr nom
 	"englisch" adj mf pl gen mix
 ;	"englisch" adj mf pl acc mix
 "<Etymologie>"
-	"*Etymologie" n f pl gen
+	"Etymologie" n f pl gen
 "<dar>"
-	"*dar"
+	"dar" pr
 "<.>"
 	"." sent
 "<Für>"
@@ -1546,9 +1546,9 @@ als	"als" pr nom
 "<hält>"
 	"halten" vblex pri p3 sg
 "<Anatoly>"
-	"*Anatoly"
+	"Anatoly" np ant m
 "<Liberman>"
-	"*Liberman"
+	"Liberman" np ant m
 "<die>"
 ;	"der" rel f sg nom
 	"der" rel f sg acc
@@ -1567,13 +1567,13 @@ als	"als" pr nom
 "<von>"
 	"von" pr dat
 "<Walter>"
-	"*Walter"
+	"Walter" np ant m
 "<W>"
-	"*W"
+	"W" np ant m
 "<.>"
 	"." sent
 "<Skeat>"
-	"*Skeat"
+	"Skeat" np ant m
 "<favorisierte>"
 ;	"favorisieren" vblex pii p1 sg
 	"favorisieren" vblex pii p3 sg
@@ -1613,16 +1613,16 @@ als	"als" pr nom
 "<vielmehr>"
 	"vielmehr" adv
 "<anglonormannischen>"
-	"*anglonormannischen"
+	"anglonormannischen" adj m sg acc
 "<Ausruf>"
-	"*Ausruf" n m sg acc
- *
+	"Ausruf" n m sg acc
+
 "<tenez>"
 	"*tenez"
 "<!>"
 	"!" sent
 "<zurückgehe>"
-	"*zurückgehe"
+	"zurückgehe" vblex pii 3pers sg
 "<,>"
 	"," cm
 "<also>"
@@ -1793,7 +1793,7 @@ als	"als" pr nom
 ;	"ein" det ind nt sg nom
 ;	"ein" det ind nt sg acc
 "<Zeitvertreib>"
-	"*Zeitvertreib" n m sg nom
+	"Zeitvertreib" n m sg nom
 "<der>"
 	"der" rel m sg nom
 ;	"der" rel f sg dat
@@ -1807,11 +1807,11 @@ als	"als" pr nom
 ;	"vorwiegend" adj attr
 	"vorwiegend" adj pred
 "<anglonormannisch>"
-	"*anglonormannisch"
+	"anglonormannisch" adj f sg nom
 "<sprechenden>"
-	"*sprechenden"
+	"sprechenden" adj f sg nom
 "<Aristokratie>"
-	"*Aristokratie"
+	"Aristokratie" n f sg nom
 "<war>"
 ;	"sein" vbser pii p1 sg
 	"sein" vbser pii p3 sg
@@ -1853,7 +1853,7 @@ als	"als" pr nom
 ;	"der" det def nt sg dat
 		"in" pr dat
 "<Mittelenglischen>"
-	"*Mittelenglischen"
+	"Mittelenglischen" n m sg dat
 "<noch>"
 	"noch" adv
 "<auf>"
@@ -1953,7 +1953,7 @@ als	"als" pr nom
 "<1440>"
 	"1440" num
 "<datiertes>"
-	"*datiertes"
+	"datiertes" adj nt sg dat
 "<Manuskript>"
 ;	"Manuskript" n nt sg nom
 	"Manuskript" n nt sg dat
@@ -1966,9 +1966,9 @@ als	"als" pr nom
 "<von>"
 	"von" pr dat
 "<John>"
-	"*John"
+	"John" np ant m
 "<Gower>"
-	"*Gower"
+	"Gower" np ant m
 "<,>"
 	"," cm
 "<in>"
@@ -2053,7 +2053,7 @@ als	"als" pr nom
 	"(" lpar
 „
 "<Kopfbinde>"
-	"*Kopfbinde"
+	"Kopfbinde" n f sg nom
 “
 "<)>"
 	")" rpar
@@ -2077,12 +2077,10 @@ als	"als" pr nom
 ;	"französisch" adj mf pl gen mix
 ;	"französisch" adj mf pl acc mix
 "<Ortsnamen>"
-	"*Ortsnamen" n m sg acc
+	"Ortsnamen" n m sg acc
 "<Tennois>"
-	"*Tennois"
+	"Tennois" np top
 "<ab>"
 	"ab" pr dat
-"<.>"
-[][
-
+"<.>"[][
 ]
