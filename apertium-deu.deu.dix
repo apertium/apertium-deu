@@ -46557,6 +46557,39 @@
 <e lm="hervorrufen">     <i>hervor</i><par n="an/rufen__vblex_sep"/></e>
 <e lm="hervorrufen">     <p><l>hervorgerufen</l><r>hervorrufen</r></p><par n="__vblex_sep_pp"/></e>
 
+<!--<e lm="hingeraten">      <i>ger</i><par n="err/aten__vblex"/></e>-->
+<e lm="hinrichten">      <i>richte</i><par n="drifte/n#_ab__vblex_sep"/></e>
+<e lm="hinrichten">      <i>hinrichte</i><par n="abdrifte/n__vblex_sep"/></e>
+<e lm="hinrichten">      <p><l>hingerichtet</l><r>hinrichten</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="hinstellen">      <i>stell</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="hinstellen">      <i>hinstell</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="hinstellen">      <p><l>hingestellt</l><r>hinstellen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="hintragen">       <i>tr</i><par n="tr/agen#_ab__vblex_sep"/></e>
+<e lm="hintragen">       <i>hintr</i><par n="abtr/agen__vblex_sep"/></e>
+<e lm="hintragen">       <p><l>hingetragen</l><r>hintragen</r></p><par n="__vblex_sep_pp"/></e>
+
+<e lm="hinaufklettern">  <i>klett</i><par n="feu/ern#_ab__vblex_sep"/></e>
+<e lm="hinaufklettern">  <i>hinaufklett</i><par n="abfeu/ern__vblex_sep"/></e>
+<e lm="hinaufklettern">  <p><l>hinaufgeklettert</l><r>hinaufklettern</r></p><par n="__vblex_sep_pp"/></e>
+
+<e lm="hinauslaufen">    <i></i><par n="/laufen#_ab__vblex_sep"/></e>
+<e lm="hinauslaufen">    <i>hinaus</i><par n="ab/laufen__vblex_sep"/></e>
+<e lm="hinauslaufen">    <p><l>hinausgelaufen</l><r>hinauslaufen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="hinausschieben">  <i></i><par n="/schieben#_ab__vblex_sep"/></e>
+<e lm="hinausschieben">  <i>hinaus</i><par n="ab/schieben__vblex_sep"/></e>
+<e lm="hinausschieben">  <p><l>hinausgeschoben</l><r>hinausschieben</r></p><par n="__vblex_sep_pp"/></e>
+
+<e lm="hineingehen">     <i>g</i><par n="g/ehen#_an__vblex_sep"/></e>
+<e lm="hineingehen">     <i>hineing</i><par n="ang/ehen__vblex_sep"/></e>
+
+<e lm="hinzufügen">      <i>füg</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="hinzufügen">      <i>hinzufüg</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="hinzufügen">      <p><l>hinzugefügt</l><r>hinzufügen</r></p><par n="__vblex_sep_pp"/></e>
+
+<e lm="hochsteigen">     <i></i><par n="/steigen#_ab__vblex_sep"/></e>
+<e lm="hochsteigen">     <i>hoch</i><par n="ab/steigen__vblex_sep"/></e>
+<e lm="hochsteigen">     <p><l>hochgestiegen</l><r>hochsteigen</r></p><par n="__vblex_sep_pp"/></e>
+
   </section>
   <section id="contractions" type="standard">
 
