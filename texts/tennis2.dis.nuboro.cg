@@ -1,0 +1,1926 @@
+	"<Erwähnung>"
+	"Erwähnung" n f sg acc
+"<verdient>"
+;	"verdienen" vblex pp
+;	"verdienen" vblex imp pl
+;	"verdienen" vblex pri p2 pl
+	"verdienen" vblex pri p3 sg
+"<außerdem>"
+	"außerdem" adv
+"<die>"
+;	"der" rel f sg nom
+;	"der" rel f sg acc
+;	"der" rel mfn pl nom
+;	"der" rel mfn pl acc
+;	"der" prn dem f sg nom
+;	"der" prn dem f sg acc
+;	"der" prn dem mfn pl nom
+;	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+;	"der" det def f sg acc
+;	"der" det def mfn pl nom
+;	"der" det def mfn pl acc
+"<einfallsreiche>"
+	"einfallsreiche" adj f sg nom
+"<Mutmaßung>"
+	"Mutmaßung" n f sg nom
+;	"Mutmaßung" n f sg gen
+;	"Mutmaßung" n f sg dat
+;	"Mutmaßung" n f sg acc
+"<des>"
+	"der" det def m sg gen
+;	"der" det def nt sg gen
+"<Lexikographen>"
+	"Lexikographen" n m sg gen
+"<Frank>"
+	"Frank" np ant m
+"<Chance>" 
+        "Chance" np ant m
+"<,>"
+	"," cm
+"<der>"
+;	"der" rel m sg nom
+;	"der" rel f sg dat
+;	"der" prn dem m sg nom
+;	"der" prn dem f sg dat
+	"der" det def m sg nom
+;	"der" det def f sg gen
+;	"der" det def f sg dat
+;	"der" det def mfn pl gen
+"<enthauptete>"
+	"enthauptete" adj m sg nom
+"<christliche>"
+;	"christlich" adj f sg nom
+;	"christlich" adj f sg acc
+;	"christlich" adj mf pl nom st
+;	"christlich" adj mf pl acc st
+	"christlich" adj m sg nom sw
+;	"christlich" adj nt sg nom sw
+;	"christlich" adj nt sg acc sw
+"<Märtyrer>"
+	"Märtyrer" n m sg nom
+;	"Märtyrer" n m sg dat
+;	"Märtyrer" n m sg acc
+;	"Märtyrer" n m pl nom
+;	"Märtyrer" n m pl gen
+;	"Märtyrer" n m pl acc
+"<Dionysius>"
+	"Dionysius" n m sg nom
+"<von>"
+	"von" pr dat
+"<Paris>"
+	"Paris" n nt sg dat
+"<,>"
+	"," cm
+"<französisch>"
+	"französisch" adj attr
+;	"französisch" adj pred
+"<St>"
+	"St" np al
+"<.>"
+	"." sent
+"<Denis>"
+	"Denis" np ant m
+"<,>"
+	"," cm
+"<sei>"
+;	"sein" vbser imp sg
+;	"sein" vbser prs p1 sg
+	"sein" vbser prs p3 sg
+"<einst>"
+	"einst" adv
+"<der>"
+;	"der" rel m sg nom
+;	"der" rel f sg dat
+;	"der" prn dem m sg nom
+;	"der" prn dem f sg dat
+	"der" det def m sg nom
+;	"der" det def f sg gen
+;	"der" det def f sg dat
+;	"der" det def mfn pl gen
+"<Schutzpatron>"
+	"Schutzpatron" n m sg nom
+"<und>"
+	"und" cnjcoo
+"<Namenspate>"
+	"Namenspate" n m sg nom
+"<des>"
+;	"der" det def m sg gen
+	"der" det def nt sg gen
+"<Spiels>"
+	"Spiel" n nt sg gen
+"<gewesen>"
+	"sein" vbser pp
+"<:>"
+	":" sent
+"<in>"
+	"in" pr dat
+;	"in" pr acc
+"<der>"
+;	"der" rel m sg nom
+;	"der" rel f sg dat
+;	"der" prn dem m sg nom
+;	"der" prn dem f sg dat
+;	"der" det def m sg nom
+;	"der" det def f sg gen
+	"der" det def f sg dat
+;	"der" det def mfn pl gen
+"<Ikonographie>"
+	"Ikonographie" n f sg dat
+"<trägt>"
+	"tragen" vblex pri p3 sg
+"<er>"
+	"er" prn pers p3 m sg nom
+"<oftmals>"
+	"oftmals" adv
+"<sein>"
+;	"sein" vbser inf
+;	"sein" det pos m sg nom
+	"sein" det pos nt sg nom
+;	"sein" det pos nt sg acc
+"<Haupt>"
+	"Haupt" n nt sg nom
+;	"Haupt" n nt sg dat
+;	"Haupt" n nt sg acc
+"<wie>"
+	"wie" cnjadv
+;	"wie" pr nom
+"<einen>"
+	"ein" det ind m sg acc
+"<Ball>"
+;	"Ball" n m sg nom
+;	"Ball" n m sg dat
+	"Ball" n m sg acc
+;	"ballen" vblex imp sg
+"<in>"
+	"in" pr dat
+;	"in" pr acc
+"<seinen>"
+;	"sein" det pos m sg acc
+	"sein" det pos mfn pl dat
+"<Händen>"
+	"Hand" n f pl dat
+"<.>"
+	"." sent
+[
+
+]
+"<Ein>"
+;	"ein" num sg
+	"ein" det ind m sg nom
+;	"ein" det ind nt sg nom
+;	"ein" det ind nt sg acc
+"<Tennisschläger>"
+	"Tennisschläger" n m sg nom
+"<besteht>"
+;	"bestehen" vblex imp pl
+;	"bestehen" vblex pri p2 pl
+	"bestehen" vblex pri p3 sg
+"<aus>"
+	"aus" pr dat
+"<einem>"
+	"ein" det ind m sg dat
+;	"ein" det ind nt sg dat
+"<mit>"
+	"mit" pr dat
+"<einem>"
+;	"ein" det ind m sg dat
+	"ein" det ind nt sg dat
+"<Band>"
+;	"Band" n m sg nom
+	"Band" n m sg dat
+;	"Band" n m sg acc
+;	"Band" n nt sg nom
+;	"Band" n nt sg dat
+;	"Band" n nt sg acc
+;	"binden" vblex pii p1 sg
+;	"binden" vblex pii p3 sg
+"<umwickelten>"
+	"umwickelten" adj m sg dat
+"<Griff>"
+;	"Griff" n m sg nom
+	"Griff" n m sg dat
+;	"Griff" n m sg acc
+;	"greifen" vblex pii p1 sg
+;	"greifen" vblex pii p3 sg
+"<,>"
+	"," cm
+"<dem>"
+;	"der" rel m sg dat
+;	"der" rel nt sg dat
+;	"der" prn dem m sg dat
+;	"der" prn dem nt sg dat
+;	"der" det def m sg dat
+	"der" det def nt sg dat
+"<Schaft>"
+;	"Schaft" n m sg nom
+	"Schaft" n m sg dat
+;	"Schaft" n m sg acc
+"<und>"
+	"und" cnjcoo
+"<dem>"
+;	"der" rel m sg dat
+;	"der" rel nt sg dat
+;	"der" prn dem m sg dat
+;	"der" prn dem nt sg dat
+	"der" det def m sg dat
+;	"der" det def nt sg dat
+"<Kopf>"
+;	"Kopf" n m sg nom
+	"Kopf" n m sg dat
+;	"Kopf" n m sg acc
+"<,>"
+	"," cm
+"<in>"
+;	"in" pr dat
+	"in" pr acc
+"<den>"
+;	"der" rel m sg acc
+;	"der" prn dem m sg acc
+	"der" det def m sg acc
+;	"der" det def mfn pl dat
+"<die>"
+;	"der" rel f sg nom
+	"der" rel f sg acc
+;	"der" rel mfn pl nom
+;	"der" rel mfn pl acc
+;	"der" prn dem f sg nom
+;	"der" prn dem f sg acc
+;	"der" prn dem mfn pl nom
+;	"der" prn dem mfn pl acc
+;	"der" det def f sg nom
+;	"der" det def f sg acc
+;	"der" det def mfn pl nom
+;	"der" det def mfn pl acc
+"<aus>"
+	"aus" pr dat
+"<Saiten>"
+;	"Saite" n f pl nom
+;	"Saite" n f pl gen
+	"Saite" n f pl dat
+;	"Saite" n f pl acc
+"<bestehende>"
+	"bestehende" adj f sg nom
+"<Schlagfläche>"
+	"Schlagfläche" n f sg nom
+"<eingespannt>"
+	"eingespannt" vblex inf pii
+"<ist>"
+	"sein" vbser pri p3 sg
+"<.>"
+	"." sent
+[
+
+]
+"<Früher>"
+	"früher" adv
+;	"früh" adj comp attr
+;	"früh" adj comp pred
+;	"früh" adj mf pl gen st
+;	"früh" adj m sg nom mix
+;	"früh" adj f sg gen st
+;	"früh" adj f sg dat st
+"<wurden>"
+;	"werden" vaux pii p1 pl
+	"werden" vaux pii p3 pl
+;	"werden" vblex pii p1 pl
+;	"werden" vblex pii p3 pl
+"<Tennisschläger>"
+	"Tennisschläger" n f pl nom
+"<ausschließlich>"
+;	"ausschließlich" adj attr
+	"ausschließlich" adj pred
+"<aus>"
+	"aus" pr dat
+"<Holz>"
+;	"Holz" n nt sg nom
+	"Holz" n nt sg dat
+;	"Holz" n nt sg acc
+;	"holzen" vblex imp sg
+"<gefertigt>"
+	"fertigen" vblex pp
+"<.>"
+	"." sent
+"<Nachdem>"
+	"nachdem" cnjsub
+"<in>"
+	"in" pr dat
+;	"in" pr acc
+"<den>"
+;	"der" rel m sg acc
+;	"der" prn dem m sg acc
+;	"der" det def m sg acc
+	"der" det def mfn pl dat
+"<1960er>"
+	"1960" num m pl dat
+
+"<Jahren>"
+	"Jahr" n nt pl dat
+"<kurzzeitig>"
+	"kurzzeitig" adj f pl nom
+"<Metallrahmen>"
+	"Metallrahmen" n f pl nom
+"<aus>"
+	"aus" pr dat
+"<Aluminium>"
+;	"Aluminium" n nt sg nom
+	"Aluminium" n nt sg dat
+;	"Aluminium" n nt sg acc
+"<oder>"
+	"oder" cnjcoo
+"<Stahl>"
+;	"Stahl" n m sg nom
+	"Stahl" n m sg dat
+;	"Stahl" n m sg acc
+;	"stehlen" vblex pii p1 sg
+;	"stehlen" vblex pii p3 sg
+"<aufkamen>"
+	"aufkamen" vblex 3 pl pii
+"<,>"
+	"," cm
+"<bestehen>"
+;	"bestehen" vblex inf
+;	"bestehen" vblex pri p1 pl
+	"bestehen" vblex pri p3 pl
+;	"bestehen" vblex prs p1 pl
+;	"bestehen" vblex prs p3 pl
+"<heutige>"
+;	"heutig" adj f sg nom
+;	"heutig" adj f sg acc
+;	"heutig" adj mf pl nom st
+;	"heutig" adj mf pl acc st
+;	"heutig" adj m sg nom sw
+	"heutig" adj nt sg nom sw
+;	"heutig" adj nt sg acc sw
+"<Rahmen>"
+;	"Rahm" n m pl dat
+;	"rahmen" vblex inf
+	"Rahmen" n nt sg nom
+;	"Rahmen" n nt sg dat
+;	"Rahmen" n nt sg acc
+;	"Rahmen" n nt pl nom
+;	"Rahmen" n nt pl gen
+;	"Rahmen" n nt pl dat
+;	"Rahmen" n nt pl acc
+;	"rahmen" vblex pri p1 pl
+;	"rahmen" vblex pri p3 pl
+;	"rahmen" vblex prs p1 pl
+;	"rahmen" vblex prs p3 pl
+"<hauptsächlich>"
+	"hauptsächlich" adj m sg acc
+"<aus>"
+	"aus" pr dat
+"<kohlenstofffaserverstärktem>"
+	"kohlenstofffaserverstärktem" adj m sg dat
+"<Kunststoff>"
+;	"Kunststoff" n m sg nom
+	"Kunststoff" n m sg dat
+;	"Kunststoff" n m sg acc
+"<,>"
+	"," cm
+"<der>"
+	"der" rel m sg nom
+;	"der" rel f sg dat
+;	"der" prn dem m sg nom
+;	"der" prn dem f sg dat
+;	"der" det def m sg nom
+;	"der" det def f sg gen
+;	"der" det def f sg dat
+;	"der" det def mfn pl gen
+"<ein>"
+;	"ein" num sg
+;	"ein" det ind m sg nom
+;	"ein" det ind nt sg nom
+	"ein" det ind nt sg acc
+"<geringes>"
+;	"gering" adj nt sg nom mix
+	"gering" adj nt sg acc mix
+"<Gewicht>"
+;	"Gewicht" n nt sg nom
+;	"Gewicht" n nt sg dat
+	"Gewicht" n nt sg acc
+"<in>"
+	"in" pr dat
+;	"in" pr acc
+"<Verbindung>"
+;	"Verbindung" n f sg nom
+;	"Verbindung" n f sg gen
+	"Verbindung" n f sg dat
+;	"Verbindung" n f sg acc
+"<mit>"
+	"mit" pr dat
+"<einer>"
+;	"ein" det ind f sg gen
+	"ein" det ind f sg dat
+"<hohen>"
+	"hohen" adj f sg dat
+"<Steifigkeit>"
+	"Steifigkeit" n f sg dat
+"<gewährleistet>"
+;	"gewährleisten" vblex pp
+;	"gewährleisten" vblex imp pl
+;	"gewährleisten" vblex pri p2 pl
+	"gewährleisten" vblex pri p3 sg
+;	"gewährleisten" vblex prs p2 pl
+"<.>"
+	"." sent
+"<Tennissaiten>"
+	"Tennissaiten" n f pl nom
+"<bestehen>"
+;	"bestehen" vblex inf
+;	"bestehen" vblex pri p1 pl
+	"bestehen" vblex pri p3 pl
+;	"bestehen" vblex prs p1 pl
+;	"bestehen" vblex prs p3 pl
+"<meist>"
+	"meist" adv
+;	"viel" adj sup pred
+"<aus>"
+	"aus" pr dat
+"<Nylon>"
+	"Nylon" n nt sg dat
+"<oder>"
+	"oder" cnjcoo
+"<Polyester>"
+	"Polyester" n nt sg dat
+"<,>"
+	"," cm
+"<die>"
+;	"der" rel f sg nom
+;	"der" rel f sg acc
+	"der" rel mfn pl nom
+;	"der" rel mfn pl acc
+;	"der" prn dem f sg nom
+;	"der" prn dem f sg acc
+;	"der" prn dem mfn pl nom
+;	"der" prn dem mfn pl acc
+;	"der" det def f sg nom
+;	"der" det def f sg acc
+;	"der" det def mfn pl nom
+;	"der" det def mfn pl acc
+"<eine>"
+;	"ein" det ind f sg nom
+	"ein" det ind f sg acc
+"<längere>"
+;	"lang" adj comp f sg nom
+	"lang" adj comp f sg acc
+;	"lang" adj comp m sg nom sw
+;	"lang" adj comp nt sg nom sw
+;	"lang" adj comp nt sg acc sw
+;	"lang" adj comp mf pl nom st
+;	"lang" adj comp mf pl acc st
+"<Lebensdauer>"
+	"Lebensdauer" n f sg acc
+"<als>"
+;	"als" cnjadv
+	"als" pr nom
+"<die>"
+	"der" rel f sg nom
+;	"der" rel f sg acc
+;	"der" rel mfn pl nom
+;	"der" rel mfn pl acc
+;	"der" prn dem f sg nom
+;	"der" prn dem f sg acc
+;	"der" prn dem mfn pl nom
+;	"der" prn dem mfn pl acc
+;	"der" det def f sg nom
+;	"der" det def f sg acc
+;	"der" det def mfn pl nom
+;	"der" det def mfn pl acc
+"<im>"
+;	"der" det def m sg dat
+;		"in" pr dat
+	"der" det def nt sg dat
+		"in" pr dat
+"<modernen>"
+;	"modern" adj m sg gen
+;	"modern" adj m sg acc
+;	"modern" adj nt sg gen
+;	"modern" adj mf pl dat
+;	"modern" adj f sg gen mix
+;	"modern" adj f sg dat mix
+;	"modern" adj m sg dat mix
+	"modern" adj nt sg dat mix
+;	"modern" adj mf pl nom mix
+;	"modern" adj mf pl gen mix
+;	"modern" adj mf pl acc mix
+"<Profitennis>"
+	"Profitennis" n nt sg dat
+"<nur>"
+	"nur" adv
+"<noch>"
+	"noch" adv
+"<selten>"
+	"selten" adj attr
+;	"selten" adj pred
+"<verwendeten>"
+;	"verwenden" vblex pii p1 pl
+	"verwenden" vblex pii p3 pl
+;	"verwenden" vblex pis p1 pl
+;	"verwenden" vblex pis p3 pl
+"<Naturdarmsaiten>"
+	"Naturdarmsaiten" n f pl nom
+"<aufweisen>"
+	"aufweisen" vblex pii p3 pl
+"<.>"
+	"." sent
+"<Ein>"
+;	"ein" num sg
+	"ein" det ind m sg nom
+;	"ein" det ind nt sg nom
+;	"ein" det ind nt sg acc
+"<Tennisschläger>"
+	"Tennisschläger" n m sg nom
+"<wiegt>"
+;	"wiegen" vblex imp pl
+;	"wiegen" vblex pri p2 pl
+	"wiegen" vblex pri p3 sg
+"<etwa>"
+	"etwa" adv
+"<280>"
+	"280" num
+"<bis>"
+	"bis" pr acc
+"<350>"
+	"350" num
+"<Gramm>"
+;	"Gramm" n nt sg nom
+;	"Gramm" n nt sg dat
+	"Gramm" n nt sg acc
+"<.>"
+	"." sent
+"<Nach>"
+	"nach" pr dat
+;	"nach" pprep dat
+"<den>"
+;	"der" rel m sg acc
+;	"der" prn dem m sg acc
+;	"der" det def m sg acc
+	"der" det def mfn pl dat
+"<Regularien>"
+	"Regularien" n f pl dat  
+"<der>"
+;	"der" rel m sg nom
+;	"der" rel f sg dat
+;	"der" prn dem m sg nom
+;	"der" prn dem f sg dat
+;	"der" det def m sg nom
+	"der" det def f sg gen
+;	"der" det def f sg dat
+;	"der" det def mfn pl gen
+"<ITF>"
+	"ITF" n f sg gen
+"<darf>"
+	"darf" vaux pres
+"<er>"
+	"er" prn pers p3 m sg nom
+"<maximal>"
+;	"maximal" adj attr
+	"maximal" adj pred
+"<27>"
+	"27" num
+"<Zoll>"
+	"Zoll" n m sg nom
+;	"Zoll" n m sg dat
+;	"Zoll" n m sg acc
+;	"zollen" vblex imp sg
+"<(>"
+	"(" lpar
+"<73,7>"
+	"73,7" num
+"<cm>"
+	"cm" n acr
+"<)>"
+	")" rpar
+"<lang>"
+;	"lang" adj attr
+	"lang" adj pred
+;	"langen" vblex imp sg
+"<und>"
+	"und" cnjcoo
+"<12,5>"
+	"12,5" num
+"<Zoll>"
+	"Zoll" n m sg nom
+;	"Zoll" n m sg dat
+;	"Zoll" n m sg acc
+;	"zollen" vblex imp sg
+"<(>"
+	"(" lpar
+"<31,7>"
+	"31,7" num
+"<cm>"
+	"cm" n acr
+"<)>"
+	")" rpar
+"<breit>"
+;	"breit" adj attr
+	"breit" adj pred
+"<sein>"
+	"sein" vbser inf
+;	"sein" det pos m sg nom
+;	"sein" det pos nt sg nom
+;	"sein" det pos nt sg acc
+"<.>"
+	"." sent
+"<Bei>"
+	"bei" pr dat
+"<der>"
+;	"der" rel m sg nom
+;	"der" rel f sg dat
+;	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+;	"der" det def m sg nom
+;	"der" det def f sg gen
+;	"der" det def f sg dat
+;	"der" det def mfn pl gen
+"<Schlägerfläche>"
+	"Schlägerfläche" n f sg dat
+"<sind>"
+;	"sein" vbser pri p1 pl
+	"sein" vbser pri p3 pl
+"<verschiedene>"
+;	"verschieden" adj f sg nom
+;	"verschieden" adj f sg acc
+	"verschieden" adj mf pl nom st
+;	"verschieden" adj mf pl acc st
+;	"verschieden" adj m sg nom sw
+;	"verschieden" adj nt sg nom sw
+;	"verschieden" adj nt sg acc sw
+"<Größen>"
+	"Größe" n f pl nom
+;	"Größe" n f pl gen
+;	"Größe" n f pl dat
+;	"Größe" n f pl acc
+"<(>"
+	"(" lpar
+"<von>"
+	"von" pr dat
+"<etwa>"
+	"etwa" adv
+"<750>"
+	"750" num
+"<cm>"
+	"cm" n acr
+"<2>"
+	"2" num
+"<bis>"
+	"bis" pr acc
+"<zu>"
+	"zu" pr dat
+"<625>"
+	"625" num
+"<cm>"
+	"cm" n acr
+"<2>"
+	"2" num
+"<)>"
+	")" rpar
+"<üblich>"
+;	"üblich" adj attr
+	"üblich" adj pred
+"<;>"
+	";" sent
+"<eine>"
+	"ein" det ind f sg nom
+;	"ein" det ind f sg acc
+"<größere>"
+	"groß" adj comp f sg nom
+;	"groß" adj comp f sg acc
+;	"groß" adj comp m sg nom sw
+;	"groß" adj comp nt sg nom sw
+;	"groß" adj comp nt sg acc sw
+;	"groß" adj comp mf pl nom st
+;	"groß" adj comp mf pl acc st
+"<Schlägerfläche>"
+	"Schlägerfläche" n f sg nom
+"<bietet>"
+;	"bieten" vblex imp pl
+;	"bieten" vblex pri p2 pl
+	"bieten" vblex pri p3 sg
+;	"bieten" vblex prs p2 pl
+"<einen>"
+	"ein" det ind m sg acc
+"<größeren>"
+;	"groß" adj comp m sg gen
+	"groß" adj comp m sg acc
+;	"groß" adj comp nt sg gen
+;	"groß" adj comp mf pl dat
+;	"groß" adj comp m sg dat mix
+;	"groß" adj comp nt sg dat mix
+;	"groß" adj comp f sg gen mix
+;	"groß" adj comp f sg dat mix
+;	"groß" adj comp mf pl nom mix
+;	"groß" adj comp mf pl gen mix
+;	"groß" adj comp mf pl acc mix
+"<optimalen>"
+;	"optimal" adj m sg gen
+	"optimal" adj m sg acc
+;	"optimal" adj nt sg gen
+;	"optimal" adj mf pl dat
+;	"optimal" adj f sg gen mix
+;	"optimal" adj f sg dat mix
+;	"optimal" adj m sg dat mix
+;	"optimal" adj nt sg dat mix
+;	"optimal" adj mf pl nom mix
+;	"optimal" adj mf pl gen mix
+;	"optimal" adj mf pl acc mix
+"<Treffpunkt>"
+	"Treffpunkt" n m sg acc
+"<(>"
+	"(" lpar
+"<sweet>"
+	"*sweet"
+"<spot>"
+	"*spot"
+"<)>"
+	")" rpar
+"<für>"
+	"für" pr acc
+"<den>"
+;	"der" rel m sg acc
+;	"der" prn dem m sg acc
+	"der" det def m sg acc
+;	"der" det def mfn pl dat
+"<Ball>"
+;	"Ball" n m sg nom
+;	"Ball" n m sg dat
+	"Ball" n m sg acc
+;	"ballen" vblex imp sg
+"<und>"
+	"und" cnjcoo
+"<erlaubt>"
+;	"erlauben" vblex pp
+;	"erlauben" vblex imp pl
+;	"erlauben" vblex pri p2 pl
+	"erlauben" vblex pri p3 sg
+"<eine>"
+;	"ein" det ind f sg nom
+	"ein" det ind f sg acc
+"<weniger>"
+;	"weniger" adv
+	"wenig" adj comp attr
+;	"wenig" adj comp pred
+;	"wenig" adj mf pl gen st
+;	"wenig" adj m sg nom mix
+;	"wenig" adj f sg gen st
+;	"wenig" adj f sg dat st
+"<kraftintensive>"
+	"kraftintensive" adj f sg acc
+"<Spielweise>"
+	"Spielweise" n f sg acc
+"<,>"
+	"," cm
+"<während>"
+;	"währen" vblex pprs
+	"während" pr gen
+"<eine>"
+;	"ein" det ind f sg nom
+	"ein" det ind f sg acc
+"<kleinere>"
+;	"klein" adj comp f sg nom
+	"klein" adj comp f sg acc
+;	"klein" adj comp m sg nom sw
+;	"klein" adj comp nt sg nom sw
+;	"klein" adj comp nt sg acc sw
+;	"klein" adj comp mf pl nom st
+;	"klein" adj comp mf pl acc st
+"<Fläche>"
+;	"Fläche" n f sg nom
+;	"Fläche" n f sg gen
+;	"Fläche" n f sg dat
+	"Fläche" n f sg acc
+"<die>"
+;	"der" rel f sg nom
+;	"der" rel f sg acc
+;	"der" rel mfn pl nom
+;	"der" rel mfn pl acc
+;	"der" prn dem f sg nom
+;	"der" prn dem f sg acc
+;	"der" prn dem mfn pl nom
+;	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+;	"der" det def f sg acc
+;	"der" det def mfn pl nom
+;	"der" det def mfn pl acc
+"<Ballkontrolle>"
+	"Ballkontrolle" n f sg nom
+"<verbessert>"
+;	"verbessern" vblex pp
+;	"verbessern" vblex imp pl
+;	"verbessern" vblex pri p2 pl
+	"verbessern" vblex pri p3 sg
+;	"verbessern" vblex prs p2 pl
+"<.>"
+	"." sent
+[
+
+]
+"<Tennisbälle>"
+	"Tennisbälle" n f pl nom
+"<bestehen>"
+;	"bestehen" vblex inf
+;	"bestehen" vblex pri p1 pl
+	"bestehen" vblex pri p3 pl
+;	"bestehen" vblex prs p1 pl
+;	"bestehen" vblex prs p3 pl
+"<in der Regel>"
+	"in der Regel" adv
+"<aus>"
+	"aus" pr dat
+"<einer>"
+;	"ein" det ind f sg gen
+	"ein" det ind f sg dat
+"<mit>"
+	"mit" pr dat
+"<Überdruck>"
+	"Überdruck" n m sg dat
+"<gefüllten>"
+;	"gefüllt" adj m sg gen
+;	"gefüllt" adj m sg acc
+;	"gefüllt" adj nt sg gen
+;	"gefüllt" adj mf pl dat
+;	"gefüllt" adj f sg gen mix
+	"gefüllt" adj f sg dat mix
+;	"gefüllt" adj m sg dat mix
+;	"gefüllt" adj nt sg dat mix
+;	"gefüllt" adj mf pl nom mix
+;	"gefüllt" adj mf pl gen mix
+;	"gefüllt" adj mf pl acc mix
+"<Gummiblase>"
+	"Gummiblase" n f sg dat
+"<,>"
+	"," cm
+"<über>"
+;	"über" pr dat
+	"über" pr acc
+"<die>"
+;	"der" rel f sg nom
+	"der" rel f sg acc
+;	"der" rel mfn pl nom
+;	"der" rel mfn pl acc
+;	"der" prn dem f sg nom
+;	"der" prn dem f sg acc
+;	"der" prn dem mfn pl nom
+;	"der" prn dem mfn pl acc
+;	"der" det def f sg nom
+;	"der" det def f sg acc
+;	"der" det def mfn pl nom
+;	"der" det def mfn pl acc
+"<ein>"
+;	"ein" num sg
+	"ein" det ind m sg nom
+;	"ein" det ind nt sg nom
+;	"ein" det ind nt sg acc
+"<Filzüberzug>"
+	"Filzüberzug" n m sg nom
+"<gespannt>"
+	"spannen" vblex pp
+"<ist>"
+	"sein" vbser pri p3 sg
+"<.>"
+	"." sent
+"<Sobald>"
+	"sobald" cnjsub
+"<der>"
+;	"der" rel m sg nom
+;	"der" rel f sg dat
+;	"der" prn dem m sg nom
+;	"der" prn dem f sg dat
+	"der" det def m sg nom
+;	"der" det def f sg gen
+;	"der" det def f sg dat
+;	"der" det def mfn pl gen
+"<Überdruck>"
+	"Überdruck" m sg nom
+"<nach>"
+	"nach" pr dat
+;	"nach" pprep dat
+"<einer>"
+;	"ein" det ind f sg gen
+	"ein" det ind f sg dat
+"<gewissen>"
+;	"gewiss" adj m sg gen
+;	"gewiss" adj m sg acc
+;	"gewiss" adj nt sg gen
+;	"gewiss" adj mf pl dat
+;	"gewiss" adj f sg gen mix
+	"gewiss" adj f sg dat mix
+;	"gewiss" adj m sg dat mix
+;	"gewiss" adj nt sg dat mix
+;	"gewiss" adj mf pl nom mix
+;	"gewiss" adj mf pl gen mix
+;	"gewiss" adj mf pl acc mix
+"<Zeit>"
+;	"zeit" pr gen
+;	"Zeit" n f sg nom
+;	"Zeit" n f sg gen
+	"Zeit" n f sg dat
+;	"Zeit" n f sg acc
+"<aus>"
+	"aus" pr dat
+"<dem>"
+;	"der" rel m sg dat
+;	"der" rel nt sg dat
+;	"der" prn dem m sg dat
+;	"der" prn dem nt sg dat
+	"der" det def m sg dat
+;	"der" det def nt sg dat
+"<Ball>"
+;	"Ball" n m sg nom
+	"Ball" n m sg dat
+;	"Ball" n m sg acc
+;	"ballen" vblex imp sg
+"<entwichen>"
+;	"entweichen" vblex pp
+;	"entweichen" vblex pii p1 pl
+;	"entweichen" vblex pii p3 pl
+;	"entweichen" vblex pis p1 pl
+	"entweichen" vblex pis p3 pl
+"<ist>"
+	"sein" vbser pri p3 sg
+"<,>"
+	"," cm
+"<lässt>"
+;	"lassen" vblex pri p2 sg
+	"lassen" vblex pri p3 sg
+"<die>"
+;	"der" rel f sg nom
+;	"der" rel f sg acc
+;	"der" rel mfn pl nom
+;	"der" rel mfn pl acc
+;	"der" prn dem f sg nom
+;	"der" prn dem f sg acc
+;	"der" prn dem mfn pl nom
+;	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+;	"der" det def f sg acc
+;	"der" det def mfn pl nom
+;	"der" det def mfn pl acc
+"<Sprungeigenschaft>"
+	"Sprungeigenschaft" n f sg nom
+"<stark>"
+;	"stark" adj attr
+	"stark" adj pred
+"<nach>"
+	"nach" pr dat
+;	"nach" pprep dat
+"<und>"
+	"und" cnjcoo
+"<der>"
+;	"der" rel m sg nom
+;	"der" rel f sg dat
+;	"der" prn dem m sg nom
+;	"der" prn dem f sg dat
+	"der" det def m sg nom
+;	"der" det def f sg gen
+;	"der" det def f sg dat
+;	"der" det def mfn pl gen
+"<Ball>"
+	"Ball" n m sg nom
+;	"Ball" n m sg dat
+;	"Ball" n m sg acc
+;	"ballen" vblex imp sg
+"<muss>"
+;	"müssen" vbmod pri p1 sg
+	"müssen" vbmod pri p3 sg
+"<ausgetauscht>"
+	"ausgetauscht" vblex pii p3 sg
+"<werden>"
+	"werden" vaux inf
+;	"werden" vblex inf
+;	"werden" vaux pri p1 pl
+;	"werden" vaux pri p3 pl
+;	"werden" vaux prs p1 pl
+;	"werden" vaux prs p3 pl
+;	"werden" vblex pri p1 pl
+;	"werden" vblex pri p3 pl
+;	"werden" vblex prs p1 pl
+;	"werden" vblex prs p3 pl
+"<.>"
+	"." sent
+"<Daneben>"
+	"daneben" preadv
+"<existieren>"
+;	"existieren" vblex inf
+;	"existieren" vblex pri p1 pl
+	"existieren" vblex pri p3 pl
+;	"existieren" vblex prs p1 pl
+;	"existieren" vblex prs p3 pl
+"<drucklose>"
+	"drucklose" adj m pl nom
+"<Bälle>"
+	"Ball" n m pl nom
+;	"Ball" n m pl gen
+;	"Ball" n m pl acc
+"<,>"
+	"," cm
+"<deren>"
+	"der" rel f sg gen
+;	"der" rel mfn pl gen
+;	"der" prn dem f sg gen
+;	"der" prn dem mfn pl gen
+"<Sprungeigenschaft>"
+	"Sprungeigenschaft" n f sg gen
+"<auf>"
+	"auf" pr dat
+;	"auf" pr acc
+"<der>"
+;	"der" rel m sg nom
+;	"der" rel f sg dat
+;	"der" prn dem m sg nom
+;	"der" prn dem f sg dat
+;	"der" det def m sg nom
+;	"der" det def f sg gen
+	"der" det def f sg dat
+;	"der" det def mfn pl gen
+"<Verwendung>"
+	"Verwendung" n f sg dat
+"<verschiedener>"
+	"verschieden" adj comp attr
+;	"verschieden" adj comp pred
+;	"verschieden" adj mf pl gen st
+;	"verschieden" adj m sg nom mix
+;	"verschieden" adj f sg gen st
+;	"verschieden" adj f sg dat st
+"<Gummischichten>"
+	"Gummischichten" n f pl acc
+"<basiert>"
+;	"basieren" vblex pp
+;	"basieren" vblex imp pl
+;	"basieren" vblex pri p2 pl
+	"basieren" vblex pri p3 sg
+"<.>"
+	"." sent
+"<Bei>"
+	"bei" pr dat
+"<offiziellen>"
+;	"offiziell" adj m sg gen
+;	"offiziell" adj m sg acc
+;	"offiziell" adj nt sg gen
+	"offiziell" adj mf pl dat
+;	"offiziell" adj f sg gen mix
+;	"offiziell" adj f sg dat mix
+;	"offiziell" adj m sg dat mix
+;	"offiziell" adj nt sg dat mix
+;	"offiziell" adj mf pl nom mix
+;	"offiziell" adj mf pl gen mix
+;	"offiziell" adj mf pl acc mix
+"<Turnieren>"
+	"Turnier" n nt pl dat
+"<wird>"
+	"werden" vaux pri p3 sg
+	"werden" vblex pri p3 sg
+"<fast>"
+	"fast" adv
+"<ausschließlich>"
+;	"ausschließlich" adj attr
+	"ausschließlich" adj pred
+"<mit>"
+	"mit" pr dat
+"<Druckbällen>"
+	"Druckbällen" n f pl dat
+"<gespielt>"
+	"spielen" vblex pp
+"<.>"
+	"." sent
+"<Während>"
+	"währen" vblex pprs
+;	"während" pr gen
+"<früher>"
+	"früher" adv
+;	"früh" adj comp attr
+;	"früh" adj comp pred
+;	"früh" adj mf pl gen st
+;	"früh" adj m sg nom mix
+;	"früh" adj f sg gen st
+;	"früh" adj f sg dat st
+"<Tennisbälle>"
+	"Tennisbälle" n f pl nom
+"<in>"
+	"in" pr dat
+;	"in" pr acc
+"<schwarz>"
+;	"schwarz" adj attr
+	"schwarz" adj pred
+"<oder>"
+	"oder" cnjcoo
+"<weiß>"
+;	"weiß" adj attr
+	"weiß" adj pred
+;	"wissen" vblex pri p1 sg
+;	"wissen" vblex pri p3 sg
+"<üblich>"
+;	"üblich" adj attr
+	"üblich" adj pred
+"<waren>"
+;	"sein" vbser pii p1 pl
+	"sein" vbser pii p3 pl
+"<,>"
+	"," cm
+"<setzten>"
+;	"setzen" vblex pii p1 pl
+	"setzen" vblex pii p3 pl
+;	"setzen" vblex pis p1 pl
+;	"setzen" vblex pis p3 pl
+"<sich>"
+	"sich" pn
+"<mit>"
+	"mit" pr dat
+"<dem>"
+;	"der" rel m sg dat
+;	"der" rel nt sg dat
+;	"der" prn dem m sg dat
+;	"der" prn dem nt sg dat
+;	"der" det def m sg dat
+	"der" det def nt sg dat
+"<Aufkommen>"
+;	"Aufkommen" n nt sg nom
+	"Aufkommen" n nt sg dat
+;	"Aufkommen" n nt sg acc
+;	"Aufkommen" n nt pl nom
+;	"Aufkommen" n nt pl gen
+;	"Aufkommen" n nt pl dat
+;	"Aufkommen" n nt pl acc
+"<der>"
+;	"der" rel m sg nom
+;	"der" rel f sg dat
+;	"der" prn dem m sg nom
+;	"der" prn dem f sg dat
+;	"der" det def m sg nom
+	"der" det def f sg gen
+;	"der" det def f sg dat
+;	"der" det def mfn pl gen
+"<Fernsehübertragungen>"
+	"Fernsehübertragungen" n f sg gen
+"<von>"
+	"von" pr dat
+"<Tennisspielen>"
+	"Tennisspielen" n f pl dat
+"<in>"
+	"in" pr dat
+;	"in" pr acc
+"<den>"
+;	"der" rel m sg acc
+;	"der" prn dem m sg acc
+;	"der" det def m sg acc
+	"der" det def mfn pl dat
+"<1970er>"
+	"1970" num m pl dat
+"<Jahren>"
+	"Jahr" n nt pl dat
+"<hellgelbe>"
+	"hellgelbe" adj m pl nom
+"<Bälle>"
+	"Ball" n m pl nom
+;	"Ball" n m pl gen
+;	"Ball" n m pl acc
+"<durch>"
+	"durch" pr acc
+"<,>"
+	"," cm
+"<die>"
+;	"der" rel f sg nom
+;	"der" rel f sg acc
+	"der" rel mfn pl nom
+;	"der" rel mfn pl acc
+;	"der" prn dem f sg nom
+;	"der" prn dem f sg acc
+;	"der" prn dem mfn pl nom
+;	"der" prn dem mfn pl acc
+;	"der" det def f sg nom
+;	"der" det def f sg acc
+;	"der" det def mfn pl nom
+;	"der" det def mfn pl acc
+"<auf>"
+	"auf" pr dat
+;	"auf" pr acc
+"<Farbfernsehern>"
+	"Farbfernsehern" n m pl dat
+"<besser>"
+;	"gut" adj comp attr
+	"gut" adj comp pred
+;	"bessern" vblex imp sg
+"<zu>"
+	"zu" pr dat
+"<erkennen>"
+	"erkennen" vblex inf
+;	"erkennen" vblex pri p1 pl
+;	"erkennen" vblex pri p3 pl
+;	"erkennen" vblex prs p1 pl
+;	"erkennen" vblex prs p3 pl
+"<sind>"
+;	"sein" vbser pri p1 pl
+	"sein" vbser pri p3 pl
+"<.>"
+	"." sent
+"<Bei>"
+	"bei" pr dat
+"<den>"
+;	"der" rel m sg acc
+;	"der" prn dem m sg acc
+	"der" det def m sg acc
+;	"der" det def mfn pl dat
+"<Wimbledon>"
+	"Wimbledon" np al
+"<Championships>"
+	"Championships" np al
+"<wurde>"
+;	"werden" vaux pii p1 sg
+	"werden" vaux pii p3 sg
+;	"werden" vblex pii p1 sg
+;	"werden" vblex pii p3 sg
+"<bis>"
+	"bis" pr acc
+"<1986>"
+	"1986" num
+"<ausschließlich>"
+;	"ausschließlich" adj attr
+	"ausschließlich" adj pred
+"<mit>"
+	"mit" pr dat
+"<weißen>"
+;	"weiß" adj m sg gen
+;	"weiß" adj m sg acc
+;	"weiß" adj nt sg gen
+	"weiß" adj mf pl dat
+;	"weiß" adj f sg gen mix
+;	"weiß" adj f sg dat mix
+;	"weiß" adj m sg dat mix
+;	"weiß" adj nt sg dat mix
+;	"weiß" adj mf pl nom mix
+;	"weiß" adj mf pl gen mix
+;	"weiß" adj mf pl acc mix
+"<Bällen>"
+	"Ball" n m pl dat
+"<gespielt>"
+	"spielen" vblex pp
+"<.>"
+	"." sent
+[
+
+]
+"<Nach>"
+;	"nach" pr dat
+	"nach" pprep dat
+"<den>"
+;	"der" rel m sg acc
+;	"der" prn dem m sg acc
+;	"der" det def m sg acc
+	"der" det def mfn pl dat
+"<offiziellen>"
+;	"offiziell" adj m sg gen
+;	"offiziell" adj m sg acc
+;	"offiziell" adj nt sg gen
+	"offiziell" adj mf pl dat
+;	"offiziell" adj f sg gen mix
+;	"offiziell" adj f sg dat mix
+;	"offiziell" adj m sg dat mix
+;	"offiziell" adj nt sg dat mix
+;	"offiziell" adj mf pl nom mix
+;	"offiziell" adj mf pl gen mix
+;	"offiziell" adj mf pl acc mix
+"<Regeln>"
+;	"regeln" vblex inf
+;	"Regel" n f pl nom
+;	"Regel" n f pl gen
+	"Regel" n f pl dat
+;	"Regel" n f pl acc
+;	"regeln" vblex pri p1 pl
+;	"regeln" vblex pri p3 pl
+;	"regeln" vblex prs p1 pl
+;	"regeln" vblex prs p3 pl
+"<muss>"
+;	"müssen" vbmod pri p1 sg
+	"müssen" vbmod pri p3 sg
+"<ein>"
+;	"ein" num sg
+	"ein" det ind m sg nom
+;	"ein" det ind nt sg nom
+;	"ein" det ind nt sg acc
+"<Tennisball>"
+	"Tennisball" n m sg nom
+"<zwischen>"
+	"zwischen" pr dat
+"<56,7>"
+	"56,7" num
+"<g>"
+	"*g"
+"<und>"
+	"und" cnjcoo
+"<58,5>"
+	"58,5" num
+"<g>"
+	"g" n acr
+"<schwer>"
+;	"schwer" adj attr
+	"schwer" adj pred
+"<sein>"
+	"sein" vbser inf
+;	"sein" det pos m sg nom
+;	"sein" det pos nt sg nom
+;	"sein" det pos nt sg acc
+"<und>"
+	"und" cnjcoo
+"<einen>"
+	"ein" det ind m sg acc
+"<Durchmesser>"
+;	"Durchmesser" n m sg nom
+;	"Durchmesser" n m sg dat
+	"Durchmesser" n m sg acc
+;	"Durchmesser" n m pl nom
+;	"Durchmesser" n m pl gen
+;	"Durchmesser" n m pl acc
+"<von>"
+	"von" pr dat
+"<6,54>"
+	"6,54" num
+"<cm>"
+	"cm" n acr
+"<bis>"
+	"bis" pr acc
+"<6,86>"
+	"6,86" num
+"<cm>"
+	"cm" 
+"<besitzen>"
+;	"besitzen" vblex inf
+;	"besitzen" vblex pri p1 pl
+	"besitzen" vblex pri p3 pl
+;	"besitzen" vblex prs p1 pl
+;	"besitzen" vblex prs p3 pl
+"<.>"
+	"." sent
+[
+
+]
+"<Zu>"
+	"zu" pr dat
+"<Beginn>"
+;	"Beginn" n m sg nom
+	"Beginn" n m sg dat
+;	"Beginn" n m sg acc
+;	"beginnen" vblex imp sg
+"<eines>"
+	"ein" det ind m sg gen
+;	"ein" det ind nt sg gen
+"<Ballwechsels>"
+	"Ballwechsels" n m sg gen
+"<steht>"
+;	"stehen" vblex imp pl
+;	"stehen" vblex pri p2 pl
+	"stehen" vblex pri p3 sg
+"<der>"
+;	"der" rel m sg nom
+;	"der" rel f sg dat
+;	"der" prn dem m sg nom
+;	"der" prn dem f sg dat
+	"der" det def m sg nom
+;	"der" det def f sg gen
+;	"der" det def f sg dat
+;	"der" det def mfn pl gen
+"<Aufschlag>"
+	"Aufschlag" n m sg nom
+"<.>"
+	"." sent
+"<Beim>"
+	"der" det def m sg dat
+		"bei" pr dat
+;	"der" det def nt sg dat
+;		"bei" pr dat
+"<Aufschlag>"
+	"Aufschlag" n m sg dat
+"<muss>"
+;	"müssen" vbmod pri p1 sg
+	"müssen" vbmod pri p3 sg
+"<der>"
+;	"der" rel m sg nom
+;	"der" rel f sg dat
+;	"der" prn dem m sg nom
+;	"der" prn dem f sg dat
+	"der" det def m sg nom
+;	"der" det def f sg gen
+;	"der" det def f sg dat
+;	"der" det def mfn pl gen
+"<Ball>"
+	"Ball" n m sg nom
+;	"Ball" n m sg dat
+;	"Ball" n m sg acc
+;	"ballen" vblex imp sg
+"<in>"
+;	"in" pr dat
+	"in" pr acc
+"<das>"
+;	"der" rel nt sg nom
+;	"der" rel nt sg acc
+;	"der" prn dem nt sg nom
+;	"der" prn dem nt sg acc
+;	"der" det def nt sg nom
+	"der" det def nt sg acc
+"<diagonal>"
+	"diagonal" adj nt sg acc
+"<gegenüberliegende>"
+	"gegenüberliegende" adj nt sg acc
+"<kleinere>"
+;	"klein" adj comp f sg nom
+;	"klein" adj comp f sg acc
+;	"klein" adj comp m sg nom sw
+;	"klein" adj comp nt sg nom sw
+	"klein" adj comp nt sg acc sw
+;	"klein" adj comp mf pl nom st
+;	"klein" adj comp mf pl acc st
+"<Feld>"
+;	"Feld" n nt sg nom
+;	"Feld" n nt sg dat
+	"Feld" n nt sg acc
+"<der>"
+;	"der" rel m sg nom
+;	"der" rel f sg dat
+;	"der" prn dem m sg nom
+;	"der" prn dem f sg dat
+;	"der" det def m sg nom
+	"der" det def f sg gen
+;	"der" det def f sg dat
+;	"der" det def mfn pl gen
+"<gegnerischen>"
+	"gegnerischen" adj f sg gen
+"<Spielhälfte>"
+	"Spielhälfte" n f sg gen
+"<,>"
+	"," cm
+"<das>"
+;	"der" rel nt sg nom
+;	"der" rel nt sg acc
+;	"der" prn dem nt sg nom
+;	"der" prn dem nt sg acc
+;	"der" det def nt sg nom
+	"der" det def nt sg acc
+"<Aufschlagfeld>"
+	"Aufschlagfeld" n nt sg acc
+"<,>"
+	"," cm
+"<gespielt>"
+	"spielen" vblex pp
+"<werden>"
+	"werden" vaux inf
+;	"werden" vblex inf
+;	"werden" vaux pri p1 pl
+;	"werden" vaux pri p3 pl
+;	"werden" vaux prs p1 pl
+;	"werden" vaux prs p3 pl
+;	"werden" vblex pri p1 pl
+;	"werden" vblex pri p3 pl
+;	"werden" vblex prs p1 pl
+;	"werden" vblex prs p3 pl
+"<.>"
+	"." sent
+"<Sofern>"
+	"sofern" cnjsub
+"<dies>"
+	"dies" det def nt sg nom
+"<nicht>"
+	"nicht" adv
+"<beim>"
+	"der" det def m sg dat
+		"bei" pr dat
+;	"der" det def nt sg dat
+;		"bei" pr dat
+"<ersten>"
+;	"erste" adj ord mf pl dat
+;	"erste" adj ord m sg gen
+;	"erste" adj ord m sg acc
+;	"erste" adj ord nt sg gen
+;	"erste" adj ord mf pl nom mix
+;	"erste" adj ord mf pl gen mix
+;	"erste" adj ord mf pl acc mix
+	"erste" adj ord m sg dat mix
+;	"erste" adj ord f sg gen mix
+;	"erste" adj ord f sg dat mix
+;	"erste" adj ord nt sg dat mix
+"<Anlauf>"
+;	"Anlauf" n m sg nom
+	"Anlauf" n m sg dat
+;	"Anlauf" n m sg acc
+"<gelingt>"
+;	"gelingen" vblex imp pl
+;	"gelingen" vblex pri p2 pl
+	"gelingen" vblex pri p3 sg
+"<,>"
+	"," cm
+"<hat>"
+	"haben" vbhaver pri p3 sg
+"<der>"
+;	"der" rel m sg nom
+;	"der" rel f sg dat
+;	"der" prn dem m sg nom
+;	"der" prn dem f sg dat
+	"der" det def m sg nom
+;	"der" det def f sg gen
+;	"der" det def f sg dat
+;	"der" det def mfn pl gen
+"<aufschlagende>"
+	"aufschlagende" adj m sg nom
+"<Spieler>"
+	"Spieler" n m sg nom
+;	"Spieler" n m sg dat
+;	"Spieler" n m sg acc
+;	"Spieler" n m pl nom
+;	"Spieler" n m pl gen
+;	"Spieler" n m pl acc
+"<einen>"
+	"ein" det ind m sg acc
+"<zweiten>"
+;	"zweite" adj ord mf pl dat
+;	"zweite" adj ord m sg gen
+	"zweite" adj ord m sg acc
+;	"zweite" adj ord nt sg gen
+;	"zweite" adj ord mf pl nom mix
+;	"zweite" adj ord mf pl gen mix
+;	"zweite" adj ord mf pl acc mix
+;	"zweite" adj ord m sg dat mix
+;	"zweite" adj ord f sg gen mix
+;	"zweite" adj ord f sg dat mix
+;	"zweite" adj ord nt sg dat mix
+"<Versuch>"
+;	"Versuch" n m sg nom
+;	"Versuch" n m sg dat
+	"Versuch" n m sg acc
+;	"versuchen" vblex imp sg
+"<.>"
+	"." sent
+"<Misslingt>"
+;	"misslingen" vblex imp pl
+;	"misslingen" vblex pri p2 pl
+	"misslingen" vblex pri p3 sg
+"<auch>"
+	"auch" adv
+"<dieser>"
+;	"dieser" prn dem m sg nom
+;	"dieser" prn dem f sg gen
+	"dieser" prn dem f sg dat
+;	"dieser" prn dem mfn pl gen
+;	"dieser" det dem m sg nom
+;	"dieser" det dem f sg gen
+;	"dieser" det dem f sg dat
+;	"dieser" det dem mfn pl gen
+"<,>"
+	"," cm
+"<erhält>"
+	"erhalten" vblex pri p3 sg
+"<der>"
+;	"der" rel m sg nom
+;	"der" rel f sg dat
+;	"der" prn dem m sg nom
+;	"der" prn dem f sg dat
+	"der" det def m sg nom
+;	"der" det def f sg gen
+;	"der" det def f sg dat
+;	"der" det def mfn pl gen
+"<Gegner>"
+	"Gegner" n m sg nom
+;	"Gegner" n m sg dat
+;	"Gegner" n m sg acc
+;	"Gegner" n m pl nom
+;	"Gegner" n m pl gen
+;	"Gegner" n m pl acc
+"<einen>"
+	"ein" det ind m sg acc
+"<Punkt>"
+;	"Punkt" n m sg nom
+;	"Punkt" n m sg dat
+	"Punkt" n m sg acc
+"<;>"
+	";" sent
+"<man>"
+	"man" prn ind p3 mf sg nom
+"<spricht>"
+	"sprechen" vblex pri p3 sg
+"<in>"
+	"in" pr dat
+;	"in" pr acc
+"<diesem>"
+;	"dieser" prn dem m sg dat
+;	"dieser" prn dem nt sg dat
+	"dieser" det dem m sg dat
+;	"dieser" det dem nt sg dat
+"<Fall>"
+;	"Fall" n m sg nom
+	"Fall" n m sg dat
+;	"Fall" n m sg acc
+	"fallen" vblex imp sg
+"<von>"
+	"von" pr dat
+"<einem>"
+	"ein" det ind m sg dat
+;	"ein" det ind nt sg dat
+"<Doppelfehler>"
+	"Doppelfehler" n m sg dat
+"<.>"
+	"." sent
+"<Falls>"
+	"falls" cnjsub
+;	"Fall" n m sg gen
+"<beim>"
+	"der" det def m sg dat
+		"bei" pr dat
+;	"der" det def nt sg dat
+;		"bei" pr dat
+"<Aufschlag>"
+	"Aufschlag" n m sg dat
+"<der>"
+;	"der" rel m sg nom
+;	"der" rel f sg dat
+;	"der" prn dem m sg nom
+;	"der" prn dem f sg dat
+	"der" det def m sg nom
+;	"der" det def f sg gen
+;	"der" det def f sg dat
+;	"der" det def mfn pl gen
+"<Ball>"
+	"Ball" n m sg nom
+;	"Ball" n m sg dat
+;	"Ball" n m sg acc
+;	"ballen" vblex imp sg
+"<das>"
+;	"der" rel nt sg nom
+;	"der" rel nt sg acc
+;	"der" prn dem nt sg nom
+;	"der" prn dem nt sg acc
+;	"der" det def nt sg nom
+	"der" det def nt sg acc
+"<Netz>"
+;	"Netz" n nt sg nom
+;	"Netz" n nt sg dat
+	"Netz" n nt sg acc
+"<berührt>"
+;	"berühren" vblex pp
+;	"berühren" vblex imp pl
+;	"berühren" vblex pri p2 pl
+	"berühren" vblex pri p3 sg
+"<und>"
+	"und" cnjcoo
+"<danach>"
+	"danach" preadv
+"<im>"
+;	"der" det def m sg dat
+;		"in" pr dat
+	"der" det def nt sg dat
+		"in" pr dat
+"<Aufschlagfeld>"
+	"Aufschlagfeld" n nt sg dat
+"<aufkommt>"
+	"aufkommt" vblex p3 sg
+"<,>"
+	"," cm
+"<so>"
+	"so" adv
+"<wird>"
+;	"werden" vaux pri p3 sg
+	"werden" vblex pri p3 sg
+"<der>"
+;	"der" rel m sg nom
+;	"der" rel f sg dat
+;	"der" prn dem m sg nom
+;	"der" prn dem f sg dat
+	"der" det def m sg nom
+;	"der" det def f sg gen
+;	"der" det def f sg dat
+;	"der" det def mfn pl gen
+"<Aufschlagversuch>"
+	"Aufschlagversuch" n m sg nom
+"<wiederholt>"
+;	"wiederholt" adj attr
+	"wiederholt" adj pred
+"<.>"
+	"." sent
+"<Der>"
+;	"der" rel m sg nom
+;	"der" rel f sg dat
+;	"der" prn dem m sg nom
+;	"der" prn dem f sg dat
+	"der" det def m sg nom
+;	"der" det def f sg gen
+;	"der" det def f sg dat
+;	"der" det def mfn pl gen
+"<Aufschläger>"
+	"Aufschläger"bn m sg nom
+"<darf>"
+	"darf" vblex pres p3 sg 
+"<das>"
+;	"der" rel nt sg nom
+;	"der" rel nt sg acc
+;	"der" prn dem nt sg nom
+;	"der" prn dem nt sg acc
+;	"der" det def nt sg nom
+	"der" det def nt sg acc
+"<Tennisfeld>"
+	"Tennisfeld" n nt sg acc
+"<erst>"
+	"erst" adv
+"<betreten>"
+	"betreten" vblex inf
+;	"betreten" vblex pp
+;	"betreten" vblex pri p1 pl
+;	"betreten" vblex pri p3 pl
+;	"betreten" vblex prs p1 pl
+;	"betreten" vblex prs p3 pl
+"<,>"
+	"," cm
+"<nachdem>"
+	"nachdem" cnjsub
+"<der>"
+;	"der" rel m sg nom
+;	"der" rel f sg dat
+;	"der" prn dem m sg nom
+;	"der" prn dem f sg dat
+	"der" det def m sg nom
+;	"der" det def f sg gen
+;	"der" det def f sg dat
+;	"der" det def mfn pl gen
+"<Ball>"
+	"Ball" n m sg nom
+;	"Ball" n m sg dat
+;	"Ball" n m sg acc
+;	"ballen" vblex imp sg
+"<den>"
+;	"der" rel m sg acc
+;	"der" prn dem m sg acc
+	"der" det def m sg acc
+;	"der" det def mfn pl dat
+"<Schläger>"
+	"Schläger" n m sg acc
+"<berührt>"
+;	"berühren" vblex pp
+;	"berühren" vblex imp pl
+;	"berühren" vblex pri p2 pl
+	"berühren" vblex pri p3 sg
+"<hat>"
+	"haben" vbhaver pri p3 sg
+"<,>"
+	"," cm
+"<sonst>"
+	"sonst" adv
+"<ist>"
+	"sein" vbser pri p3 sg
+"<der>"
+;	"der" rel m sg nom
+;	"der" rel f sg dat
+;	"der" prn dem m sg nom
+;	"der" prn dem f sg dat
+	"der" det def m sg nom
+;	"der" det def f sg gen
+;	"der" det def f sg dat
+;	"der" det def mfn pl gen
+"<Aufschlagversuch>"
+	"Aufschlagversuch" n m sg nom
+"<ungültig>"
+	"ungültig" adj pred
+"<(>"
+	"(" lpar
+"<Fußfehler>"
+	"Fußfehler" n m sg nom
+"<)>"
+	")" rpar
+"<.>"
+	"." sent
+[
+
+]
+"<Um>"
+;	"um" cnjsub
+	"um" pr acc
+"<eine>"
+;	"ein" det ind f sg nom
+	"ein" det ind f sg acc
+"<Tennisbegegnung>"
+	"Tennisbegegnung" n f sg acc
+"<(>"
+	"(" lpar
+"<auch>"
+	"auch" adv
+"<Match>"
+;	"Match" n nt sg nom
+;	"Match" n nt sg dat
+	"Match" n nt sg acc
+"<genannt>"
+	"nennen" vblex pp
+"<)>"
+	")" rpar
+"<zu>"
+	"zu" pr dat
+"<gewinnen>"
+	"gewinnen" vblex inf
+;	"gewinnen" vblex pri p1 pl
+;	"gewinnen" vblex pri p3 pl
+;	"gewinnen" vblex prs p1 pl
+;	"gewinnen" vblex prs p3 pl
+"<,>"
+	"," cm
+"<ist>"
+	"sein" vbser pri p3 sg
+"<eine>"
+;	"ein" det ind f sg nom
+	"ein" det ind f sg acc
+"<vorher>"
+	"vorher" adv
+"<festgelegte>"
+	"festgelegte" adj f sg acc
+"<Anzahl>"
+;	"Anzahl" n f sg nom
+;	"Anzahl" n f sg gen
+;	"Anzahl" n f sg dat
+	"Anzahl" n f sg acc
+"<von>"
+	"von" pr dat
+"<Sätzen>"
+	"Satz" n m pl dat
+"<zu>"
+	"zu" pr dat
+"<gewinnen>"
+	"gewinnen" vblex inf
+;	"gewinnen" vblex pri p1 pl
+;	"gewinnen" vblex pri p3 pl
+;	"gewinnen" vblex prs p1 pl
+;	"gewinnen" vblex prs p3 pl
+"<.>"
+	"." sent
+[
+
+]
+"<Meist>"
+	"meist" adv
+;	"viel" adj sup pred
+"<wird>"
+	"werden" vaux pri p3 sg
+;	"werden" vblex pri p3 sg
+"<auf>"
+	"auf" pr dat
+;	"auf" pr acc
+
+"<zwei>"
+	"zwei" num sp
+"<Gewinnsätze>"
+	"Gewinnsätze" n f pl dat
+"<gespielt>"
+	"spielen" vblex pp
+"<,>"
+	"," cm
+"<im>"
+	"der" det def m sg dat
+		"in" pr dat
+;	"der" det def nt sg dat
+;		"in" pr dat
+"<Herrentennis>"
+	"Herrentennis" n m sg dat 
+"<bei>"
+	"bei" pr dat
+"<großen>"
+;	"groß" adj m sg gen
+;	"groß" adj m sg acc
+;	"groß" adj nt sg gen
+	"groß" adj mf pl dat
+;	"groß" adj f sg gen mix
+;	"groß" adj f sg dat mix
+;	"groß" adj m sg dat mix
+;	"groß" adj nt sg dat mix
+;	"groß" adj mf pl nom mix
+;	"groß" adj mf pl gen mix
+;	"groß" adj mf pl acc mix
+"<Turnieren>"
+	"Turnier" n nt pl dat
+"<(>"
+	"(" lpar
+"<Grand>"
+	"Grand"  np al
+"<->"
+	"-" guio
+"<Slam>"
+	"Slam"  np al
+"<,>"
+	"," cm
+"<Davis>"
+	"Davis" np al
+"<->"
+	"-" guio
+"<Cup>"
+	"Cup" np al
+"<)>"
+	")" rpar
+"<[>"
+	"[" lpar
+"<4>"
+	"4" num
+"<]>"
+	"]" rpar
+"<auch>"
+	"auch" adv
+"<auf>"
+;	"auf" pr dat
+	"auf" pr acc
+"<drei>"
+	"drei" num sp
+"<.>"
+	"." sent
+[][ 
+
+]
