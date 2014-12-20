@@ -46590,6 +46590,237 @@
 <e lm="hochsteigen">     <i>hoch</i><par n="ab/steigen__vblex_sep"/></e>
 <e lm="hochsteigen">     <p><l>hochgestiegen</l><r>hochsteigen</r></p><par n="__vblex_sep_pp"/></e>
 
+<e lm="kurzschließen">   <i>schl</i><par n="sch/ießen#_ab__vblex_sep"/></e>
+<e lm="kurzschließen">   <i>kurzschl</i><par n="absch/ießen__vblex_sep"/></e>
+<e lm="kurzschließen">   <p><l>kurzgeschlossen</l><r>kurzschließen</r></p><par n="__vblex_sep_pp"/></e>
+
+<!--<e lm="loslassen">       <i></i><par n="/lassen#_ab__vblex_sep"/></e>
+<e lm="loslassen">       <i>los</i><par n="ab/lassen__vblex_sep"/></e>
+<e lm="loslassen">       <p><l>losgelassen</l><r>loslassen</r></p><par n="__vblex_sep_pp"/></e>-->
+<e lm="losmachen">       <i>mach</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="losmachen">       <i>losmach</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="losmachen">       <p><l>losgemacht</l><r>losmachen</r></p><par n="__vblex_sep_pp"/></e>
+
+<e lm="mitbringen">      <i>br</i><par n="br/ingen#_an__vblex_sep"/></e>
+<e lm="mitbringen">      <i>mitbr</i><par n="anbr/ingen__vblex_sep"/></e>
+<e lm="mitbringen">      <p><l>mitgebracht</l><r>mitbringen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="mitteilen">       <i>teil</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="mitteilen">       <i>mitteil</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="mitteilen">       <p><l>mitgeteilt</l><r>mitteilen</r></p><par n="__vblex_sep_pp"/></e>
+
+<!--<e lm="nachdenken">      <i></i><par n="/denken#_nach__vblex_sep"/></e>
+<e lm="nachdenken">      <i>nach</i><par n="nach/denken__vblex_sep"/></e>
+<e lm="nachdenken">      <p><l>nachgedacht</l><r>nachdenken</r></p><par n="__vblex_sep_pp"/></e>-->
+<e lm="nachstreben">     <i>streb</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="nachstreben">     <i>nachstreb</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="nachstreben">     <p><l>nachgestrebt</l><r>nachstreben</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="nachtanken">      <i>tank</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="nachtanken">      <i>nachtank</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="nachtanken">      <p><l>nachgetankt</l><r>nachtanken</r></p><par n="__vblex_sep_pp"/></e>
+
+<e lm="niederbrennen">   <i>br</i><par n="br/ennen#_an__vblex_sep"/></e>
+<e lm="niederbrennen">   <i>niederbr</i><par n="anbr/ennen__vblex_sep"/></e>
+<e lm="niederbrennen">   <p><l>niedergebrannt</l><r>niederbrennen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="niederlegen">     <i>leg</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="niederlegen">     <i>niederleg</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="niederlegen">     <p><l>niedergelegt</l><r>niederlegen</r></p><par n="__vblex_sep_pp"/></e>
+
+<!--<e lm="stattfinden">     <i>f</i><par n="b/inden#_ab__vblex_sep"/></e>
+<e lm="stattfinden">     <i>stattf</i><par n="abb/inden__vblex_sep"/></e>
+<e lm="stattfinden">     <p><l>stattgefunden</l><r>stattfinden</r></p><par n="__vblex_sep_pp"/></e>-->
+
+<e lm="teilnehmen">      <i></i><par n="/nehmen#_ab__vblex_sep"/></e>
+<e lm="teilnehmen">      <i>teil</i><par n="ab/nehmen__vblex_sep"/></e>
+<e lm="teilnehmen">      <p><l>teilgenommen</l><r>teilnehmen</r></p><par n="__vblex_sep_pp"/></e>
+
+<e lm="trockenlegen">    <i>leg</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="trockenlegen">    <i>trockenleg</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="trockenlegen">    <p><l>trockengelegt</l><r>trockenlegen</r></p><par n="__vblex_sep_pp"/></e>
+
+<e lm="überlaufen">      <i></i><par n="/laufen#_ab__vblex_sep"/></e>
+<e lm="überlaufen">      <i>über</i><par n="ab/laufen__vblex_sep"/></e>
+<e lm="überlaufen">      <p><l>übergelaufen</l><r>überlaufen</r></p><par n="__vblex_sep_pp"/></e>
+
+<e lm="umbringen">       <i>br</i><par n="br/ingen#_an__vblex_sep"/></e>
+<e lm="umbringen">       <i>umbr</i><par n="anbr/ingen__vblex_sep"/></e>
+<e lm="umbringen">       <p><l>umgebracht</l><r>umbringen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="umdrehen">        <i>dreh</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="umdrehen">        <i>umdreh</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="umdrehen">        <p><l>umgedreht</l> <r>umdrehen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="umfallen">        <i>f</i><par n="f/allen#_ab__vblex_sep"/></e>
+<e lm="umfallen">        <i>umf</i><par n="abf/allen__vblex_sep"/></e>
+<e lm="umfallen">        <p><l>umgefallen</l><r>umfallen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="umformen">        <i>form</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="umformen">        <i>umform</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="umformen">        <p><l>umgeformt</l> <r>umformen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="umkehren">        <i>kehr</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="umkehren">        <i>umkehr</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="umkehren">        <p><l>umgekehrt</l> <r>umkehren</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="umkleiden">       <i>kleide</i><par n="drifte/n#_ab__vblex_sep"/></e>
+<e lm="umkleiden">       <i>umkleide</i><par n="abdrifte/n__vblex_sep"/></e>
+<e lm="umkleiden">       <p><l>umgekleidet</l><r>umkleiden</r></p><par n="__vblex_sep_pp"/></e>
+<!--<e lm="umkommen">        <i></i><par n="/kommen#_um__vblex_sep"/></e>
+<e lm="umkommen">        <i>um</i><par n="um/kommen__vblex_sep"/></e>
+<e lm="umkommen">        <p><l>umgekommen</l><r>umkommen</r></p><par n="__vblex_sep_pp"/></e>-->
+<e lm="umleiten">        <i>leite</i><par n="drifte/n#_ab__vblex_sep"/></e>
+<e lm="umleiten">        <i>umleite</i><par n="abdrifte/n__vblex_sep"/></e>
+<e lm="umleiten">        <p><l>umgeleitet</l><r>umleiten</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="umrechnen">       <i>rechne</i><par n="drifte/n#_ab__vblex_sep"/></e>
+<e lm="umrechnen">       <i>umrechne</i><par n="abdrifte/n__vblex_sep"/></e>
+<e lm="umrechnen">       <p><l>umgerechnet</l><r>umrechnen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="umschließen">     <i>schl</i><par n="sch/ießen#_ab__vblex_sep"/></e>
+<e lm="umschließen">     <i>umschl</i><par n="absch/ießen__vblex_sep"/></e>
+<e lm="umschließen">     <p><l>umgeschlossen</l><r>umschließen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="umsetzen">        <i>setz</i><par n="brems/en#_ab__vblex_sep"/></e>
+<e lm="umsetzen">        <i>umsetz</i><par n="abbrems/en__vblex_sep"/></e>
+<e lm="umsetzen">        <p><l>umgesetzt</l> <r>umsetzen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="umwehen">         <i>weh</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="umwehen">         <i>umweh</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="umwehen">         <p><l>umgeweht</l>  <r>umwehen</r></p><par n="__vblex_sep_pp"/></e>
+
+<e lm="unterbringen">    <i>br</i><par n="br/ingen#_an__vblex_sep"/></e>
+<e lm="unterbringen">    <i>unterbr</i><par n="anbr/ingen__vblex_sep"/></e>
+<e lm="unterbringen">    <p><l>untergebracht</l><r>unterbringen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="untertauchen">    <i>tauch</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="untertauchen">    <i>untertauch</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="untertauchen">    <p><l>untergetaucht</l><r>untertauchen</r></p><par n="__vblex_sep_pp"/></e>
+
+<!--<e lm="vorbereiten">     <i>bereite</i><par n="beachte/n__vblex_sep"/></e>-->
+<e lm="vordrängeln">     <i>dräng</i><par n="hand/eln#_ab__vblex_sep"/></e>
+<e lm="vordrängeln">     <i>vordräng</i><par n="abhand/eln__vblex_sep"/></e>
+<e lm="vordrängeln">     <p><l>vorgedrängelt</l><r>vordrängeln</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="vorfallen">       <i>f</i><par n="f/allen#_ab__vblex_sep"/></e>
+<e lm="vorfallen">       <i>vorf</i><par n="abf/allen__vblex_sep"/></e>
+<e lm="vorfallen">       <p><l>vorgefallen</l><r>vorfallen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="vorlegen">        <i>leg</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="vorlegen">        <i>vorleg</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="vorlegen">        <p><l>vorgelegt</l> <r>vorlegen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="vorschlagen">     <i></i><par n="/schlagen#_ab__vblex_sep"/></e>
+<e lm="vorschlagen">     <i>vor</i><par n="ab/schlagen__vblex_sep"/></e>
+<e lm="vorschlagen">     <p><l>vorgeschlagen</l><r>vorschlagen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="vorspulen">       <i>spul</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="vorspulen">       <i>vorspul</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="vorspulen">       <p><l>vorgespult</l><r>vorspulen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="vortragen">       <i>tr</i><par n="tr/agen#_ab__vblex_sep"/></e>
+<e lm="vortragen">       <i>vortr</i><par n="abtr/agen__vblex_sep"/></e>
+<e lm="vortragen">       <p><l>vorgetragen</l><r>vortragen</r></p><par n="__vblex_sep_pp"/></e>
+
+<e lm="zudecken">        <i>deck</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="zudecken">        <i>zudeck</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="zudecken">        <p><l>zugedeckt</l> <r>zudecken</r></p><par n="__vblex_sep_pp"/></e>
+<!--<e lm="zuerkennen">      <i>erk</i><par n="erk/ennen#_ab__vblex_sep"/></e>
+<e lm="zuerkennen">      <i>zuerk</i><par n="aberk/ennen__vblex_sep"/></e>-->
+<e lm="zugeben">         <i>g</i><par n="g/eben#_ab__vblex_sep"/></e>
+<e lm="zugeben">         <i>zug</i><par n="abg/eben__vblex_sep"/></e>
+<e lm="zugeben">         <p><l>zugegeben</l> <r>zugeben</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="zujubeln">        <i>jub</i><par n="hand/eln#_ab__vblex_sep"/></e>
+<e lm="zujubeln">        <i>zujub</i><par n="abhand/eln__vblex_sep"/></e>
+<e lm="zujubeln">        <p><l>zugejubelt</l><r>zujubeln</r></p><par n="__vblex_sep_pp"/></e>
+<!--<e lm="zulassen">        <i></i><par n="/lassen#_ab__vblex_sep"/></e>
+<e lm="zulassen">        <i>zu</i><par n="ab/lassen__vblex_sep"/></e>
+<e lm="zulassen">        <p><l>zugelassen</l><r>zulassen</r></p><par n="__vblex_sep_pp"/></e>-->
+<e lm="zunehmen">        <i></i><par n="/nehmen#_ab__vblex_sep"/></e>
+<e lm="zunehmen">        <i>zu</i><par n="ab/nehmen__vblex_sep"/></e>
+<e lm="zunehmen">        <p><l>zugenommen</l><r>zunehmen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="zuschreiben">     <i>schr</i><par n="bl/eiben#_ab__vblex_sep"/></e>
+<e lm="zuschreiben">     <i>zuschr</i><par n="abbl/eiben__vblex_sep"/></e>
+<e lm="zuschreiben">     <p><l>zugeschrieben</l><r>zuschreiben</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="zustimmen">       <i>stimm</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="zustimmen">       <i>zustimm</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="zustimmen">       <p><l>zugestimmt</l><r>zustimmen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="zuwerfen">        <i></i><par n="/werfen#_ab__vblex_sep"/></e>
+<e lm="zuwerfen">        <i>zu</i><par n="ab/werfen__vblex_sep"/></e>
+<e lm="zuwerfen">        <p><l>zugeworfen</l><r>zuwerfen</r></p><par n="__vblex_sep_pp"/></e>
+
+<!--<e lm="zurückbekommen">  <i>bek</i><par n="bek/ommen#_ab__vblex_sep"/></e>
+<e lm="zurückbekommen">  <i>zurückbek</i><par n="abbek/ommen__vblex_sep"/></e>-->
+<e lm="zurückbringen">   <i>br</i><par n="br/ingen#_an__vblex_sep"/></e>
+<e lm="zurückbringen">   <i>zurückbr</i><par n="anbr/ingen__vblex_sep"/></e>
+<e lm="zurückbringen">   <p><l>zurückgebracht</l><r>zurückbringen</r></p><par n="__vblex_sep_pp"/></e>
+<!--<e lm="zurückerhalten">  <i>erh</i><par n="beh/alten#_zurück__vblex_sep"/></e>
+<e lm="zurückerhalten">  <i>zurückerh</i><par n="zurückbeh/alten__vblex_sep"/></e>-->
+<e lm="zurückfallen">    <i>f</i><par n="f/allen#_ab__vblex_sep"/></e>
+<e lm="zurückfallen">    <i>zurückf</i><par n="abf/allen__vblex_sep"/></e>
+<e lm="zurückfallen">    <p><l>zurückgefallen</l><r>zurückfallen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="zurückgeben">     <i>g</i><par n="g/eben#_ab__vblex_sep"/></e>
+<e lm="zurückgeben">     <i>zurückg</i><par n="abg/eben__vblex_sep"/></e>
+<e lm="zurückgeben">     <p><l>zurückgegeben</l><r>zurückgeben</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="zurückgehen">     <i>g</i><par n="g/ehen#_an__vblex_sep"/></e>
+<e lm="zurückgehen">     <i>zurückg</i><par n="ang/ehen__vblex_sep"/></e>
+<e lm="zurückhalten">    <i></i><par n="/halten#_ab__vblex_sep"/></e>
+<e lm="zurückhalten">    <i>zurück</i><par n="ab/halten__vblex_sep"/></e>
+<e lm="zurückhalten">    <p><l>zurückgehalten</l><r>zurückhalten</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="zurückholen">     <i>hol</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="zurückholen">     <i>zurückhol</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="zurückholen">     <p><l>zurückgeholt</l><r>zurückholen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="zurückkaufen">    <i>kauf</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="zurückkaufen">    <i>zurückkauf</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="zurückkaufen">    <p><l>zurückgekauft</l><r>zurückkaufen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="zurückkehren">    <i>kehr</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="zurückkehren">    <i>zurückkehr</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="zurückkehren">    <p><l>zurückgekehrt</l><r>zurückkehren</r></p><par n="__vblex_sep_pp"/></e>
+<!--<e lm="zurücklassen">    <i></i><par n="/lassen#_ab__vblex_sep"/></e>
+<e lm="zurücklassen">    <i>zurück</i><par n="ab/lassen__vblex_sep"/></e>
+<e lm="zurücklassen">    <p><l>zurückgelassen</l><r>zurücklassen</r></p><par n="__vblex_sep_pp"/></e>-->
+<e lm="zurücklocken">    <i>lock</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="zurücklocken">    <i>zurücklock</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="zurücklocken">    <p><l>zurückgelockt</l><r>zurücklocken</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="zurücknehmen">    <i></i><par n="/nehmen#_ab__vblex_sep"/></e>
+<e lm="zurücknehmen">    <i>zurück</i><par n="ab/nehmen__vblex_sep"/></e>
+<e lm="zurücknehmen">    <p><l>zurückgenommen</l><r>zurücknehmen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="zurückprallen">   <i>prall</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="zurückprallen">   <i>zurückprall</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="zurückprallen">   <p><l>zurückgeprallt</l><r>zurückprallen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="zurückrufen">     <i></i><par n="/rufen#_an__vblex_sep"/></e>
+<e lm="zurückrufen">     <i>zurück</i><par n="an/rufen__vblex_sep"/></e>
+<e lm="zurückrufen">     <p><l>zurückgerufen</l><r>zurückrufen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="zurückschicken">  <i>schick</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="zurückschicken">  <i>zurückschick</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="zurückschicken">  <p><l>zurückgeschickt</l><r>zurückschicken</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="zurückschneiden"> <i>schn</i><par n="schn/eiden#_ab__vblex_sep"/></e>
+<e lm="zurückschneiden"> <i>zurückschn</i><par n="abschn/eiden__vblex_sep"/></e>
+<e lm="zurückschneiden"> <p><l>zurückgeschnitten</l><r>zurückschneiden</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="zurückstellen">   <i>stell</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="zurückstellen">   <i>zurückstell</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="zurückstellen">   <p><l>zurückgestellt</l><r>zurückstellen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="zurückwerfen">    <i></i><par n="/werfen#_ab__vblex_sep"/></e>
+<e lm="zurückwerfen">    <i>zurück</i><par n="ab/werfen__vblex_sep"/></e>
+<e lm="zurückwerfen">    <p><l>zurückgeworfen</l><r>zurückwerfen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="zurückziehen">    <i>z</i><par n="z/iehen#_ab__vblex_sep"/></e>
+<e lm="zurückziehen">    <i>zurückz</i><par n="abz/iehen__vblex_sep"/></e>
+<e lm="zurückziehen">    <p><l>zurückgezogen</l><r>zurückziehen</r></p><par n="__vblex_sep_pp"/></e>
+
+<e lm="zusammenarbeiten"><i>arbeite</i><par n="drifte/n#_ab__vblex_sep"/></e>
+<e lm="zusammenarbeiten"><i>zusammenarbeite</i><par n="abdrifte/n__vblex_sep"/></e>
+<e lm="zusammenarbeiten"><p><l>zusammengearbeitet</l><r>zusammenarbeiten</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="zusammenbringen"> <i>br</i><par n="br/ingen#_an__vblex_sep"/></e>
+<e lm="zusammenbringen"> <i>zusammenbr</i><par n="anbr/ingen__vblex_sep"/></e>
+<e lm="zusammenbringen"> <p><l>zusammengebracht</l><r>zusammenbringen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="zusammendrücken"> <i>drück</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="zusammendrücken"> <i>zusammendrück</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="zusammendrücken"> <p><l>zusammengedrückt</l><r>zusammendrücken</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="zusammenfallen">  <i>f</i><par n="f/allen#_ab__vblex_sep"/></e>
+<e lm="zusammenfallen">  <i>zusammenf</i><par n="abf/allen__vblex_sep"/></e>
+<e lm="zusammenfallen">  <p><l>zusammengefallen</l><r>zusammenfallen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="zusammenfassen">  <i>fass</i><par n="brems/en#_ab__vblex_sep"/></e>
+<e lm="zusammenfassen">  <i>zusammenfass</i><par n="abbrems/en__vblex_sep"/></e>
+<e lm="zusammenfassen">  <p><l>zusammengefasst</l><r>zusammenfassen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="zusammenfügen">   <i>füg</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="zusammenfügen">   <i>zusammenfüg</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="zusammenfügen">   <p><l>zusammengefügt</l><r>zusammenfügen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="zusammenrufen">   <i></i><par n="/rufen#_an__vblex_sep"/></e>
+<e lm="zusammenrufen">   <i>zusammen</i><par n="an/rufen__vblex_sep"/></e>
+<e lm="zusammenrufen">   <p><l>zusammengerufen</l><r>zusammenrufen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="zusammenstellen"> <i>stell</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="zusammenstellen"> <i>zusammenstell</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="zusammenstellen"> <p><l>zusammengestellt</l><r>zusammenstellen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="zusammentreiben"> <i>tr</i><par n="bl/eiben#_ab__vblex_sep"/></e>
+<e lm="zusammentreiben"> <i>zusammentr</i><par n="abbl/eiben__vblex_sep"/></e>
+<e lm="zusammentreiben"> <p><l>zusammengetrieben</l><r>zusammentreiben</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="zusammenziehen">  <i>z</i><par n="z/iehen#_ab__vblex_sep"/></e>
+<e lm="zusammenziehen">  <i>zusammenz</i><par n="abz/iehen__vblex_sep"/></e>
+<e lm="zusammenziehen">  <p><l>zusammengezogen</l><r>zusammenziehen</r></p><par n="__vblex_sep_pp"/></e>
+
   </section>
   <section id="contractions" type="standard">
 
