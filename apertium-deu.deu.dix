@@ -21205,6 +21205,66 @@
   <e>       <p><l>stiegst</l>   <r>steigen<s n="vblex"/><s n="sep"/><s n="fs"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
   <e>       <p><l>stiegt</l>    <r>steigen<s n="vblex"/><s n="sep"/><s n="fs"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
 </pardef>
+<pardef n="/lassen#_ab__vblex_sep">
+  <e>       <p><l>lassen</l>    <r>lassen<s n="vblex"/><s n="sep"/><s n="fm"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+  <e>       <p><l>lassen</l>    <r>lassen<s n="vblex"/><s n="sep"/><s n="fm"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+  <e>       <p><l>lassen</l>    <r>lassen<s n="vblex"/><s n="sep"/><s n="fm"/><s n="prs"/><s n="p1"/><s n="pl"/></r></p></e>
+  <e>       <p><l>lassen</l>    <r>lassen<s n="vblex"/><s n="sep"/><s n="fm"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e>
+  <e>       <p><l>lasse</l>     <r>lassen<s n="vblex"/><s n="sep"/><s n="fm"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+  <e>       <p><l>lasse</l>     <r>lassen<s n="vblex"/><s n="sep"/><s n="fm"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
+  <e>       <p><l>lasse</l>     <r>lassen<s n="vblex"/><s n="sep"/><s n="fm"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>lassest</l>   <r>lassen<s n="vblex"/><s n="sep"/><s n="fm"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
+  <e>       <p><l>lasset</l>    <r>lassen<s n="vblex"/><s n="sep"/><s n="fm"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
+  <e>       <p><l>lass</l>      <r>lassen<s n="vblex"/><s n="sep"/><s n="imp"/><s n="sg"/></r></p></e>
+  <e>       <p><l>lasst</l>     <r>lassen<s n="vblex"/><s n="sep"/><s n="imp"/><s n="pl"/></r></p></e>
+  <e>       <p><l>lasst</l>     <r>lassen<s n="vblex"/><s n="sep"/><s n="fm"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+  <e>       <p><l>lässt</l>     <r>lassen<s n="vblex"/><s n="sep"/><s n="fm"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+  <e r="LR"><p><l>läßt</l>      <r>lassen<s n="vblex"/><s n="sep"/><s n="fm"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+  <e>       <p><l>lässt</l>     <r>lassen<s n="vblex"/><s n="sep"/><s n="fm"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e r="LR"><p><l>läßt</l>      <r>lassen<s n="vblex"/><s n="sep"/><s n="fm"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ließen</l>    <r>lassen<s n="vblex"/><s n="sep"/><s n="fm"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
+  <e>       <p><l>ließen</l>    <r>lassen<s n="vblex"/><s n="sep"/><s n="fm"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+  <e>       <p><l>ließen</l>    <r>lassen<s n="vblex"/><s n="sep"/><s n="fm"/><s n="pis"/><s n="p1"/><s n="pl"/></r></p></e>
+  <e>       <p><l>ließen</l>    <r>lassen<s n="vblex"/><s n="sep"/><s n="fm"/><s n="pis"/><s n="p3"/><s n="pl"/></r></p></e>
+  <e>       <p><l>ließe</l>     <r>lassen<s n="vblex"/><s n="sep"/><s n="fm"/><s n="pis"/><s n="p1"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ließe</l>     <r>lassen<s n="vblex"/><s n="sep"/><s n="fm"/><s n="pis"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ließest</l>   <r>lassen<s n="vblex"/><s n="sep"/><s n="fm"/><s n="pis"/><s n="p2"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ließet</l>    <r>lassen<s n="vblex"/><s n="sep"/><s n="fm"/><s n="pis"/><s n="p2"/><s n="pl"/></r></p></e>
+  <e>       <p><l>ließ</l>      <r>lassen<s n="vblex"/><s n="sep"/><s n="fm"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ließ</l>      <r>lassen<s n="vblex"/><s n="sep"/><s n="fm"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ließt</l>     <r>lassen<s n="vblex"/><s n="sep"/><s n="fm"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
+  <e>       <p><l>ließt</l>     <r>lassen<s n="vblex"/><s n="sep"/><s n="fm"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
+</pardef>
+<pardef n="ab/lassen__vblex_sep">
+  <e>       <p><l>lassend</l>   <r>lassen<s n="vblex"/><s n="sep"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>lassen</l>    <r>lassen<s n="vblex"/><s n="sep"/><s n="inf"/></r></p></e>
+  <e>       <p><l>lassen</l>    <r>lassen<s n="vblex"/><s n="sep"/><s n="fs"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+  <e>       <p><l>lassen</l>    <r>lassen<s n="vblex"/><s n="sep"/><s n="fs"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+  <e>       <p><l>lassen</l>    <r>lassen<s n="vblex"/><s n="sep"/><s n="fs"/><s n="prs"/><s n="p1"/><s n="pl"/></r></p></e>
+  <e>       <p><l>lassen</l>    <r>lassen<s n="vblex"/><s n="sep"/><s n="fs"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e>
+  <e>       <p><l>lasse</l>     <r>lassen<s n="vblex"/><s n="sep"/><s n="fs"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+  <e>       <p><l>lasse</l>     <r>lassen<s n="vblex"/><s n="sep"/><s n="fs"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
+  <e>       <p><l>lasse</l>     <r>lassen<s n="vblex"/><s n="sep"/><s n="fs"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>lassest</l>   <r>lassen<s n="vblex"/><s n="sep"/><s n="fs"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
+  <e>       <p><l>lasset</l>    <r>lassen<s n="vblex"/><s n="sep"/><s n="fs"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
+  <e>       <p><l>lasst</l>     <r>lassen<s n="vblex"/><s n="sep"/><s n="fs"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+  <e>       <p><l>lässt</l>     <r>lassen<s n="vblex"/><s n="sep"/><s n="fs"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+  <e r="LR"><p><l>läßt</l>      <r>lassen<s n="vblex"/><s n="sep"/><s n="fs"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+  <e>       <p><l>lässt</l>     <r>lassen<s n="vblex"/><s n="sep"/><s n="fs"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e r="LR"><p><l>läßt</l>      <r>lassen<s n="vblex"/><s n="sep"/><s n="fs"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ließen</l>    <r>lassen<s n="vblex"/><s n="sep"/><s n="fs"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
+  <e>       <p><l>ließen</l>    <r>lassen<s n="vblex"/><s n="sep"/><s n="fs"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+  <e>       <p><l>ließen</l>    <r>lassen<s n="vblex"/><s n="sep"/><s n="fs"/><s n="pis"/><s n="p1"/><s n="pl"/></r></p></e>
+  <e>       <p><l>ließen</l>    <r>lassen<s n="vblex"/><s n="sep"/><s n="fs"/><s n="pis"/><s n="p3"/><s n="pl"/></r></p></e>
+  <e>       <p><l>ließe</l>     <r>lassen<s n="vblex"/><s n="sep"/><s n="fs"/><s n="pis"/><s n="p1"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ließe</l>     <r>lassen<s n="vblex"/><s n="sep"/><s n="fs"/><s n="pis"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ließest</l>   <r>lassen<s n="vblex"/><s n="sep"/><s n="fs"/><s n="pis"/><s n="p2"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ließet</l>    <r>lassen<s n="vblex"/><s n="sep"/><s n="fs"/><s n="pis"/><s n="p2"/><s n="pl"/></r></p></e>
+  <e>       <p><l>ließ</l>      <r>lassen<s n="vblex"/><s n="sep"/><s n="fs"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ließ</l>      <r>lassen<s n="vblex"/><s n="sep"/><s n="fs"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ließt</l>     <r>lassen<s n="vblex"/><s n="sep"/><s n="fs"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
+  <e>       <p><l>ließt</l>     <r>lassen<s n="vblex"/><s n="sep"/><s n="fs"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
+</pardef>
 
 
 <!-- SECTION: Adverbs -->
@@ -45839,6 +45899,9 @@
 <e lm="ablaufen">        <i></i><par n="/laufen#_ab__vblex_sep"/></e>
 <e lm="ablaufen">        <i>ab</i><par n="ab/laufen__vblex_sep"/></e>
 <e lm="ablaufen">        <p><l>abgelaufen</l><r>ablaufen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="ablassen">        <i></i><par n="/lassen#_ab__vblex_sep"/></e>
+<e lm="ablassen">        <i>ab</i><par n="ab/lassen__vblex_sep"/></e>
+<e lm="ablassen">        <p><l>abgelassen</l><r>ablassen</r></p><par n="__vblex_sep_pp"/></e>
 <e lm="ablegen">         <i>leg</i><par n="ahm/en#_nach__vblex_sep"/></e>
 <e lm="ablegen">         <i>ableg</i><par n="nachahm/en__vblex_sep"/></e>
 <e lm="ablegen">         <p><l>abgelegt</l>  <r>ablegen</r></p><par n="__vblex_sep_pp"/></e>
@@ -46368,9 +46431,9 @@
 <e lm="beiwohnen">       <i>beiwohn</i><par n="nachahm/en__vblex_sep"/></e>
 <e lm="beiwohnen">       <p><l>beigewohnt</l><r>beiwohnen</r></p><par n="__vblex_sep_pp"/></e>
 
-<!--<e lm="durchlassen">     <i></i><par n="/lassen#_durch__vblex_sep"/></e>
-<e lm="durchlassen">     <i>durch</i><par n="durch/lassen__vblex_sep"/></e>
-<e lm="durchlassen">     <p><l>durchgelassen</l><r>durchlassen</r></p><par n="__vblex_sep_pp"/></e>-->
+<e lm="durchlassen">     <i></i><par n="/lassen#_ab__vblex_sep"/></e>
+<e lm="durchlassen">     <i>durch</i><par n="ab/lassen__vblex_sep"/></e>
+<e lm="durchlassen">     <p><l>durchgelassen</l><r>durchlassen</r></p><par n="__vblex_sep_pp"/></e>
 <e lm="durchschalten">   <i>schalte</i><par n="drifte/n#_ab__vblex_sep"/></e>
 <e lm="durchschalten">   <i>durchschalte</i><par n="abdrifte/n__vblex_sep"/></e>
 <e lm="durchschalten">   <p><l>durchgeschaltet</l><r>durchschalten</r></p><par n="__vblex_sep_pp"/></e>
@@ -46504,9 +46567,9 @@
 <e lm="fortsetzen">      <i>fortsetz</i><par n="abbrems/en__vblex_sep"/></e>
 <e lm="fortsetzen">      <p><l>fortgesetzt</l><r>fortsetzen</r></p><par n="__vblex_sep_pp"/></e>
 
-<!--<e lm="freilassen">      <i></i><par n="/lassen#_ab__vblex_sep"/></e>
+<e lm="freilassen">      <i></i><par n="/lassen#_ab__vblex_sep"/></e>
 <e lm="freilassen">      <i>frei</i><par n="ab/lassen__vblex_sep"/></e>
-<e lm="freilassen">      <p><l>freigelassen</l><r>freilassen</r></p><par n="__vblex_sep_pp"/></e>-->
+<e lm="freilassen">      <p><l>freigelassen</l><r>freilassen</r></p><par n="__vblex_sep_pp"/></e>
 <e lm="freilegen">       <i>leg</i><par n="ahm/en#_nach__vblex_sep"/></e>
 <e lm="freilegen">       <i>freileg</i><par n="nachahm/en__vblex_sep"/></e>
 <e lm="freilegen">       <p><l>freigelegt</l><r>freilegen</r></p><par n="__vblex_sep_pp"/></e>
@@ -46594,9 +46657,9 @@
 <e lm="kurzschließen">   <i>kurzschl</i><par n="absch/ießen__vblex_sep"/></e>
 <e lm="kurzschließen">   <p><l>kurzgeschlossen</l><r>kurzschließen</r></p><par n="__vblex_sep_pp"/></e>
 
-<!--<e lm="loslassen">       <i></i><par n="/lassen#_ab__vblex_sep"/></e>
+<e lm="loslassen">       <i></i><par n="/lassen#_ab__vblex_sep"/></e>
 <e lm="loslassen">       <i>los</i><par n="ab/lassen__vblex_sep"/></e>
-<e lm="loslassen">       <p><l>losgelassen</l><r>loslassen</r></p><par n="__vblex_sep_pp"/></e>-->
+<e lm="loslassen">       <p><l>losgelassen</l><r>loslassen</r></p><par n="__vblex_sep_pp"/></e>
 <e lm="losmachen">       <i>mach</i><par n="ahm/en#_nach__vblex_sep"/></e>
 <e lm="losmachen">       <i>losmach</i><par n="nachahm/en__vblex_sep"/></e>
 <e lm="losmachen">       <p><l>losgemacht</l><r>losmachen</r></p><par n="__vblex_sep_pp"/></e>
@@ -46716,9 +46779,9 @@
 <e lm="zujubeln">        <i>jub</i><par n="hand/eln#_ab__vblex_sep"/></e>
 <e lm="zujubeln">        <i>zujub</i><par n="abhand/eln__vblex_sep"/></e>
 <e lm="zujubeln">        <p><l>zugejubelt</l><r>zujubeln</r></p><par n="__vblex_sep_pp"/></e>
-<!--<e lm="zulassen">        <i></i><par n="/lassen#_ab__vblex_sep"/></e>
+<e lm="zulassen">        <i></i><par n="/lassen#_ab__vblex_sep"/></e>
 <e lm="zulassen">        <i>zu</i><par n="ab/lassen__vblex_sep"/></e>
-<e lm="zulassen">        <p><l>zugelassen</l><r>zulassen</r></p><par n="__vblex_sep_pp"/></e>-->
+<e lm="zulassen">        <p><l>zugelassen</l><r>zulassen</r></p><par n="__vblex_sep_pp"/></e>
 <e lm="zunehmen">        <i></i><par n="/nehmen#_ab__vblex_sep"/></e>
 <e lm="zunehmen">        <i>zu</i><par n="ab/nehmen__vblex_sep"/></e>
 <e lm="zunehmen">        <p><l>zugenommen</l><r>zunehmen</r></p><par n="__vblex_sep_pp"/></e>
@@ -46759,9 +46822,9 @@
 <e lm="zurückkehren">    <i>kehr</i><par n="ahm/en#_nach__vblex_sep"/></e>
 <e lm="zurückkehren">    <i>zurückkehr</i><par n="nachahm/en__vblex_sep"/></e>
 <e lm="zurückkehren">    <p><l>zurückgekehrt</l><r>zurückkehren</r></p><par n="__vblex_sep_pp"/></e>
-<!--<e lm="zurücklassen">    <i></i><par n="/lassen#_ab__vblex_sep"/></e>
+<e lm="zurücklassen">    <i></i><par n="/lassen#_ab__vblex_sep"/></e>
 <e lm="zurücklassen">    <i>zurück</i><par n="ab/lassen__vblex_sep"/></e>
-<e lm="zurücklassen">    <p><l>zurückgelassen</l><r>zurücklassen</r></p><par n="__vblex_sep_pp"/></e>-->
+<e lm="zurücklassen">    <p><l>zurückgelassen</l><r>zurücklassen</r></p><par n="__vblex_sep_pp"/></e>
 <e lm="zurücklocken">    <i>lock</i><par n="ahm/en#_nach__vblex_sep"/></e>
 <e lm="zurücklocken">    <i>zurücklock</i><par n="nachahm/en__vblex_sep"/></e>
 <e lm="zurücklocken">    <p><l>zurückgelockt</l><r>zurücklocken</r></p><par n="__vblex_sep_pp"/></e>
