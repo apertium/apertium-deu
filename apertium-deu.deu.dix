@@ -23819,6 +23819,7 @@
 <e lm="erschwinglich">   <i>erschwinglich</i><par n="abenteuerlich__adj"/></e>
 <e lm="ersichtlich">     <i>ersichtlich</i><par n="abendfüllend__adj"/></e>
 <e lm="erstrebenswert">  <i>erstrebenswert</i><par n="abgebrannt__adj"/></e>
+<e lm="erwachsen">       <i>erwachsen</i><par n="abenteuerlich__adj"/></e>
 <e lm="esoterisch">      <i>esoterisch</i><par n="abenteuerlich__adj"/></e>
 <e lm="essentiell">      <i>essentiell</i><par n="abendfüllend__adj"/></e>
 <e lm="estnisch">        <i>estnisch</i><par n="abenteuerlich__adj"/></e>
@@ -46100,6 +46101,9 @@
 
 <!-- SECTION: Verbs (separable) -->
 
+<e lm="abbauen">         <i>bau</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="abbauen">         <i>abbau</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="abbauen">         <p><l>abgebaut</l>  <r>abbauen</r></p><par n="__vblex_sep_pp"/></e>
 <e lm="abbeißen">        <i>b</i><par n="b/eißen#_ab__vblex_sep"/></e>
 <e lm="abbeißen">        <i>abb</i><par n="abb/eißen__vblex_sep"/></e>
 <e lm="abbeißen">        <p><l>abgebissen</l><r>abbeißen</r></p><par n="__vblex_sep_pp"/></e>
@@ -46480,6 +46484,9 @@
 <e lm="anziehen">        <i>anz</i><par n="abz/iehen__vblex_sep"/></e>
 <e lm="anziehen">        <p><l>angezogen</l> <r>anziehen</r></p><par n="__vblex_sep_pp"/></e>
 
+<e lm="aufbauen">        <i>bau</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="aufbauen">        <i>aufbau</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="aufbauen">        <p><l>aufgebaut</l> <r>aufbauen</r></p><par n="__vblex_sep_pp"/></e>
 <e lm="aufblühen">       <i>blüh</i><par n="ahm/en#_nach__vblex_sep"/></e>
 <e lm="aufblühen">       <i>aufblüh</i><par n="nachahm/en__vblex_sep"/></e>
 <e lm="aufblühen">       <p><l>aufgeblüht</l><r>aufblühen</r></p><par n="__vblex_sep_pp"/></e>
@@ -46586,6 +46593,9 @@
 <e lm="ausatmen">        <i>atme</i><par n="drifte/n#_ab__vblex_sep"/></e>
 <e lm="ausatmen">        <i>ausatme</i><par n="abdrifte/n__vblex_sep"/></e>
 <e lm="ausatmen">        <p><l>ausgeatmet</l><r>ausatmen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="ausbauen">        <i>bau</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="ausbauen">        <i>ausbau</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="ausbauen">        <p><l>ausgebaut</l> <r>ausbauen</r></p><par n="__vblex_sep_pp"/></e>
 <e lm="ausbeuten">       <i>beute</i><par n="drifte/n#_ab__vblex_sep"/></e>
 <e lm="ausbeuten">       <i>ausbeute</i><par n="abdrifte/n__vblex_sep"/></e>
 <e lm="ausbeuten">       <p><l>ausgebeutet</l><r>ausbeuten</r></p><par n="__vblex_sep_pp"/></e>
