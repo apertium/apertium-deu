@@ -77,6 +77,7 @@
     <sdef n="compound-only-L" 	c=""/> 
     <sdef n="compound-R" 	c=""/> 
     <sdef n="cmp" 	c=""/> 
+    <sdef n="cmp-split" 	c=""/>
     <sdef n="lower" 	c="Lower case"/> 
     <sdef n="irr" 	c="Irregular (for words that differ in inflection and meaning)"/> 
   </sdefs>
@@ -372,6 +373,8 @@
 <pardef n="cmp-L" c="cmp-L, for forms that can only appear at the beginning or inside compounds">
   <e r="RL"><p><l></l>          <r><s n="cmp"/></r></p></e>
   <e r="LR"><p><l></l>          <r><s n="cmp"/><s n="compound-only-L"/></r></p></e>
+
+  <e>       <p><l>-</l>         <r><s n="cmp-split"/></r></p></e>
 </pardef>
 
 
@@ -959,6 +962,32 @@
   <e>       <p><l>atz</l>       <r>atz<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/><s n="lower"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>atz</l>       <r>atz<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="lower"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>atz</l>       <r>atz<s n="n"/><s n="m"/><s n="sg"/><s n="lower"/></r></p><par n="cmp-L"/></e>
+</pardef>
+<pardef n="Abschied__n_m">
+  <e>       <p><l>en</l>        <r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
+  <e>       <p><l>e</l>         <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e>       <p><l>e</l>         <r><s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
+  <e>       <p><l>e</l>         <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e r="LR"><p><l>e</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e>       <p><l>es</l>        <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="sg"/></r></p><par n="cmp-L"/></e>
+</pardef>
+<pardef n="Abschied__n_m_lower">
+  <e>       <p><l>en</l>        <r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/><s n="lower"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>e</l>         <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/><s n="lower"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>e</l>         <r><s n="n"/><s n="m"/><s n="pl"/><s n="gen"/><s n="lower"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>e</l>         <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="lower"/></r></p><par n="cmp-R"/></e>
+  <e r="LR"><p><l>e</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/><s n="lower"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>es</l>        <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/><s n="lower"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/><s n="lower"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/><s n="lower"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="lower"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/><s n="lower"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="lower"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Abspr/ung__n_m">
   <e>       <p><l>üngen</l>     <r>ung<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -26434,8 +26463,8 @@
 <e lm="Abscheu">         <i>abscheu</i><par n="Abhilfe__n_f_lower"/></e>
 <e lm="Abschiebegewahrsam"><i>Abschiebegewahrsam</i><par n="Aberglauben__n_m"/></e>
 <e lm="Abschiebegewahrsam"><i>abschiebegewahrsam</i><par n="Aberglauben__n_m_lower"/></e>
-<e lm="Abschied">        <i>Abschied</i><par n="Aal__n_m"/></e>
-<e lm="Abschied">        <i>abschied</i><par n="Aal__n_m_lower"/></e>
+<e lm="Abschied">        <i>Abschied</i><par n="Abschied__n_m"/></e>
+<e lm="Abschied">        <i>abschied</i><par n="Abschied__n_m_lower"/></e>
 <e lm="Abschluss">       <i>Abschl</i><par n="Abfl/uss__n_m"/></e>
 <e lm="Abschluss">       <i>abschl</i><par n="Abfl/uss__n_m_lower"/></e>
 <e lm="Abschluß">        <i>Abschl</i><par n="Abfl/uß__n_m"/></e>
@@ -33802,8 +33831,8 @@
 <e lm="Kreuzung">        <i>kreuzung</i><par n="Ahnung__n_f_lower"/></e>
 <e lm="Krida">           <i>Krida</i><par n="Abhilfe__n_f"/></e>
 <e lm="Krida">           <i>krida</i><par n="Abhilfe__n_f_lower"/></e>
-<e lm="Krieg">           <i>Krieg</i><par n="Aal__n_m"/></e>
-<e lm="Krieg">           <i>krieg</i><par n="Aal__n_m_lower"/></e>
+<e lm="Krieg">           <i>Krieg</i><par n="Abschied__n_m"/></e>
+<e lm="Krieg">           <i>krieg</i><par n="Abschied__n_m_lower"/></e>
 <e lm="Krieger">         <i>Krieger</i><par n="Abenteurer__n_m"/></e>
 <e lm="Krieger">         <i>krieger</i><par n="Abenteurer__n_m_lower"/></e>
 <e lm="Krimi">           <i>Krimi</i><par n="Affront__n_m"/></e>
@@ -37328,8 +37357,8 @@
 <e lm="Rebe">            <i>rebe</i><par n="Abfolge__n_f_lower"/></e>
 <e lm="Rebell">          <i>Rebell</i><par n="Abiturient__n_m"/></e>
 <e lm="Rebell">          <i>rebell</i><par n="Abiturient__n_m_lower"/></e>
-<e lm="Rebellion">       <i>Rebellion</i><par n="Abfuhr__n_f"/></e>
-<e lm="Rebellion">       <i>rebellion</i><par n="Abfuhr__n_f_lower"/></e>
+<e lm="Rebellion">       <i>Rebellion</i><par n="Ahnung__n_f"/></e>
+<e lm="Rebellion">       <i>rebellion</i><par n="Ahnung__n_f_lower"/></e>
 <e lm="Rebsorte">        <i>Rebsorte</i><par n="Abfolge__n_f"/></e>
 <e lm="Rebsorte">        <i>rebsorte</i><par n="Abfolge__n_f_lower"/></e>
 <e lm="Rebstock">        <i>Rebst</i><par n="Bl/ock__n_m"/></e>
