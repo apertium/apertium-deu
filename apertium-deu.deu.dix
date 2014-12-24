@@ -362,6 +362,8 @@
   <e r="LR"><p><l></l>          <r><s n="cmp"/><s n="compound-only-L"/></r></p></e>
   <e r="LR"><p><l></l>          <r><s n="compound-R"/></r></p></e>
   <e>       <p><l></l>          <r></r></p></e>
+
+  <e>       <p><l>-</l>         <r><s n="cmp-split"/></r></p></e>
 </pardef>
 
 <pardef n="cmp-R" c="cmp-R, for forms that can only end compounds">
@@ -46759,6 +46761,9 @@
 <e lm="beiwohnen">       <i>beiwohn</i><par n="nachahm/en__vblex_sep"/></e>
 <e lm="beiwohnen">       <p><l>beigewohnt</l><r>beiwohnen</r></p><par n="__vblex_sep_pp"/></e>
 
+<e lm="durchführen">     <i>führ</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="durchführen">     <i>durchführ</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="durchführen">     <p><l>durchgeführt</l><r>durchführen</r></p><par n="__vblex_sep_pp"/></e>
 <e lm="durchlassen">     <i></i><par n="/lassen#_ab__vblex_sep"/></e>
 <e lm="durchlassen">     <i>durch</i><par n="ab/lassen__vblex_sep"/></e>
 <e lm="durchlassen">     <p><l>durchgelassen</l><r>durchlassen</r></p><par n="__vblex_sep_pp"/></e>
@@ -47063,6 +47068,9 @@
 <e lm="umsetzen">        <i>setz</i><par n="brems/en#_ab__vblex_sep"/></e>
 <e lm="umsetzen">        <i>umsetz</i><par n="abbrems/en__vblex_sep"/></e>
 <e lm="umsetzen">        <p><l>umgesetzt</l> <r>umsetzen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="umstellen">       <i>stell</i><par n="ahm/en#_nach__vblex_sep"/></e>
+<e lm="umstellen">       <i>umstell</i><par n="nachahm/en__vblex_sep"/></e>
+<e lm="umstellen">       <p><l>umgestellt</l><r>umstellen</r></p><par n="__vblex_sep_pp"/></e>
 <e lm="umwehen">         <i>weh</i><par n="ahm/en#_nach__vblex_sep"/></e>
 <e lm="umwehen">         <i>umweh</i><par n="nachahm/en__vblex_sep"/></e>
 <e lm="umwehen">         <p><l>umgeweht</l>  <r>umwehen</r></p><par n="__vblex_sep_pp"/></e>
