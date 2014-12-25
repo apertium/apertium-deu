@@ -80,6 +80,7 @@
     <sdef n="cmp-split" 	c=""/>
     <sdef n="lower" 	c="Lower case"/> 
     <sdef n="irr" 	c="Irregular (for words that differ in inflection and meaning)"/> 
+    <sdef n="ref" 	c="Reflexive"/> 
   </sdefs>
   <pardefs>
 
@@ -182,12 +183,13 @@
   <e>       <p><l>Sie</l>       <r>Sie<s n="prn"/><s n="pers"/><s n="p2"/><s n="frm"/><s n="mf"/><s n="pl"/><s n="acc"/></r></p></e>
 </pardef>
 
-<pardef n="man__pr">
+<pardef n="/man__prn">
   <e>       <p><l>man</l>       <r>man<s n="prn"/><s n="ind"/><s n="p3"/><s n="mf"/><s n="sg"/><s n="nom"/></r></p></e>
 </pardef>
 
-
-
+<pardef n="sich__prn">
+  <e>       <p><l></l>          <r><s n="prn"/><s n="ref"/></r></p></e>
+</pardef>
 
 
 
@@ -22414,7 +22416,9 @@
 <e lm="sie">             <i></i><par n="/sie2__prn"/></e>
 <e lm="Sie">             <i></i><par n="/Sie__prn"/></e>
 
-<e lm="man">             <i></i><par n="man__pr"/></e>
+<e lm="man">             <i></i><par n="/man__prn"/></e>
+
+<e lm="sich">            <i>sich</i><par n="sich__prn"/></e>
 
 <!-- SECTION: Interjections -->
 
@@ -24337,6 +24341,7 @@
 <e lm="individuell">     <i>individuell</i><par n="abenteuerlich__adj"/></e>
 <e lm="indonesisch">     <i>indonesisch</i><par n="abenteuerlich__adj"/></e>
 <e lm="industriell">     <i>industriell</i><par n="abendfüllend__adj"/></e>
+<e lm="ineffektiv">      <i>ineffektiv</i><par n="abenteuerlich__adj"/></e>
 <e lm="ineffizient">     <i>ineffizient</i><par n="abgebrannt__adj"/></e>
 <e lm="infam">           <i>infam</i><par n="abenteuerlich__adj"/></e>
 <e lm="infantil">        <i>infantil</i><par n="abenteuerlich__adj"/></e>
@@ -25529,6 +25534,7 @@
 <e lm="surreal">         <i>surreal</i><par n="abenteuerlich__adj"/></e>
 <e lm="surrealistisch">  <i>surrealistisch</i><par n="abenteuerlich__adj"/></e>
 <e lm="suspekt">         <i>suspekt</i><par n="abendfüllend__adj"/></e>
+<e lm="symbiotisch">     <i>symbiotisch</i><par n="abendfüllend__adj"/></e>
 <e lm="symbolisch">      <i>symbolisch</i><par n="abendfüllend__adj"/></e>
 <e lm="symbolträchtig">  <i>symbolträchtig</i><par n="abenteuerlich__adj"/></e>
 <e lm="symmetrisch">     <i>symmetrisch</i><par n="abenteuerlich__adj"/></e>
@@ -27859,6 +27865,8 @@
 <e lm="Begräbnis">       <i>begräbnis</i><par n="Ärgernis__n_nt_lower"/></e>
 <e lm="Behalt">          <i>Behalt</i><par n="Aberglauben__n_m"/></e>
 <e lm="Behalt">          <i>behalt</i><par n="Aberglauben__n_m_lower"/></e>
+<e lm="Beherrschung">    <i>Beherrschung</i><par n="Ahnung__n_f"/></e>
+<e lm="Beherrschung">    <i>beherrschung</i><par n="Ahnung__n_f_lower"/></e>
 <e lm="Behinderte">      <i>Behinderte</i><par n="Affe__n_m"/></e>
 <e lm="Behinderte">      <i>behinderte</i><par n="Affe__n_m_lower"/></e>
 <e lm="Behinderung">     <i>Behinderung</i><par n="Ahnung__n_f"/></e>
@@ -31977,6 +31985,8 @@
 <e lm="Herrgott">        <i>herrgott</i><par n="Aberglauben__n_m_lower"/></e>
 <e lm="Herrschaft">      <i>Herrschaft</i><par n="Abfuhr__n_f"/></e>
 <e lm="Herrschaft">      <i>herrschaft</i><par n="Abfuhr__n_f_lower"/></e>
+<e lm="Herrscher">       <i>Herrscher</i><par n="Abenteurer__n_m"/></e>
+<e lm="Herrscher">       <i>herrscher</i><par n="Abenteurer__n_m_lower"/></e>
 <e lm="Hersteller">      <i>Hersteller</i><par n="Abenteurer__n_m"/></e>
 <e lm="Hersteller">      <i>hersteller</i><par n="Abenteurer__n_m_lower"/></e>
 <e lm="Hertz">           <i>Hertz</i><par n="Aus__n_nt"/></e>
@@ -32283,6 +32293,8 @@
 <e lm="Ibis">            <i>ibis</i><par n="Airbus__n_m_lower"/></e>
 <e lm="Ideal">           <i>Ideal</i><par n="Abteil__n_nt"/></e>
 <e lm="Ideal">           <i>ideal</i><par n="Abteil__n_nt_lower"/></e>
+<e lm="Idealisierung">   <i>Idealisierung</i><par n="Ahnung__n_f"/></e>
+<e lm="Idealisierung">   <i>idealisierung</i><par n="Ahnung__n_f_lower"/></e>
 <e lm="Idealist">        <i>Idealist</i><par n="Abiturient__n_m"/></e>
 <e lm="Idealist">        <i>idealist</i><par n="Abiturient__n_m_lower"/></e>
 <e lm="Idee">            <i>Idee</i><par n="Abfolge__n_f"/></e>
@@ -33585,6 +33597,8 @@
 <e lm="Konsistenz">      <i>konsistenz</i><par n="Abfuhr__n_f_lower"/></e>
 <e lm="Konsole">         <i>Konsole</i><par n="Abfolge__n_f"/></e>
 <e lm="Konsole">         <i>konsole</i><par n="Abfolge__n_f_lower"/></e>
+<e lm="Konsolidierung">  <i>Konsolidierung</i><par n="Ahnung__n_f"/></e>
+<e lm="Konsolidierung">  <i>konsolidierung</i><par n="Ahnung__n_f_lower"/></e>
 <e lm="Konsorte">        <i>Konsorte</i><par n="Affe__n_m"/></e>
 <e lm="Konsorte">        <i>konsorte</i><par n="Affe__n_m_lower"/></e>
 <e lm="Konsortium">      <i>Konsorti</i><par n="Alb/um__n_nt"/></e>
@@ -33987,6 +34001,8 @@
 <e lm="Kälte">           <i>kälte</i><par n="Abhilfe__n_f_lower"/></e>
 <e lm="Kämmerer">        <i>Kämmerer</i><par n="Abenteurer__n_m"/></e>
 <e lm="Kämmerer">        <i>kämmerer</i><par n="Abenteurer__n_m_lower"/></e>
+<e lm="Kämpfer">         <i>Kämpfer</i><par n="Abenteurer__n_m"/></e>
+<e lm="Kämpfer">         <i>kämpfer</i><par n="Abenteurer__n_m_lower"/></e>
 <e lm="Känguru">         <i>Känguru</i><par n="Abi__n_nt"/></e>
 <e lm="Känguru">         <i>känguru</i><par n="Abi__n_nt_lower"/></e>
 <e lm="Känguruh">        <i>Känguruh</i><par n="Abi__n_nt"/></e>
@@ -38259,6 +38275,8 @@
 <e lm="Schenke">         <i>schenke</i><par n="Abfolge__n_f_lower"/></e>
 <e lm="Schenkel">        <i>Schenkel</i><par n="Abenteurer__n_m"/></e>
 <e lm="Schenkel">        <i>schenkel</i><par n="Abenteurer__n_m_lower"/></e>
+<e lm="Schenkung">       <i>Schenkung</i><par n="Ahnung__n_f"/></e>
+<e lm="Schenkung">       <i>schenkung</i><par n="Ahnung__n_f_lower"/></e>
 <e lm="Scherbe">         <i>Scherbe</i><par n="Abfolge__n_f"/></e>
 <e lm="Scherbe">         <i>scherbe</i><par n="Abfolge__n_f_lower"/></e>
 <e lm="Schere">          <i>Schere</i><par n="Abfolge__n_f"/></e>
@@ -39947,6 +39965,8 @@
 <e lm="Teich">           <i>teich</i><par n="Aal__n_m_lower"/></e>
 <e lm="Teig">            <i>Teig</i><par n="Aal__n_m"/></e>
 <e lm="Teig">            <i>teig</i><par n="Aal__n_m_lower"/></e>
+<e lm="Teil">            <i>Teil</i><par n="Abend__n_m"/></e>
+<e lm="Teil">            <i>teil</i><par n="Abend__n_m_lower"/></e>
 <e lm="Teil">            <i>Teil</i><par n="Aggregat__n_nt"/></e>
 <e lm="Teil">            <i>teil</i><par n="Aggregat__n_nt_lower"/></e>
 <e lm="Teilhabe">        <i>Teilhabe</i><par n="Abfolge__n_f"/></e>
@@ -40399,6 +40419,8 @@
 <e lm="Truppe">          <i>truppe</i><par n="Abfolge__n_f_lower"/></e>
 <e lm="Trust">           <i>Trust</i><par n="Affront__n_m"/></e>
 <e lm="Trust">           <i>trust</i><par n="Affront__n_m_lower"/></e>
+<e lm="Träger">          <i>Träger</i><par n="Abenteurer__n_m"/></e>
+<e lm="Träger">          <i>träger</i><par n="Abenteurer__n_m_lower"/></e>
 <e lm="Trägheit">        <i>Trägheit</i><par n="Abfuhr__n_f"/></e>
 <e lm="Trägheit">        <i>trägheit</i><par n="Abfuhr__n_f_lower"/></e>
 <e lm="Träne">           <i>Träne</i><par n="Abfolge__n_f"/></e>
@@ -40655,6 +40677,8 @@
 <e lm="Untersuchung">    <i>untersuchung</i><par n="Ahnung__n_f_lower"/></e>
 <e lm="Untertan">        <i>Untertan</i><par n="Administrator__n_m"/></e>
 <e lm="Untertan">        <i>untertan</i><par n="Administrator__n_m_lower"/></e>
+<e lm="Unterwerfung">    <i>Unterwerfung</i><par n="Ahnung__n_f"/></e>
+<e lm="Unterwerfung">    <i>unterwerfung</i><par n="Ahnung__n_f_lower"/></e>
 <e lm="Unterzeichnung">  <i>Unterzeichnung</i><par n="Ahnung__n_f"/></e>
 <e lm="Unterzeichnung">  <i>unterzeichnung</i><par n="Ahnung__n_f_lower"/></e>
 <e lm="Untreue">         <i>Untreue</i><par n="Abhilfe__n_f"/></e>
@@ -41489,6 +41513,8 @@
 <e lm="Wicht">           <i>wicht</i><par n="Aal__n_m_lower"/></e>
 <e lm="Wichte">          <i>Wichte</i><par n="Abfolge__n_f"/></e>
 <e lm="Wichte">          <i>wichte</i><par n="Abfolge__n_f_lower"/></e>
+<e lm="Wichtigkeit">     <i>Wichtigkeit</i><par n="Abhilfe__n_f"/></e>
+<e lm="Wichtigkeit">     <i>wichtigkeit</i><par n="Abhilfe__n_f_lower"/></e>
 <e lm="Widder">          <i>Widder</i><par n="Abenteurer__n_m"/></e>
 <e lm="Widder">          <i>widder</i><par n="Abenteurer__n_m_lower"/></e>
 <e lm="Widersacher">     <i>Widersacher</i><par n="Abenteurer__n_m"/></e>
@@ -47095,6 +47121,9 @@
 <e lm="vorschlagen">     <i></i><par n="/schlagen#_ab__vblex_sep"/></e>
 <e lm="vorschlagen">     <i>vor</i><par n="ab/schlagen__vblex_sep"/></e>
 <e lm="vorschlagen">     <p><l>vorgeschlagen</l><r>vorschlagen</r></p><par n="__vblex_sep_pp"/></e>
+<e lm="vorschreiben">    <i>schr</i><par n="bl/eiben#_ab__vblex_sep"/></e>
+<e lm="vorschreiben">    <i>vorschr</i><par n="abbl/eiben__vblex_sep"/></e>
+<e lm="vorschreiben">    <p><l>vorgeschrieben</l><r>vorschreiben</r></p><par n="__vblex_sep_pp"/></e>
 <e lm="vorspulen">       <i>spul</i><par n="ahm/en#_nach__vblex_sep"/></e>
 <e lm="vorspulen">       <i>vorspul</i><par n="nachahm/en__vblex_sep"/></e>
 <e lm="vorspulen">       <p><l>vorgespult</l><r>vorspulen</r></p><par n="__vblex_sep_pp"/></e>
