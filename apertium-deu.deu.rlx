@@ -12,12 +12,15 @@ LIST N = (n);
 LIST Rel = (rel);
 LIST Vblex = (vblex);
 LIST PrnDem = (prn dem);
+LIST Pr = (pr);
+LIST Adj = (adj);
 
 LIST Sg = (sg);
 LIST Pl = (pl);
 LIST M = (m);
 LIST F = (f);
 LIST Nt = (nt);
+LIST Mf = (mf);
 LIST Mfn = (mfn);
 LIST Imp = (imp);
 
@@ -45,7 +48,7 @@ REMOVE DetInd IF (1 EOS)
 
 REMOVE PrnDem IF (0 DetDef) (1 N)
 
-REMOVE ("während"i vblex pp) IF (NOT 1 EOS)
+REMOVE ("während"i vblex pprs) IF (NOT 1 EOS)
 
 # remove implausible gender case combinations
 
@@ -53,6 +56,52 @@ REMOVE Det + $$GENDER + Sg + $$CASE IF (1 N) (NOT 1 N + $$GENDER + Sg + $$CASE)
 REMOVE Det + Mfn + Pl + $$CASE IF (1 N) (NOT 1 N + GENDER + Pl + $$CASE)
 REMOVE N + $$GENDER + Sg + $$CASE IF (-1 Det) (NOT -1 Det + $$GENDER + Sg + $$CASE)
 REMOVE N + GENDER + Pl + $$CASE IF (-1 Det) (NOT -1 Det + Mfn + Pl + $$CASE)
+
+REMOVE Det + $$GENDER + Sg + $$CASE IF (1 Adj) (2 N) (NOT 2 N + $$GENDER + Sg + $$CASE)
+REMOVE Det + Mfn + Pl + $$CASE IF (1 Adj) (2 N) (NOT 2 N + GENDER + Pl + $$CASE)
+REMOVE N + $$GENDER + Sg + $$CASE IF (-2 Det) (NOT -2 Det + $$GENDER + Sg + $$CASE) (-1 Adj)
+REMOVE N + GENDER + Pl + $$CASE IF (-2 Det) (NOT -2 Det + Mfn + Pl + $$CASE) (-1 Adj)
+
+REMOVE Det + $$GENDER + Sg + $$CASE IF (1 Adj) (NOT 1 Adj + $$GENDER + Sg + $$CASE)
+REMOVE Det + Mfn + Pl + $$CASE IF (1 Adj) (NOT 1 Adj + Mf + Pl + $$CASE)
+
+REMOVE Adj + $$GENDER + Sg + $$CASE IF (-1 Det) (NOT -1 Det + $$GENDER + Sg + $$CASE)
+REMOVE Adj + Mf + Pl + $$CASE IF (-1 Det) (NOT -1 Det + GENDER + Pl + $$CASE)
+
+REMOVE Det + $$GENDER + Sg + $$CASE IF (-1 Pr) (NOT -1 Pr + $$CASE) (1 N) (NOT 1 N + $$GENDER + Sg + $$CASE)
+REMOVE Det + Mfn + Pl + $$CASE IF (-1 Pr) (NOT -1 Pr + $$CASE) (1 N) (NOT 1 N + GENDER + Pl + $$CASE)
+REMOVE N + $$GENDER + Sg + $$CASE IF (-2 Pr) (NOT -2 Pr + $$CASE) (-1 Det) (NOT -1 Det + $$GENDER + Sg + $$CASE)
+REMOVE N + GENDER + Pl + $$CASE IF (-2 Pr) (NOT -2 Pr + $$CASE) (-1 Det) (NOT -1 Det + Mfn + Pl + $$CASE)
+
+REMOVE Adj + $$GENDER + Sg + $$CASE IF (1 N) (NOT 1 N + $$GENDER + Sg + $$CASE)
+REMOVE Adj + Mf + Pl + $$CASE IF (1 N) (NOT 1 N + GENDER + Pl + $$CASE)
+REMOVE N + $$GENDER + Sg + $$CASE IF (-1 Adj) (NOT -1 Adj + $$GENDER + Sg + $$CASE)
+REMOVE N + GENDER + Pl + $$CASE IF (-1 Adj) (NOT -1 Adj + Mf + Pl + $$CASE)
+
+REMOVE Pr + $$CASE IF (1 N) (NOT 1 N + $$CASE)
+REMOVE N + $$CASE IF (-1 Pr) (NOT -1 Pr + $$CASE)
+
+REMOVE Pr + $$CASE IF (1 Det) (2 N) (NOT 2 N + $$CASE)
+REMOVE N + $$CASE IF (-2 Pr) (NOT -2 Pr + $$CASE) (-1 Det)
+
+
+SELECT (vblex pp) IF (1 (vbhaver))
+SELECT (vblex pp) IF (-1 (vbhaver))
+
+REMOVE PrnDem IF (0 Det) (1 Adj) (2 N)
+
+REMOVE (prn pers) IF (-1 Pr) (0 (det pos)) (1 N)
+
+REMOVE (adj attr) IF (1 EOS)
+
+REMOVE (adj attr) IF (-1 Det) (0 Adj + GENDER) (1 N)
+REMOVE (adj pred) IF (-1 Det) (0 Adj + GENDER) (1 N)
+
+# remove p1/p2 verb readings if there is no p1/p2 pronoun in the same sentence
+REMOVE (vblex p1) IF (NOT *-1 (prn pers p1) BARRIER BOS) (NOT *1 (prn pers p1) BARRIER EOS)
+REMOVE (vblex p2) IF (NOT *-1 (prn pers p2) BARRIER BOS) (NOT *1 (prn pers p2) BARRIER EOS)
+
+SELECT (det dem) IF (NOT 0 DetDef) (1 N)
 
 
 SELECT (x);
