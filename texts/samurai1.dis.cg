@@ -384,12 +384,8 @@
 		"in" pr dat
 ;	"der" det def nt sg dat
 ;		"in" pr dat
-"<Krieg>"
-;	"Krieg" n m sg dat
-"Krieg" 
+"<Kriegs->" 
         "Krieg" n m sg nom cmp-split             
-"<->"
-	"-" guio
 "<oder>"
 	"oder" cnjcoo
 "<Rebellionsfall>"
