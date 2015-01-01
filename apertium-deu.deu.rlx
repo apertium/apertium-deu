@@ -27,9 +27,13 @@ LIST Imp = (imp);
 SET GENDER = M | F | Nt;
 SET NUMBER = Sg | Pl;
 SET CASE = (nom) | (gen) | (dat) | (acc);
+SET Verb = (vblex) | (vbmod) | (vaux);
 
 
 SECTION 
+
+SELECT (n lower) IF (-1 (n cmp))
+SELECT (n cmp) IF (1 (n lower))
 
 # remove lower-case over-analysis of nouns, if other readings exist
 REMOVE (n lower);
@@ -98,8 +102,8 @@ REMOVE (adj attr) IF (-1 Det) (0 Adj + GENDER) (1 N)
 REMOVE (adj pred) IF (-1 Det) (0 Adj + GENDER) (1 N)
 
 # remove p1/p2 verb readings if there is no p1/p2 pronoun in the same sentence
-REMOVE (vblex p1) IF (NOT *-1 (prn pers p1) BARRIER BOS) (NOT *1 (prn pers p1) BARRIER EOS)
-REMOVE (vblex p2) IF (NOT *-1 (prn pers p2) BARRIER BOS) (NOT *1 (prn pers p2) BARRIER EOS)
+REMOVE Verb + (p1) IF (NOT *-1 (prn pers p1) BARRIER BOS) (NOT *1 (prn pers p1) BARRIER EOS)
+REMOVE Verb + (p2) IF (NOT *-1 (prn pers p2) BARRIER BOS) (NOT *1 (prn pers p2) BARRIER EOS)
 
 SELECT (det dem) IF (NOT 0 DetDef) (1 N)
 
