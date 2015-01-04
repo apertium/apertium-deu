@@ -1,0 +1,2852 @@
+"<Die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Vielzahl>"
+	"*Vielzahl"
+"<von>"
+	"von" pr dat
+"<Kleinmünzen>"
+	"münze" n f pl nom lower
+		"Klein" n nt sg cmp
+	"münze" n f pl gen lower
+		"Klein" n nt sg cmp
+	"münze" n f pl dat lower
+		"Klein" n nt sg cmp
+	"münze" n f pl acc lower
+		"Klein" n nt sg cmp
+	"münze" n f pl nom lower
+		"klein" n nt sg lower cmp
+	"münze" n f pl gen lower
+		"klein" n nt sg lower cmp
+	"münze" n f pl dat lower
+		"klein" n nt sg lower cmp
+	"münze" n f pl acc lower
+		"klein" n nt sg lower cmp
+"<unterhalb>"
+	"unterhalb" pr gen
+"<des>"
+	"der" det def m sg gen
+	"der" det def nt sg gen
+"<Talers>"
+	"Taler" n m sg gen
+	"taler" n m sg gen lower
+"<verlor>"
+	"verlieren" vblex pii p1 sg
+	"verlieren" vblex pii p3 sg
+"<zunehmend>"
+	"*zunehmend"
+"<an>"
+	"an" pr dat
+	"an" pr acc
+"<Feingehalt>"
+	"*Feingehalt"
+"<.>"
+	"." sent
+"<Diese>"
+	"dieser" prn dem f sg nom
+	"dieser" prn dem f sg acc
+	"dieser" prn dem mfn pl nom
+	"dieser" prn dem mfn pl acc
+	"dieser" det dem f sg nom
+	"dieser" det dem f sg acc
+	"dieser" det dem mfn pl nom
+	"dieser" det dem mfn pl acc
+"<Entwicklung>"
+	"Entwicklung" n f sg nom
+	"Entwicklung" n f sg gen
+	"Entwicklung" n f sg dat
+	"Entwicklung" n f sg acc
+	"entwicklung" n f sg nom lower
+	"entwicklung" n f sg gen lower
+	"entwicklung" n f sg dat lower
+	"entwicklung" n f sg acc lower
+"<erreichte>"
+	"erreichen" vblex pii p1 sg
+	"erreichen" vblex pii p3 sg
+	"erreichen" vblex pis p1 sg
+	"erreichen" vblex pis p3 sg
+"<in>"
+	"in" pr dat
+	"in" pr acc
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Kipper>"
+	"*Kipper"
+"<->"
+	"-" guio
+"<und>"
+	"und" cnjcoo
+"<Wipperzeit>"
+	"*Wipperzeit"
+"<während>"
+	"währen" vblex pprs
+	"während" pr gen
+"<des>"
+	"der" det def m sg gen
+	"der" det def nt sg gen
+"<Dreißigjährigen>"
+	"*Dreißigjährigen"
+"<Krieges>"
+	"Krieg" n m sg gen
+	"krieg" n m sg gen lower
+"<ihren>"
+	"ihr" det pos m sg acc
+	"ihr" det pos mfn pl dat
+"<Höhepunkt>"
+	"Höhepunkt" n m sg nom
+	"Höhepunkt" n m sg dat
+	"Höhepunkt" n m sg acc
+	"höhepunkt" n m sg nom lower
+	"höhepunkt" n m sg dat lower
+	"höhepunkt" n m sg acc lower
+"<.>"
+	"." sent
+"<Außerdem>"
+	"außerdem" adv
+"<wurden>"
+	"werden" vaux pii p1 pl
+	"werden" vaux pii p3 pl
+	"werden" vblex pii p1 pl
+	"werden" vblex pii p3 pl
+"<im>"
+	"der" det def m sg dat
+		"in" pr dat
+	"der" det def nt sg dat
+		"in" pr dat
+"<17.>"
+	"17." num ord
+"<Jahrhundert>"
+	"Jahrhundert" n nt sg nom
+	"Jahrhundert" n nt sg dat
+	"Jahrhundert" n nt sg acc
+	"jahrhundert" n nt sg nom lower
+	"jahrhundert" n nt sg dat lower
+	"jahrhundert" n nt sg acc lower
+"<erstmals>"
+	"erstmals" adv
+"<seit>"
+	"seit" pr dat
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Spätantike>"
+	"*Spätantike"
+"<wieder>"
+	"wieder" adv
+"<Kupfermünzen>"
+	"münze" n f pl nom lower
+		"Kupfer" n nt sg cmp
+	"münze" n f pl gen lower
+		"Kupfer" n nt sg cmp
+	"münze" n f pl dat lower
+		"Kupfer" n nt sg cmp
+	"münze" n f pl acc lower
+		"Kupfer" n nt sg cmp
+	"münze" n f pl nom lower
+		"kupfer" n nt sg lower cmp
+	"münze" n f pl gen lower
+		"kupfer" n nt sg lower cmp
+	"münze" n f pl dat lower
+		"kupfer" n nt sg lower cmp
+	"münze" n f pl acc lower
+		"kupfer" n nt sg lower cmp
+"<als>"
+	"als" cnjadv
+	"als" pr nom
+"<Scheidemünzen>"
+	"münze" n f pl nom lower
+		"Scheide" n f sg cmp
+	"münze" n f pl gen lower
+		"Scheide" n f sg cmp
+	"münze" n f pl dat lower
+		"Scheide" n f sg cmp
+	"münze" n f pl acc lower
+		"Scheide" n f sg cmp
+	"münze" n f pl nom lower
+		"scheide" n f sg lower cmp
+	"münze" n f pl gen lower
+		"scheide" n f sg lower cmp
+	"münze" n f pl dat lower
+		"scheide" n f sg lower cmp
+	"münze" n f pl acc lower
+		"scheide" n f sg lower cmp
+"<geprägt>"
+	"prägen" vblex pp
+"<.>"
+	"." sent
+"<Für>"
+	"für" pr acc
+"<den>"
+	"der" rel m sg acc
+	"der" prn dem m sg acc
+	"der" det def m sg acc
+	"der" det def mfn pl dat
+"<Umsatz>"
+	"Umsatz" n m sg nom
+	"Umsatz" n m sg dat
+	"Umsatz" n m sg acc
+	"umsatz" n m sg nom lower
+	"umsatz" n m sg dat lower
+	"umsatz" n m sg acc lower
+"<werthaltiger>"
+	"*werthaltiger"
+"<Güter>"
+	"Gut" n nt pl nom
+	"Gut" n nt pl gen
+	"Gut" n nt pl acc
+	"gut" n nt pl nom lower
+	"gut" n nt pl gen lower
+	"gut" n nt pl acc lower
+"<setzten>"
+	"setzen" vblex pii p1 pl
+	"setzen" vblex pii p3 pl
+	"setzen" vblex pis p1 pl
+	"setzen" vblex pis p3 pl
+	"setzen" vblex sep fm pii p1 pl
+	"setzen" vblex sep fm pii p3 pl
+	"setzen" vblex sep fm pis p1 pl
+	"setzen" vblex sep fm pis p3 pl
+"<sich>"
+	"*sich"
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<goldenen>"
+	"golden" adj m sg gen
+	"golden" adj m sg acc
+	"golden" adj nt sg gen
+	"golden" adj mf pl dat
+	"golden" adj f sg gen mix
+	"golden" adj f sg dat mix
+	"golden" adj m sg dat mix
+	"golden" adj nt sg dat mix
+	"golden" adj mf pl nom mix
+	"golden" adj mf pl gen mix
+	"golden" adj mf pl acc mix
+"<Dukaten>"
+	"*Dukaten"
+"<durch>"
+	"durch" pr acc
+"<.>"
+	"." sent
+
+
+"<Arabische>"
+	"arabisch" adj f sg nom
+	"arabisch" adj f sg acc
+	"arabisch" adj mf pl nom st
+	"arabisch" adj mf pl acc st
+	"arabisch" adj m sg nom sw
+	"arabisch" adj nt sg nom sw
+	"arabisch" adj nt sg acc sw
+"<Bezeichnungen>"
+	"Bezeichnung" n f pl nom
+	"Bezeichnung" n f pl gen
+	"Bezeichnung" n f pl dat
+	"Bezeichnung" n f pl acc
+	"bezeichnung" n f pl nom lower
+	"bezeichnung" n f pl gen lower
+	"bezeichnung" n f pl dat lower
+	"bezeichnung" n f pl acc lower
+"<für>"
+	"für" pr acc
+"<europäische>"
+	"europäisch" adj f sg nom
+	"europäisch" adj f sg acc
+	"europäisch" adj mf pl nom st
+	"europäisch" adj mf pl acc st
+	"europäisch" adj m sg nom sw
+	"europäisch" adj nt sg nom sw
+	"europäisch" adj nt sg acc sw
+"<Münzen>"
+	"münzen" vblex inf
+	"Münze" n f pl nom
+	"Münze" n f pl gen
+	"Münze" n f pl dat
+	"Münze" n f pl acc
+	"münzen" vblex pri p1 pl
+	"münzen" vblex pri p3 pl
+	"münzen" vblex prs p1 pl
+	"münzen" vblex prs p3 pl
+	"münze" n f pl nom lower
+	"münze" n f pl gen lower
+	"münze" n f pl dat lower
+	"münze" n f pl acc lower
+"<,>"
+	"," cm
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<durch>"
+	"durch" pr acc
+"<den>"
+	"der" rel m sg acc
+	"der" prn dem m sg acc
+	"der" det def m sg acc
+	"der" det def mfn pl dat
+"<Levantehandel>"
+	"*Levantehandel"
+"<in>"
+	"in" pr dat
+	"in" pr acc
+"<arabischen>"
+	"arabisch" adj m sg gen
+	"arabisch" adj m sg acc
+	"arabisch" adj nt sg gen
+	"arabisch" adj mf pl dat
+	"arabisch" n nt sg gen lower
+	"arabisch" n nt sg dat lower
+	"arabisch" n nt sg acc lower
+	"arabisch" adj f sg gen mix
+	"arabisch" adj f sg dat mix
+	"arabisch" adj m sg dat mix
+	"arabisch" adj nt sg dat mix
+	"arabisch" adj mf pl nom mix
+	"arabisch" adj mf pl gen mix
+	"arabisch" adj mf pl acc mix
+"<Staaten>"
+	"Staat" n m pl nom
+	"Staat" n m pl gen
+	"Staat" n m pl dat
+	"Staat" n m pl acc
+	"staat" n m pl nom lower
+	"staat" n m pl gen lower
+	"staat" n m pl dat lower
+	"staat" n m pl acc lower
+"<verbreitet>"
+	"verbreitet" adj attr
+	"verbreitet" adj pred
+	"verbreiten" vblex pp
+	"verbreiten" vblex imp pl
+	"verbreiten" vblex pri p2 pl
+	"verbreiten" vblex pri p3 sg
+	"verbreiten" vblex prs p2 pl
+"<waren>"
+	"sein" vbser pii p1 pl
+	"sein" vbser pii p3 pl
+	"ware" n f pl nom lower
+	"ware" n f pl gen lower
+	"ware" n f pl dat lower
+	"ware" n f pl acc lower
+"<,>"
+	"," cm
+"<sind>"
+	"sein" vbser pri p1 pl
+	"sein" vbser pri p3 pl
+"<schmückende>"
+	"*schmückende"
+"<Beinamen>"
+	"amen" n nt sg nom lower
+		"Bein" n nt sg cmp
+	"amen" n nt sg dat lower
+		"Bein" n nt sg cmp
+	"amen" n nt sg acc lower
+		"Bein" n nt sg cmp
+	"amen" n nt pl nom lower
+		"Bein" n nt sg cmp
+	"amen" n nt pl gen lower
+		"Bein" n nt sg cmp
+	"amen" n nt pl dat lower
+		"Bein" n nt sg cmp
+	"amen" n nt pl acc lower
+		"Bein" n nt sg cmp
+	"amen" n nt sg nom lower
+		"bein" n nt sg lower cmp
+	"amen" n nt sg dat lower
+		"bein" n nt sg lower cmp
+	"amen" n nt sg acc lower
+		"bein" n nt sg lower cmp
+	"amen" n nt pl nom lower
+		"bein" n nt sg lower cmp
+	"amen" n nt pl gen lower
+		"bein" n nt sg lower cmp
+	"amen" n nt pl dat lower
+		"bein" n nt sg lower cmp
+	"amen" n nt pl acc lower
+		"bein" n nt sg lower cmp
+"<,>"
+	"," cm
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<dabei>"
+	"dabei" preadv
+"<meist>"
+	"meist" adv
+	"viel" adj sup pred
+"<das>"
+	"der" rel nt sg nom
+	"der" rel nt sg acc
+	"der" prn dem nt sg nom
+	"der" prn dem nt sg acc
+	"der" det def nt sg nom
+	"der" det def nt sg acc
+"<Münzbild>"
+	"*Münzbild"
+"<betreffen>"
+	"betreffen" vblex inf
+	"betreff" n m pl dat lower
+	"betreffen" vblex pri p1 pl
+	"betreffen" vblex pri p3 pl
+	"betreffen" vblex prs p1 pl
+	"betreffen" vblex prs p3 pl
+"<.>"
+	"." sent
+"<So>"
+	"so" adv
+"<wurde>"
+	"werden" vaux pii p1 sg
+	"werden" vaux pii p3 sg
+	"werden" vblex pii p1 sg
+	"werden" vblex pii p3 sg
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Maria>"
+	"*Maria"
+"<->"
+	"-" guio
+"<Theresien>"
+	"*Theresien"
+"<->"
+	"-" guio
+"<Taler>"
+	"Taler" n m sg nom
+	"Taler" n m sg dat
+	"Taler" n m sg acc
+	"Taler" n m pl nom
+	"Taler" n m pl gen
+	"Taler" n m pl acc
+	"taler" n m sg nom lower
+	"taler" n m sg dat lower
+	"taler" n m sg acc lower
+	"taler" n m pl nom lower
+	"taler" n m pl gen lower
+	"taler" n m pl acc lower
+"<Abu>"
+	"*Abu"
+"<Kush>"
+	"*Kush"
+"<(>"
+	"(" lpar
+"<Vater>"
+	"Vater" n m sg nom
+	"Vater" n m sg dat
+	"Vater" n m sg acc
+	"vater" n m sg nom lower
+	"vater" n m sg dat lower
+	"vater" n m sg acc lower
+"<des>"
+	"der" det def m sg gen
+	"der" det def nt sg gen
+"<Vogels>"
+	"Vogel" n m sg gen
+	"vogel" n m sg gen lower
+"<)>"
+	")" rpar
+"<oder>"
+	"oder" cnjcoo
+"<Abu>"
+	"*Abu"
+"<Noukte>"
+	"*Noukte"
+"<(>"
+	"(" lpar
+"<Vater>"
+	"Vater" n m sg nom
+	"Vater" n m sg dat
+	"Vater" n m sg acc
+	"vater" n m sg nom lower
+	"vater" n m sg dat lower
+	"vater" n m sg acc lower
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Perlen>"
+	"perlen" vblex inf
+	"Perle" n f pl nom
+	"Perle" n f pl gen
+	"Perle" n f pl dat
+	"Perle" n f pl acc
+	"perlen" vblex pri p1 pl
+	"perlen" vblex pri p3 pl
+	"perlen" vblex prs p1 pl
+	"perlen" vblex prs p3 pl
+	"perle" n f pl nom lower
+	"perle" n f pl gen lower
+	"perle" n f pl dat lower
+	"perle" n f pl acc lower
+"<)>"
+	")" rpar
+"<genannt>"
+	"nennen" vblex pp
+"<,>"
+	"," cm
+"<da>"
+	"da" adv
+	"da" cnjsub
+"<ein>"
+	"ein" num sg
+	"ein" det ind m sg nom
+	"ein" det ind nt sg nom
+	"ein" det ind nt sg acc
+"<Adler>"
+	"Adler" n m sg nom
+	"Adler" n m sg dat
+	"Adler" n m sg acc
+	"Adler" n m pl nom
+	"Adler" n m pl gen
+	"Adler" n m pl acc
+	"adler" n m sg nom lower
+	"adler" n m sg dat lower
+	"adler" n m sg acc lower
+	"adler" n m pl nom lower
+	"adler" n m pl gen lower
+	"adler" n m pl acc lower
+"<und>"
+	"und" cnjcoo
+"<Perlen>"
+	"perlen" vblex inf
+	"Perle" n f pl nom
+	"Perle" n f pl gen
+	"Perle" n f pl dat
+	"Perle" n f pl acc
+	"perlen" vblex pri p1 pl
+	"perlen" vblex pri p3 pl
+	"perlen" vblex prs p1 pl
+	"perlen" vblex prs p3 pl
+	"perle" n f pl nom lower
+	"perle" n f pl gen lower
+	"perle" n f pl dat lower
+	"perle" n f pl acc lower
+"<auf>"
+	"auf" pr dat
+	"auf" pr acc
+"<dem>"
+	"der" rel m sg dat
+	"der" rel nt sg dat
+	"der" prn dem m sg dat
+	"der" prn dem nt sg dat
+	"der" det def m sg dat
+	"der" det def nt sg dat
+"<Diadem>"
+	"*Diadem"
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Kaiserin>"
+	"*Kaiserin"
+"<zu>"
+	"zu" pr dat
+"<sehen>"
+	"sehen" vblex inf
+	"sehen" vblex pri p1 pl
+	"sehen" vblex pri p3 pl
+	"sehen" vblex prs p1 pl
+	"sehen" vblex prs p3 pl
+	"sehe" n f pl nom lower
+	"sehe" n f pl gen lower
+	"sehe" n f pl dat lower
+	"sehe" n f pl acc lower
+	"sehen" vblex sep fm pri p1 pl
+	"sehen" vblex sep fm pri p3 pl
+	"sehen" vblex sep fm prs p1 pl
+	"sehen" vblex sep fm prs p3 pl
+"<waren>"
+	"sein" vbser pii p1 pl
+	"sein" vbser pii p3 pl
+	"ware" n f pl nom lower
+	"ware" n f pl gen lower
+	"ware" n f pl dat lower
+	"ware" n f pl acc lower
+"<.>"
+	"." sent
+"<Siehe>"
+	"siehe" adv
+"<auch>"
+	"auch" adv
+"<Handelsmünze>"
+	"münze" n f sg nom lower
+		"Handel" n m sg cmp
+	"münze" n f sg gen lower
+		"Handel" n m sg cmp
+	"münze" n f sg dat lower
+		"Handel" n m sg cmp
+	"münze" n f sg acc lower
+		"Handel" n m sg cmp
+	"münze" n f sg nom lower
+		"handel" n m sg lower cmp
+	"münze" n f sg gen lower
+		"handel" n m sg lower cmp
+	"münze" n f sg dat lower
+		"handel" n m sg lower cmp
+	"münze" n f sg acc lower
+		"handel" n m sg lower cmp
+"<.>"
+	"." sent
+"<Der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<niederländische>"
+	"niederländisch" adj f sg nom
+	"niederländisch" adj f sg acc
+	"niederländisch" adj mf pl nom st
+	"niederländisch" adj mf pl acc st
+	"niederländisch" adj m sg nom sw
+	"niederländisch" adj nt sg nom sw
+	"niederländisch" adj nt sg acc sw
+"<Löwentaler>"
+	"taler" n m sg nom lower
+		"Löwe" n m sg cmp
+	"taler" n m sg dat lower
+		"Löwe" n m sg cmp
+	"taler" n m sg acc lower
+		"Löwe" n m sg cmp
+	"taler" n m pl nom lower
+		"Löwe" n m sg cmp
+	"taler" n m pl gen lower
+		"Löwe" n m sg cmp
+	"taler" n m pl acc lower
+		"Löwe" n m sg cmp
+	"taler" n m sg nom lower
+		"löwe" n m sg lower cmp
+	"taler" n m sg dat lower
+		"löwe" n m sg lower cmp
+	"taler" n m sg acc lower
+		"löwe" n m sg lower cmp
+	"taler" n m pl nom lower
+		"löwe" n m sg lower cmp
+	"taler" n m pl gen lower
+		"löwe" n m sg lower cmp
+	"taler" n m pl acc lower
+		"löwe" n m sg lower cmp
+"<wurde>"
+	"werden" vaux pii p1 sg
+	"werden" vaux pii p3 sg
+	"werden" vblex pii p1 sg
+	"werden" vblex pii p3 sg
+"<Abu>"
+	"*Abu"
+"<Kelb>"
+	"*Kelb"
+"<(>"
+	"(" lpar
+"<Vater>"
+	"Vater" n m sg nom
+	"Vater" n m sg dat
+	"Vater" n m sg acc
+	"vater" n m sg nom lower
+	"vater" n m sg dat lower
+	"vater" n m sg acc lower
+"<des>"
+	"der" det def m sg gen
+	"der" det def nt sg gen
+"<Hundes>"
+	"Hund" n m sg gen
+	"hund" n m sg gen lower
+"<)>"
+	")" rpar
+"<genannt>"
+	"nennen" vblex pp
+"<,>"
+	"," cm
+"<das>"
+	"der" rel nt sg nom
+	"der" rel nt sg acc
+	"der" prn dem nt sg nom
+	"der" prn dem nt sg acc
+	"der" det def nt sg nom
+	"der" det def nt sg acc
+"<spanische>"
+	"spanisch" adj f sg nom
+	"spanisch" adj f sg acc
+	"spanisch" adj mf pl nom st
+	"spanisch" adj mf pl acc st
+	"spanisch" adj m sg nom sw
+	"spanisch" adj nt sg nom sw
+	"spanisch" adj nt sg acc sw
+"<Acht>"
+	"acht" num sp
+	"Acht" n f sg nom
+	"Acht" n f sg gen
+	"Acht" n f sg dat
+	"Acht" n f sg acc
+	"acht" n f sg nom lower
+	"acht" n f sg gen lower
+	"acht" n f sg dat lower
+	"acht" n f sg acc lower
+"<->"
+	"-" guio
+"<Reales>"
+	"Real" n m sg gen
+	"Real" n m pl nom
+	"Real" n m pl gen
+	"Real" n m pl dat
+	"Real" n m pl acc
+	"real" n m sg gen lower
+	"real" n m pl nom lower
+	"real" n m pl gen lower
+	"real" n m pl dat lower
+	"real" n m pl acc lower
+	"real" adj nt sg nom mix
+	"real" adj nt sg acc mix
+"<->"
+	"-" guio
+"<Stück>"
+	"Stück" n nt sg nom
+	"Stück" n nt sg dat
+	"Stück" n nt sg acc
+	"stück" n nt sg nom lower
+	"stück" n nt sg dat lower
+	"stück" n nt sg acc lower
+"<mit>"
+	"mit" pr dat
+"<vierfeldigem>"
+	"*vierfeldigem"
+"<Wappenschild>"
+	"*Wappenschild"
+"<Abu>"
+	"*Abu"
+"<Taka>"
+	"*Taka"
+"<(>"
+	"(" lpar
+"<Vater>"
+	"Vater" n m sg nom
+	"Vater" n m sg dat
+	"Vater" n m sg acc
+	"vater" n m sg nom lower
+	"vater" n m sg dat lower
+	"vater" n m sg acc lower
+"<des>"
+	"der" det def m sg gen
+	"der" det def nt sg gen
+"<Fensters>"
+	"Fenster" n nt sg gen
+	"fenster" n nt sg gen lower
+"<)>"
+	")" rpar
+"<.>"
+	"." sent
+
+
+"<Insgesamt>"
+	"insgesamt" adv
+	"insgesamt" adj attr
+	"insgesamt" adj pred
+"<zeigte>"
+	"zeigen" vblex pii p1 sg
+	"zeigen" vblex pii p3 sg
+	"zeigen" vblex pis p1 sg
+	"zeigen" vblex pis p3 sg
+"<sich>"
+	"*sich"
+"<in>"
+	"in" pr dat
+	"in" pr acc
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Münzgeschichte>"
+	"*Münzgeschichte"
+"<bis>"
+	"bis" pr acc
+"<in>"
+	"in" pr dat
+	"in" pr acc
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Neuzeit>"
+	"*Neuzeit"
+"<immer>"
+	"immer" adv
+"<wieder>"
+	"wieder" adv
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<ähnlich>"
+	"ähnlich" adj attr
+	"ähnlich" adj pred
+"<ablaufende>"
+	"ende" n nt sg nom lower
+		"ablauf" n m sg lower cmp
+	"ende" n nt sg dat lower
+		"ablauf" n m sg lower cmp
+	"ende" n nt sg acc lower
+		"ablauf" n m sg lower cmp
+"<Prozess>"
+	"Prozess" n m sg nom
+	"Prozess" n m sg dat
+	"Prozess" n m sg acc
+	"prozess" n m sg nom lower
+	"prozess" n m sg dat lower
+	"prozess" n m sg acc lower
+"<des>"
+	"der" det def m sg gen
+	"der" det def nt sg gen
+"<Wertverlustes>"
+	"verlust" n m sg gen lower
+		"Wert" n m sg cmp
+	"verlust" n m sg gen lower
+		"wert" n m sg lower cmp
+"<:>"
+	":" sent
+"<Während>"
+	"währen" vblex pprs
+	"während" pr gen
+"<Geld>"
+	"Geld" n nt sg nom
+	"Geld" n nt sg dat
+	"Geld" n nt sg acc
+	"geld" n nt sg nom lower
+	"geld" n nt sg dat lower
+	"geld" n nt sg acc lower
+"<in>"
+	"in" pr dat
+	"in" pr acc
+"<Form>"
+	"Form" n f sg nom
+	"Form" n f sg gen
+	"Form" n f sg dat
+	"Form" n f sg acc
+	"form" n f sg nom lower
+	"form" n f sg gen lower
+	"form" n f sg dat lower
+	"form" n f sg acc lower
+	"formen" vblex imp sg
+"<von>"
+	"von" pr dat
+"<Münzen>"
+	"münzen" vblex inf
+	"Münze" n f pl nom
+	"Münze" n f pl gen
+	"Münze" n f pl dat
+	"Münze" n f pl acc
+	"münzen" vblex pri p1 pl
+	"münzen" vblex pri p3 pl
+	"münzen" vblex prs p1 pl
+	"münzen" vblex prs p3 pl
+	"münze" n f pl nom lower
+	"münze" n f pl gen lower
+	"münze" n f pl dat lower
+	"münze" n f pl acc lower
+"<anfänglich>"
+	"*anfänglich"
+"<aus>"
+	"aus" pr dat
+	"aus" n nt sg nom lower
+	"aus" n nt sg gen lower
+	"aus" n nt sg dat lower
+	"aus" n nt sg acc lower
+	"aus" n nt pl nom lower
+	"aus" n nt pl gen lower
+	"aus" n nt pl dat lower
+	"aus" n nt pl acc lower
+"<wertvollem>"
+	"wertvoll" adj m sg dat st
+	"wertvoll" adj nt sg dat st
+"<Material>"
+	"Material" n nt sg nom
+	"Material" n nt sg dat
+	"Material" n nt sg acc
+	"material" n nt sg nom lower
+	"material" n nt sg dat lower
+	"material" n nt sg acc lower
+"<bestand>"
+	"bestand" n m sg nom lower
+	"bestand" n m sg dat lower
+	"bestand" n m sg acc lower
+	"bestehen" vblex pii p1 sg
+	"bestehen" vblex pii p3 sg
+"<(>"
+	"(" lpar
+"<Gold>"
+	"Gold" n nt sg nom
+	"Gold" n nt sg dat
+	"Gold" n nt sg acc
+	"gold" n nt sg nom lower
+	"gold" n nt sg dat lower
+	"gold" n nt sg acc lower
+"<,>"
+	"," cm
+"<Silber>"
+	"Silber" n nt sg nom
+	"Silber" n nt sg dat
+	"Silber" n nt sg acc
+	"silber" n nt sg nom lower
+	"silber" n nt sg dat lower
+	"silber" n nt sg acc lower
+"<)>"
+	")" rpar
+"<und>"
+	"und" cnjcoo
+"<ihr>"
+	"ihr" det pos m sg nom
+	"ihr" det pos nt sg nom
+	"ihr" det pos nt sg acc
+	"es" prn pers p3 nt sg dat
+	"ihr" prn pers p2 mf pl nom
+	"sie" prn pers p3 f sg dat
+"<Tauschwert>"
+	"schwert" n nt sg nom lower
+		"Tau" n nt sg cmp
+	"schwert" n nt sg dat lower
+		"Tau" n nt sg cmp
+	"schwert" n nt sg acc lower
+		"Tau" n nt sg cmp
+	"schwert" n nt sg nom lower
+		"tau" n nt sg lower cmp
+	"schwert" n nt sg dat lower
+		"tau" n nt sg lower cmp
+	"schwert" n nt sg acc lower
+		"tau" n nt sg lower cmp
+	"wert" n m sg nom lower
+		"Tausch" n m sg cmp
+	"wert" n m sg dat lower
+		"Tausch" n m sg cmp
+	"wert" n m sg acc lower
+		"Tausch" n m sg cmp
+	"wert" n m sg nom lower
+		"tausch" n m sg lower cmp
+	"wert" n m sg dat lower
+		"tausch" n m sg lower cmp
+	"wert" n m sg acc lower
+		"tausch" n m sg lower cmp
+"<dem>"
+	"der" rel m sg dat
+	"der" rel nt sg dat
+	"der" prn dem m sg dat
+	"der" prn dem nt sg dat
+	"der" det def m sg dat
+	"der" det def nt sg dat
+"<Wert>"
+	"wert" adj attr
+	"wert" adj pred
+	"Wert" n m sg nom
+	"Wert" n m sg dat
+	"Wert" n m sg acc
+	"wert" n m sg nom lower
+	"wert" n m sg dat lower
+	"wert" n m sg acc lower
+"<dieses>"
+	"dieser" prn dem m sg gen
+	"dieser" prn dem nt sg nom
+	"dieser" prn dem nt sg gen
+	"dieser" prn dem nt sg acc
+	"dieser" det dem m sg gen
+	"dieser" det dem nt sg nom
+	"dieser" det dem nt sg gen
+	"dieser" det dem nt sg acc
+"<Materials>"
+	"Material" n nt sg gen
+	"material" n nt sg gen lower
+"<entsprach>"
+	"entsprechen" vblex pii p1 sg
+	"entsprechen" vblex pii p3 sg
+"<(>"
+	"(" lpar
+"<vollwertige>"
+	"vollwertig" adj f sg nom
+	"vollwertig" adj f sg acc
+	"vollwertig" adj mf pl nom st
+	"vollwertig" adj mf pl acc st
+	"vollwertig" adj m sg nom sw
+	"vollwertig" adj nt sg nom sw
+	"vollwertig" adj nt sg acc sw
+"<Münzen>"
+	"münzen" vblex inf
+	"Münze" n f pl nom
+	"Münze" n f pl gen
+	"Münze" n f pl dat
+	"Münze" n f pl acc
+	"münzen" vblex pri p1 pl
+	"münzen" vblex pri p3 pl
+	"münzen" vblex prs p1 pl
+	"münzen" vblex prs p3 pl
+	"münze" n f pl nom lower
+	"münze" n f pl gen lower
+	"münze" n f pl dat lower
+	"münze" n f pl acc lower
+"<)>"
+	")" rpar
+"<,>"
+	"," cm
+"<wurden>"
+	"werden" vaux pii p1 pl
+	"werden" vaux pii p3 pl
+	"werden" vblex pii p1 pl
+	"werden" vblex pii p3 pl
+"<später>"
+	"spät" adj comp attr
+	"spät" adj comp pred
+	"spät" adj mf pl gen st
+	"spät" adj m sg nom mix
+	"spät" adj f sg gen st
+	"spät" adj f sg dat st
+"<Münzen>"
+	"münzen" vblex inf
+	"Münze" n f pl nom
+	"Münze" n f pl gen
+	"Münze" n f pl dat
+	"Münze" n f pl acc
+	"münzen" vblex pri p1 pl
+	"münzen" vblex pri p3 pl
+	"münzen" vblex prs p1 pl
+	"münzen" vblex prs p3 pl
+	"münze" n f pl nom lower
+	"münze" n f pl gen lower
+	"münze" n f pl dat lower
+	"münze" n f pl acc lower
+"<hergestellt>"
+	"*hergestellt"
+"<,>"
+	"," cm
+"<deren>"
+	"der" rel f sg gen
+	"der" rel mfn pl gen
+	"der" prn dem f sg gen
+	"der" prn dem mfn pl gen
+"<Materialwert>"
+	"*Materialwert"
+"<unter>"
+	"unter" adj attr
+	"unter" adj pred
+	"unter" pr dat
+	"unter" pr acc
+"<ihrem>"
+	"ihr" det pos m sg dat
+	"ihr" det pos nt sg dat
+"<Tauschwert>"
+	"schwert" n nt sg nom lower
+		"Tau" n nt sg cmp
+	"schwert" n nt sg dat lower
+		"Tau" n nt sg cmp
+	"schwert" n nt sg acc lower
+		"Tau" n nt sg cmp
+	"schwert" n nt sg nom lower
+		"tau" n nt sg lower cmp
+	"schwert" n nt sg dat lower
+		"tau" n nt sg lower cmp
+	"schwert" n nt sg acc lower
+		"tau" n nt sg lower cmp
+	"wert" n m sg nom lower
+		"Tausch" n m sg cmp
+	"wert" n m sg dat lower
+		"Tausch" n m sg cmp
+	"wert" n m sg acc lower
+		"Tausch" n m sg cmp
+	"wert" n m sg nom lower
+		"tausch" n m sg lower cmp
+	"wert" n m sg dat lower
+		"tausch" n m sg lower cmp
+	"wert" n m sg acc lower
+		"tausch" n m sg lower cmp
+"<lag>"
+	"liegen" vblex pii p1 sg
+	"liegen" vblex pii p3 sg
+"<,>"
+	"," cm
+"<indem>"
+	"indem" cnjsub
+"<man>"
+	"man" prn ind p3 mf sg nom
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Münzen>"
+	"münzen" vblex inf
+	"Münze" n f pl nom
+	"Münze" n f pl gen
+	"Münze" n f pl dat
+	"Münze" n f pl acc
+	"münzen" vblex pri p1 pl
+	"münzen" vblex pri p3 pl
+	"münzen" vblex prs p1 pl
+	"münzen" vblex prs p3 pl
+	"münze" n f pl nom lower
+	"münze" n f pl gen lower
+	"münze" n f pl dat lower
+	"münze" n f pl acc lower
+"<kleiner>"
+	"klein" adj comp attr
+	"klein" adj comp pred
+	"klein" adj mf pl gen st
+	"klein" adj m sg nom mix
+	"klein" adj f sg gen st
+	"klein" adj f sg dat st
+"<und>"
+	"und" cnjcoo
+"<leichter>"
+	"leicht" adj comp attr
+	"leicht" adj comp pred
+	"leicht" adj mf pl gen st
+	"leicht" adj m sg nom mix
+	"leicht" adj f sg gen st
+	"leicht" adj f sg dat st
+	"leichtern" vblex imp sg
+	"leichter" n m sg nom lower
+	"leichter" n m sg dat lower
+	"leichter" n m sg acc lower
+	"leichter" n m pl nom lower
+	"leichter" n m pl gen lower
+	"leichter" n m pl acc lower
+"<machte>"
+	"machen" vblex pii p1 sg
+	"machen" vblex pii p3 sg
+	"machen" vblex pis p1 sg
+	"machen" vblex pis p3 sg
+"<,>"
+	"," cm
+"<den>"
+	"der" rel m sg acc
+	"der" prn dem m sg acc
+	"der" det def m sg acc
+	"der" det def mfn pl dat
+"<Feingehalt>"
+	"*Feingehalt"
+"<verminderte>"
+	"vermindern" vblex pii p1 sg
+	"vermindern" vblex pii p3 sg
+	"vermindern" vblex pis p1 sg
+	"vermindern" vblex pis p3 sg
+"<oder>"
+	"oder" cnjcoo
+"<geringerwertigerer>"
+	"*geringerwertigerer"
+"<Materialien>"
+	"Material" n nt pl nom
+	"Material" n nt pl gen
+	"Material" n nt pl dat
+	"Material" n nt pl acc
+	"material" n nt pl nom lower
+	"material" n nt pl gen lower
+	"material" n nt pl dat lower
+	"material" n nt pl acc lower
+"<verwendete>"
+	"verwenden" vblex pii p1 sg
+	"verwenden" vblex pii p3 sg
+	"verwenden" vblex pis p1 sg
+	"verwenden" vblex pis p3 sg
+"<(>"
+	"(" lpar
+"<unterwertige>"
+	"*unterwertige"
+"<Münzen>"
+	"münzen" vblex inf
+	"Münze" n f pl nom
+	"Münze" n f pl gen
+	"Münze" n f pl dat
+	"Münze" n f pl acc
+	"münzen" vblex pri p1 pl
+	"münzen" vblex pri p3 pl
+	"münzen" vblex prs p1 pl
+	"münzen" vblex prs p3 pl
+	"münze" n f pl nom lower
+	"münze" n f pl gen lower
+	"münze" n f pl dat lower
+	"münze" n f pl acc lower
+"<)>"
+	")" rpar
+"<.>"
+	"." sent
+
+
+"<Münzen>"
+	"münzen" vblex inf
+	"Münze" n f pl nom
+	"Münze" n f pl gen
+	"Münze" n f pl dat
+	"Münze" n f pl acc
+	"münzen" vblex pri p1 pl
+	"münzen" vblex pri p3 pl
+	"münzen" vblex prs p1 pl
+	"münzen" vblex prs p3 pl
+	"münze" n f pl nom lower
+	"münze" n f pl gen lower
+	"münze" n f pl dat lower
+	"münze" n f pl acc lower
+"<sind>"
+	"sein" vbser pri p1 pl
+	"sein" vbser pri p3 pl
+"<vom>"
+	"der" det def m sg dat
+		"von" pr dat
+	"der" det def nt sg dat
+		"von" pr dat
+"<Staat>"
+	"Staat" n m sg nom
+	"Staat" n m sg dat
+	"Staat" n m sg acc
+	"staat" n m sg nom lower
+	"staat" n m sg dat lower
+	"staat" n m sg acc lower
+"<genehmigte>"
+	"genehmigen" vblex pii p1 sg
+	"genehmigen" vblex pii p3 sg
+	"genehmigen" vblex pis p1 sg
+	"genehmigen" vblex pis p3 sg
+"<Zahlungsmittel>"
+	"*Zahlungsmittel"
+"<.>"
+	"." sent
+"<Moderne>"
+	"modern" adj f sg nom
+	"modern" adj f sg acc
+	"modern" adj mf pl nom st
+	"modern" adj mf pl acc st
+	"modern" adj m sg nom sw
+	"modern" adj nt sg nom sw
+	"modern" adj nt sg acc sw
+"<Münzen>"
+	"münzen" vblex inf
+	"Münze" n f pl nom
+	"Münze" n f pl gen
+	"Münze" n f pl dat
+	"Münze" n f pl acc
+	"münzen" vblex pri p1 pl
+	"münzen" vblex pri p3 pl
+	"münzen" vblex prs p1 pl
+	"münzen" vblex prs p3 pl
+	"münze" n f pl nom lower
+	"münze" n f pl gen lower
+	"münze" n f pl dat lower
+	"münze" n f pl acc lower
+"<tragen>"
+	"tragen" vblex inf
+	"tragen" vblex pri p1 pl
+	"tragen" vblex pri p3 pl
+	"tragen" vblex prs p1 pl
+	"tragen" vblex prs p3 pl
+	"trage" n f pl nom lower
+	"trage" n f pl gen lower
+	"trage" n f pl dat lower
+	"trage" n f pl acc lower
+	"tragen" vblex sep fm pri p1 pl
+	"tragen" vblex sep fm pri p3 pl
+	"tragen" vblex sep fm prs p1 pl
+	"tragen" vblex sep fm prs p3 pl
+"<üblicherweise>"
+	"üblicherweise" adv
+"<drei>"
+	"drei" num sp
+"<Aufschriften>"
+	"Aufschrift" n f pl nom
+	"Aufschrift" n f pl gen
+	"Aufschrift" n f pl dat
+	"Aufschrift" n f pl acc
+	"aufschrift" n f pl nom lower
+	"aufschrift" n f pl gen lower
+	"aufschrift" n f pl dat lower
+	"aufschrift" n f pl acc lower
+"<:>"
+	":" sent
+"<das>"
+	"der" rel nt sg nom
+	"der" rel nt sg acc
+	"der" prn dem nt sg nom
+	"der" prn dem nt sg acc
+	"der" det def nt sg nom
+	"der" det def nt sg acc
+"<Land>"
+	"Land" n nt sg nom
+	"Land" n nt sg dat
+	"Land" n nt sg acc
+	"land" n nt sg nom lower
+	"land" n nt sg dat lower
+	"land" n nt sg acc lower
+"<(>"
+	"(" lpar
+"<oder>"
+	"oder" cnjcoo
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Staatengemeinschaft>"
+	"*Staatengemeinschaft"
+"<)>"
+	")" rpar
+"<,>"
+	"," cm
+"<den>"
+	"der" rel m sg acc
+	"der" prn dem m sg acc
+	"der" det def m sg acc
+	"der" det def mfn pl dat
+"<Wert>"
+	"wert" adj attr
+	"wert" adj pred
+	"Wert" n m sg nom
+	"Wert" n m sg dat
+	"Wert" n m sg acc
+	"wert" n m sg nom lower
+	"wert" n m sg dat lower
+	"wert" n m sg acc lower
+"<(>"
+	"(" lpar
+"<aus>"
+	"aus" pr dat
+	"aus" n nt sg nom lower
+	"aus" n nt sg gen lower
+	"aus" n nt sg dat lower
+	"aus" n nt sg acc lower
+	"aus" n nt pl nom lower
+	"aus" n nt pl gen lower
+	"aus" n nt pl dat lower
+	"aus" n nt pl acc lower
+"<Nominal>"
+	"nominal" adj attr
+	"nominal" adj pred
+"<und>"
+	"und" cnjcoo
+"<Währungseinheit>"
+	"einheit" n f sg nom lower
+		"Währung" n f sg cmp
+	"einheit" n f sg gen lower
+		"Währung" n f sg cmp
+	"einheit" n f sg dat lower
+		"Währung" n f sg cmp
+	"einheit" n f sg acc lower
+		"Währung" n f sg cmp
+	"einheit" n f sg nom lower
+		"währung" n f sg lower cmp
+	"einheit" n f sg gen lower
+		"währung" n f sg lower cmp
+	"einheit" n f sg dat lower
+		"währung" n f sg lower cmp
+	"einheit" n f sg acc lower
+		"währung" n f sg lower cmp
+"<)>"
+	")" rpar
+"<und>"
+	"und" cnjcoo
+"<das>"
+	"der" rel nt sg nom
+	"der" rel nt sg acc
+	"der" prn dem nt sg nom
+	"der" prn dem nt sg acc
+	"der" det def nt sg nom
+	"der" det def nt sg acc
+"<Prägejahr>"
+	"*Prägejahr"
+"<.>"
+	"." sent
+"<Doch>"
+	"doch" cnjcoo
+"<es>"
+	"es" prn pers p3 nt sg nom
+	"es" prn pers p3 nt sg acc
+"<gibt>"
+	"geben" vblex pri p3 sg
+	"geben" vblex sep fm pri p3 sg
+"<auch>"
+	"auch" adv
+"<Ausnahmen>"
+	"Ausnahme" n f pl nom
+	"Ausnahme" n f pl gen
+	"Ausnahme" n f pl dat
+	"Ausnahme" n f pl acc
+	"ausnahme" n f pl nom lower
+	"ausnahme" n f pl gen lower
+	"ausnahme" n f pl dat lower
+	"ausnahme" n f pl acc lower
+"<:>"
+	":" sent
+"<Das>"
+	"der" rel nt sg nom
+	"der" rel nt sg acc
+	"der" prn dem nt sg nom
+	"der" prn dem nt sg acc
+	"der" det def nt sg nom
+	"der" det def nt sg acc
+"<Jahr>"
+	"Jahr" n nt sg nom
+	"Jahr" n nt sg dat
+	"Jahr" n nt sg acc
+	"jahr" n nt sg nom lower
+	"jahr" n nt sg dat lower
+	"jahr" n nt sg acc lower
+"<fehlt>"
+	"fehlen" vblex imp pl
+	"fehlen" vblex pri p2 pl
+	"fehlen" vblex pri p3 sg
+"<bei>"
+	"bei" pr dat
+"<einigen>"
+	"einigen" vblex inf
+	"einig" adj m sg gen
+	"einig" adj m sg acc
+	"einig" adj nt sg gen
+	"einig" adj mf pl dat
+	"einig" adj f sg gen mix
+	"einig" adj f sg dat mix
+	"einig" adj m sg dat mix
+	"einig" adj nt sg dat mix
+	"einig" adj mf pl nom mix
+	"einig" adj mf pl gen mix
+	"einig" adj mf pl acc mix
+	"einigen" vblex pri p1 pl
+	"einigen" vblex pri p3 pl
+	"einigen" vblex prs p1 pl
+	"einigen" vblex prs p3 pl
+"<älteren>"
+	"alt" adj comp m sg gen
+	"alt" adj comp m sg acc
+	"alt" adj comp nt sg gen
+	"alt" adj comp mf pl dat
+	"alt" adj comp m sg dat mix
+	"alt" adj comp nt sg dat mix
+	"alt" adj comp f sg gen mix
+	"alt" adj comp f sg dat mix
+	"alt" adj comp mf pl nom mix
+	"alt" adj comp mf pl gen mix
+	"alt" adj comp mf pl acc mix
+"<,>"
+	"," cm
+"<exotischen>"
+	"exotisch" adj m sg gen
+	"exotisch" adj m sg acc
+	"exotisch" adj nt sg gen
+	"exotisch" adj mf pl dat
+	"exotisch" adj f sg gen mix
+	"exotisch" adj f sg dat mix
+	"exotisch" adj m sg dat mix
+	"exotisch" adj nt sg dat mix
+	"exotisch" adj mf pl nom mix
+	"exotisch" adj mf pl gen mix
+	"exotisch" adj mf pl acc mix
+"<,>"
+	"," cm
+"<kleinen>"
+	"klein" adj m sg gen
+	"klein" adj m sg acc
+	"klein" adj nt sg gen
+	"klein" adj mf pl dat
+	"klein" adj f sg gen mix
+	"klein" adj f sg dat mix
+	"klein" adj m sg dat mix
+	"klein" adj nt sg dat mix
+	"klein" adj mf pl nom mix
+	"klein" adj mf pl gen mix
+	"klein" adj mf pl acc mix
+"<Einheiten>"
+	"Einheit" n f pl nom
+	"Einheit" n f pl gen
+	"Einheit" n f pl dat
+	"Einheit" n f pl acc
+	"einheit" n f pl nom lower
+	"einheit" n f pl gen lower
+	"einheit" n f pl dat lower
+	"einheit" n f pl acc lower
+"<(>"
+	"(" lpar
+"<zum>"
+	"der" det def m sg dat
+		"zu" pr dat
+	"der" det def nt sg dat
+		"zu" pr dat
+"<Beispiel>"
+	"Beispiel" n nt sg nom
+	"Beispiel" n nt sg dat
+	"Beispiel" n nt sg acc
+	"beispiel" n nt sg nom lower
+	"beispiel" n nt sg dat lower
+	"beispiel" n nt sg acc lower
+"<bei>"
+	"bei" pr dat
+"<allen>"
+	"*allen"
+"<Cash>"
+	"*Cash"
+"<->"
+	"-" guio
+"<Münzen>"
+	"münzen" vblex inf
+	"Münze" n f pl nom
+	"Münze" n f pl gen
+	"Münze" n f pl dat
+	"Münze" n f pl acc
+	"münzen" vblex pri p1 pl
+	"münzen" vblex pri p3 pl
+	"münzen" vblex prs p1 pl
+	"münzen" vblex prs p3 pl
+	"münze" n f pl nom lower
+	"münze" n f pl gen lower
+	"münze" n f pl dat lower
+	"münze" n f pl acc lower
+"<aus>"
+	"aus" pr dat
+	"aus" n nt sg nom lower
+	"aus" n nt sg gen lower
+	"aus" n nt sg dat lower
+	"aus" n nt sg acc lower
+	"aus" n nt pl nom lower
+	"aus" n nt pl gen lower
+	"aus" n nt pl dat lower
+	"aus" n nt pl acc lower
+"<Travancore>"
+	"*Travancore"
+"<,>"
+	"," cm
+"<geprägt>"
+	"prägen" vblex pp
+"<bis>"
+	"bis" pr acc
+"<1949>"
+	"1949" num
+"<)>"
+	")" rpar
+"<.>"
+	"." sent
+"<Ausnahmen>"
+	"Ausnahme" n f pl nom
+	"Ausnahme" n f pl gen
+	"Ausnahme" n f pl dat
+	"Ausnahme" n f pl acc
+	"ausnahme" n f pl nom lower
+	"ausnahme" n f pl gen lower
+	"ausnahme" n f pl dat lower
+	"ausnahme" n f pl acc lower
+"<gibt>"
+	"geben" vblex pri p3 sg
+	"geben" vblex sep fm pri p3 sg
+"<es>"
+	"es" prn pers p3 nt sg nom
+	"es" prn pers p3 nt sg acc
+"<auch>"
+	"auch" adv
+"<unter>"
+	"unter" adj attr
+	"unter" adj pred
+	"unter" pr dat
+	"unter" pr acc
+"<Talermünzen>"
+	"münze" n f pl nom lower
+		"Taler" n m sg cmp
+	"münze" n f pl gen lower
+		"Taler" n m sg cmp
+	"münze" n f pl dat lower
+		"Taler" n m sg cmp
+	"münze" n f pl acc lower
+		"Taler" n m sg cmp
+	"münze" n f pl nom lower
+		"taler" n m sg lower cmp
+	"münze" n f pl gen lower
+		"taler" n m sg lower cmp
+	"münze" n f pl dat lower
+		"taler" n m sg lower cmp
+	"münze" n f pl acc lower
+		"taler" n m sg lower cmp
+"<.>"
+	"." sent
+"<Zum>"
+	"der" det def m sg dat
+		"zu" pr dat
+	"der" det def nt sg dat
+		"zu" pr dat
+"<Beispiel>"
+	"Beispiel" n nt sg nom
+	"Beispiel" n nt sg dat
+	"Beispiel" n nt sg acc
+	"beispiel" n nt sg nom lower
+	"beispiel" n nt sg dat lower
+	"beispiel" n nt sg acc lower
+"<tragen>"
+	"tragen" vblex inf
+	"tragen" vblex pri p1 pl
+	"tragen" vblex pri p3 pl
+	"tragen" vblex prs p1 pl
+	"tragen" vblex prs p3 pl
+	"trage" n f pl nom lower
+	"trage" n f pl gen lower
+	"trage" n f pl dat lower
+	"trage" n f pl acc lower
+	"tragen" vblex sep fm pri p1 pl
+	"tragen" vblex sep fm pri p3 pl
+	"tragen" vblex sep fm prs p1 pl
+	"tragen" vblex sep fm prs p3 pl
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<sächsischen>"
+	"sächsisch" adj m sg gen
+	"sächsisch" adj m sg acc
+	"sächsisch" adj nt sg gen
+	"sächsisch" adj mf pl dat
+	"sächsisch" adj f sg gen mix
+	"sächsisch" adj f sg dat mix
+	"sächsisch" adj m sg dat mix
+	"sächsisch" adj nt sg dat mix
+	"sächsisch" adj mf pl nom mix
+	"sächsisch" adj mf pl gen mix
+	"sächsisch" adj mf pl acc mix
+"<Schmetterlingsmünzen>"
+	"*Schmetterlingsmünzen"
+"<lediglich>"
+	"lediglich" adv
+	"lediglich" adj attr
+	"lediglich" adj pred
+"<das>"
+	"der" rel nt sg nom
+	"der" rel nt sg acc
+	"der" prn dem nt sg nom
+	"der" prn dem nt sg acc
+	"der" det def nt sg nom
+	"der" det def nt sg acc
+"<Monogramm>"
+	"*Monogramm"
+"<des>"
+	"der" det def m sg gen
+	"der" det def nt sg gen
+"<Münzherren>"
+	"*Münzherren"
+"<und>"
+	"und" cnjcoo
+"<eine>"
+	"ein" det ind f sg nom
+	"ein" det ind f sg acc
+"<Wertangabe>"
+	"angabe" n f sg nom lower
+		"Wert" n m sg cmp
+	"angabe" n f sg gen lower
+		"Wert" n m sg cmp
+	"angabe" n f sg dat lower
+		"Wert" n m sg cmp
+	"angabe" n f sg acc lower
+		"Wert" n m sg cmp
+	"angabe" n f sg nom lower
+		"wert" n m sg lower cmp
+	"angabe" n f sg gen lower
+		"wert" n m sg lower cmp
+	"angabe" n f sg dat lower
+		"wert" n m sg lower cmp
+	"angabe" n f sg acc lower
+		"wert" n m sg lower cmp
+"<jeweils>"
+	"jeweils" adv
+"<in>"
+	"in" pr dat
+	"in" pr acc
+"<Groschen>"
+	"Groschen" n m sg nom
+	"Groschen" n m sg gen
+	"Groschen" n m sg dat
+	"Groschen" n m sg acc
+	"Groschen" n m pl nom
+	"Groschen" n m pl gen
+	"Groschen" n m pl dat
+	"Groschen" n m pl acc
+	"groschen" n m sg nom lower
+	"groschen" n m sg gen lower
+	"groschen" n m sg dat lower
+	"groschen" n m sg acc lower
+	"groschen" n m pl nom lower
+	"groschen" n m pl gen lower
+	"groschen" n m pl dat lower
+	"groschen" n m pl acc lower
+"<.>"
+	"." sent
+"<Die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Schweizer>"
+	"Schweizer" n m sg nom
+	"Schweizer" n m sg dat
+	"Schweizer" n m sg acc
+	"Schweizer" n m pl nom
+	"Schweizer" n m pl gen
+	"Schweizer" n m pl acc
+	"schweizer" n m sg nom lower
+	"schweizer" n m sg dat lower
+	"schweizer" n m sg acc lower
+	"schweizer" n m pl nom lower
+	"schweizer" n m pl gen lower
+	"schweizer" n m pl acc lower
+"<Rappen>"
+	"Rapp" n m pl dat
+	"rappen" vblex inf
+	"Rappe" n m sg gen
+	"Rappe" n m sg dat
+	"Rappe" n m sg acc
+	"Rappe" n m pl nom
+	"Rappe" n m pl gen
+	"Rappe" n m pl dat
+	"Rappe" n m pl acc
+	"Rappe" n f pl nom
+	"Rappe" n f pl gen
+	"Rappe" n f pl dat
+	"Rappe" n f pl acc
+	"rapp" n m pl dat lower
+	"Rappen" n nt sg nom
+	"Rappen" n nt sg dat
+	"Rappen" n nt sg acc
+	"Rappen" n nt pl nom
+	"Rappen" n nt pl gen
+	"Rappen" n nt pl dat
+	"Rappen" n nt pl acc
+	"rappen" vblex pri p1 pl
+	"rappen" vblex pri p3 pl
+	"rappen" vblex prs p1 pl
+	"rappen" vblex prs p3 pl
+	"rappe" n m sg gen lower
+	"rappe" n m sg dat lower
+	"rappe" n m sg acc lower
+	"rappe" n m pl nom lower
+	"rappe" n m pl gen lower
+	"rappe" n m pl dat lower
+	"rappe" n m pl acc lower
+	"rappe" n f pl nom lower
+	"rappe" n f pl gen lower
+	"rappe" n f pl dat lower
+	"rappe" n f pl acc lower
+	"rappen" n nt sg nom lower
+	"rappen" n nt sg dat lower
+	"rappen" n nt sg acc lower
+	"rappen" n nt pl nom lower
+	"rappen" n nt pl gen lower
+	"rappen" n nt pl dat lower
+	"rappen" n nt pl acc lower
+"<(>"
+	"(" lpar
+"<Untereinheit>"
+	"*Untereinheit"
+"<des>"
+	"der" det def m sg gen
+	"der" det def nt sg gen
+"<Schweizer>"
+	"Schweizer" n m sg nom
+	"Schweizer" n m sg dat
+	"Schweizer" n m sg acc
+	"Schweizer" n m pl nom
+	"Schweizer" n m pl gen
+	"Schweizer" n m pl acc
+	"schweizer" n m sg nom lower
+	"schweizer" n m sg dat lower
+	"schweizer" n m sg acc lower
+	"schweizer" n m pl nom lower
+	"schweizer" n m pl gen lower
+	"schweizer" n m pl acc lower
+"<Franken>"
+	"Franke" n m sg gen
+	"Franke" n m sg dat
+	"Franke" n m sg acc
+	"Franke" n m pl nom
+	"Franke" n m pl gen
+	"Franke" n m pl dat
+	"Franke" n m pl acc
+	"franke" n m sg gen lower
+	"franke" n m sg dat lower
+	"franke" n m sg acc lower
+	"franke" n m pl nom lower
+	"franke" n m pl gen lower
+	"franke" n m pl dat lower
+	"franke" n m pl acc lower
+"<)>"
+	")" rpar
+"<tragen>"
+	"tragen" vblex inf
+	"tragen" vblex pri p1 pl
+	"tragen" vblex pri p3 pl
+	"tragen" vblex prs p1 pl
+	"tragen" vblex prs p3 pl
+	"trage" n f pl nom lower
+	"trage" n f pl gen lower
+	"trage" n f pl dat lower
+	"trage" n f pl acc lower
+	"tragen" vblex sep fm pri p1 pl
+	"tragen" vblex sep fm pri p3 pl
+	"tragen" vblex sep fm prs p1 pl
+	"tragen" vblex sep fm prs p3 pl
+"<nur>"
+	"nur" adv
+"<das>"
+	"der" rel nt sg nom
+	"der" rel nt sg acc
+	"der" prn dem nt sg nom
+	"der" prn dem nt sg acc
+	"der" det def nt sg nom
+	"der" det def nt sg acc
+"<Nominal>"
+	"nominal" adj attr
+	"nominal" adj pred
+"<,>"
+	"," cm
+"<ohne>"
+	"ohne" cnjsub
+	"ohne" pr acc
+"<Angabe>"
+	"Angabe" n f sg nom
+	"Angabe" n f sg gen
+	"Angabe" n f sg dat
+	"Angabe" n f sg acc
+	"angabe" n f sg nom lower
+	"angabe" n f sg gen lower
+	"angabe" n f sg dat lower
+	"angabe" n f sg acc lower
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Währungseinheit>"
+	"einheit" n f sg nom lower
+		"Währung" n f sg cmp
+	"einheit" n f sg gen lower
+		"Währung" n f sg cmp
+	"einheit" n f sg dat lower
+		"Währung" n f sg cmp
+	"einheit" n f sg acc lower
+		"Währung" n f sg cmp
+	"einheit" n f sg nom lower
+		"währung" n f sg lower cmp
+	"einheit" n f sg gen lower
+		"währung" n f sg lower cmp
+	"einheit" n f sg dat lower
+		"währung" n f sg lower cmp
+	"einheit" n f sg acc lower
+		"währung" n f sg lower cmp
+"<.>"
+	"." sent
+"<Noch>"
+	"noch" adv
+"<drastischer>"
+	"drastisch" adj comp attr
+	"drastisch" adj comp pred
+	"drastisch" adj mf pl gen st
+	"drastisch" adj m sg nom mix
+	"drastisch" adj f sg gen st
+	"drastisch" adj f sg dat st
+"<ist>"
+	"sein" vbser pri p3 sg
+"<es>"
+	"es" prn pers p3 nt sg nom
+	"es" prn pers p3 nt sg acc
+"<bei>"
+	"bei" pr dat
+"<den>"
+	"der" rel m sg acc
+	"der" prn dem m sg acc
+	"der" det def m sg acc
+	"der" det def mfn pl dat
+"<britischen>"
+	"britisch" adj m sg gen
+	"britisch" adj m sg acc
+	"britisch" adj nt sg gen
+	"britisch" adj mf pl dat
+	"britisch" adj f sg gen mix
+	"britisch" adj f sg dat mix
+	"britisch" adj m sg dat mix
+	"britisch" adj nt sg dat mix
+	"britisch" adj mf pl nom mix
+	"britisch" adj mf pl gen mix
+	"britisch" adj mf pl acc mix
+"<Crowns>"
+	"*Crowns"
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Prägejahre>"
+	"*Prägejahre"
+"<1965>"
+	"1965" num
+"<–>"
+	"–" guio
+"<1971.>"
+	"1971." num ord
+"<Diese>"
+	"dieser" prn dem f sg nom
+	"dieser" prn dem f sg acc
+	"dieser" prn dem mfn pl nom
+	"dieser" prn dem mfn pl acc
+	"dieser" det dem f sg nom
+	"dieser" det dem f sg acc
+	"dieser" det dem mfn pl nom
+	"dieser" det dem mfn pl acc
+"<tragen>"
+	"tragen" vblex inf
+	"tragen" vblex pri p1 pl
+	"tragen" vblex pri p3 pl
+	"tragen" vblex prs p1 pl
+	"tragen" vblex prs p3 pl
+	"trage" n f pl nom lower
+	"trage" n f pl gen lower
+	"trage" n f pl dat lower
+	"trage" n f pl acc lower
+	"tragen" vblex sep fm pri p1 pl
+	"tragen" vblex sep fm pri p3 pl
+	"tragen" vblex sep fm prs p1 pl
+	"tragen" vblex sep fm prs p3 pl
+"<weder>"
+	"weder" cnjcoo
+"<ein>"
+	"ein" num sg
+	"ein" det ind m sg nom
+	"ein" det ind nt sg nom
+	"ein" det ind nt sg acc
+"<Nominal>"
+	"nominal" adj attr
+	"nominal" adj pred
+"<noch>"
+	"noch" adv
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Angabe>"
+	"Angabe" n f sg nom
+	"Angabe" n f sg gen
+	"Angabe" n f sg dat
+	"Angabe" n f sg acc
+	"angabe" n f sg nom lower
+	"angabe" n f sg gen lower
+	"angabe" n f sg dat lower
+	"angabe" n f sg acc lower
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Währungseinheit>"
+	"einheit" n f sg nom lower
+		"Währung" n f sg cmp
+	"einheit" n f sg gen lower
+		"Währung" n f sg cmp
+	"einheit" n f sg dat lower
+		"Währung" n f sg cmp
+	"einheit" n f sg acc lower
+		"Währung" n f sg cmp
+	"einheit" n f sg nom lower
+		"währung" n f sg lower cmp
+	"einheit" n f sg gen lower
+		"währung" n f sg lower cmp
+	"einheit" n f sg dat lower
+		"währung" n f sg lower cmp
+	"einheit" n f sg acc lower
+		"währung" n f sg lower cmp
+"<.>"
+	"." sent
+"<In>"
+	"in" pr dat
+	"in" pr acc
+"<allen>"
+	"*allen"
+"<britischen>"
+	"britisch" adj m sg gen
+	"britisch" adj m sg acc
+	"britisch" adj nt sg gen
+	"britisch" adj mf pl dat
+	"britisch" adj f sg gen mix
+	"britisch" adj f sg dat mix
+	"britisch" adj m sg dat mix
+	"britisch" adj nt sg dat mix
+	"britisch" adj mf pl nom mix
+	"britisch" adj mf pl gen mix
+	"britisch" adj mf pl acc mix
+"<Münzen>"
+	"münzen" vblex inf
+	"Münze" n f pl nom
+	"Münze" n f pl gen
+	"Münze" n f pl dat
+	"Münze" n f pl acc
+	"münzen" vblex pri p1 pl
+	"münzen" vblex pri p3 pl
+	"münzen" vblex prs p1 pl
+	"münzen" vblex prs p3 pl
+	"münze" n f pl nom lower
+	"münze" n f pl gen lower
+	"münze" n f pl dat lower
+	"münze" n f pl acc lower
+"<mit>"
+	"mit" pr dat
+"<Elizabeth>"
+	"*Elizabeth"
+"<II>"
+	"II" num sp
+"<.>"
+	"." sent
+"<ist>"
+	"sein" vbser pri p3 sg
+"<das>"
+	"der" rel nt sg nom
+	"der" rel nt sg acc
+	"der" prn dem nt sg nom
+	"der" prn dem nt sg acc
+	"der" det def nt sg nom
+	"der" det def nt sg acc
+"<Land>"
+	"Land" n nt sg nom
+	"Land" n nt sg dat
+	"Land" n nt sg acc
+	"land" n nt sg nom lower
+	"land" n nt sg dat lower
+	"land" n nt sg acc lower
+"<nicht>"
+	"nicht" adv
+"<,>"
+	"," cm
+"<bei>"
+	"bei" pr dat
+"<ihren>"
+	"ihr" det pos m sg acc
+	"ihr" det pos mfn pl dat
+"<Amtsvorgänger>"
+	"vorgänger" n m sg nom lower
+		"Amt" n nt sg cmp
+	"vorgänger" n m sg dat lower
+		"Amt" n nt sg cmp
+	"vorgänger" n m sg acc lower
+		"Amt" n nt sg cmp
+	"vorgänger" n m pl nom lower
+		"Amt" n nt sg cmp
+	"vorgänger" n m pl gen lower
+		"Amt" n nt sg cmp
+	"vorgänger" n m pl acc lower
+		"Amt" n nt sg cmp
+	"vorgänger" n m sg nom lower
+		"amt" n nt sg lower cmp
+	"vorgänger" n m sg dat lower
+		"amt" n nt sg lower cmp
+	"vorgänger" n m sg acc lower
+		"amt" n nt sg lower cmp
+	"vorgänger" n m pl nom lower
+		"amt" n nt sg lower cmp
+	"vorgänger" n m pl gen lower
+		"amt" n nt sg lower cmp
+	"vorgänger" n m pl acc lower
+		"amt" n nt sg lower cmp
+"<(>"
+	"(" lpar
+"<inne>"
+	"*inne"
+"<)>"
+	")" rpar
+"<n>"
+	"*n"
+"<nur>"
+	"nur" adv
+"<als>"
+	"als" cnjadv
+	"als" pr nom
+"<Teil>"
+	"Teil" n nt sg nom
+	"Teil" n nt sg dat
+	"Teil" n nt sg acc
+	"teil" n nt sg nom lower
+	"teil" n nt sg dat lower
+	"teil" n nt sg acc lower
+	"teilen" vblex imp sg
+"<des>"
+	"der" det def m sg gen
+	"der" det def nt sg gen
+"<Titels>"
+	"Titel" n m sg gen
+	"titel" n m sg gen lower
+"<des>"
+	"der" det def m sg gen
+	"der" det def nt sg gen
+"<Monarchen>"
+	"Monarch" n m sg gen
+	"Monarch" n m sg dat
+	"Monarch" n m sg acc
+	"Monarch" n m pl nom
+	"Monarch" n m pl gen
+	"Monarch" n m pl dat
+	"Monarch" n m pl acc
+	"monarch" n m sg gen lower
+	"monarch" n m sg dat lower
+	"monarch" n m sg acc lower
+	"monarch" n m pl nom lower
+	"monarch" n m pl gen lower
+	"monarch" n m pl dat lower
+	"monarch" n m pl acc lower
+"<angegeben>"
+	"angeben" vblex sep pp
+"<.>"
+	"." sent
+"<Die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<ersten>"
+	"erste" adj ord mf pl dat
+	"erste" adj ord m sg gen
+	"erste" adj ord m sg acc
+	"erste" adj ord nt sg gen
+	"erste" adj ord mf pl nom mix
+	"erste" adj ord mf pl gen mix
+	"erste" adj ord mf pl acc mix
+	"erste" adj ord m sg dat mix
+	"erste" adj ord f sg gen mix
+	"erste" adj ord f sg dat mix
+	"erste" adj ord nt sg dat mix
+"<Münzen>"
+	"münzen" vblex inf
+	"Münze" n f pl nom
+	"Münze" n f pl gen
+	"Münze" n f pl dat
+	"Münze" n f pl acc
+	"münzen" vblex pri p1 pl
+	"münzen" vblex pri p3 pl
+	"münzen" vblex prs p1 pl
+	"münzen" vblex prs p3 pl
+	"münze" n f pl nom lower
+	"münze" n f pl gen lower
+	"münze" n f pl dat lower
+	"münze" n f pl acc lower
+"<in>"
+	"in" pr dat
+	"in" pr acc
+"<Deutschland>"
+	"land" n nt sg nom lower
+		"Deutsch" n nt sg cmp
+	"land" n nt sg dat lower
+		"Deutsch" n nt sg cmp
+	"land" n nt sg acc lower
+		"Deutsch" n nt sg cmp
+	"land" n nt sg nom lower
+		"deutsch" n nt sg lower cmp
+	"land" n nt sg dat lower
+		"deutsch" n nt sg lower cmp
+	"land" n nt sg acc lower
+		"deutsch" n nt sg lower cmp
+"<nach>"
+	"nach" pr dat
+	"nach" pprep dat
+"<1945>"
+	"1945" num
+"<hatten>"
+	"haben" vbhaver pii p1 pl
+	"haben" vbhaver pii p3 pl
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Aufschrift>"
+	"Aufschrift" n f sg nom
+	"Aufschrift" n f sg gen
+	"Aufschrift" n f sg dat
+	"Aufschrift" n f sg acc
+	"aufschrift" n f sg nom lower
+	"aufschrift" n f sg gen lower
+	"aufschrift" n f sg dat lower
+	"aufschrift" n f sg acc lower
+"<„>"
+	"„" lquot
+"<Bank>"
+	"Bank" n f sg nom
+	"Bank" n f sg gen
+	"Bank" n f sg dat
+	"Bank" n f sg acc
+	"bank" n f sg nom lower
+	"bank" n f sg gen lower
+	"bank" n f sg dat lower
+	"bank" n f sg acc lower
+"<deutscher>"
+	"deutsch" adj comp attr
+	"deutsch" adj comp pred
+	"deutsch" adj mf pl gen st
+	"deutsch" adj m sg nom mix
+	"deutsch" adj f sg gen st
+	"deutsch" adj f sg dat st
+"<Länder>"
+	"Land" n nt pl nom
+	"Land" n nt pl gen
+	"Land" n nt pl acc
+	"land" n nt pl nom lower
+	"land" n nt pl gen lower
+	"land" n nt pl acc lower
+"<“>"
+	"“" rquot
+"<.>"
+	"." sent
+"<Auch>"
+	"auch" adv
+"<bei>"
+	"bei" pr dat
+"<Euromünzen>"
+	"*Euromünzen"
+"<gibt>"
+	"geben" vblex pri p3 sg
+	"geben" vblex sep fm pri p3 sg
+"<es>"
+	"es" prn pers p3 nt sg nom
+	"es" prn pers p3 nt sg acc
+"<in der Regel>"
+	"in der Regel" adv
+"<keine>"
+	"kein" det ind f sg nom
+	"kein" det ind f sg acc
+"<Landesangabe>"
+	"*Landesangabe"
+"<,>"
+	"," cm
+"<sondern>"
+	"sondern" cnjcoo
+	"sondern" vblex inf
+	"sondern" vblex pri p1 pl
+	"sondern" vblex pri p3 pl
+	"sondern" vblex prs p1 pl
+	"sondern" vblex prs p3 pl
+"<nur>"
+	"nur" adv
+"<ein>"
+	"ein" num sg
+	"ein" det ind m sg nom
+	"ein" det ind nt sg nom
+	"ein" det ind nt sg acc
+"<Erkennungszeichen>"
+	"*Erkennungszeichen"
+"<für>"
+	"für" pr acc
+"<das>"
+	"der" rel nt sg nom
+	"der" rel nt sg acc
+	"der" prn dem nt sg nom
+	"der" prn dem nt sg acc
+	"der" det def nt sg nom
+	"der" det def nt sg acc
+"<Land>"
+	"Land" n nt sg nom
+	"Land" n nt sg dat
+	"Land" n nt sg acc
+	"land" n nt sg nom lower
+	"land" n nt sg dat lower
+	"land" n nt sg acc lower
+"<auf>"
+	"auf" pr dat
+	"auf" pr acc
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Rückseite>"
+	"*Rückseite"
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Münze>"
+	"Münze" n f sg nom
+	"Münze" n f sg gen
+	"Münze" n f sg dat
+	"Münze" n f sg acc
+	"münze" n f sg nom lower
+	"münze" n f sg gen lower
+	"münze" n f sg dat lower
+	"münze" n f sg acc lower
+	"münzen" vblex pri p1 sg
+	"münzen" vblex prs p1 sg
+	"münzen" vblex prs p3 sg
+"<.>"
+	"." sent
+
+
+"<Die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Vorderseite>"
+	"*Vorderseite"
+"<(>"
+	"(" lpar
+"<das>"
+	"der" rel nt sg nom
+	"der" rel nt sg acc
+	"der" prn dem nt sg nom
+	"der" prn dem nt sg acc
+	"der" det def nt sg nom
+	"der" det def nt sg acc
+"<Avers>"
+	"*Avers"
+"<)>"
+	")" rpar
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Münze>"
+	"Münze" n f sg nom
+	"Münze" n f sg gen
+	"Münze" n f sg dat
+	"Münze" n f sg acc
+	"münze" n f sg nom lower
+	"münze" n f sg gen lower
+	"münze" n f sg dat lower
+	"münze" n f sg acc lower
+	"münzen" vblex pri p1 sg
+	"münzen" vblex prs p1 sg
+	"münzen" vblex prs p3 sg
+"<ist>"
+	"sein" vbser pri p3 sg
+"<in der Regel>"
+	"in der Regel" adv
+"<dort>"
+	"dort" adv
+"<,>"
+	"," cm
+"<wo>"
+	"wo" adv
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Kopf>"
+	"Kopf" n m sg nom
+	"Kopf" n m sg dat
+	"Kopf" n m sg acc
+	"kopf" n m sg nom lower
+	"kopf" n m sg dat lower
+	"kopf" n m sg acc lower
+"<des>"
+	"der" det def m sg gen
+	"der" det def nt sg gen
+"<Herrschers>"
+	"*Herrschers"
+"<oder>"
+	"oder" cnjcoo
+"<das>"
+	"der" rel nt sg nom
+	"der" rel nt sg acc
+	"der" prn dem nt sg nom
+	"der" prn dem nt sg acc
+	"der" det def nt sg nom
+	"der" det def nt sg acc
+"<Wappen>"
+	"Wappen" n nt sg nom
+	"Wappen" n nt sg dat
+	"Wappen" n nt sg acc
+	"Wappen" n nt pl nom
+	"Wappen" n nt pl gen
+	"Wappen" n nt pl dat
+	"Wappen" n nt pl acc
+	"wappen" n nt sg nom lower
+	"wappen" n nt sg dat lower
+	"wappen" n nt sg acc lower
+	"wappen" n nt pl nom lower
+	"wappen" n nt pl gen lower
+	"wappen" n nt pl dat lower
+	"wappen" n nt pl acc lower
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Republik>"
+	"Republik" n f sg nom
+	"Republik" n f sg gen
+	"Republik" n f sg dat
+	"Republik" n f sg acc
+	"republik" n f sg nom lower
+	"republik" n f sg gen lower
+	"republik" n f sg dat lower
+	"republik" n f sg acc lower
+"<zu>"
+	"zu" pr dat
+"<sehen>"
+	"sehen" vblex inf
+	"sehen" vblex pri p1 pl
+	"sehen" vblex pri p3 pl
+	"sehen" vblex prs p1 pl
+	"sehen" vblex prs p3 pl
+	"sehe" n f pl nom lower
+	"sehe" n f pl gen lower
+	"sehe" n f pl dat lower
+	"sehe" n f pl acc lower
+	"sehen" vblex sep fm pri p1 pl
+	"sehen" vblex sep fm pri p3 pl
+	"sehen" vblex sep fm prs p1 pl
+	"sehen" vblex sep fm prs p3 pl
+"<ist>"
+	"sein" vbser pri p3 sg
+"<.>"
+	"." sent
+"<Die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Rückseite>"
+	"*Rückseite"
+"<(>"
+	"(" lpar
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Revers>"
+	"Revers" n m sg nom
+	"Revers" n m sg dat
+	"Revers" n m sg acc
+	"Revers" n nt sg nom
+	"Revers" n nt sg gen
+	"Revers" n nt sg dat
+	"Revers" n nt sg acc
+	"Revers" n nt pl nom
+	"Revers" n nt pl gen
+	"Revers" n nt pl dat
+	"Revers" n nt pl acc
+	"revers" n m sg nom lower
+	"revers" n m sg dat lower
+	"revers" n m sg acc lower
+	"revers" n nt sg nom lower
+	"revers" n nt sg gen lower
+	"revers" n nt sg dat lower
+	"revers" n nt sg acc lower
+	"revers" n nt pl nom lower
+	"revers" n nt pl gen lower
+	"revers" n nt pl dat lower
+	"revers" n nt pl acc lower
+"<)>"
+	")" rpar
+"<ist>"
+	"sein" vbser pri p3 sg
+"<hingegen>"
+	"hingegen" adv
+"<meistens>"
+	"meistens" adv
+"<auf>"
+	"auf" pr dat
+	"auf" pr acc
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Seite>"
+	"Seite" n f sg nom
+	"Seite" n f sg gen
+	"Seite" n f sg dat
+	"Seite" n f sg acc
+	"seite" n f sg nom lower
+	"seite" n f sg gen lower
+	"seite" n f sg dat lower
+	"seite" n f sg acc lower
+"<mit>"
+	"mit" pr dat
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Wertangabe>"
+	"angabe" n f sg nom lower
+		"Wert" n m sg cmp
+	"angabe" n f sg gen lower
+		"Wert" n m sg cmp
+	"angabe" n f sg dat lower
+		"Wert" n m sg cmp
+	"angabe" n f sg acc lower
+		"Wert" n m sg cmp
+	"angabe" n f sg nom lower
+		"wert" n m sg lower cmp
+	"angabe" n f sg gen lower
+		"wert" n m sg lower cmp
+	"angabe" n f sg dat lower
+		"wert" n m sg lower cmp
+	"angabe" n f sg acc lower
+		"wert" n m sg lower cmp
+"<.>"
+	"." sent
+"<Dazwischen>"
+	"dazwischen" preadv
+"<befindet>"
+	"befinden" vblex imp pl
+	"befinden" vblex pri p2 pl
+	"befinden" vblex pri p3 sg
+	"befinden" vblex prs p2 pl
+"<sich>"
+	"*sich"
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Münzrand>"
+	"*Münzrand"
+"<,>"
+	"," cm
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<geriffelt>"
+	"*geriffelt"
+"<oder>"
+	"oder" cnjcoo
+"<beschriftet>"
+	"beschriften" vblex pp
+	"beschriften" vblex imp pl
+	"beschriften" vblex pri p2 pl
+	"beschriften" vblex pri p3 sg
+	"beschriften" vblex prs p2 pl
+"<sein>"
+	"sein" vbser inf
+	"sein" det pos m sg nom
+	"sein" det pos nt sg nom
+	"sein" det pos nt sg acc
+"<kann>"
+	"können" vbmod pri p1 sg
+	"können" vbmod pri p3 sg
+"<und>"
+	"und" cnjcoo
+"<gewöhnlich>"
+	"gewöhnlich" adj attr
+	"gewöhnlich" adj pred
+"<ein>"
+	"ein" num sg
+	"ein" det ind m sg nom
+	"ein" det ind nt sg nom
+	"ein" det ind nt sg acc
+"<wenig>"
+	"wenig" adv
+	"wenig" adj attr
+	"wenig" adj pred
+"<über>"
+	"über" pr dat
+	"über" pr acc
+"<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Münzfläche>"
+	"*Münzfläche"
+
+"<übersteht>"
+	"überstehen" vblex imp pl
+	"überstehen" vblex pri p2 pl
+	"überstehen" vblex pri p3 sg
+"<(>"
+	"(" lpar
+"<„>"
+	"„" lquot
+"<Randstab>"
+	"*Randstab"
+"<“>"
+	"“" rquot
+"<)>"
+	")" rpar
+"<.>"
+	"." sent
+"<Die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Umschrift>"
+	"*Umschrift"
+"<einer>"
+	"ein" det ind f sg gen
+	"ein" det ind f sg dat
+"<Münze>"
+	"Münze" n f sg nom
+	"Münze" n f sg gen
+	"Münze" n f sg dat
+	"Münze" n f sg acc
+	"münze" n f sg nom lower
+	"münze" n f sg gen lower
+	"münze" n f sg dat lower
+	"münze" n f sg acc lower
+	"münzen" vblex pri p1 sg
+	"münzen" vblex prs p1 sg
+	"münzen" vblex prs p3 sg
+"<wird>"
+	"werden" vaux pri p3 sg
+	"werden" vblex pri p3 sg
+"<in>"
+	"in" pr dat
+	"in" pr acc
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Numismatik>"
+	"*Numismatik"
+"<als>"
+	"als" cnjadv
+	"als" pr nom
+"<Legende>"
+	"Legende" n f sg nom
+	"Legende" n f sg gen
+	"Legende" n f sg dat
+	"Legende" n f sg acc
+	"legende" n f sg nom lower
+	"legende" n f sg gen lower
+	"legende" n f sg dat lower
+	"legende" n f sg acc lower
+"<bezeichnet>"
+	"bezeichnen" vblex pp
+	"bezeichnen" vblex imp pl
+	"bezeichnen" vblex pri p2 pl
+	"bezeichnen" vblex pri p3 sg
+	"bezeichnen" vblex prs p2 pl
+"<.>"
+	"." sent
+
+
+
