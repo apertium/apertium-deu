@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# reads lines formatted like 'Aasfresser<s n="n"/><s n="m"/>' from the file 'bidix_only'
+# and outputs the respective line followed by lines like
+# '<e lm="Durchmesser">     <i>Durchmesser</i><par n="Abenteurer__n_m"/></e>'
+# to the file 'bidix_only_with_candidates'
+
+oldIFS=$IFS
+IFS=$'\n'
+list=$(cat bidix_only)
+
+truncate --size 0 bidix_only_with_candidates
+
+for entry in $list; do
+regex=$(echo -n "$entry" | sed -r 's/.*(....)<s n="n"\/><s n="([^"]*).*/<e lm="[^"]*\1">.*__n_\2"/')
+echo "$entry" >> bidix_only_with_candidates
+grep -i -m 1 "$regex" nouns >> bidix_only_with_candidates
+done
+
+IFS=$oldIFS
