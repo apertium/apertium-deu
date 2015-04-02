@@ -1,20 +1,22 @@
 #!/bin/bash
 
-# reads lines formatted like 'Aasfresser<s n="n"/><s n="m"/>' from the file 'bidix_only'
-# and outputs the respective line followed by lines like
+# invocation: add_candidates <input file> <dictionary> <number of candidates>
+#
+# reads lines formatted like 'Aasfresser<s n="n"/><s n="m"/>' from the input file
+# and outputs the respective line followed by a line like
 # '<e lm="Durchmesser">     <i>Durchmesser</i><par n="Abenteurer__n_m"/></e>'
-# to the file 'bidix_only_with_candidates'
+# to standard output
 
 oldIFS=$IFS
 IFS=$'\n'
-list=$(cat bidix_only)
+list=$(cat "$1")
 
 truncate --size 0 bidix_only_with_candidates
 
 for entry in $list; do
 regex=$(echo -n "$entry" | sed -r 's/.*(....)<s n="n"\/><s n="([^"]*).*/<e lm="[^"]*\1">.*__n_\2"/')
-echo "$entry" >> bidix_only_with_candidates
-grep -i -m 1 "$regex" nouns >> bidix_only_with_candidates
+echo "$entry"
+grep -i -m "$3" "$regex" "$2"
 done
 
 IFS=$oldIFS

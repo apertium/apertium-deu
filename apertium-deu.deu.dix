@@ -1917,25 +1917,27 @@
   <e>       <p><l>apfel</l>     <r>apfel<s n="n"/><s n="m"/><s n="sg"/><s n="lower"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Arabisch__n_nt">
-  <e>       <p><l>en</l>        <r><s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
-  <e>       <p><l>en</l>        <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e>       <p><l>e</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>en</l>        <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>en</l>        <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e>       <p><l>e</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Arabisch__n_nt_lower">
-  <e>       <p><l>en</l>        <r><s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/><s n="lower"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>en</l>        <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/><s n="lower"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>e</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="lower"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>en</l>        <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/><s n="lower"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/><s n="lower"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/><s n="lower"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/><s n="lower"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>en</l>        <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/><s n="lower"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l>e</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/><s n="lower"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="lower"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/><s n="lower"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/><s n="lower"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/><s n="lower"/></r></p><par n="cmp-R"/></e>
+  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/><s n="lower"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="lower"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Arbeits/amt__n_nt">
@@ -3420,20 +3422,6 @@
   <e>       <p><l>es</l>        <r>e<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/><s n="lower"/></r></p><par n="cmp-R"/></e>
   <e r="LR"><p><l>s</l>         <r>e<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/><s n="lower"/></r></p><par n="cmp-R"/></e>
 </pardef>
-<pardef n="Chinesisch__n_nt">
-  <e>       <p><l>en</l>        <r><s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
-  <e>       <p><l>en</l>        <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
-  <e>       <p><l>en</l>        <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
-</pardef>
-<pardef n="Chinesisch__n_nt_lower">
-  <e>       <p><l>en</l>        <r><s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/><s n="lower"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>en</l>        <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/><s n="lower"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>en</l>        <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/><s n="lower"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="lower"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="lower"/></r></p><par n="cmp-L"/></e>
-</pardef>
 <pardef n="Ch/or__n_m">
   <e>       <p><l>ören</l>      <r>or<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>öre</l>       <r>or<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -3895,26 +3883,6 @@
   <e>       <p><l>al</l>        <r>al<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="lower"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>als</l>       <r>al<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/><s n="lower"/></r></p><par n="cmp-R"/></e>
   <e>       <p><l>al</l>        <r>al<s n="n"/><s n="nt"/><s n="sg"/><s n="lower"/></r></p><par n="cmp-L"/></e>
-</pardef>
-<pardef n="Deutsch__n_nt">
-  <e>       <p><l>en</l>        <r><s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
-  <e>       <p><l>en</l>        <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
-  <e>       <p><l>en</l>        <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
-  <e>       <p><l>s</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/></r></p><par n="cmp-L"/></e>
-</pardef>
-<pardef n="Deutsch__n_nt_lower">
-  <e>       <p><l>en</l>        <r><s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/><s n="lower"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>en</l>        <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/><s n="lower"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>en</l>        <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/><s n="lower"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/><s n="lower"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/><s n="lower"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="lower"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l>s</l>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/><s n="lower"/></r></p><par n="cmp-R"/></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="lower"/></r></p><par n="cmp-L"/></e>
 </pardef>
 <pardef n="Diebst/ahl__n_m">
   <e>       <p><l>ählen</l>     <r>ahl<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -27417,8 +27385,8 @@
 <e lm="Affäre">          <i>affäre</i><par n="Abfolge__n_f_lower"/></e>
 <e lm="Afghane">         <i>Afghane</i><par n="Affe__n_m"/></e>
 <e lm="Afghane">         <i>afghane</i><par n="Affe__n_m_lower"/></e>
-<e lm="Afrikaans">       <i>Afrikaans</i><par n="Deutsch__n_nt"/></e>
-<e lm="Afrikaans">       <i>afrikaans</i><par n="Deutsch__n_nt_lower"/></e>
+<e lm="Afrikaans">       <i>Afrikaans</i><par n="Arabisch__n_nt"/></e>
+<e lm="Afrikaans">       <i>afrikaans</i><par n="Arabisch__n_nt_lower"/></e>
 <e lm="Afrikaner">       <i>Afrikaner</i><par n="Abenteurer__n_m"/></e>
 <e lm="Afrikaner">       <i>afrikaner</i><par n="Abenteurer__n_m_lower"/></e>
 <e lm="Afro">            <i>Afro</i><par n="Affront__n_m"/></e>
@@ -29513,8 +29481,8 @@
 <e lm="Chili">           <i>chili</i><par n="Besitz__n_m_lower"/></e>
 <e lm="Chinese">         <i>Chinese</i><par n="Affe__n_m"/></e>
 <e lm="Chinese">         <i>chinese</i><par n="Affe__n_m_lower"/></e>
-<e lm="Chinesisch">      <i>Chinesisch</i><par n="Chinesisch__n_nt"/></e>
-<e lm="Chinesisch">      <i>chinesisch</i><par n="Chinesisch__n_nt_lower"/></e>
+<e lm="Chinesisch">      <i>Chinesisch</i><par n="Arabisch__n_nt"/></e>
+<e lm="Chinesisch">      <i>chinesisch</i><par n="Arabisch__n_nt_lower"/></e>
 <e lm="Chip">            <i>Chip</i><par n="Affront__n_m"/></e>
 <e lm="Chip">            <i>chip</i><par n="Affront__n_m_lower"/></e>
 <e lm="Chirurg">         <i>Chirurg</i><par n="Abiturient__n_m"/></e>
@@ -29889,8 +29857,8 @@
 <e lm="Detonation">      <i>detonation</i><par n="Abfuhr__n_f_lower"/></e>
 <e lm="Deut">            <i>Deut</i><par n="Aberglauben__n_m"/></e>
 <e lm="Deut">            <i>deut</i><par n="Aberglauben__n_m_lower"/></e>
-<e lm="Deutsch">         <i>Deutsch</i><par n="Deutsch__n_nt"/></e>
-<e lm="Deutsch">         <i>deutsch</i><par n="Deutsch__n_nt_lower"/></e>
+<e lm="Deutsch">         <i>Deutsch</i><par n="Arabisch__n_nt"/></e>
+<e lm="Deutsch">         <i>deutsch</i><par n="Arabisch__n_nt_lower"/></e>
 <e lm="Deutsche">        <i>Deutsche</i><par n="Affe__n_m"/></e>
 <e lm="Deutsche">        <i>deutsche</i><par n="Affe__n_m_lower"/></e>
 <e lm="Devise">          <i>Devise</i><par n="Abfolge__n_f"/></e>
@@ -30567,8 +30535,8 @@
 <e lm="Engel">           <i>engel</i><par n="Abenteurer__n_m_lower"/></e>
 <e lm="Engineering">     <i>Engineering</i><par n="Abitur__n_nt"/></e>
 <e lm="Engineering">     <i>engineering</i><par n="Abitur__n_nt_lower"/></e>
-<e lm="Englisch">        <i>Englisch</i><par n="Deutsch__n_nt"/></e>
-<e lm="Englisch">        <i>englisch</i><par n="Deutsch__n_nt_lower"/></e>
+<e lm="Englisch">        <i>Englisch</i><par n="Arabisch__n_nt"/></e>
+<e lm="Englisch">        <i>englisch</i><par n="Arabisch__n_nt_lower"/></e>
 <e lm="Engländer">       <i>Engländer</i><par n="Abenteurer__n_m"/></e>
 <e lm="Engländer">       <i>engländer</i><par n="Abenteurer__n_m_lower"/></e>
 <e lm="Enkel">           <i>Enkel</i><par n="Abenteurer__n_m"/></e>
@@ -33479,8 +33447,8 @@
 <e lm="Israeli">         <i>israeli</i><par n="Affront__n_m_lower"/></e>
 <e lm="Italiener">       <i>Italiener</i><par n="Abenteurer__n_m"/></e>
 <e lm="Italiener">       <i>italiener</i><par n="Abenteurer__n_m_lower"/></e>
-<e lm="Italienisch">     <i>Italienisch</i><par n="Chinesisch__n_nt"/></e>
-<e lm="Italienisch">     <i>italienisch</i><par n="Chinesisch__n_nt_lower"/></e>
+<e lm="Italienisch">     <i>Italienisch</i><par n="Arabisch__n_nt"/></e>
+<e lm="Italienisch">     <i>italienisch</i><par n="Arabisch__n_nt_lower"/></e>
 <e lm="Jacht">           <i>Jacht</i><par n="Abfuhr__n_f"/></e>
 <e lm="Jacht">           <i>jacht</i><par n="Abfuhr__n_f_lower"/></e>
 <e lm="Jacke">           <i>Jacke</i><par n="Abfolge__n_f"/></e>
@@ -34541,8 +34509,8 @@
 <e lm="Korb">            <i>k</i><par n="K/orb__n_m_lower"/></e>
 <e lm="Koreaner">        <i>Koreaner</i><par n="Abenteurer__n_m"/></e>
 <e lm="Koreaner">        <i>koreaner</i><par n="Abenteurer__n_m_lower"/></e>
-<e lm="Koreanisch">      <i>Koreanisch</i><par n="Chinesisch__n_nt"/></e>
-<e lm="Koreanisch">      <i>koreanisch</i><par n="Chinesisch__n_nt_lower"/></e>
+<e lm="Koreanisch">      <i>Koreanisch</i><par n="Arabisch__n_nt"/></e>
+<e lm="Koreanisch">      <i>koreanisch</i><par n="Arabisch__n_nt_lower"/></e>
 <e lm="Kork">            <i>Kork</i><par n="Aal__n_m"/></e>
 <e lm="Kork">            <i>kork</i><par n="Aal__n_m_lower"/></e>
 <e lm="Korken">          <i>Korken</i><par n="Abkommen__n_nt"/></e>
@@ -36489,8 +36457,8 @@
 <e lm="Niederlage">      <i>niederlage</i><par n="Abfolge__n_f_lower"/></e>
 <e lm="Niederländer">    <i>Niederländer</i><par n="Abenteurer__n_m"/></e>
 <e lm="Niederländer">    <i>niederländer</i><par n="Abenteurer__n_m_lower"/></e>
-<e lm="Niederländisch">  <i>Niederländisch</i><par n="Deutsch__n_nt"/></e>
-<e lm="Niederländisch">  <i>niederländisch</i><par n="Deutsch__n_nt_lower"/></e>
+<e lm="Niederländisch">  <i>Niederländisch</i><par n="Arabisch__n_nt"/></e>
+<e lm="Niederländisch">  <i>niederländisch</i><par n="Arabisch__n_nt_lower"/></e>
 <e lm="Niederschlag">    <i>Niederschl</i><par n="Anschl/ag__n_m"/></e>
 <e lm="Niederschlag">    <i>niederschl</i><par n="Anschl/ag__n_m_lower"/></e>
 <e lm="Niederschrift">   <i>Niederschrift</i><par n="Abfuhr__n_f"/></e>
@@ -38771,8 +38739,8 @@
 <e lm="Rush">            <i>rush</i><par n="Affront__n_m_lower"/></e>
 <e lm="Russe">           <i>Russe</i><par n="Affe__n_m"/></e>
 <e lm="Russe">           <i>russe</i><par n="Affe__n_m_lower"/></e>
-<e lm="Russisch">        <i>Russisch</i><par n="Deutsch__n_nt"/></e>
-<e lm="Russisch">        <i>russisch</i><par n="Deutsch__n_nt_lower"/></e>
+<e lm="Russisch">        <i>Russisch</i><par n="Arabisch__n_nt"/></e>
+<e lm="Russisch">        <i>russisch</i><par n="Arabisch__n_nt_lower"/></e>
 <e lm="Rute">            <i>Rute</i><par n="Abfolge__n_f"/></e>
 <e lm="Rute">            <i>rute</i><par n="Abfolge__n_f_lower"/></e>
 <e lm="Rutsch">          <i>Rutsch</i><par n="Aal__n_m"/></e>
@@ -39647,8 +39615,8 @@
 <e lm="Sequenz">         <i>sequenz</i><par n="Abfuhr__n_f_lower"/></e>
 <e lm="Serbe">           <i>Serbe</i><par n="Affe__n_m"/></e>
 <e lm="Serbe">           <i>serbe</i><par n="Affe__n_m_lower"/></e>
-<e lm="Serbisch">        <i>Serbisch</i><par n="Chinesisch__n_nt"/></e>
-<e lm="Serbisch">        <i>serbisch</i><par n="Chinesisch__n_nt_lower"/></e>
+<e lm="Serbisch">        <i>Serbisch</i><par n="Arabisch__n_nt"/></e>
+<e lm="Serbisch">        <i>serbisch</i><par n="Arabisch__n_nt_lower"/></e>
 <e lm="Serenade">        <i>Serenade</i><par n="Abfolge__n_f"/></e>
 <e lm="Serenade">        <i>serenade</i><par n="Abfolge__n_f_lower"/></e>
 <e lm="Serge">           <i>Serge</i><par n="Abfolge__n_f"/></e>
@@ -39791,8 +39759,8 @@
 <e lm="Sitz">            <i>sitz</i><par n="Abriss__n_m_lower"/></e>
 <e lm="Sitzung">         <i>Sitzung</i><par n="Ahnung__n_f"/></e>
 <e lm="Sitzung">         <i>sitzung</i><par n="Ahnung__n_f_lower"/></e>
-<e lm="Sizilianisch">    <i>Sizilianisch</i><par n="Chinesisch__n_nt"/></e>
-<e lm="Sizilianisch">    <i>sizilianisch</i><par n="Chinesisch__n_nt_lower"/></e>
+<e lm="Sizilianisch">    <i>Sizilianisch</i><par n="Arabisch__n_nt"/></e>
+<e lm="Sizilianisch">    <i>sizilianisch</i><par n="Arabisch__n_nt_lower"/></e>
 <e lm="Skala">           <i>Skal</i><par n="Agend/a__n_f"/></e>
 <e lm="Skala">           <i>skal</i><par n="Agend/a__n_f_lower"/></e>
 <e lm="Skandal">         <i>Skandal</i><par n="Abend__n_m"/></e>
@@ -41881,8 +41849,8 @@
 <e lm="Vierer">          <i>vierer</i><par n="Abenteurer__n_m_lower"/></e>
 <e lm="Vietnamese">      <i>Vietnamese</i><par n="Affe__n_m"/></e>
 <e lm="Vietnamese">      <i>vietnamese</i><par n="Affe__n_m_lower"/></e>
-<e lm="Vietnamesisch">   <i>Vietnamesisch</i><par n="Chinesisch__n_nt"/></e>
-<e lm="Vietnamesisch">   <i>vietnamesisch</i><par n="Chinesisch__n_nt_lower"/></e>
+<e lm="Vietnamesisch">   <i>Vietnamesisch</i><par n="Arabisch__n_nt"/></e>
+<e lm="Vietnamesisch">   <i>vietnamesisch</i><par n="Arabisch__n_nt_lower"/></e>
 <e lm="View">            <i>View</i><par n="Affront__n_m"/></e>
 <e lm="View">            <i>view</i><par n="Affront__n_m_lower"/></e>
 <e lm="Vignette">        <i>Vignette</i><par n="Abfolge__n_f"/></e>
