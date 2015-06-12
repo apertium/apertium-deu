@@ -110,6 +110,9 @@ SELECT (det dem) IF (NOT 0 DetDef) (1 N)
 # . Sie ist
 SELECT (prn pers p3 f sg nom) IF (1 Verb + (p3 sg))
 
+# Ich habe dich gefunden
+REMOVE Verb + (prs) IF (0 Verb + (pri))
+
 
 SELECT (x);
 
