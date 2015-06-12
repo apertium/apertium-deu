@@ -27,7 +27,7 @@ LIST Imp = (imp);
 SET GENDER = M | F | Nt;
 SET NUMBER = Sg | Pl;
 SET CASE = (nom) | (gen) | (dat) | (acc);
-SET Verb = (vblex) | (vbmod) | (vaux);
+SET Verb = (vblex) | (vbmod) | (vaux) | (vbser) | (vbhaver);
 
 
 SECTION 
@@ -106,6 +106,9 @@ REMOVE Verb + (p1) IF (NOT *-1 (prn pers p1) BARRIER BOS) (NOT *1 (prn pers p1) 
 REMOVE Verb + (p2) IF (NOT *-1 (prn pers p2) BARRIER BOS) (NOT *1 (prn pers p2) BARRIER EOS)
 
 SELECT (det dem) IF (NOT 0 DetDef) (1 N)
+
+# . Sie ist
+SELECT (prn pers p3 f sg nom) IF (1 Verb + (p3 sg))
 
 
 SELECT (x);
