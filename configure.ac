@@ -38,5 +38,6 @@ then
   AC_MSG_ERROR([You don't have pkg-config installed.])
 fi
 
+AP_MKINCLUDE
 
 AC_OUTPUT([Makefile apertium-deu.pc])
