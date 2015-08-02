@@ -113,6 +113,9 @@ SELECT (prn pers p3 f sg nom) IF (1 Verb + (p3 sg))
 # Ich habe dich gefunden
 REMOVE Verb + (prs) IF (0 Verb + (pri))
 
+# remove num reading of ein unless there are other nums in the sentence
+REMOVE ("ein"i num) IF (NOT *-1 (num) BARRIER BOS) (NOT *1 (num) BARRIER EOS)
+
 
 SELECT (x);
 
