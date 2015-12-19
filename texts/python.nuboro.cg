@@ -3,10 +3,10 @@
 	"Python" n f sg gen
 	"Python" n f sg dat
 	"Python" n f sg acc
-;	"python" n f sg nom lower REMOVE:39
-;	"python" n f sg gen lower REMOVE:39
-;	"python" n f sg dat lower REMOVE:39
-;	"python" n f sg acc lower REMOVE:39
+	"python" n f sg nom lower
+	"python" n f sg gen lower
+	"python" n f sg dat lower
+	"python" n f sg acc lower
 "<ist>"
 	"sein" vbser pri p3 sg
 "<eine>"
@@ -15,20 +15,20 @@
 "<universelle>"
 	"universell" adj f sg nom
 	"universell" adj f sg acc
-;	"universell" adj m sg nom sw REMOVE:72
-;	"universell" adj nt sg nom sw REMOVE:72
-;	"universell" adj nt sg acc sw REMOVE:72
-;	"universell" adj mf pl nom st REMOVE:73
-;	"universell" adj mf pl acc st REMOVE:73
+	"universell" adj mf pl nom st
+	"universell" adj mf pl acc st
+	"universell" adj m sg nom sw
+	"universell" adj nt sg nom sw
+	"universell" adj nt sg acc sw
 "<,>"
 	"," cm
 "<üblicherweise>"
 	"üblicherweise" adv
 "<interpretierte>"
-	"interpretieren" vblex pis p3 sg
+	"interpretieren" vblex pii p1 sg
 	"interpretieren" vblex pii p3 sg
-;	"interpretieren" vblex pii p1 sg REMOVE:105
-;	"interpretieren" vblex pis p1 sg REMOVE:105
+	"interpretieren" vblex pis p1 sg
+	"interpretieren" vblex pis p3 sg
 "<höhere>"
 	"hoch" adj sint comp f sg nom
 	"hoch" adj sint comp f sg acc
@@ -41,7 +41,6 @@
 	"*Programmiersprache"
 "<.>"
 	"." sent
-
 "<Ihre>"
 	"prpers" prn det p3 m pl nom
 	"prpers" prn det p3 m pl acc
@@ -64,9 +63,9 @@
 	"betont" adj sint attr
 	"betont" adj sint pred
 	"betonen" vblex pp
+	"betonen" vblex imp pl
+	"betonen" vblex pri p2 pl
 	"betonen" vblex pri p3 sg
-;	"betonen" vblex pri p2 pl REMOVE:106
-;	"betonen" vblex imp pl REMOVE:127
 "<Programmlesbarkeit>"
 	"*Programmlesbarkeit"
 "<,>"
@@ -80,32 +79,32 @@
 	"Python" n f sg gen
 	"Python" n f sg dat
 	"Python" n f sg acc
-;	"python" n f sg nom lower REMOVE:39
-;	"python" n f sg gen lower REMOVE:39
-;	"python" n f sg dat lower REMOVE:39
-;	"python" n f sg acc lower REMOVE:39
+	"python" n f sg nom lower
+	"python" n f sg gen lower
+	"python" n f sg dat lower
+	"python" n f sg acc lower
 "<->"
 	"-" guio
 "<Code>"
 	"Code" n m sg nom
 	"Code" n m sg dat
 	"Code" n m sg acc
-;	"code" n m sg nom lower REMOVE:39
-;	"code" n m sg dat lower REMOVE:39
-;	"code" n m sg acc lower REMOVE:39
+	"code" n m sg nom lower
+	"code" n m sg dat lower
+	"code" n m sg acc lower
 "<im>"
 	"der" det def m sg dat
 		"in" pr dat
-;	"der" det def nt sg dat REMOVE:59
-;		"in" pr dat
+	"der" det def nt sg dat
+		"in" pr dat
 "<Vergleich>"
+	"Vergleich" n m sg nom
 	"Vergleich" n m sg dat
-;	"vergleich" n m sg nom lower REMOVE:39
-;	"vergleich" n m sg dat lower REMOVE:39
-;	"vergleich" n m sg acc lower REMOVE:39
-;	"vergleichen" vblex imp sg REMOVE:43
-;	"Vergleich" n m sg nom REMOVE:61
-;	"Vergleich" n m sg acc REMOVE:61
+	"Vergleich" n m sg acc
+	"vergleich" n m sg nom lower
+	"vergleich" n m sg dat lower
+	"vergleich" n m sg acc lower
+	"vergleichen" vblex imp sg
 "<mit>"
 	"mit" pr dat
 "<anderssprachigem>"
@@ -114,9 +113,9 @@
 	"Code" n m sg nom
 	"Code" n m sg dat
 	"Code" n m sg acc
-;	"code" n m sg nom lower REMOVE:39
-;	"code" n m sg dat lower REMOVE:39
-;	"code" n m sg acc lower REMOVE:39
+	"code" n m sg nom lower
+	"code" n m sg dat lower
+	"code" n m sg acc lower
 "<teilweise>"
 	"teilweise" adv
 "<deutlich>"
@@ -124,52 +123,51 @@
 	"deutlich" adj sint attr
 	"deutlich" adj sint pred
 "<kürzer>"
+	"kurz" adj sint comp attr
 	"kurz" adj sint comp pred
-;	"kurz" adj sint comp attr REMOVE:99
 "<.>"
 	"." sent
-
 "<Zur>"
 	"der" det def f sg dat
 		"zu" pr dat
 "<besseren>"
+	"gut" adj sint comp m sg gen
+	"gut" adj sint comp m sg acc
+	"gut" adj sint comp nt sg gen
+	"gut" adj sint comp mf pl dat
+	"gut" adj sint comp f sg gen mix
 	"gut" adj sint comp f sg dat mix
-;	"gut" adj sint comp m sg gen REMOVE:72
-;	"gut" adj sint comp m sg acc REMOVE:72
-;	"gut" adj sint comp nt sg gen REMOVE:72
-;	"gut" adj sint comp f sg gen mix REMOVE:72
-;	"gut" adj sint comp m sg dat mix REMOVE:72
-;	"gut" adj sint comp nt sg dat mix REMOVE:72
-;	"gut" adj sint comp mf pl gen mix REMOVE:73
-;	"gut" adj sint comp mf pl acc mix REMOVE:73
-;	"gut" adj sint comp mf pl dat REMOVE:73
-;	"gut" adj sint comp mf pl nom mix REMOVE:73
+	"gut" adj sint comp m sg dat mix
+	"gut" adj sint comp nt sg dat mix
+	"gut" adj sint comp mf pl nom mix
+	"gut" adj sint comp mf pl gen mix
+	"gut" adj sint comp mf pl acc mix
 "<Lesbarkeit>"
 	"*Lesbarkeit"
 "<soll>"
+	"soll" n nt sg nom lower
+	"soll" n nt sg dat lower
+	"soll" n nt sg acc lower
+	"sollen" vbmod pri p1 sg
 	"sollen" vbmod pri p3 sg
-;	"soll" n nt sg nom lower REMOVE:39
-;	"soll" n nt sg dat lower REMOVE:39
-;	"soll" n nt sg acc lower REMOVE:39
-;	"sollen" vbmod pri p1 sg REMOVE:105
 "<auch>"
 	"auch" adv
 "<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
 	"der" det def m sg nom
-;	"der" rel m sg nom REMOVE:41
-;	"der" rel f sg dat REMOVE:41
-;	"der" prn dem m sg nom REMOVE:53
-;	"der" prn dem f sg dat REMOVE:53
-;	"der" det def f sg dat REMOVE:59
-;	"der" det def f sg gen REMOVE:59
-;	"der" det def mfn pl gen REMOVE:60
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
 "<Verzicht>"
 	"Verzicht" n m sg nom
-;	"verzicht" n m sg nom lower REMOVE:39
-;	"verzicht" n m sg dat lower REMOVE:39
-;	"verzicht" n m sg acc lower REMOVE:39
-;	"Verzicht" n m sg dat REMOVE:61
-;	"Verzicht" n m sg acc REMOVE:61
+	"Verzicht" n m sg dat
+	"Verzicht" n m sg acc
+	"verzicht" n m sg nom lower
+	"verzicht" n m sg dat lower
+	"verzicht" n m sg acc lower
 "<auf>"
 	"auf" pr dat
 	"auf" pr acc
@@ -184,84 +182,84 @@
 	"klammern" vblex ger nom
 	"klammern" vblex ger dat
 	"klammern" vblex ger acc
+	"klammern" vblex pri p1 pl
 	"klammern" vblex pri p3 pl
-;	"klammer" n f pl nom lower REMOVE:39
-;	"klammer" n f pl gen lower REMOVE:39
-;	"klammer" n f pl dat lower REMOVE:39
-;	"klammer" n f pl acc lower REMOVE:39
-;	"klammern" vblex pri p1 pl REMOVE:105
-;	"klammern" vblex prs p1 pl REMOVE:105
-;	"klammern" vblex prs p3 pl REMOVE:114
+	"klammern" vblex prs p1 pl
+	"klammern" vblex prs p3 pl
+	"klammer" n f pl nom lower
+	"klammer" n f pl gen lower
+	"klammer" n f pl dat lower
+	"klammer" n f pl acc lower
 "<zur>"
 	"der" det def f sg dat
 		"zu" pr dat
 "<Bildung>"
+	"Bildung" n f sg nom
+	"Bildung" n f sg gen
 	"Bildung" n f sg dat
-;	"bildung" n f sg nom lower REMOVE:39
-;	"bildung" n f sg gen lower REMOVE:39
-;	"bildung" n f sg dat lower REMOVE:39
-;	"bildung" n f sg acc lower REMOVE:39
-;	"Bildung" n f sg nom REMOVE:61
-;	"Bildung" n f sg gen REMOVE:61
-;	"Bildung" n f sg acc REMOVE:61
+	"Bildung" n f sg acc
+	"bildung" n f sg nom lower
+	"bildung" n f sg gen lower
+	"bildung" n f sg dat lower
+	"bildung" n f sg acc lower
 "<von>"
 	"von" pr dat
 "<Code>"
+	"Code" n m sg nom
 	"Code" n m sg dat
-;	"code" n m sg nom lower REMOVE:39
-;	"code" n m sg dat lower REMOVE:39
-;	"code" n m sg acc lower REMOVE:39
-;	"Code" n m sg nom REMOVE:86
-;	"Code" n m sg acc REMOVE:86
+	"Code" n m sg acc
+	"code" n m sg nom lower
+	"code" n m sg dat lower
+	"code" n m sg acc lower
 "<->"
 	"-" guio
 "<Blöcken>"
 	"Block" n m pl dat
-;	"block" n m pl dat lower REMOVE:39
+	"block" n m pl dat lower
 "<dienen>"
 	"dienen" vblex inf
 	"dienen" vblex ger nom
 	"dienen" vblex ger dat
 	"dienen" vblex ger acc
+	"dienen" vblex pri p1 pl
 	"dienen" vblex pri p3 pl
-;	"dienen" vblex pri p1 pl REMOVE:105
-;	"dienen" vblex prs p1 pl REMOVE:105
-;	"dienen" vblex prs p3 pl REMOVE:114
+	"dienen" vblex prs p1 pl
+	"dienen" vblex prs p3 pl
 "<,>"
 	"," cm
 "<da>"
 	"da" adv
 	"da" cnjsub
 "<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
 	"der" det def f sg nom
 	"der" det def f sg acc
-;	"der" rel f sg nom REMOVE:41
-;	"der" rel f sg acc REMOVE:41
-;	"der" rel mfn pl nom REMOVE:41
-;	"der" rel mfn pl acc REMOVE:41
-;	"der" prn dem f sg nom REMOVE:53
-;	"der" prn dem f sg acc REMOVE:53
-;	"der" prn dem mfn pl nom REMOVE:53
-;	"der" prn dem mfn pl acc REMOVE:53
-;	"der" det def mfn pl nom REMOVE:60
-;	"der" det def mfn pl acc REMOVE:60
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
 "<Programmstruktur>"
 	"struktur" n f sg nom lower
 		"Programm" n nt sg cmp
-	"struktur" n f sg nom lower
-		"programm" n nt sg lower cmp
-	"struktur" n f sg acc lower
-		"programm" n nt sg lower cmp
+	"struktur" n f sg gen lower
+		"Programm" n nt sg cmp
+	"struktur" n f sg dat lower
+		"Programm" n nt sg cmp
 	"struktur" n f sg acc lower
 		"Programm" n nt sg cmp
-;	"struktur" n f sg gen lower REMOVE:61
-;		"Programm" n nt sg cmp
-;	"struktur" n f sg dat lower REMOVE:61
-;		"Programm" n nt sg cmp
-;	"struktur" n f sg gen lower REMOVE:61
-;		"programm" n nt sg lower cmp
-;	"struktur" n f sg dat lower REMOVE:61
-;		"programm" n nt sg lower cmp
+	"struktur" n f sg nom lower
+		"programm" n nt sg lower cmp
+	"struktur" n f sg gen lower
+		"programm" n nt sg lower cmp
+	"struktur" n f sg dat lower
+		"programm" n nt sg lower cmp
+	"struktur" n f sg acc lower
+		"programm" n nt sg lower cmp
 "<durch>"
 	"durch" pr acc
 "<Einrückungen>"
@@ -275,10 +273,8 @@
 	"werden" vblex pri p3 sg
 "<.>"
 	"." sent
-
 "<.>"
 	"." sent
-
 
 
 "<Python>"
@@ -286,16 +282,16 @@
 	"Python" n f sg gen
 	"Python" n f sg dat
 	"Python" n f sg acc
-;	"python" n f sg nom lower REMOVE:39
-;	"python" n f sg gen lower REMOVE:39
-;	"python" n f sg dat lower REMOVE:39
-;	"python" n f sg acc lower REMOVE:39
+	"python" n f sg nom lower
+	"python" n f sg gen lower
+	"python" n f sg dat lower
+	"python" n f sg acc lower
 "<unterstützt>"
 	"unterstützen" vblex pp
+	"unterstützen" vblex imp pl
+	"unterstützen" vblex pri p2 sg
+	"unterstützen" vblex pri p2 pl
 	"unterstützen" vblex pri p3 sg
-;	"unterstützen" vblex pri p2 sg REMOVE:106
-;	"unterstützen" vblex pri p2 pl REMOVE:106
-;	"unterstützen" vblex imp pl REMOVE:127
 "<mehrere>"
 	"viel" adj sint comp f sg nom
 	"viel" adj sint comp f sg acc
@@ -316,25 +312,23 @@
 	"*z"
 "<.>"
 	"." sent
-
 "<B>"
 	"*B"
 "<.>"
 	"." sent
-
 "<die>"
-	"der" det def f sg nom
-	"der" det def f sg acc
-	"der" det def mfn pl nom
-	"der" det def mfn pl acc
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
 	"der" prn dem f sg nom
 	"der" prn dem f sg acc
 	"der" prn dem mfn pl nom
 	"der" prn dem mfn pl acc
-;	"der" rel f sg nom REMOVE:41
-;	"der" rel f sg acc REMOVE:41
-;	"der" rel mfn pl nom REMOVE:41
-;	"der" rel mfn pl acc REMOVE:41
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
 "<objektorientierte>"
 	"*objektorientierte"
 "<,>"
@@ -357,31 +351,30 @@
 "<und>"
 	"und" cnjcoo
 "<die>"
-	"der" det def f sg nom
-	"der" det def f sg acc
-	"der" prn dem mfn pl nom
-	"der" prn dem mfn pl acc
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
 	"der" prn dem f sg nom
 	"der" prn dem f sg acc
-;	"der" rel f sg nom REMOVE:41
-;	"der" rel f sg acc REMOVE:41
-;	"der" rel mfn pl nom REMOVE:41
-;	"der" rel mfn pl acc REMOVE:41
-;	"der" det def mfn pl nom REMOVE:70
-;	"der" det def mfn pl acc REMOVE:70
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
 "<funktionale>"
 	"funktional" adj f sg nom
 	"funktional" adj f sg acc
-;	"funktional" adj m sg nom sw REMOVE:72
-;	"funktional" adj nt sg nom sw REMOVE:72
-;	"funktional" adj nt sg acc sw REMOVE:72
-;	"funktional" adj mf pl nom st REMOVE:73
-;	"funktional" adj mf pl acc st REMOVE:73
+	"funktional" adj mf pl nom st
+	"funktional" adj mf pl acc st
+	"funktional" adj m sg nom sw
+	"funktional" adj nt sg nom sw
+	"funktional" adj nt sg acc sw
 "<Programmierung>"
 	"*Programmierung"
 "<.>"
 	"." sent
-
 "<Ferner>"
 	"ferner" adv
 	"fern" adj sint comp attr
@@ -391,10 +384,10 @@
 	"fern" adj sint f sg gen st
 	"fern" adj sint f sg dat st
 "<bietet>"
+	"bieten" vblex imp pl
+	"bieten" vblex pri p2 pl
 	"bieten" vblex pri p3 sg
-;	"bieten" vblex pri p2 pl REMOVE:106
-;	"bieten" vblex prs p2 pl REMOVE:106
-;	"bieten" vblex imp pl REMOVE:127
+	"bieten" vblex prs p2 pl
 "<es>"
 	"es" prn pers p3 nt sg nom
 	"es" prn pers p3 nt sg acc
@@ -406,16 +399,15 @@
 "<dynamische>"
 	"dynamisch" adj sint f sg nom
 	"dynamisch" adj sint f sg acc
-;	"dynamisch" adj sint m sg nom sw REMOVE:72
-;	"dynamisch" adj sint nt sg nom sw REMOVE:72
-;	"dynamisch" adj sint nt sg acc sw REMOVE:72
-;	"dynamisch" adj sint mf pl nom st REMOVE:73
-;	"dynamisch" adj sint mf pl acc st REMOVE:73
+	"dynamisch" adj sint mf pl nom st
+	"dynamisch" adj sint mf pl acc st
+	"dynamisch" adj sint m sg nom sw
+	"dynamisch" adj sint nt sg nom sw
+	"dynamisch" adj sint nt sg acc sw
 "<Typisierung>"
 	"*Typisierung"
 "<.>"
 	"." sent
-
 "<Wie>"
 	"wie" adv
 	"wie" preadv
@@ -424,36 +416,36 @@
 "<viele>"
 	"viel" adj sint f sg nom
 	"viel" adj sint f sg acc
-	"viel" adj sint nt sg nom sw
-	"viel" adj sint nt sg acc sw
+	"viele" det qnt f sg nom
+	"viele" det qnt f sg acc
 	"viele" det qnt mfn pl nom
 	"viele" det qnt mfn pl acc
 	"viel" adj sint mf pl nom st
 	"viel" adj sint mf pl acc st
 	"viel" adj sint m sg nom sw
-;	"viele" det qnt f sg nom REMOVE:64
-;	"viele" det qnt f sg acc REMOVE:64
+	"viel" adj sint nt sg nom sw
+	"viel" adj sint nt sg acc sw
 "<dynamische>"
+	"dynamisch" adj sint f sg nom
+	"dynamisch" adj sint f sg acc
 	"dynamisch" adj sint mf pl nom st
 	"dynamisch" adj sint mf pl acc st
-;	"dynamisch" adj sint f sg nom REMOVE:72
-;	"dynamisch" adj sint f sg acc REMOVE:72
-;	"dynamisch" adj sint m sg nom sw REMOVE:72
-;	"dynamisch" adj sint nt sg nom sw REMOVE:72
-;	"dynamisch" adj sint nt sg acc sw REMOVE:72
+	"dynamisch" adj sint m sg nom sw
+	"dynamisch" adj sint nt sg nom sw
+	"dynamisch" adj sint nt sg acc sw
 "<Sprachen>"
 	"Sprache" n f pl nom
-	"sprechen" vblex pii p3 pl
-	"sprechen" vblex sep fm pii p3 pl
+	"Sprache" n f pl gen
+	"Sprache" n f pl dat
 	"Sprache" n f pl acc
-;	"sprache" n f pl nom lower REMOVE:39
-;	"sprache" n f pl gen lower REMOVE:39
-;	"sprache" n f pl dat lower REMOVE:39
-;	"sprache" n f pl acc lower REMOVE:39
-;	"Sprache" n f pl gen REMOVE:67
-;	"Sprache" n f pl dat REMOVE:67
-;	"sprechen" vblex sep fm pii p1 pl REMOVE:105
-;	"sprechen" vblex pii p1 pl REMOVE:105
+	"sprache" n f pl nom lower
+	"sprache" n f pl gen lower
+	"sprache" n f pl dat lower
+	"sprache" n f pl acc lower
+	"sprechen" vblex pii p1 pl
+	"sprechen" vblex pii p3 pl
+	"sprechen" vblex sep fm pii p1 pl
+	"sprechen" vblex sep fm pii p3 pl
 "<wird>"
 	"werden" vaux pri p3 sg
 	"werden" vblex pri p3 sg
@@ -462,10 +454,10 @@
 	"Python" n f sg gen
 	"Python" n f sg dat
 	"Python" n f sg acc
-;	"python" n f sg nom lower REMOVE:39
-;	"python" n f sg gen lower REMOVE:39
-;	"python" n f sg dat lower REMOVE:39
-;	"python" n f sg acc lower REMOVE:39
+	"python" n f sg nom lower
+	"python" n f sg gen lower
+	"python" n f sg dat lower
+	"python" n f sg acc lower
 "<oft>"
 	"oft" adv
 	"oft" adj sint attr
@@ -477,59 +469,57 @@
 "<Skriptsprache>"
 	"sprache" n f sg nom lower
 		"Skript" n nt sg cmp
+	"sprache" n f sg gen lower
+		"Skript" n nt sg cmp
+	"sprache" n f sg dat lower
+		"Skript" n nt sg cmp
+	"sprache" n f sg acc lower
+		"Skript" n nt sg cmp
 	"sprache" n f sg nom lower
 		"skript" n nt sg lower cmp
-;	"sprache" n f sg gen lower REMOVE:86
-;		"Skript" n nt sg cmp
-;	"sprache" n f sg dat lower REMOVE:86
-;		"Skript" n nt sg cmp
-;	"sprache" n f sg acc lower REMOVE:86
-;		"Skript" n nt sg cmp
-;	"sprache" n f sg gen lower REMOVE:86
-;		"skript" n nt sg lower cmp
-;	"sprache" n f sg dat lower REMOVE:86
-;		"skript" n nt sg lower cmp
-;	"sprache" n f sg acc lower REMOVE:86
-;		"skript" n nt sg lower cmp
+	"sprache" n f sg gen lower
+		"skript" n nt sg lower cmp
+	"sprache" n f sg dat lower
+		"skript" n nt sg lower cmp
+	"sprache" n f sg acc lower
+		"skript" n nt sg lower cmp
 "<genutzt>"
 	"nutzen" vblex pp
 "<.>"
 	"." sent
-
 "<.>"
 	"." sent
 
 
-
 "<Die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
 	"der" det def f sg nom
 	"der" det def f sg acc
-;	"der" rel f sg nom REMOVE:41
-;	"der" rel f sg acc REMOVE:41
-;	"der" rel mfn pl nom REMOVE:41
-;	"der" rel mfn pl acc REMOVE:41
-;	"der" prn dem f sg nom REMOVE:53
-;	"der" prn dem f sg acc REMOVE:53
-;	"der" prn dem mfn pl nom REMOVE:53
-;	"der" prn dem mfn pl acc REMOVE:53
-;	"der" det def mfn pl nom REMOVE:60
-;	"der" det def mfn pl acc REMOVE:60
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
 "<Sprache>"
 	"Sprache" n f sg nom
+	"Sprache" n f sg gen
+	"Sprache" n f sg dat
 	"Sprache" n f sg acc
-;	"sprache" n f sg nom lower REMOVE:39
-;	"sprache" n f sg gen lower REMOVE:39
-;	"sprache" n f sg dat lower REMOVE:39
-;	"sprache" n f sg acc lower REMOVE:39
-;	"Sprache" n f sg gen REMOVE:61
-;	"Sprache" n f sg dat REMOVE:61
+	"sprache" n f sg nom lower
+	"sprache" n f sg gen lower
+	"sprache" n f sg dat lower
+	"sprache" n f sg acc lower
 "<hat>"
 	"haben" vbhaver pri p3 sg
 "<ein>"
+	"ein" num sg
+	"ein" det ind m sg nom
 	"ein" det ind nt sg nom
 	"ein" det ind nt sg acc
-;	"ein" det ind m sg nom REMOVE:69
-;	"ein" num sg REMOVE:117
 "<offenes>"
 	"offen" adj sint nt sg nom mix
 	"offen" adj sint nt sg acc mix
@@ -562,18 +552,18 @@
 "<durch>"
 	"durch" pr acc
 "<die>"
-	"der" det def f sg nom
-	"der" det def f sg acc
-	"der" det def mfn pl nom
-	"der" det def mfn pl acc
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
 	"der" prn dem f sg nom
 	"der" prn dem f sg acc
 	"der" prn dem mfn pl nom
 	"der" prn dem mfn pl acc
-;	"der" rel f sg nom REMOVE:41
-;	"der" rel f sg acc REMOVE:41
-;	"der" rel mfn pl nom REMOVE:41
-;	"der" rel mfn pl acc REMOVE:41
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
 "<gemeinnützige>"
 	"*gemeinnützige"
 "<Python>"
@@ -581,19 +571,19 @@
 	"Python" n f sg gen
 	"Python" n f sg dat
 	"Python" n f sg acc
-;	"python" n f sg nom lower REMOVE:39
-;	"python" n f sg gen lower REMOVE:39
-;	"python" n f sg dat lower REMOVE:39
-;	"python" n f sg acc lower REMOVE:39
+	"python" n f sg nom lower
+	"python" n f sg gen lower
+	"python" n f sg dat lower
+	"python" n f sg acc lower
 "<Software>"
 	"Software" n f sg nom
 	"Software" n f sg gen
 	"Software" n f sg dat
 	"Software" n f sg acc
-;	"software" n f sg nom lower REMOVE:39
-;	"software" n f sg gen lower REMOVE:39
-;	"software" n f sg dat lower REMOVE:39
-;	"software" n f sg acc lower REMOVE:39
+	"software" n f sg nom lower
+	"software" n f sg gen lower
+	"software" n f sg dat lower
+	"software" n f sg acc lower
 "<Foundation>"
 	"*Foundation"
 "<,>"
@@ -616,65 +606,65 @@
 "<facto>"
 	"facto" adv
 "<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
 	"der" det def f sg nom
 	"der" det def f sg acc
-;	"der" rel f sg nom REMOVE:41
-;	"der" rel f sg acc REMOVE:41
-;	"der" rel mfn pl nom REMOVE:41
-;	"der" rel mfn pl acc REMOVE:41
-;	"der" prn dem f sg nom REMOVE:53
-;	"der" prn dem f sg acc REMOVE:53
-;	"der" prn dem mfn pl nom REMOVE:53
-;	"der" prn dem mfn pl acc REMOVE:53
-;	"der" det def mfn pl nom REMOVE:60
-;	"der" det def mfn pl acc REMOVE:60
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
 "<Definition>"
 	"Definition" n f sg nom
+	"Definition" n f sg gen
+	"Definition" n f sg dat
 	"Definition" n f sg acc
-;	"definition" n f sg nom lower REMOVE:39
-;	"definition" n f sg gen lower REMOVE:39
-;	"definition" n f sg dat lower REMOVE:39
-;	"definition" n f sg acc lower REMOVE:39
-;	"Definition" n f sg gen REMOVE:61
-;	"Definition" n f sg dat REMOVE:61
+	"definition" n f sg nom lower
+	"definition" n f sg gen lower
+	"definition" n f sg dat lower
+	"definition" n f sg acc lower
 "<der>"
-	"der" det def f sg dat
-	"der" det def f sg gen
-;	"der" rel m sg nom REMOVE:41
-;	"der" rel f sg dat REMOVE:41
-;	"der" prn dem m sg nom REMOVE:53
-;	"der" prn dem f sg dat REMOVE:53
-;	"der" det def m sg nom REMOVE:59
-;	"der" det def mfn pl gen REMOVE:60
-"<Sprache>"
-	"Sprache" n f sg dat
-	"Sprache" n f sg gen
-;	"sprache" n f sg nom lower REMOVE:39
-;	"sprache" n f sg gen lower REMOVE:39
-;	"sprache" n f sg dat lower REMOVE:39
-;	"sprache" n f sg acc lower REMOVE:39
-;	"Sprache" n f sg nom REMOVE:61
-;	"Sprache" n f sg acc REMOVE:61
-"<in>"
-	"in" pr dat
-	"in" pr acc
-"<der>"
-	"der" det def f sg dat
-	"der" det def mfn pl gen
+	"der" rel m sg nom
+	"der" rel f sg dat
 	"der" prn dem m sg nom
 	"der" prn dem f sg dat
 	"der" det def m sg nom
 	"der" det def f sg gen
-;	"der" rel m sg nom REMOVE:41
-;	"der" rel f sg dat REMOVE:41
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Sprache>"
+	"Sprache" n f sg nom
+	"Sprache" n f sg gen
+	"Sprache" n f sg dat
+	"Sprache" n f sg acc
+	"sprache" n f sg nom lower
+	"sprache" n f sg gen lower
+	"sprache" n f sg dat lower
+	"sprache" n f sg acc lower
+"<in>"
+	"in" pr dat
+	"in" pr acc
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
 "<Referenzumsetzung>"
 	"*Referenzumsetzung"
 "<CPython>"
 	"*CPython"
 "<pflegt>"
+	"pflegen" vblex imp pl
+	"pflegen" vblex pri p2 pl
 	"pflegen" vblex pri p3 sg
-;	"pflegen" vblex pri p2 pl REMOVE:106
-;	"pflegen" vblex imp pl REMOVE:127
 "<,>"
 	"," cm
 "<gestützt>"
@@ -684,10 +674,8 @@
 	"werden" vblex pri p3 sg
 "<.>"
 	"." sent
-
 "<.>"
 	"." sent
-
 
 
 "<Python>"
@@ -695,13 +683,13 @@
 	"Python" n f sg gen
 	"Python" n f sg dat
 	"Python" n f sg acc
-;	"python" n f sg nom lower REMOVE:39
-;	"python" n f sg gen lower REMOVE:39
-;	"python" n f sg dat lower REMOVE:39
-;	"python" n f sg acc lower REMOVE:39
+	"python" n f sg nom lower
+	"python" n f sg gen lower
+	"python" n f sg dat lower
+	"python" n f sg acc lower
 "<gilt>"
+	"gelten" vblex imp sg
 	"gelten" vblex pri p3 sg
-;	"gelten" vblex imp sg REMOVE:127
 "<als>"
 	"als" adv
 	"als" cnjadv
@@ -720,10 +708,10 @@
 	"Sprache" n f sg gen
 	"Sprache" n f sg dat
 	"Sprache" n f sg acc
-;	"sprache" n f sg nom lower REMOVE:39
-;	"sprache" n f sg gen lower REMOVE:39
-;	"sprache" n f sg dat lower REMOVE:39
-;	"sprache" n f sg acc lower REMOVE:39
+	"sprache" n f sg nom lower
+	"sprache" n f sg gen lower
+	"sprache" n f sg dat lower
+	"sprache" n f sg acc lower
 "<,>"
 	"," cm
 "<da>"
@@ -749,11 +737,11 @@
 "<klare>"
 	"klar" adj sint f sg nom
 	"klar" adj sint f sg acc
-;	"klar" adj sint m sg nom sw REMOVE:72
-;	"klar" adj sint nt sg nom sw REMOVE:72
-;	"klar" adj sint nt sg acc sw REMOVE:72
-;	"klar" adj sint mf pl nom st REMOVE:73
-;	"klar" adj sint mf pl acc st REMOVE:73
+	"klar" adj sint mf pl nom st
+	"klar" adj sint mf pl acc st
+	"klar" adj sint m sg nom sw
+	"klar" adj sint nt sg nom sw
+	"klar" adj sint nt sg acc sw
 "<und>"
 	"und" cnjcoo
 "<übersichtliche>"
@@ -768,12 +756,11 @@
 	"*Syntax"
 "<verfügt>"
 	"verfügen" vblex pp
+	"verfügen" vblex imp pl
+	"verfügen" vblex pri p2 pl
 	"verfügen" vblex pri p3 sg
-;	"verfügen" vblex pri p2 pl REMOVE:106
-;	"verfügen" vblex imp pl REMOVE:127
 "<.>"
 	"." sent
-
 "<Ferner>"
 	"ferner" adv
 	"fern" adj sint comp attr
@@ -783,10 +770,10 @@
 	"fern" adj sint f sg gen st
 	"fern" adj sint f sg dat st
 "<besitzt>"
+	"besitzen" vblex imp pl
+	"besitzen" vblex pri p2 sg
+	"besitzen" vblex pri p2 pl
 	"besitzen" vblex pri p3 sg
-;	"besitzen" vblex pri p2 sg REMOVE:106
-;	"besitzen" vblex pri p2 pl REMOVE:106
-;	"besitzen" vblex imp pl REMOVE:127
 "<sie>"
 	"sie" prn pers p3 mf pl nom
 	"sie" prn pers p3 mf pl acc
@@ -804,32 +791,32 @@
 "<umfangreiche>"
 	"umfangreich" adj sint f sg nom
 	"umfangreich" adj sint f sg acc
-;	"umfangreich" adj sint m sg nom sw REMOVE:72
-;	"umfangreich" adj sint nt sg nom sw REMOVE:72
-;	"umfangreich" adj sint nt sg acc sw REMOVE:72
-;	"umfangreich" adj sint mf pl nom st REMOVE:73
-;	"umfangreich" adj sint mf pl acc st REMOVE:73
+	"umfangreich" adj sint mf pl nom st
+	"umfangreich" adj sint mf pl acc st
+	"umfangreich" adj sint m sg nom sw
+	"umfangreich" adj sint nt sg nom sw
+	"umfangreich" adj sint nt sg acc sw
 "<Standardbibliothek>"
 	"*Standardbibliothek"
 "<und>"
 	"und" cnjcoo
 "<zahlreiche>"
+	"zahlreich" adj sint f sg nom
+	"zahlreich" adj sint f sg acc
 	"zahlreich" adj sint mf pl nom st
 	"zahlreich" adj sint mf pl acc st
-;	"zahlreich" adj sint f sg nom REMOVE:80
-;	"zahlreich" adj sint f sg acc REMOVE:80
-;	"zahlreich" adj sint m sg nom sw REMOVE:80
-;	"zahlreich" adj sint nt sg nom sw REMOVE:80
-;	"zahlreich" adj sint nt sg acc sw REMOVE:80
+	"zahlreich" adj sint m sg nom sw
+	"zahlreich" adj sint nt sg nom sw
+	"zahlreich" adj sint nt sg acc sw
 "<Pakete>"
-	"Paket" n nt pl acc
+	"Paket" n nt sg dat
 	"Paket" n nt pl nom
-;	"paket" n nt sg dat lower REMOVE:39
-;	"paket" n nt pl nom lower REMOVE:39
-;	"paket" n nt pl gen lower REMOVE:39
-;	"paket" n nt pl acc lower REMOVE:39
-;	"Paket" n nt sg dat REMOVE:82
-;	"Paket" n nt pl gen REMOVE:83
+	"Paket" n nt pl gen
+	"Paket" n nt pl acc
+	"paket" n nt sg dat lower
+	"paket" n nt pl nom lower
+	"paket" n nt pl gen lower
+	"paket" n nt pl acc lower
 "<im>"
 	"der" det def m sg dat
 		"in" pr dat
@@ -840,25 +827,23 @@
 	"Python" n f sg gen
 	"Python" n f sg dat
 	"Python" n f sg acc
-;	"python" n f sg nom lower REMOVE:39
-;	"python" n f sg gen lower REMOVE:39
-;	"python" n f sg dat lower REMOVE:39
-;	"python" n f sg acc lower REMOVE:39
+	"python" n f sg nom lower
+	"python" n f sg gen lower
+	"python" n f sg dat lower
+	"python" n f sg acc lower
 "<Package>"
 	"*Package"
 "<Index>"
 	"Index" n m sg nom
 	"Index" n m sg dat
 	"Index" n m sg acc
-;	"index" n m sg nom lower REMOVE:39
-;	"index" n m sg dat lower REMOVE:39
-;	"index" n m sg acc lower REMOVE:39
+	"index" n m sg nom lower
+	"index" n m sg dat lower
+	"index" n m sg acc lower
 "<.>"
 	"." sent
-
 "<.>"
 	"." sent
-
 
 
 "<Entwicklungsgeschichte>"
@@ -882,7 +867,6 @@
 	"." sent
 
 
-
 "<Guido>"
 	"*Guido"
 "<van>"
@@ -896,81 +880,80 @@
 "<der>"
 	"der" rel m sg nom
 	"der" rel f sg dat
-	"der" det def m sg nom
-	"der" det def mfn pl gen
-;	"der" prn dem m sg nom REMOVE:53
-;	"der" prn dem f sg dat REMOVE:53
-;	"der" det def f sg dat REMOVE:59
-;	"der" det def f sg gen REMOVE:59
-"<Entwickler>"
-	"Entwickler" n m sg nom
-	"Entwickler" n m pl gen
-;	"entwickler" n m sg nom lower REMOVE:39
-;	"entwickler" n m sg dat lower REMOVE:39
-;	"entwickler" n m sg acc lower REMOVE:39
-;	"entwickler" n m pl nom lower REMOVE:39
-;	"entwickler" n m pl gen lower REMOVE:39
-;	"entwickler" n m pl acc lower REMOVE:39
-;	"Entwickler" n m sg dat REMOVE:61
-;	"Entwickler" n m sg acc REMOVE:61
-;	"Entwickler" n m pl acc REMOVE:62
-;	"Entwickler" n m pl nom REMOVE:62
-"<von>"
-	"von" pr dat
-"<Python>"
-	"Python" n f sg dat
-;	"python" n f sg nom lower REMOVE:39
-;	"python" n f sg gen lower REMOVE:39
-;	"python" n f sg dat lower REMOVE:39
-;	"python" n f sg acc lower REMOVE:39
-;	"Python" n f sg nom REMOVE:86
-;	"Python" n f sg gen REMOVE:86
-;	"Python" n f sg acc REMOVE:86
-
-
-"<Die>"
-	"der" det def f sg nom
-	"der" det def f sg acc
-;	"der" rel f sg nom REMOVE:41
-;	"der" rel f sg acc REMOVE:41
-;	"der" rel mfn pl nom REMOVE:41
-;	"der" rel mfn pl acc REMOVE:41
-;	"der" prn dem f sg nom REMOVE:53
-;	"der" prn dem f sg acc REMOVE:53
-;	"der" prn dem mfn pl nom REMOVE:53
-;	"der" prn dem mfn pl acc REMOVE:53
-;	"der" det def mfn pl nom REMOVE:60
-;	"der" det def mfn pl acc REMOVE:60
-"<Sprache>"
-	"Sprache" n f sg nom
-	"Sprache" n f sg acc
-;	"sprache" n f sg nom lower REMOVE:39
-;	"sprache" n f sg gen lower REMOVE:39
-;	"sprache" n f sg dat lower REMOVE:39
-;	"sprache" n f sg acc lower REMOVE:39
-;	"Sprache" n f sg gen REMOVE:61
-;	"Sprache" n f sg dat REMOVE:61
-"<wurde>"
-	"werden" vblex pii p3 sg
-	"werden" vaux pii p3 sg
-;	"werden" vaux pii p1 sg REMOVE:105
-;	"werden" vblex pii p1 sg REMOVE:105
-"<Anfang>"
-	"Anfang" n m sg nom
-	"Anfang" n m sg dat
-	"Anfang" n m sg acc
-;	"anfang" n m sg nom lower REMOVE:39
-;	"anfang" n m sg dat lower REMOVE:39
-;	"anfang" n m sg acc lower REMOVE:39
-"<der>"
-	"der" det def f sg dat
-	"der" det def mfn pl gen
 	"der" prn dem m sg nom
 	"der" prn dem f sg dat
 	"der" det def m sg nom
 	"der" det def f sg gen
-;	"der" rel m sg nom REMOVE:41
-;	"der" rel f sg dat REMOVE:41
+	"der" det def f sg dat
+	"der" det def mfn pl gen
+"<Entwickler>"
+	"Entwickler" n m sg nom
+	"Entwickler" n m sg dat
+	"Entwickler" n m sg acc
+	"Entwickler" n m pl nom
+	"Entwickler" n m pl gen
+	"Entwickler" n m pl acc
+	"entwickler" n m sg nom lower
+	"entwickler" n m sg dat lower
+	"entwickler" n m sg acc lower
+	"entwickler" n m pl nom lower
+	"entwickler" n m pl gen lower
+	"entwickler" n m pl acc lower
+"<von>"
+	"von" pr dat
+"<Python>"
+	"Python" n f sg nom
+	"Python" n f sg gen
+	"Python" n f sg dat
+	"Python" n f sg acc
+	"python" n f sg nom lower
+	"python" n f sg gen lower
+	"python" n f sg dat lower
+	"python" n f sg acc lower
+
+"<Die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
+"<Sprache>"
+	"Sprache" n f sg nom
+	"Sprache" n f sg gen
+	"Sprache" n f sg dat
+	"Sprache" n f sg acc
+	"sprache" n f sg nom lower
+	"sprache" n f sg gen lower
+	"sprache" n f sg dat lower
+	"sprache" n f sg acc lower
+"<wurde>"
+	"werden" vaux pii p1 sg
+	"werden" vaux pii p3 sg
+	"werden" vblex pii p1 sg
+	"werden" vblex pii p3 sg
+"<Anfang>"
+	"Anfang" n m sg nom
+	"Anfang" n m sg dat
+	"Anfang" n m sg acc
+	"anfang" n m sg nom lower
+	"anfang" n m sg dat lower
+	"anfang" n m sg acc lower
+"<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
 "<1990>"
 	"1990" num
 "<er>"
@@ -981,10 +964,10 @@
 	"Jahr" n nt pl nom
 	"Jahr" n nt pl gen
 	"Jahr" n nt pl acc
-;	"jahr" n nt sg dat lower REMOVE:39
-;	"jahr" n nt pl nom lower REMOVE:39
-;	"jahr" n nt pl gen lower REMOVE:39
-;	"jahr" n nt pl acc lower REMOVE:39
+	"jahr" n nt sg dat lower
+	"jahr" n nt pl nom lower
+	"jahr" n nt pl gen lower
+	"jahr" n nt pl acc lower
 "<von>"
 	"von" pr dat
 "<Guido>"
@@ -1020,32 +1003,32 @@
 	"als" pr nom
 "<Nachfolger>"
 	"Nachfolger" n m sg nom
+	"Nachfolger" n m sg dat
+	"Nachfolger" n m sg acc
 	"Nachfolger" n m pl nom
-;	"nachfolger" n m sg nom lower REMOVE:39
-;	"nachfolger" n m sg dat lower REMOVE:39
-;	"nachfolger" n m sg acc lower REMOVE:39
-;	"nachfolger" n m pl nom lower REMOVE:39
-;	"nachfolger" n m pl gen lower REMOVE:39
-;	"nachfolger" n m pl acc lower REMOVE:39
-;	"Nachfolger" n m sg dat REMOVE:86
-;	"Nachfolger" n m sg acc REMOVE:86
-;	"Nachfolger" n m pl gen REMOVE:86
-;	"Nachfolger" n m pl acc REMOVE:86
+	"Nachfolger" n m pl gen
+	"Nachfolger" n m pl acc
+	"nachfolger" n m sg nom lower
+	"nachfolger" n m sg dat lower
+	"nachfolger" n m sg acc lower
+	"nachfolger" n m pl nom lower
+	"nachfolger" n m pl gen lower
+	"nachfolger" n m pl acc lower
 "<für>"
 	"für" pr acc
 "<die>"
-	"der" det def f sg nom
-	"der" det def f sg acc
-	"der" det def mfn pl nom
-	"der" det def mfn pl acc
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
 	"der" prn dem f sg nom
 	"der" prn dem f sg acc
 	"der" prn dem mfn pl nom
 	"der" prn dem mfn pl acc
-;	"der" rel f sg nom REMOVE:41
-;	"der" rel f sg acc REMOVE:41
-;	"der" rel mfn pl nom REMOVE:41
-;	"der" rel mfn pl acc REMOVE:41
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
 "<Programmier>"
 	"programmieren" vblex imp sg
 "<->"
@@ -1057,83 +1040,81 @@
 	"Abc" n nt sg gen
 	"Abc" n nt sg dat
 	"Abc" n nt sg acc
-;	"abc" n nt sg nom lower REMOVE:39
-;	"abc" n nt sg gen lower REMOVE:39
-;	"abc" n nt sg dat lower REMOVE:39
-;	"abc" n nt sg acc lower REMOVE:39
+	"abc" n nt sg nom lower
+	"abc" n nt sg gen lower
+	"abc" n nt sg dat lower
+	"abc" n nt sg acc lower
 "<entwickelt>"
 	"entwickeln" vblex pp
+	"entwickeln" vblex imp pl
+	"entwickeln" vblex pri p2 pl
 	"entwickeln" vblex pri p3 sg
-;	"entwickeln" vblex pri p2 pl REMOVE:106
-;	"entwickeln" vblex prs p2 pl REMOVE:106
-;	"entwickeln" vblex imp pl REMOVE:127
+	"entwickeln" vblex prs p2 pl
 "<und>"
 	"und" cnjcoo
 "<war>"
+	"sein" vbser pii p1 sg
 	"sein" vbser pii p3 sg
-;	"sein" vbser pii p1 sg REMOVE:105
 "<ursprünglich>"
 	"ursprünglich" adj sint attr
 	"ursprünglich" adj sint pred
 "<für>"
 	"für" pr acc
 "<das>"
-	"der" det def nt sg nom
-	"der" det def nt sg acc
+	"der" rel nt sg nom
+	"der" rel nt sg acc
 	"der" prn dem nt sg nom
 	"der" prn dem nt sg acc
-;	"der" rel nt sg nom REMOVE:41
-;	"der" rel nt sg acc REMOVE:41
+	"der" det def nt sg nom
+	"der" det def nt sg acc
 "<verteilte>"
-	"verteilen" vblex pis p3 sg
+	"verteilen" vblex pii p1 sg
 	"verteilen" vblex pii p3 sg
-;	"verteilen" vblex pii p1 sg REMOVE:105
-;	"verteilen" vblex pis p1 sg REMOVE:105
+	"verteilen" vblex pis p1 sg
+	"verteilen" vblex pis p3 sg
 "<Betriebssystem>"
 	"Betriebssystem" n nt sg nom
 	"Betriebssystem" n nt sg dat
 	"Betriebssystem" n nt sg acc
-;	"betriebssystem" n nt sg nom lower REMOVE:39
-;	"betriebssystem" n nt sg dat lower REMOVE:39
-;	"betriebssystem" n nt sg acc lower REMOVE:39
+	"betriebssystem" n nt sg nom lower
+	"betriebssystem" n nt sg dat lower
+	"betriebssystem" n nt sg acc lower
 "<Amoeba>"
 	"*Amoeba"
 "<gedacht>"
 	"gedacht" adv
 	"denken" vblex pp
 	"dachen" vblex pp
-	"gedenken" vblex pii p3 sg
+	"gedacht" adj sint attr
 	"gedacht" adj sint pred
 	"gedenken" vblex pp
-;	"gedacht" adj sint attr REMOVE:99
-;	"gedenken" vblex pii p1 sg REMOVE:105
+	"gedenken" vblex pii p1 sg
+	"gedenken" vblex pii p3 sg
 "<.>"
 	"." sent
-
 "<.>"
 	"." sent
-
 
 
 "<Der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
 	"der" det def m sg nom
-;	"der" rel m sg nom REMOVE:41
-;	"der" rel f sg dat REMOVE:41
-;	"der" prn dem m sg nom REMOVE:53
-;	"der" prn dem f sg dat REMOVE:53
-;	"der" det def f sg dat REMOVE:59
-;	"der" det def f sg gen REMOVE:59
-;	"der" det def mfn pl gen REMOVE:60
+	"der" det def f sg gen
+	"der" det def f sg dat
+	"der" det def mfn pl gen
 "<Name>"
 	"Name" n m sg nom
-;	"name" n m sg nom lower REMOVE:39
+	"name" n m sg nom lower
 "<geht>"
+	"gehen" vblex imp pl
+	"gehen" vblex pri p2 pl
 	"gehen" vblex pri p3 sg
+	"gehen" vblex sep imp pl
+	"gehen" vblex sep fm pri p2 pl
 	"gehen" vblex sep fm pri p3 sg
-;	"gehen" vblex pri p2 pl REMOVE:106
-;	"gehen" vblex sep fm pri p2 pl REMOVE:106
-;	"gehen" vblex imp pl REMOVE:127
-;	"gehen" vblex sep imp pl REMOVE:127
 "<nicht>"
 	"nicht" adv
 "<etwa>"
@@ -1146,51 +1127,51 @@
 	"wie" cnjadv
 	"wie" pr nom
 "<das>"
+	"der" rel nt sg nom
+	"der" rel nt sg acc
+	"der" prn dem nt sg nom
+	"der" prn dem nt sg acc
 	"der" det def nt sg nom
-;	"der" rel nt sg nom REMOVE:41
-;	"der" rel nt sg acc REMOVE:41
-;	"der" prn dem nt sg nom REMOVE:53
-;	"der" prn dem nt sg acc REMOVE:53
-;	"der" det def nt sg acc REMOVE:59
+	"der" det def nt sg acc
 "<Logo>"
 	"Logo" n nt sg nom
-;	"logo" n nt sg nom lower REMOVE:39
-;	"logo" n nt sg dat lower REMOVE:39
-;	"logo" n nt sg acc lower REMOVE:39
-;	"Logo" n nt sg dat REMOVE:61
-;	"Logo" n nt sg acc REMOVE:89
+	"Logo" n nt sg dat
+	"Logo" n nt sg acc
+	"logo" n nt sg nom lower
+	"logo" n nt sg dat lower
+	"logo" n nt sg acc lower
 "<vermuten>"
 	"vermuten" vblex inf
 	"vermuten" vblex ger nom
 	"vermuten" vblex ger dat
 	"vermuten" vblex ger acc
+	"vermuten" vblex pri p1 pl
 	"vermuten" vblex pri p3 pl
-;	"vermuten" vblex pri p1 pl REMOVE:105
-;	"vermuten" vblex prs p1 pl REMOVE:105
-;	"vermuten" vblex prs p3 pl REMOVE:114
+	"vermuten" vblex prs p1 pl
+	"vermuten" vblex prs p3 pl
 "<ließe>"
-	"lassen" vblex sep fm pis p3 sg
+	"lassen" vblex pis p1 sg
 	"lassen" vblex pis p3 sg
-;	"lassen" vblex pis p1 sg REMOVE:105
-;	"lassen" vblex sep fm pis p1 sg REMOVE:105
+	"lassen" vblex sep fm pis p1 sg
+	"lassen" vblex sep fm pis p3 sg
 "<)>"
 	")" rpar
 "<auf>"
 	"auf" pr dat
 	"auf" pr acc
 "<die>"
-	"der" det def f sg nom
-	"der" det def f sg acc
-	"der" det def mfn pl nom
-	"der" det def mfn pl acc
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
 	"der" prn dem f sg nom
 	"der" prn dem f sg acc
 	"der" prn dem mfn pl nom
 	"der" prn dem mfn pl acc
-;	"der" rel f sg nom REMOVE:41
-;	"der" rel f sg acc REMOVE:41
-;	"der" rel mfn pl nom REMOVE:41
-;	"der" rel mfn pl acc REMOVE:41
+	"der" det def f sg nom
+	"der" det def f sg acc
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
 "<gleichnamige>"
 	"*gleichnamige"
 "<Schlangengattung>"
@@ -1202,10 +1183,10 @@
 	"Python" n f pl gen
 	"Python" n f pl dat
 	"Python" n f pl acc
-;	"python" n f pl nom lower REMOVE:39
-;	"python" n f pl gen lower REMOVE:39
-;	"python" n f pl dat lower REMOVE:39
-;	"python" n f pl acc lower REMOVE:39
+	"python" n f pl nom lower
+	"python" n f pl gen lower
+	"python" n f pl dat lower
+	"python" n f pl acc lower
 "<)>"
 	")" rpar
 "<zurück>"
@@ -1219,13 +1200,13 @@
 	"sondern" vblex ger nom
 	"sondern" vblex ger dat
 	"sondern" vblex ger acc
+	"sondern" vblex pri p1 pl
 	"sondern" vblex pri p3 pl
-;	"sondern" vblex pri p1 pl REMOVE:105
-;	"sondern" vblex prs p1 pl REMOVE:105
-;	"sondern" vblex prs p3 pl REMOVE:114
+	"sondern" vblex prs p1 pl
+	"sondern" vblex prs p3 pl
 "<bezog>"
+	"beziehen" vblex pii p1 sg
 	"beziehen" vblex pii p3 sg
-;	"beziehen" vblex pii p1 sg REMOVE:105
 "<sich>"
 	"sich" prn ref p3 mf sp
 "<ursprünglich>"
@@ -1235,45 +1216,45 @@
 	"auf" pr dat
 	"auf" pr acc
 "<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
 	"der" det def f sg nom
 	"der" det def f sg acc
-;	"der" rel f sg nom REMOVE:41
-;	"der" rel f sg acc REMOVE:41
-;	"der" rel mfn pl nom REMOVE:41
-;	"der" rel mfn pl acc REMOVE:41
-;	"der" det def mfn pl nom REMOVE:65
-;	"der" det def mfn pl acc REMOVE:65
-;	"der" prn dem mfn pl nom REMOVE:95
-;	"der" prn dem mfn pl acc REMOVE:95
-;	"der" prn dem f sg nom REMOVE:95
-;	"der" prn dem f sg acc REMOVE:95
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
 "<englische>"
+	"englisch" n nt sg nom lower
+	"englisch" n nt sg acc lower
 	"englisch" adj sint f sg nom
 	"englisch" adj sint f sg acc
-;	"englisch" n nt sg nom lower REMOVE:39
-;	"englisch" n nt sg acc lower REMOVE:39
-;	"englisch" adj sint nt sg nom sw REMOVE:72
-;	"englisch" adj sint nt sg acc sw REMOVE:72
-;	"englisch" adj sint m sg nom sw REMOVE:72
-;	"englisch" adj sint mf pl nom st REMOVE:73
-;	"englisch" adj sint mf pl acc st REMOVE:73
+	"englisch" adj sint mf pl nom st
+	"englisch" adj sint mf pl acc st
+	"englisch" adj sint m sg nom sw
+	"englisch" adj sint nt sg nom sw
+	"englisch" adj sint nt sg acc sw
 "<Komikertruppe>"
 	"truppe" n f sg nom lower
 		"Komiker" n m sg cmp
-	"truppe" n f sg nom lower
-		"komiker" n m sg lower cmp
-	"truppe" n f sg acc lower
-		"komiker" n m sg lower cmp
+	"truppe" n f sg gen lower
+		"Komiker" n m sg cmp
+	"truppe" n f sg dat lower
+		"Komiker" n m sg cmp
 	"truppe" n f sg acc lower
 		"Komiker" n m sg cmp
-;	"truppe" n f sg gen lower REMOVE:66
-;		"Komiker" n m sg cmp
-;	"truppe" n f sg dat lower REMOVE:66
-;		"Komiker" n m sg cmp
-;	"truppe" n f sg gen lower REMOVE:66
-;		"komiker" n m sg lower cmp
-;	"truppe" n f sg dat lower REMOVE:66
-;		"komiker" n m sg lower cmp
+	"truppe" n f sg nom lower
+		"komiker" n m sg lower cmp
+	"truppe" n f sg gen lower
+		"komiker" n m sg lower cmp
+	"truppe" n f sg dat lower
+		"komiker" n m sg lower cmp
+	"truppe" n f sg acc lower
+		"komiker" n m sg lower cmp
 "<Monty>"
 	"*Monty"
 "<Python>"
@@ -1281,43 +1262,42 @@
 	"Python" n f sg gen
 	"Python" n f sg dat
 	"Python" n f sg acc
-;	"python" n f sg nom lower REMOVE:39
-;	"python" n f sg gen lower REMOVE:39
-;	"python" n f sg dat lower REMOVE:39
-;	"python" n f sg acc lower REMOVE:39
+	"python" n f sg nom lower
+	"python" n f sg gen lower
+	"python" n f sg dat lower
+	"python" n f sg acc lower
 "<.>"
 	"." sent
-
 "<In>"
 	"in" pr dat
-;	"in" pr acc REMOVE:88
+	"in" pr acc
 "<der>"
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
+	"der" det def f sg gen
 	"der" det def f sg dat
-;	"der" rel m sg nom REMOVE:41
-;	"der" rel f sg dat REMOVE:41
-;	"der" prn dem m sg nom REMOVE:53
-;	"der" prn dem f sg dat REMOVE:53
-;	"der" det def m sg nom REMOVE:59
-;	"der" det def mfn pl gen REMOVE:60
-;	"der" det def f sg gen REMOVE:59
+	"der" det def mfn pl gen
 "<Dokumentation>"
+	"Dokumentation" n f sg nom
+	"Dokumentation" n f sg gen
 	"Dokumentation" n f sg dat
-;	"dokumentation" n f sg nom lower REMOVE:39
-;	"dokumentation" n f sg gen lower REMOVE:39
-;	"dokumentation" n f sg dat lower REMOVE:39
-;	"dokumentation" n f sg acc lower REMOVE:39
-;	"Dokumentation" n f sg nom REMOVE:61
-;	"Dokumentation" n f sg acc REMOVE:61
-;	"Dokumentation" n f sg gen REMOVE:89
+	"Dokumentation" n f sg acc
+	"dokumentation" n f sg nom lower
+	"dokumentation" n f sg gen lower
+	"dokumentation" n f sg dat lower
+	"dokumentation" n f sg acc lower
 "<finden>"
 	"finden" vblex inf
 	"finden" vblex ger nom
 	"finden" vblex ger dat
 	"finden" vblex ger acc
+	"finden" vblex pri p1 pl
 	"finden" vblex pri p3 pl
-;	"finden" vblex pri p1 pl REMOVE:105
-;	"finden" vblex prs p1 pl REMOVE:105
-;	"finden" vblex prs p3 pl REMOVE:114
+	"finden" vblex prs p1 pl
+	"finden" vblex prs p3 pl
 "<sich>"
 	"sich" prn ref p3 mf sp
 "<daher>"
@@ -1326,113 +1306,112 @@
 "<auch>"
 	"auch" adv
 "<einige>"
-	"einig" adj mf pl acc st
-	"einigen" vblex prs p3 sg
+	"einig" adj f sg nom
+	"einig" adj f sg acc
 	"einig" adj mf pl nom st
-;	"einig" adj f sg nom REMOVE:80
-;	"einig" adj f sg acc REMOVE:80
-;	"einig" adj m sg nom sw REMOVE:80
-;	"einig" adj nt sg nom sw REMOVE:80
-;	"einig" adj nt sg acc sw REMOVE:80
-;	"einigen" vblex prs p1 sg REMOVE:105
-;	"einigen" vblex pri p1 sg REMOVE:105
+	"einig" adj mf pl acc st
+	"einig" adj m sg nom sw
+	"einig" adj nt sg nom sw
+	"einig" adj nt sg acc sw
+	"einigen" vblex pri p1 sg
+	"einigen" vblex prs p1 sg
+	"einigen" vblex prs p3 sg
 "<Anspielungen>"
 	"Anspielung" n f pl nom
+	"Anspielung" n f pl gen
+	"Anspielung" n f pl dat
 	"Anspielung" n f pl acc
-;	"anspielung" n f pl nom lower REMOVE:39
-;	"anspielung" n f pl gen lower REMOVE:39
-;	"anspielung" n f pl dat lower REMOVE:39
-;	"anspielung" n f pl acc lower REMOVE:39
-;	"Anspielung" n f pl gen REMOVE:83
-;	"Anspielung" n f pl dat REMOVE:83
+	"anspielung" n f pl nom lower
+	"anspielung" n f pl gen lower
+	"anspielung" n f pl dat lower
+	"anspielung" n f pl acc lower
 "<auf>"
 	"auf" pr dat
 	"auf" pr acc
 "<Sketche>"
 	"Sketch" n m sg dat
+	"Sketch" n m pl nom
+	"Sketch" n m pl gen
 	"Sketch" n m pl acc
-;	"sketch" n m sg dat lower REMOVE:39
-;	"sketch" n m pl nom lower REMOVE:39
-;	"sketch" n m pl gen lower REMOVE:39
-;	"sketch" n m pl acc lower REMOVE:39
-;	"Sketch" n m pl nom REMOVE:86
-;	"Sketch" n m pl gen REMOVE:86
+	"sketch" n m sg dat lower
+	"sketch" n m pl nom lower
+	"sketch" n m pl gen lower
+	"sketch" n m pl acc lower
 "<aus>"
 	"aus" adv
 	"aus" pr dat
-;	"aus" n nt sg nom lower REMOVE:39
-;	"aus" n nt sg gen lower REMOVE:39
-;	"aus" n nt sg dat lower REMOVE:39
-;	"aus" n nt sg acc lower REMOVE:39
-;	"aus" n nt pl nom lower REMOVE:39
-;	"aus" n nt pl gen lower REMOVE:39
-;	"aus" n nt pl dat lower REMOVE:39
-;	"aus" n nt pl acc lower REMOVE:39
+	"aus" n nt sg nom lower
+	"aus" n nt sg gen lower
+	"aus" n nt sg dat lower
+	"aus" n nt sg acc lower
+	"aus" n nt pl nom lower
+	"aus" n nt pl gen lower
+	"aus" n nt pl dat lower
+	"aus" n nt pl acc lower
 "<dem>"
-	"der" det def m sg dat
-	"der" det def nt sg dat
+	"der" rel m sg dat
+	"der" rel nt sg dat
 	"der" prn dem m sg dat
 	"der" prn dem nt sg dat
-;	"der" rel m sg dat REMOVE:41
-;	"der" rel nt sg dat REMOVE:41
+	"der" det def m sg dat
+	"der" det def nt sg dat
 "<Flying>"
 	"*Flying"
 "<Circus>"
 	"Circus" n m sg nom
 	"Circus" n m sg dat
 	"Circus" n m sg acc
-;	"circus" n m sg nom lower REMOVE:39
-;	"circus" n m sg dat lower REMOVE:39
-;	"circus" n m sg acc lower REMOVE:39
+	"circus" n m sg nom lower
+	"circus" n m sg dat lower
+	"circus" n m sg acc lower
 "<.>"
 	"." sent
-
 "<Trotzdem>"
 	"trotzdem" adv
 	"trotzdem" preadv
 "<etablierte>"
-	"etablieren" vblex pis p3 sg
+	"etablieren" vblex pii p1 sg
 	"etablieren" vblex pii p3 sg
-;	"etablieren" vblex pii p1 sg REMOVE:105
-;	"etablieren" vblex pis p1 sg REMOVE:105
+	"etablieren" vblex pis p1 sg
+	"etablieren" vblex pis p3 sg
 "<sich>"
 	"sich" prn ref p3 mf sp
 "<die>"
+	"der" rel f sg nom
+	"der" rel f sg acc
+	"der" rel mfn pl nom
+	"der" rel mfn pl acc
+	"der" prn dem f sg nom
+	"der" prn dem f sg acc
+	"der" prn dem mfn pl nom
+	"der" prn dem mfn pl acc
 	"der" det def f sg nom
 	"der" det def f sg acc
-;	"der" rel f sg nom REMOVE:41
-;	"der" rel f sg acc REMOVE:41
-;	"der" rel mfn pl nom REMOVE:41
-;	"der" rel mfn pl acc REMOVE:41
-;	"der" prn dem f sg nom REMOVE:53
-;	"der" prn dem f sg acc REMOVE:53
-;	"der" prn dem mfn pl nom REMOVE:53
-;	"der" prn dem mfn pl acc REMOVE:53
-;	"der" det def mfn pl nom REMOVE:60
-;	"der" det def mfn pl acc REMOVE:60
+	"der" det def mfn pl nom
+	"der" det def mfn pl acc
 "<Assoziation>"
 	"Assoziation" n f sg nom
+	"Assoziation" n f sg gen
+	"Assoziation" n f sg dat
 	"Assoziation" n f sg acc
-;	"assoziation" n f sg nom lower REMOVE:39
-;	"assoziation" n f sg gen lower REMOVE:39
-;	"assoziation" n f sg dat lower REMOVE:39
-;	"assoziation" n f sg acc lower REMOVE:39
-;	"Assoziation" n f sg gen REMOVE:61
-;	"Assoziation" n f sg dat REMOVE:61
+	"assoziation" n f sg nom lower
+	"assoziation" n f sg gen lower
+	"assoziation" n f sg dat lower
+	"assoziation" n f sg acc lower
 "<zur>"
 	"der" det def f sg dat
 		"zu" pr dat
 "<Schlange>"
+	"Schlange" n f sg nom
+	"Schlange" n f sg gen
 	"Schlange" n f sg dat
-;	"schlange" n f sg nom lower REMOVE:39
-;	"schlange" n f sg gen lower REMOVE:39
-;	"schlange" n f sg dat lower REMOVE:39
-;	"schlange" n f sg acc lower REMOVE:39
-;	"schlingen" vblex pis p1 sg REMOVE:43
-;	"schlingen" vblex pis p3 sg REMOVE:43
-;	"Schlange" n f sg nom REMOVE:61
-;	"Schlange" n f sg gen REMOVE:61
-;	"Schlange" n f sg acc REMOVE:61
+	"Schlange" n f sg acc
+	"schlange" n f sg nom lower
+	"schlange" n f sg gen lower
+	"schlange" n f sg dat lower
+	"schlange" n f sg acc lower
+	"schlingen" vblex pis p1 sg
+	"schlingen" vblex pis p3 sg
 "<,>"
 	"," cm
 "<was>"
@@ -1447,42 +1426,42 @@
 	"in" pr dat
 	"in" pr acc
 "<der>"
-	"der" det def f sg dat
-	"der" det def mfn pl gen
+	"der" rel m sg nom
+	"der" rel f sg dat
 	"der" prn dem m sg nom
 	"der" prn dem f sg dat
 	"der" det def m sg nom
 	"der" det def f sg gen
-;	"der" rel m sg nom REMOVE:41
-;	"der" rel f sg dat REMOVE:41
+	"der" det def f sg dat
+	"der" det def mfn pl gen
 "<Programmiersprache>"
 	"*Programmiersprache"
 "<Cobra>"
 	"*Cobra"
-"<>"
-	"" lpar
+"<[>"
+	"[" lpar
 "<6>"
 	"6" num
-"<>"
-	"" rpar
+"<]>"
+	"]" rpar
 "<sowie>"
 	"sowie" cnjcoo
 "<dem>"
+	"der" rel m sg dat
+	"der" rel nt sg dat
+	"der" prn dem m sg dat
+	"der" prn dem nt sg dat
 	"der" det def m sg dat
 	"der" det def nt sg dat
-;	"der" rel m sg dat REMOVE:41
-;	"der" rel nt sg dat REMOVE:41
-;	"der" prn dem m sg dat REMOVE:53
-;	"der" prn dem nt sg dat REMOVE:53
 "<Python>"
 	"Python" n f sg nom
 	"Python" n f sg gen
 	"Python" n f sg dat
 	"Python" n f sg acc
-;	"python" n f sg nom lower REMOVE:39
-;	"python" n f sg gen lower REMOVE:39
-;	"python" n f sg dat lower REMOVE:39
-;	"python" n f sg acc lower REMOVE:39
+	"python" n f sg nom lower
+	"python" n f sg gen lower
+	"python" n f sg dat lower
+	"python" n f sg acc lower
 "<->"
 	"-" guio
 "<Toolkit>"
@@ -1494,56 +1473,54 @@
 "<“>"
 	"“" rquot
 "<äußert>"
+	"äußern" vblex imp pl
+	"äußern" vblex pri p2 pl
 	"äußern" vblex pri p3 sg
-;	"äußern" vblex pri p2 pl REMOVE:106
-;	"äußern" vblex prs p2 pl REMOVE:106
-;	"äußern" vblex imp pl REMOVE:127
+	"äußern" vblex prs p2 pl
 "<.>"
 	"." sent
-
 "<.>"
 	"." sent
-
 
 
 "<Über>"
+	"über" pr dat
 	"über" pr acc
-;	"über" pr dat REMOVE:88
 "<den>"
+	"der" rel m sg acc
+	"der" prn dem m sg acc
 	"der" det def m sg acc
-;	"der" rel m sg acc REMOVE:41
-;	"der" prn dem m sg acc REMOVE:53
-;	"der" det def mfn pl dat REMOVE:60
+	"der" det def mfn pl dat
 "<Ursprung>"
+	"Ursprung" n m sg nom
+	"Ursprung" n m sg dat
 	"Ursprung" n m sg acc
-;	"ursprung" n m sg nom lower REMOVE:39
-;	"ursprung" n m sg dat lower REMOVE:39
-;	"ursprung" n m sg acc lower REMOVE:39
-;	"Ursprung" n m sg nom REMOVE:61
-;	"Ursprung" n m sg dat REMOVE:61
+	"ursprung" n m sg nom lower
+	"ursprung" n m sg dat lower
+	"ursprung" n m sg acc lower
 "<der>"
-	"der" det def f sg dat
+	"der" rel m sg nom
+	"der" rel f sg dat
+	"der" prn dem m sg nom
+	"der" prn dem f sg dat
+	"der" det def m sg nom
 	"der" det def f sg gen
-;	"der" rel m sg nom REMOVE:41
-;	"der" rel f sg dat REMOVE:41
-;	"der" prn dem m sg nom REMOVE:53
-;	"der" prn dem f sg dat REMOVE:53
-;	"der" det def m sg nom REMOVE:59
-;	"der" det def mfn pl gen REMOVE:60
+	"der" det def f sg dat
+	"der" det def mfn pl gen
 "<Sprache>"
-	"Sprache" n f sg dat
+	"Sprache" n f sg nom
 	"Sprache" n f sg gen
-;	"sprache" n f sg nom lower REMOVE:39
-;	"sprache" n f sg gen lower REMOVE:39
-;	"sprache" n f sg dat lower REMOVE:39
-;	"sprache" n f sg acc lower REMOVE:39
-;	"Sprache" n f sg nom REMOVE:61
-;	"Sprache" n f sg acc REMOVE:61
+	"Sprache" n f sg dat
+	"Sprache" n f sg acc
+	"sprache" n f sg nom lower
+	"sprache" n f sg gen lower
+	"sprache" n f sg dat lower
+	"sprache" n f sg acc lower
 "<schrieb>"
-	"schreiben" vblex sep fm pii p3 sg
+	"schreiben" vblex pii p1 sg
 	"schreiben" vblex pii p3 sg
-;	"schreiben" vblex pii p1 sg REMOVE:105
-;	"schreiben" vblex sep fm pii p1 sg REMOVE:105
+	"schreiben" vblex sep fm pii p1 sg
+	"schreiben" vblex sep fm pii p3 sg
 "<van>"
 	"van" n m sg nom lower
 	"van" n m sg dat lower
@@ -1556,7 +1533,6 @@
 	"1996" num
 "<:>"
 	":" sent
-
 "<.>"
 	"." sent
 
