@@ -1,0 +1,17 @@
+Python ist eine universelle, üblicherweise interpretierte höhere Programmiersprache. Ihre Entwurfsphilosophie betont Programmlesbarkeit, außerdem ist Python-Code im Vergleich mit anderssprachigem Code teilweise deutlich kürzer. Zur besseren Lesbarkeit soll auch der Verzicht auf geschweifte Klammern zur Bildung von Code-Blöcken dienen, da die Programmstruktur durch Einrückungen gebildet wird.
+
+Python unterstützt mehrere Programmierparadigmen, z. B. die objektorientierte, die aspektorientierte und die funktionale Programmierung. Ferner bietet es eine dynamische Typisierung. Wie viele dynamische Sprachen wird Python oft als Skriptsprache genutzt.
+
+Die Sprache hat ein offenes, gemeinschaftsbasiertes Entwicklungsmodell, das durch die gemeinnützige Python Software Foundation, die de facto die Definition der Sprache in der Referenzumsetzung CPython pflegt, gestützt wird.
+
+Python gilt als einfach zu erlernende Sprache, da sie über eine klare und übersichtliche Syntax verfügt. Ferner besitzt sie eine umfangreiche Standardbibliothek und zahlreiche Pakete im Python Package Index.
+
+Entwicklungsgeschichte
+
+Guido van Rossum, der Entwickler von Python
+Die Sprache wurde Anfang der 1990er Jahre von Guido van Rossum am Centrum Wiskunde & Informatica in Amsterdam als Nachfolger für die Programmier-Lehrsprache ABC entwickelt und war ursprünglich für das verteilte Betriebssystem Amoeba gedacht.
+
+Der Name geht nicht etwa (wie das Logo vermuten ließe) auf die gleichnamige Schlangengattung (Pythons) zurück, sondern bezog sich ursprünglich auf die englische Komikertruppe Monty Python. In der Dokumentation finden sich daher auch einige Anspielungen auf Sketche aus dem Flying Circus. Trotzdem etablierte sich die Assoziation zur Schlange, was sich unter anderem in der Programmiersprache Cobra[6] sowie dem Python-Toolkit „Boa“ äußert.
+
+Über den Ursprung der Sprache schrieb van Rossum rückblickend 1996:
+
