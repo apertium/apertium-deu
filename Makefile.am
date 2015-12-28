@@ -49,6 +49,7 @@ $(LANG1).rlx.bin: $(BASENAME).$(LANG1).rlx $(CGCOMP)
 ###############################################################################
 EXTRA_DIST=$(BASENAME).$(LANG1).dix \
 	   $(BASENAME).$(LANG1).rlx  \
+	   $(LANG1).prob \
 	   modes.xml
 
 ###############################################################################
@@ -61,7 +62,7 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix \
 apertium_deudir=$(prefix)/share/apertium/$(BASENAME)/
 apertium_deu_srcdir=$(prefix)/share/apertium/$(BASENAME)/
 
-apertium_deu_DATA=$(TARGETS_COMMON)
+apertium_deu_DATA=$(TARGETS_COMMON) $(LANG1).prob
 
 pkgconfigdir = $(prefix)/share/pkgconfig
 pkgconfig_DATA = $(BASENAME).pc
