@@ -1,215 +1,136 @@
 <?xml version="1.0" encoding="utf-8"?>
 <dictionary>
   <alphabet/>
+
   <pardefs>
     <pardef n="caracter_general">
-      <e>
-        <i>;</i>
-      </e>
-      <e>
-        <i>#</i>
-      </e>
-      <e>
-        <i>)</i>
-      </e>
-      <e>
-        <i>:</i>
-      </e>
-      <e>
-        <i>(</i>
-      </e>
-      <e>
-        <i>[</i>
-      </e>
-      <e>
-        <i>]</i>
-      </e>
-      <e>
-        <i>"</i>
-      </e>
-      <e>
-        <i>'</i>
-      </e>
-      <e>
-        <i>~</i>
-      </e>
-      <e>
-        <i>*</i>
-      </e>
-      <e>
-        <i>@</i>
-      </e>
-      <e>
-        <i>«</i>
-      </e>
-      <e>
-        <i>-</i>
-      </e>
-      <e>
-        <i>,</i>
-      </e>
-      <e>
-        <i>?</i>
-      </e>
-      <e>
-        <i>/</i>
-      </e>
-      <e>
-        <i>`</i>
-      </e>
-      <e>
-        <i>±</i>
-      </e>
-      <e>
-        <i>­</i>
-      </e>
-      <e>
-        <i>$</i>
-      </e>
-      <e>
-        <i>)</i>
-      </e>
-      <e>
-        <i>:</i>
-      </e>
-      <e>
-        <i>.</i>
-      </e>
-       <e>
-        <i><b/></i>
-      </e>
+      <e><i>;</i></e>
+      <e><i>#</i></e>
+      <e><i>)</i></e>
+      <e><i>:</i></e>
+      <e><i>(</i></e>
+      <e><i>[</i></e>
+      <e><i>]</i></e>
+      <e><i>"</i></e>
+      <e><i>'</i></e>
+      <e><i>~</i></e>
+      <e><i>*</i></e>
+      <e><i>@</i></e>
+      <e><i>«</i></e>
+      <e><i>-</i></e>
+      <e><i>,</i></e>
+      <e><i>?</i></e>
+      <e><i>/</i></e>
+      <e><i>`</i></e>
+      <e><i>±</i></e>
+      <e><i>­</i></e>
+      <e><i>$</i></e>
+      <e><i>)</i></e>
+      <e><i>:</i></e>
+      <e><i>.</i></e>
+      <!--<e><i><b/></i></e>-->
     </pardef>
 
    <pardef n="vocals">
-      <e>
-        <i>a</i>
-      </e>
-      <e>
-        <i>e</i>
-      </e>
-      <e>
-        <i>i</i>
-      </e>
-      <e>
-        <i>o</i>
-      </e>
-      <e>
-        <i>u</i>
-      </e>
-      <e>
-        <i>á</i>
-      </e>
-      <e>
-        <i>é</i>
-      </e>
-      <e>
-        <i>í</i>
-      </e>
-      <e>
-        <i>ó</i>
-      </e>
-      <e>
-        <i>ú</i>
-      </e>
-      <e>
-        <i>â</i>
-      </e>
-      <e>
-        <i>ê</i>
-      </e>
-      <e>
-        <i>î</i>
-      </e>
-      <e>
-        <i>ô</i>
-      </e>
-      <e>
-        <i>h</i>
-      </e>
-      <e>
-        <i>y</i>
-      </e>
+      <e><i>a</i></e>
+      <e><i>e</i></e>
+      <e><i>i</i></e>
+      <e><i>o</i></e>
+      <e><i>u</i></e>
+      <e><i>ä</i></e>
+      <e><i>ö</i></e>
+      <e><i>ü</i></e>
+      <e><i>á</i></e>
+      <e><i>é</i></e>
+      <e><i>í</i></e>
+      <e><i>ó</i></e>
+      <e><i>ú</i></e>
+      <e><i>â</i></e>
+      <e><i>ê</i></e>
+      <e><i>î</i></e>
+      <e><i>ô</i></e>
+      <e><i>û</i></e>
     </pardef>
 
     <pardef n="consonants">
+      <e><i>b</i></e>
+      <e><i>c</i></e>
+      <e><i>d</i></e>
+      <e><i>f</i></e>
+      <e><i>g</i></e>
+      <e><i>h</i></e>
+      <e><i>j</i></e>
+      <e><i>k</i></e>
+      <e><i>l</i></e>
+      <e><i>m</i></e>
+      <e><i>n</i></e>
+      <e><i>p</i></e>
+      <e><i>q</i></e>
+      <e><i>r</i></e>
+      <e><i>s</i></e>
+      <e><i>t</i></e>
+      <e><i>v</i></e>
+      <e><i>w</i></e>
+      <e><i>x</i></e>
+      <e><i>y</i></e>
+      <e><i>z</i></e>
+    </pardef>
+
+    <pardef n="dem">
       <e>
-        <i>b</i>
-      </e>
-      <e>
-        <i>c</i>
-      </e>
-      <e>
-        <i>d</i>
-      </e>
-      <e>
-        <i>f</i>
-      </e>
-      <e>
-        <i>g</i>
-      </e>
-      <e>
-        <i>j</i>
-      </e>
-      <e>
-        <i>k</i>
-      </e>
-      <e>
-        <i>l</i>
-      </e>
-      <e>
-        <i>m</i>
-      </e>
-      <e>
-        <i>n</i>
-      </e>
-      <e>
-        <i>p</i>
-      </e>
-      <e>
-        <i>q</i>
-      </e>
-      <e>
-        <i>r</i>
-      </e>
-      <e>
-        <i>s</i>
-      </e>
-      <e>
-        <i>t</i>
-      </e>
-      <e>
-        <i>v</i>
-      </e>
-      <e>
-        <i>w</i>
-      </e>
-      <e>
-        <i>x</i>
-      </e>
-      <e>
-        <i>z</i>
-      </e>
-      <e>
-        <i>ç</i>
+        <p>
+          <l>dem<b/></l>
+          <r>m<b/></r>
+        </p>
       </e>
     </pardef>
+
+    <pardef n="der">
+      <e>
+        <p>
+          <l>der<b/></l>
+          <r>r<b/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <pardef n="das">
+      <e>
+        <p>
+          <l>das<b/></l>
+          <r>s<b/></r>
+        </p>
+      </e>
+    </pardef>
+
   </pardefs>
 
   <section id="main" type="standard">
-      <!-- Hij ~zal niet ~komen ~.~. -->
 
-      <e>
-        <p>
-          <l><a/></l>
-          <r></r>
-        </p>
-        <re>[A-Za-z]+</re>
-        <p>
-          <l><b/><a/>.</l>
-          <r>.</r>
-        </p>
-      </e>
+    <e>
+      <p><l><a/></l><r></r></p>
+      <re>[A-Za-z]+</re>
+      <p><l><b/><a/>.</l><r>.</r></p>
+    </e>
 
+
+	<e><p> <l><a/>bei<b/></l>    <r>bei</r></p><par n="dem"/></e>
+    <e><p> <l><a/>von<b/></l>    <r>von</r></p><par n="dem"/></e>
+    <e><p> <l><a/>in<b/></l>     <r>in</r></p><par n="dem"/></e>
+    <e><p> <l><a/>an<b/></l>     <r>an</r></p><par n="dem"/></e>
+    <e><p> <l><a/>zu<b/></l>     <r>zu</r></p><par n="dem"/></e>
+<!--
+    <e><p> <l><a/>zu<b/></l>     <r>zu</r></p><par n="der"/></e>
+
+    <e><p> <l><a/>in<b/></l>     <r>in</r></p><par n="das"/></e>
+    <e><p> <l><a/>an<b/></l>     <r>an</r></p><par n="das"/></e>
+    <e><p> <l><a/>auf<b/></l>    <r>auf</r></p><par n="das"/></e>
+    <e><p> <l><a/>durch<b/></l>  <r>durch</r></p><par n="das"/></e>
+    <e><p> <l><a/>hinter<b/></l> <r>hinter</r></p><par n="das"/></e>
+    <e><p> <l><a/>über<b/></l>   <r>über</r></p><par n="das"/></e>
+    <e><p> <l><a/>unter<b/></l>  <r>unter</r></p><par n="das"/></e>
+    <e><p> <l><a/>vor<b/></l>    <r>vor</r></p><par n="das"/></e>
+-->
   </section>
 
 </dictionary>
