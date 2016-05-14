@@ -114,23 +114,26 @@
     </e>
 
 
-	<e><p> <l><a/>bei<b/></l>    <r>bei</r></p><par n="dem"/></e>
-    <e><p> <l><a/>von<b/></l>    <r>von</r></p><par n="dem"/></e>
-    <e><p> <l><a/>in<b/></l>     <r>in</r></p><par n="dem"/></e>
-    <e><p> <l><a/>an<b/></l>     <r>an</r></p><par n="dem"/></e>
-    <e><p> <l><a/>zu<b/></l>     <r>zu</r></p><par n="dem"/></e>
-<!--
-    <e><p> <l><a/>zu<b/></l>     <r>zu</r></p><par n="der"/></e>
+    <!-- Contractions -->
 
-    <e><p> <l><a/>in<b/></l>     <r>in</r></p><par n="das"/></e>
-    <e><p> <l><a/>an<b/></l>     <r>an</r></p><par n="das"/></e>
-    <e><p> <l><a/>auf<b/></l>    <r>auf</r></p><par n="das"/></e>
-    <e><p> <l><a/>durch<b/></l>  <r>durch</r></p><par n="das"/></e>
-    <e><p> <l><a/>hinter<b/></l> <r>hinter</r></p><par n="das"/></e>
-    <e><p> <l><a/>über<b/></l>   <r>über</r></p><par n="das"/></e>
-    <e><p> <l><a/>unter<b/></l>  <r>unter</r></p><par n="das"/></e>
-    <e><p> <l><a/>vor<b/></l>    <r>vor</r></p><par n="das"/></e>
--->
+	<e c="beim"><p> <l><a/>bei<b/></l>    <r>bei</r></p><par n="dem"/></e>
+    <e c="zum"><p> <l><a/>zu<b/></l>     <r>zu</r></p><par n="dem"/></e>
+
+    <e c="vom"><p> <l><a/>von<b/></l>    <r>vo</r></p><par n="dem"/></e>
+    <e c="im"><p> <l><a/>in<b/></l>     <r>i</r></p><par n="dem"/></e>
+    <e c="am"><p> <l><a/>an<b/></l>     <r>a</r></p><par n="dem"/></e>
+
+    <e c="zur"><p> <l><a/>zu<b/></l>     <r>zu</r></p><par n="der"/></e>
+
+    <e c="ins"><p> <l><a/>in<b/></l>     <r>in</r></p><par n="das"/></e>
+    <e c="ans"><p> <l><a/>an<b/></l>     <r>an</r></p><par n="das"/></e>
+    <e c="aufs"><p> <l><a/>auf<b/></l>    <r>auf</r></p><par n="das"/></e>
+    <e c="durchs"><p> <l><a/>durch<b/></l>  <r>durch</r></p><par n="das"/></e>
+    <e c="hinters"><p> <l><a/>hinter<b/></l> <r>hinter</r></p><par n="das"/></e>
+    <e c="übers"><p> <l><a/>über<b/></l>   <r>über</r></p><par n="das"/></e>
+    <e c="unters"><p> <l><a/>unter<b/></l>  <r>unter</r></p><par n="das"/></e>
+    <e c="vors"><p> <l><a/>vor<b/></l>    <r>vor</r></p><par n="das"/></e>
+
   </section>
 
 </dictionary>
