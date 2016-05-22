@@ -113,8 +113,20 @@ SELECT (prn pers p3 f sg nom) IF (1 Verb + (p3 sg)) ;
 # "Ich habe dich gefunden"
 REMOVE Verb + (prs) IF (0 Verb + (pri)) ;
 
-# remove num reading of ein unless there are other nums in the sentence
+# remove num reading of "ein" unless there are other nums in the sentence
 REMOVE ("ein"i num) IF (NOT *-1 (num) BARRIER BOS) (NOT *1 (num) BARRIER EOS) ;
+
+
+# (by wth)
+REMOVE (cnjadv) IF (-1 BOS) ;
+# use det.pos (avoid prpers dummy)
+REMOVE (prn det) ;
+# haben <> anhaben/haben an
+REMOVE ("haben"i vblex) IF (-1 (prn)) ;
+# haben (v) / Haben (n)
+REMOVE ("haben"i n) IF (-1 N) ;
+# prefer non compound nouns
+REMOVE (n cmp) ;
 
 
 SELECT (x) ;
