@@ -27,7 +27,8 @@ LIST Imp = (imp) ;
 SET GENDER = M | F | Nt ;
 SET NUMBER = Sg | Pl ;
 SET CASE = (nom) | (gen) | (dat) | (acc) ;
-SET Verb = (vblex) | (vbmod) | (vaux) | (vbser) | (vbhaver) ;
+SET Verb = (vblex) | (vbmod) | (vaux) | (vbser) | (vbhaver) | (vbdo) ;
+SET Cnj = (cnjcoo) | (cnjsub) | (cnjadv) ;
 
 
 SECTION 
@@ -119,6 +120,8 @@ REMOVE ("ein"i num) IF (NOT *-1 (num) BARRIER BOS) (NOT *1 (num) BARRIER EOS) ;
 
 # (by wth)
 REMOVE (cnjadv) IF (-1 BOS) ;
+REMOVE (cnjsub) IF (-1 BOS) ;
+REMOVE (cnjcoo) IF (-1 BOS) ;
 # use det.pos (avoid prpers dummy)
 REMOVE (prn det) ;
 # haben <> anhaben/haben an
