@@ -11,6 +11,7 @@ LIST DetInd = (det ind) ;
 LIST N = (n) ;
 LIST Rel = (rel) ;
 LIST Vblex = (vblex) ;
+LIST Vbser = (vbser) ;
 LIST PrnDem = (prn dem) ;
 LIST Pr = (pr) ;
 LIST Adj = (adj) ;
@@ -130,6 +131,16 @@ REMOVE ("haben"i vblex) IF (-1 (prn)) ;
 REMOVE ("haben"i n) IF (-1 N) ;
 # prefer non compound nouns
 REMOVE (n cmp) ;
+# "das ist" : (prn dem)
+REMOVE DetDef IF (1 Vbser) ;
+# "ist das" : (prn dem)
+REMOVE DetDef IF (-1 Vbser) ;
+# "nach London"
+SELECT (pr) IF (1 (np top)) ;
+# "Mauer" (n) (instead of "mau"/"mauer" (adj comp))
+SELECT ("Mauer" n) ;
+# "ist sein Auto"
+REMOVE Vbser IF (-1 Vbser) ;
 
 
 SELECT (x) ;
