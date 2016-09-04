@@ -34,9 +34,6 @@ SET Cnj = (cnjcoo) | (cnjsub) | (cnjadv) ;
 
 SECTION 
 
-SELECT (n lower) IF (-1 (n cmp)) ;
-SELECT (n cmp) IF (1 (n lower)) ;
-
 # remove lower-case over-analysis of nouns, if other readings exist
 REMOVE (n lower) ;
 
@@ -120,9 +117,10 @@ REMOVE ("ein"i num) IF (NOT *-1 (num) BARRIER BOS) (NOT *1 (num) BARRIER EOS) ;
 
 
 # (by wth)
-REMOVE (cnjadv) IF (-1 BOS) ;
-REMOVE (cnjsub) IF (-1 BOS) ;
-REMOVE (cnjcoo) IF (-1 BOS) ;
+#REMOVE (cnjadv) IF (-1 BOS) ;
+#REMOVE (cnjsub) IF (-1 BOS) ;
+#REMOVE (cnjcoo) IF (-1 BOS) ;
+REMOVE Cnj IF (-1 BOS) ;
 # use det.pos (avoid prpers dummy)
 REMOVE (prn det) ;
 # haben <> anhaben/haben an
@@ -137,11 +135,20 @@ REMOVE DetDef IF (1 Vbser) ;
 REMOVE DetDef IF (-1 Vbser) ;
 # "nach London"
 SELECT (pr) IF (1 (np top)) ;
-# "Mauer" (n) (instead of "mau"/"mauer" (adj comp))
-SELECT ("Mauer" n) ;
 # "ist sein Auto"
 REMOVE Vbser IF (-1 Vbser) ;
+# separable verb (get up = aufstehen/stehen auf)
+#SELECT (vblex sep fm) ;
+# "Mauer" (n) (instead of (adj comp) "mau"/"mauer")
+SELECT ("Mauer" n) ;
 
+REMOVE (vblex ger gen) ;
+SELECT (adv itg) IF (-1 BOS) ;
+
+
+
+#SELECT (n lower) IF (-1 (n cmp)) ;
+#SELECT (n cmp) IF (1 (n lower)) ;
 
 SELECT (x) ;
 
