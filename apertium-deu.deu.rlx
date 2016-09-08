@@ -9,15 +9,25 @@ LIST Det = (det) ;
 LIST DetDef = (det def) ;
 LIST DetInd = (det ind) ;
 LIST N = (n) ;
-LIST Rel = (rel) ;
+LIST Np = (np) ;
 LIST Vblex = (vblex) ;
 LIST Vbser = (vbser) ;
+LIST Vbhaver = (vbhaver) ;
+LIST Vbdo = (vbdo) ;
+LIST Vbmod = (vbmod) ;
+LIST Vaux = (vaux) ;
 LIST PrnDem = (prn dem) ;
 LIST Pr = (pr) ;
 LIST Adj = (adj) ;
+LIST Adv = (adv) ;
+LIST Num = (num) ;
+LIST Prn = (prn) ;
+LIST Rel = (prn rel) ;
+LIST Ij = (ij) ;
 
 LIST Sg = (sg) ;
 LIST Pl = (pl) ;
+LIST Sp = (sp) ;
 LIST M = (m) ;
 LIST F = (f) ;
 LIST Nt = (nt) ;
@@ -33,6 +43,9 @@ SET Cnj = (cnjcoo) | (cnjsub) | (cnjadv) ;
 
 
 SECTION 
+
+# "einige Jungen", have to executed before #REMOVE Det + Mfn + Pl + $$CASE IF (1 Adj) (NOT 1 Adj + Mf + Pl + $$CASE)
+SELECT ("Junge" n) IF (1 Verb) (0 N) (0 Adj) ;
 
 # remove lower-case over-analysis of nouns, if other readings exist
 REMOVE (n lower) ;
@@ -126,7 +139,7 @@ REMOVE (prn det) ;
 # haben <> anhaben/haben an
 REMOVE ("haben"i vblex) IF (-1 (prn)) ;
 # haben (v) / Haben (n)
-REMOVE ("haben"i n) IF (-1 N) ;
+REMOVE ("Haben" n) IF (-1 N) ;
 # prefer non compound nouns
 REMOVE (n cmp) ;
 # "das ist" : (prn dem)
@@ -140,10 +153,11 @@ REMOVE Vbser IF (-1 Vbser) ;
 # separable verb (get up = aufstehen/stehen auf)
 #SELECT (vblex sep fm) ;
 # "Mauer" (n) (instead of (adj comp) "mau"/"mauer")
-SELECT ("Mauer" n) ;
+SELECT N IF (-1 Det) (0 N) (0 Adj) (NOT 1 N) ;
 
 REMOVE (vblex ger gen) ;
 SELECT (adv itg) IF (-1 BOS) ;
+SELECT Pr IF (1 Det) ;
 
 
 
