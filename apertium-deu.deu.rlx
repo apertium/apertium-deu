@@ -44,11 +44,16 @@ SET Cnj = (cnjcoo) | (cnjsub) | (cnjadv) ;
 
 SECTION 
 
+
 # "einige Jungen", have to executed before #REMOVE Det + Mfn + Pl + $$CASE IF (1 Adj) (NOT 1 Adj + Mf + Pl + $$CASE)
 SELECT ("Junge" n) IF (1 Verb) (0 N) (0 Adj) ;
 
 # remove lower-case over-analysis of nouns, if other readings exist
 REMOVE (n lower) ;
+
+# remove verbs in upper case (wth)
+REMOVE (vblex) IF (0 ("<\\p{Lu}.*>"r)) (NOT -1 BOS) ;
+
 
 REMOVE Rel IF (NOT -1 (cm)) ;
 
@@ -66,33 +71,37 @@ REMOVE PrnDem IF (0 DetDef) (1 N) ;
 
 REMOVE ("während"i vblex pprs) IF (NOT 1 EOS) ;
 
+# remove p1/p2 verb readings if there is no p1/p2 pronoun in the same sentence
+REMOVE Verb + (p1) IF (NOT *-1 (prn pers p1) BARRIER BOS) (NOT *1 (prn pers p1) BARRIER EOS) ;
+REMOVE Verb + (p2) IF (NOT *-1 (prn pers p2) BARRIER BOS) (NOT *1 (prn pers p2) BARRIER EOS) ;
+
 # remove implausible gender case combinations
 
-REMOVE Det + $$GENDER + Sg + $$CASE IF (1 N) (NOT 1 N + $$GENDER + Sg + $$CASE) ;
-REMOVE Det + Mfn + Pl + $$CASE IF (1 N) (NOT 1 N + $$GENDER + Pl + $$CASE) ;
-REMOVE N + $$GENDER + Sg + $$CASE IF (-1 Det) (NOT -1 Det + $$GENDER + Sg + $$CASE) ;
-REMOVE N + $$GENDER + Pl + $$CASE IF (-1 Det) (NOT -1 Det + Mfn + Pl + $$CASE) ;
+REMOVE Det + $$GENDER + Sg + $$CASE IF (NOT 0 Verb) (1 N) (NOT 1 N + $$GENDER + Sg + $$CASE) ;
+REMOVE Det + Mfn + Pl + $$CASE IF (NOT 0 Verb) (1 N) (NOT 1 N + $$GENDER + Pl + $$CASE) ;
+REMOVE N + $$GENDER + Sg + $$CASE IF (0C N) (-1 Det) (NOT -1 Det + $$GENDER + Sg + $$CASE) ;
+REMOVE N + $$GENDER + Pl + $$CASE IF (0C N) (-1 Det) (NOT -1 Det + Mfn + Pl + $$CASE) ;
 
-REMOVE Det + $$GENDER + Sg + $$CASE IF (1 Adj) (2 N) (NOT 2 N + $$GENDER + Sg + $$CASE) ;
-REMOVE Det + Mfn + Pl + $$CASE IF (1 Adj) (2 N) (NOT 2 N + $$GENDER + Pl + $$CASE) ;
-REMOVE N + $$GENDER + Sg + $$CASE IF (-2 Det) (NOT -2 Det + $$GENDER + Sg + $$CASE) (-1 Adj) ;
-REMOVE N + $$GENDER + Pl + $$CASE IF (-2 Det) (NOT -2 Det + Mfn + Pl + $$CASE) (-1 Adj) ;
+REMOVE Det + $$GENDER + Sg + $$CASE IF (NOT 0 Verb) (1 Adj) (2 N) (NOT 2 N + $$GENDER + Sg + $$CASE) ;
+REMOVE Det + Mfn + Pl + $$CASE IF (NOT 0 Verb) (1 Adj) (2 N) (NOT 2 N + $$GENDER + Pl + $$CASE) ;
+REMOVE N + $$GENDER + Sg + $$CASE IF (0C N) (-2 Det) (NOT -2 Det + $$GENDER + Sg + $$CASE) (-1 Adj) ;
+REMOVE N + $$GENDER + Pl + $$CASE IF (0C N) (-2 Det) (NOT -2 Det + Mfn + Pl + $$CASE) (-1 Adj) ;
 
-REMOVE Det + $$GENDER + Sg + $$CASE IF (1 Adj) (NOT 1 Adj + $$GENDER + Sg + $$CASE) ;
-REMOVE Det + Mfn + Pl + $$CASE IF (1 Adj) (NOT 1 Adj + Mf + Pl + $$CASE) ;
+REMOVE Det + $$GENDER + Sg + $$CASE IF (NOT 0 Verb) (1 Adj) (NOT 1 Adj + $$GENDER + Sg + $$CASE) ;
+REMOVE Det + Mfn + Pl + $$CASE IF (NOT 0 Verb) (1 Adj) (NOT 1 Adj + Mf + Pl + $$CASE) ;
 
-REMOVE Adj + $$GENDER + Sg + $$CASE IF (-1 Det) (NOT -1 Det + $$GENDER + Sg + $$CASE) ;
-REMOVE Adj + Mf + Pl + $$CASE IF (-1 Det) (NOT -1 Det + $$GENDER + Pl + $$CASE) ;
+REMOVE Adj + $$GENDER + Sg + $$CASE IF (NOT 0 Verb) (-1 Det) (NOT -1 Det + $$GENDER + Sg + $$CASE) ;
+REMOVE Adj + Mf + Pl + $$CASE IF (NOT 0 Verb) (-1 Det) (NOT -1 Det + $$GENDER + Pl + $$CASE) ;
 
-REMOVE Det + $$GENDER + Sg + $$CASE IF (-1 Pr) (NOT -1 Pr + $$CASE) (1 N) (NOT 1 N + $$GENDER + Sg + $$CASE) ;
-REMOVE Det + Mfn + Pl + $$CASE IF (-1 Pr) (NOT -1 Pr + $$CASE) (1 N) (NOT 1 N + $$GENDER + Pl + $$CASE) ;
-REMOVE N + $$GENDER + Sg + $$CASE IF (-2 Pr) (NOT -2 Pr + $$CASE) (-1 Det) (NOT -1 Det + $$GENDER + Sg + $$CASE) ;
-REMOVE N + $$GENDER + Pl + $$CASE IF (-2 Pr) (NOT -2 Pr + $$CASE) (-1 Det) (NOT -1 Det + Mfn + Pl + $$CASE) ;
+REMOVE Det + $$GENDER + Sg + $$CASE IF (NOT 0 Verb) (-1 Pr) (NOT -1 Pr + $$CASE) (1 N) (NOT 1 N + $$GENDER + Sg + $$CASE) ;
+REMOVE Det + Mfn + Pl + $$CASE IF (NOT 0 Verb) (-1 Pr) (NOT -1 Pr + $$CASE) (1 N) (NOT 1 N + $$GENDER + Pl + $$CASE) ;
+REMOVE N + $$GENDER + Sg + $$CASE IF (0C N) (-2 Pr) (NOT -2 Pr + $$CASE) (-1 Det) (NOT -1 Det + $$GENDER + Sg + $$CASE) ;
+REMOVE N + $$GENDER + Pl + $$CASE IF (0C N) (-2 Pr) (NOT -2 Pr + $$CASE) (-1 Det) (NOT -1 Det + Mfn + Pl + $$CASE) ;
 
-REMOVE Adj + $$GENDER + Sg + $$CASE IF (1 N) (NOT 1 N + $$GENDER + Sg + $$CASE) ;
-REMOVE Adj + Mf + Pl + $$CASE IF (1 N) (NOT 1 N + $$GENDER + Pl + $$CASE) ;
-REMOVE N + $$GENDER + Sg + $$CASE IF (-1 Adj) (NOT -1 Adj + $$GENDER + Sg + $$CASE) ;
-REMOVE N + $$GENDER + Pl + $$CASE IF (-1 Adj) (NOT -1 Adj + Mf + Pl + $$CASE) ;
+REMOVE Adj + $$GENDER + Sg + $$CASE IF (NOT 0 Verb) (1 N) (NOT 1 N + $$GENDER + Sg + $$CASE) ;
+REMOVE Adj + Mf + Pl + $$CASE IF (NOT 0 Verb) (1 N) (NOT 1 N + $$GENDER + Pl + $$CASE) ;
+REMOVE N + $$GENDER + Sg + $$CASE IF (0C N) (-1 Adj) (NOT -1 Adj + $$GENDER + Sg + $$CASE) ;
+REMOVE N + $$GENDER + Pl + $$CASE IF (0C N) (-1 Adj) (NOT -1 Adj + Mf + Pl + $$CASE) ;
 
 REMOVE Pr + $$CASE IF (1 N) (NOT 1 N + $$CASE) ;
 REMOVE N + $$CASE IF (-1 Pr) (NOT -1 Pr + $$CASE) ;
@@ -112,10 +121,6 @@ REMOVE (adj attr) IF (1 EOS) ;
 
 REMOVE (adj attr) IF (-1 Det) (0 Adj + GENDER) (1 N) ;
 REMOVE (adj pred) IF (-1 Det) (0 Adj + GENDER) (1 N) ;
-
-# remove p1/p2 verb readings if there is no p1/p2 pronoun in the same sentence
-REMOVE Verb + (p1) IF (NOT *-1 (prn pers p1) BARRIER BOS) (NOT *1 (prn pers p1) BARRIER EOS) ;
-REMOVE Verb + (p2) IF (NOT *-1 (prn pers p2) BARRIER BOS) (NOT *1 (prn pers p2) BARRIER EOS) ;
 
 SELECT (det dem) IF (NOT 0 DetDef) (1 N) ;
 
@@ -152,6 +157,8 @@ SELECT (pr) IF (1 (np top)) ;
 REMOVE Vbser IF (-1 Vbser) ;
 # separable verb (get up = aufstehen/stehen auf)
 #SELECT (vblex sep fm) ;
+# kanadischer Weizen
+REMOVE (adj comp) IF (1 N);
 # "Mauer" (n) (instead of (adj comp) "mau"/"mauer")
 SELECT N IF (-1 Det) (0 N) (0 Adj) (NOT 1 N) ;
 
