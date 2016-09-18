@@ -63,6 +63,7 @@ REMOVE ("hast"i n) IF (1 (prn pers p2)) ;
 
 SELECT (prn pers p3 sg) IF (1 (vblex p3 sg)) ;
 SELECT (vblex p3 sg) IF (-1 (prn pers p3 sg)) ;
+SELECT (prn pers p3 sg) IF (-1 (vblex p3 sg)) ;
 
 REMOVE DetDef IF (1 EOS) ;
 REMOVE DetInd IF (1 EOS) ;
@@ -135,9 +136,6 @@ REMOVE ("ein"i num) IF (NOT *-1 (num) BARRIER BOS) (NOT *1 (num) BARRIER EOS) ;
 
 
 # (by wth)
-#REMOVE (cnjadv) IF (-1 BOS) ;
-#REMOVE (cnjsub) IF (-1 BOS) ;
-#REMOVE (cnjcoo) IF (-1 BOS) ;
 REMOVE Cnj IF (-1 BOS) ;
 # use det.pos (avoid prpers dummy)
 REMOVE (prn det) ;
