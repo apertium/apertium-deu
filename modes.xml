@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modes>
 
-  <mode name="deu-morph">
+  <mode name="deu-morph" install="yes">
     <pipeline>
       <program name="lt-proc -w -e">
         <file name="deu.automorf.bin"/>
@@ -9,7 +9,7 @@
     </pipeline>
   </mode>
 
-  <mode name="deu-gener">
+  <mode name="deu-gener" install="yes">
     <pipeline>
       <program name="lt-proc -g">
         <file name="deu.autogen.bin"/>
@@ -17,7 +17,7 @@
     </pipeline>
   </mode>
 
-  <mode name="deu-tagger">
+  <mode name="deu-tagger" install="yes">
     <pipeline>
       <program name="lt-proc -w -e">
         <file name="deu.automorf.bin"/>
@@ -28,7 +28,7 @@
     </pipeline>
   </mode>
 
-  <mode name="deu-disam">
+  <mode name="deu-disam" install="yes">
     <pipeline>
       <program name="lt-proc -w -e">
         <file name="deu.automorf.bin"/>
