@@ -5,6 +5,7 @@ SETS
 
 LIST BOS = (>>>) (sent) ;
 LIST EOS = (<<<) (sent) ;
+
 LIST Det = (det) ;
 LIST DetDef = (det def) ;
 LIST DetInd = (det ind) ;
@@ -136,6 +137,16 @@ REMOVE ("ein"i num) IF (NOT *-1 (num) BARRIER BOS) (NOT *1 (num) BARRIER EOS) ;
 
 
 # (by wth)
+# "nach London"
+SELECT (pr) IF (1 (np top)) ;
+# "Mauer" (n) (instead of (adj comp) "mau"/"mauer")
+SELECT N IF (-1 Det) (0 N) (0 Adj) (NOT 1 N) ;
+
+SELECT (adv itg) IF (-1 BOS) ;
+SELECT Pr IF (1 Det) ;
+SELECT Adj IF (-1 Vbser) (1 EOS) ;
+SELECT Adj IF (-2 Vbser) (1 EOS) ;
+
 REMOVE Cnj IF (-1 BOS) ;
 # use det.pos (avoid prpers dummy)
 REMOVE (prn det) ;
@@ -149,20 +160,13 @@ REMOVE (n cmp) ;
 REMOVE DetDef IF (1 Vbser) ;
 # "ist das" : (prn dem)
 REMOVE DetDef IF (-1 Vbser) ;
-# "nach London"
-SELECT (pr) IF (1 (np top)) ;
 # "ist sein Auto"
 REMOVE Vbser IF (-1 Vbser) ;
-# separable verb (get up = aufstehen/stehen auf)
-#SELECT (vblex sep fm) ;
 # kanadischer Weizen
 REMOVE (adj comp) IF (1 N);
-# "Mauer" (n) (instead of (adj comp) "mau"/"mauer")
-SELECT N IF (-1 Det) (0 N) (0 Adj) (NOT 1 N) ;
 
+REMOVE (n gen) IF (1 Verb);
 REMOVE (vblex ger gen) ;
-SELECT (adv itg) IF (-1 BOS) ;
-SELECT Pr IF (1 Det) ;
 
 
 
