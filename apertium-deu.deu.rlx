@@ -189,8 +189,7 @@ SELECT (x) ;
 
 #Das 1 Monat alte Kind kann laufen, was kaum zu  glauben ist 
 SELECT (inf) IF (-1 ("zu")) ;
-#Das 1 Monat alte Kind kann laufen, was kaum zu  glauben ist 
-SELECT (ito) IF (1 (inf)) ;
+
 
 
 
