@@ -26,6 +26,9 @@ LIST Prn = (prn) ;
 LIST Rel = (prn rel) ;
 LIST Ij = (ij) ;
 
+LIST Nom = (nom) ;
+LIST P3 = (p3) ;
+
 LIST Sg = (sg) ;
 LIST Pl = (pl) ;
 LIST Sp = (sp) ;
@@ -170,11 +173,41 @@ REMOVE (vblex ger gen) ;
 
 
 
+
+
 #SELECT (n lower) IF (-1 (n cmp)) ;
 #SELECT (n cmp) IF (1 (n lower)) ;
 
 SELECT (x) ;
 
+
+
+
+
+#
+
+
+#Das 1 Monat alte Kind kann laufen, was kaum zu  glauben ist 
+SELECT (inf) IF (-1 ("zu")) ;
+#Das 1 Monat alte Kind kann laufen, was kaum zu  glauben ist 
+SELECT (ito) IF (1 (inf)) ;
+
+
+
+
+#nur noch
+
+SELECT (adv) IF (0 ("noch"))(-1 ("nur")) ;
+#immer noch
+SELECT (adv) IF (0 ("noch"))(-1 ("immer")) ;
+#beim offiziellen Spiel
+SELECT (nt sg dat) IF (-1 (det sg dat)) (1 (nt sg dat));     # maybe more generel
+#bei offiziellen Turnieren
+SELECT (nt pl dat) IF (-1 Pr) (1 (nt pl dat));
+
+
+# Der Hund ist schön 
+#SELECT (sg nom) IF (1 (vblex p3 sg)) ;
 
 
 SECTION
