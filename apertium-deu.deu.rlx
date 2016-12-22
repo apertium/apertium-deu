@@ -168,45 +168,33 @@ REMOVE Vbser IF (-1 Vbser) ;
 # kanadischer Weizen
 REMOVE (adj comp) IF (1 N);
 
-REMOVE (n gen) IF (1 Verb);
+REMOVE (n gen) IF (1C Verb);
 REMOVE (vblex ger gen) ;
 
-
-
+#REMOVE (prn pl) IF (1 Verb) (NOT 1 Verb + Pl) ;
+REMOVE (prn pl) IF (-1 Verb) (NOT -1 Verb + Pl) ;
 
 
 #SELECT (n lower) IF (-1 (n cmp)) ;
 #SELECT (n cmp) IF (1 (n lower)) ;
 
-SELECT (x) ;
 
 
-
-
-
-#
-
-
-#Das 1 Monat alte Kind kann laufen, was kaum zu  glauben ist 
+# (by nuboro)
+# "Das 1 Monat alte Kind kann laufen, was kaum zu glauben ist."
 SELECT (inf) IF (-1 ("zu")) ;
-
-
-
-
-
-#nur noch
-
+# "nur noch"
 SELECT (adv) IF (0 ("noch"))(-1 ("nur")) ;
-#immer noch
+# "immer noch"
 SELECT (adv) IF (0 ("noch"))(-1 ("immer")) ;
-#beim offiziellen Spiel
-SELECT (nt sg dat) IF (-1 (det sg dat)) (1 (nt sg dat));     # maybe more generel
-#bei offiziellen Turnieren
-SELECT (nt pl dat) IF (-1 Pr) (1 (nt pl dat));
+# "beim offiziellen Spiel"
+SELECT (nt sg dat) IF (-1 (det sg dat)) (1 (nt sg dat)) ;
+# "bei offiziellen Turnieren"
+SELECT (nt pl dat) IF (-1 Pr) (1 (nt pl dat)) ;
 
 
-# Der Hund ist schön 
-#SELECT (sg nom) IF (1 (vblex p3 sg)) ;
+
+SELECT (x) ;
 
 
 SECTION
