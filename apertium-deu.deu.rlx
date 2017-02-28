@@ -45,7 +45,6 @@ SET CASE = (nom) | (gen) | (dat) | (acc) ;
 SET Verb = (vblex) | (vbmod) | (vaux) | (vbser) | (vbhaver) | (vbdo) ;
 SET Cnj = (cnjcoo) | (cnjsub) | (cnjadv) ;
 
-
 SECTION
 
 
@@ -57,7 +56,6 @@ REMOVE (n lower) ;
 
 # remove verbs in upper case (wth)
 REMOVE (vblex) IF (0 ("<\\p{Lu}.*>"r)) (NOT -1 BOS) ;
-
 
 REMOVE Rel IF (NOT -1 (cm)) ;
 
@@ -104,9 +102,13 @@ REMOVE N + $$GENDER + Sg + $$CASE IF (0C N) (-2 Pr) (NOT -2 Pr + $$CASE) (-1 Det
 REMOVE N + $$GENDER + Pl + $$CASE IF (0C N) (-2 Pr) (NOT -2 Pr + $$CASE) (-1 Det) (NOT -1 Det + Mfn + Pl + $$CASE) ;
 
 REMOVE Adj + $$GENDER + Sg + $$CASE IF (NOT 0 Verb) (1 N) (NOT 1 N + $$GENDER + Sg + $$CASE) ;
-REMOVE Adj + Mf + Pl + $$CASE IF (NOT 0 Verb) (1 N) (NOT 1 N + $$GENDER + Pl + $$CASE) ;
 REMOVE N + $$GENDER + Sg + $$CASE IF (0C N) (-1 Adj) (NOT -1 Adj + $$GENDER + Sg + $$CASE) ;
-REMOVE N + $$GENDER + Pl + $$CASE IF (0C N) (-1 Adj) (NOT -1 Adj + Mf + Pl + $$CASE) ;
+
+REMOVE Adj + $$GENDER + Pl + $$CASE  IF (NOT 0 Verb) (1 N) (NOT 1 N + $$GENDER + Pl + $$CASE) ;
+REMOVE N   + $$GENDER + Pl + $$CASE  IF (0C N) (-1 Adj) (NOT -1 Adj + $$GENDER + Pl + $$CASE) ;
+
+REMOVE Adj + Mf       + Pl + $$CASE IF (NOT 0 Verb) (1 N) (NOT 1 N + $$GENDER + Pl + $$CASE) ;
+REMOVE N   + $$GENDER + Pl + $$CASE IF (0C N) (-1 Adj) (NOT -1 Adj + Mf + Pl + $$CASE) ;
 
 REMOVE Pr + $$CASE IF (1 N) (NOT 1 N + $$CASE) ;
 REMOVE N + $$CASE IF (-1 Pr) (NOT -1 Pr + $$CASE) ;
@@ -177,6 +179,10 @@ REMOVE (prn pl) IF (-1 Verb) (NOT -1 Verb + Pl) ;
 # ex: @viel Glück
 REMOVE ("viel" adv) IF (1 N) ;
 REMOVE (adj sint pred) IF (1 N) ;
+
+# suppress adverbs that are also preps in front of a noun giving preference to prepositional tag
+# ex: Erträge @aus Kreditprodukten
+REMOVE (adv) IF (-1 N) (0 Pr) (1 N);
 
 #SELECT (n lower) IF (-1 (n cmp)) ;
 #SELECT (n cmp) IF (1 (n lower)) ;
