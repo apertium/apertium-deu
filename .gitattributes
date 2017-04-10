@@ -34,6 +34,9 @@ texts/samurai1.ana.cg -text
 texts/samurai1.dis.nuboro.cg -text
 texts/samurai1.raw.txt -text
 texts/story.deu.text -text
+texts/tagger_1.tag -text svneol=unset#application/octet-stream
+texts/tagger_2.tag -text
+texts/tagger_3.tag -text svneol=unset#application/octet-stream
 texts/tennis1.ana.cg -text
 texts/tennis1.dis.nuboro.cg -text
 texts/tennis1.raw.txt -text
