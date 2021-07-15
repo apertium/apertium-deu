@@ -1,0 +1,6 @@
+# from https://wiki.apertium.org/wiki/German_and_Esperanto/Pending_tests
+Ich bin dem Mensch.
+Sie sind der Menschen.
+Das ist der Mann, der schreibt.
+arbeiten
+Adam aß ein Mittag.
