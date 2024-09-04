@@ -40,7 +40,7 @@ LIST Mfn = (mfn) ;
 LIST Un = (un) ;
 LIST Imp = (imp) ;
 
-SET GENDER = M | F | Nt ;
+SET GENDER = M | F | Nt | Un ;
 SET NUMBER = Sg | Pl ;
 SET CASE = (nom) | (gen) | (dat) | (acc) ;
 SET Verb = (vblex) | (vbmod) | (vaux) | (vbser) | (vbhaver) | (vbdo) ;
